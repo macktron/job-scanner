@@ -1,23 +1,25 @@
 import { truncate } from "./utils.js";
 
-function renderJobLine(job) {
-  const bits = [
-    `**${job.company}**`,
-    job.title,
-    job.location ? `(${job.location})` : null,
-    `score ${job.relevance_score}`
-  ].filter(Boolean);
-
-  const reason = job.why_relevant ? ` - ${truncate(job.why_relevant, 120)}` : "";
-  return `• ${bits.join(" ")}${reason}\n${job.apply_url}`;
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
-function chunkMessages(lines, limit = 1800) {
+function renderJobLine(job) {
+  const bits = [
+    `**${job.title}**`,
+    job.company,
+    job.location ? `(${truncate(job.location, 28)})` : null
+  ].filter(Boolean);
+
+  return `• ${bits.join(" - ")}\n${job.apply_url}`;
+}
+
+function chunkMessages(lines, limit = 1850) {
   const chunks = [];
   let current = "";
 
   for (const line of lines) {
-    const candidate = current ? `${current}\n\n${line}` : line;
+    const candidate = current ? `${current}\n${line}` : line;
     if (candidate.length > limit) {
       if (current) {
         chunks.push(current);
@@ -53,21 +55,32 @@ export async function sendDiscordNotification({
     throw new Error("Missing DISCORD_WEBHOOK_URL.");
   }
 
-  const header = `New Stockholm finance jobs found on ${timestamp.slice(0, 10)}: ${jobs.length}`;
+  const header = `New Stockholm junior finance jobs (${jobs.length}) - ${timestamp.slice(0, 10)}`;
   const lines = [header, ...jobs.map((job) => renderJobLine(job))];
   const chunks = chunkMessages(lines);
 
   for (const content of chunks) {
-    const response = await fetch(webhookUrl, {
-      method: "POST",
-      headers: {
-        "content-type": "application/json"
-      },
-      body: JSON.stringify({ content }),
-      signal: AbortSignal.timeout(20_000)
-    });
+    for (let attempt = 1; attempt <= 3; attempt += 1) {
+      const response = await fetch(webhookUrl, {
+        method: "POST",
+        headers: {
+          "content-type": "application/json"
+        },
+        body: JSON.stringify({ content }),
+        signal: AbortSignal.timeout(20_000)
+      });
 
-    if (!response.ok) {
+      if (response.ok) {
+        break;
+      }
+
+      if (response.status === 429 && attempt < 3) {
+        const retryAfterHeader = response.headers.get("retry-after");
+        const retryAfterSeconds = Number(retryAfterHeader || 1);
+        await sleep(Math.max(retryAfterSeconds, 1) * 1000);
+        continue;
+      }
+
       const body = await response.text();
       throw new Error(`Discord webhook failed: ${response.status} ${body}`);
     }

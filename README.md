@@ -8,7 +8,8 @@ Daglig GitHub Actions-baserad scanner som letar efter nya finansjobb i Stockholm
 - För varje bolag hämtas officiella karriärsidor som kontext.
 - För prioriterade bolag används direkta adapters mot deras officiella karriärsidor först. OpenAI används bara som fallback när direkt discovery inte räcker.
 - Utöver den fasta bolagslistan görs också en generell marknadssökning efter nya Stockholm-/finansroller hos andra relevanta arbetsgivare.
-- Relevansen viktas mot en personlig profil med extra tyngd på quant, trading, risk, treasury och data science.
+- Relevansen viktas mot en personlig profil med extra tyngd på quant, trading, risk, treasury och data science, och tröskeln är satt för att hellre få med lite för mycket än missa en relevant roll.
+- Endast juniorvänliga roller tas med som standard. Roller som tydligt är seniora eller kräver mer än 1 års erfarenhet filtreras bort.
 - Resultatet dedupliceras mot `data/jobs/seen.json` så att redan hittade jobb inte notifieras igen.
 - Aktiva jobb hålls i `data/jobs/active.json` och en körningssnapshot sparas i `data/runs/`.
 - Nya jobb skickas till Discord via webhook.
@@ -32,9 +33,14 @@ Lägg in dessa i GitHub-repot innan workflowet körs:
 Valfria GitHub Actions variables:
 
 - `OPENAI_MODEL`: standard är `gpt-5-mini`
-- `MIN_RELEVANCE_SCORE`: standard är `65`
+- `OPENAI_MAX_RETRIES`: standard är `3`
+- `OPENAI_RETRY_BASE_MS`: standard är `1500`
+- `MIN_RELEVANCE_SCORE`: standard är `55`
 - `MAX_JOBS_PER_COMPANY`: standard är `8`
 - `MISSING_RUNS_THRESHOLD`: standard är `3`
+- `JUNIOR_ONLY`: standard är `true`
+- `MAX_EXPERIENCE_YEARS`: standard är `1`
+- `RECENTLY_EXPIRED_GRACE_DAYS`: standard är `14`
 - `RUN_RETENTION_DAYS`: standard är `45`
 - `RUN_RETENTION_COUNT`: standard är `60`
 - `ENABLE_OPENAI_FALLBACK`: standard är `true`

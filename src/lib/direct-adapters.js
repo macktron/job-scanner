@@ -238,6 +238,7 @@ function buildJobFromJsonLd(jobPosting, url, company, fallback = {}) {
     ),
     team,
     posted_at: jobPosting.datePosted ? String(jobPosting.datePosted).slice(0, 10) : fallback.posted_at || null,
+    expires_at: jobPosting.validThrough ? String(jobPosting.validThrough).slice(0, 10) : fallback.expires_at || null,
     summary,
     area_tags: uniqueBy(
       [
@@ -275,6 +276,7 @@ function buildFallbackJob({ html, url, company, team, location, posted_at, locat
     location_type: location_type || inferLocationType(fullText),
     team: normalizeWhitespace(team),
     posted_at: posted_at || null,
+    expires_at: null,
     summary,
     area_tags: inferAreaTagsFromText(fullText),
     stockholm_match: inferStockholmMatch(location, fullText, company),

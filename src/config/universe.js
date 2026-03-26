@@ -37,8 +37,5 @@ export const AREA_KEYWORDS = {
 export const STOCKHOLM_KEYWORDS = [
   "stockholm",
   "solna",
-  "sundbyberg",
-  "sweden",
-  "sverige",
-  "nordics"
+  "sundbyberg"
 ];

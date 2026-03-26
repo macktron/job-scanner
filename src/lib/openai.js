@@ -8,6 +8,21 @@ import {
 
 const DEFAULT_MODEL = process.env.OPENAI_MODEL || "gpt-5-mini";
 const OPENAI_BASE_URL = process.env.OPENAI_BASE_URL || "https://api.openai.com/v1";
+const OPENAI_MAX_RETRIES = Number(process.env.OPENAI_MAX_RETRIES || 3);
+const OPENAI_RETRY_BASE_MS = Number(process.env.OPENAI_RETRY_BASE_MS || 1500);
+
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+function isRetryableStatus(status) {
+  return status === 408 || status === 409 || status === 429 || status >= 500;
+}
+
+function buildOpenAIError({ scope, status, body, requestId, attempt }) {
+  const suffix = requestId ? ` request_id=${requestId}` : "";
+  return new Error(`${scope} failed on attempt ${attempt}: ${status} ${body}${suffix}`);
+}
 
 function buildPrompt({ company, snapshots, maxJobsPerCompany }) {
   const snapshotText = snapshots
@@ -31,17 +46,21 @@ function buildPrompt({ company, snapshots, maxJobsPerCompany }) {
     `Official career URLs: ${company.careerUrls.join(", ")}`,
     `Location signals: ${company.stockholmSignals.join(", ")}`,
     `Search hints: ${company.searchHints.join(", ")}`,
+    `Suggested search queries: ${(company.searchSeedQueries || []).join(" | ") || "none provided"}`,
     `Target area tags: ${AREA_UNIVERSE.join(", ")}`,
     "",
     "Task:",
     "1. Use the official career URLs and page snapshots first.",
     "2. Use web search if needed to confirm or discover currently active openings.",
-    "3. Include only jobs that appear active right now.",
-    "4. Focus on Stockholm, hybrid Stockholm, or Sweden/Nordics roles that are clearly anchored in Stockholm.",
+    "3. Focus only on Stockholm-area roles: Stockholm, Solna, Sundbyberg, or clearly Stockholm-based hybrid roles.",
+    "4. Do not include generic Sweden, Nordics, or multi-location roles unless Stockholm is explicitly listed.",
     "5. Focus on finance roles relevant to quant, trading, markets, treasury, research, risk, analytics or data science inside finance firms.",
     "6. Prefer official company or ATS job URLs.",
-    "7. Exclude generic software roles with no clear finance connection.",
-    "8. Return at most the requested number of jobs.",
+    "7. Only include junior-friendly roles. Exclude roles that are senior, lead, principal, head, manager, director, staff, expert, or that clearly require more than 1 year of prior experience.",
+    "8. If a role explicitly asks for 2 or more years of experience, exclude it.",
+    "9. For the target companies, prefer recall over precision for junior Stockholm finance roles: if a role looks plausibly connected to quant, risk, treasury, markets, trading, research, analytics or data science, include it rather than omit it.",
+    "10. If an application deadline is visible, include it in expires_at.",
+    "11. Return at most the requested number of jobs.",
     "",
     `Maximum jobs to return: ${maxJobsPerCompany}`,
     "",
@@ -58,6 +77,7 @@ function buildPrompt({ company, snapshots, maxJobsPerCompany }) {
             location_type: "onsite|hybrid|remote|unknown",
             team: "string",
             posted_at: "YYYY-MM-DD or null",
+            expires_at: "YYYY-MM-DD or null",
             summary: "string",
             area_tags: ["one_or_more_from_area_universe"],
             stockholm_match: true,
@@ -111,6 +131,7 @@ function normalizeJob(job, company) {
     location_type: normalizeWhitespace(job.location_type || "unknown").toLowerCase(),
     team: normalizeWhitespace(job.team || ""),
     posted_at: job.posted_at || null,
+    expires_at: job.expires_at || null,
     summary: truncate(normalizeWhitespace(job.summary || ""), 400),
     area_tags: Array.isArray(job.area_tags)
       ? job.area_tags.filter((tag) => AREA_UNIVERSE.includes(tag))
@@ -134,6 +155,7 @@ function normalizeExternalJob(job) {
     location_type: normalizeWhitespace(job.location_type || "unknown").toLowerCase(),
     team: normalizeWhitespace(job.team || ""),
     posted_at: job.posted_at || null,
+    expires_at: job.expires_at || null,
     summary: truncate(normalizeWhitespace(job.summary || ""), 400),
     area_tags: Array.isArray(job.area_tags)
       ? job.area_tags.filter((tag) => AREA_UNIVERSE.includes(tag))
@@ -147,6 +169,67 @@ function normalizeExternalJob(job) {
   };
 }
 
+async function callResponsesApi({ scope, input, tools, model = DEFAULT_MODEL }) {
+  let lastError;
+
+  for (let attempt = 1; attempt <= OPENAI_MAX_RETRIES; attempt += 1) {
+    const payload = {
+      model,
+      input,
+      max_output_tokens: 4_000
+    };
+
+    if (tools?.length) {
+      payload.tools = tools;
+    }
+
+    try {
+      const response = await fetch(`${OPENAI_BASE_URL}/responses`, {
+        method: "POST",
+        headers: {
+          "content-type": "application/json",
+          authorization: `Bearer ${process.env.OPENAI_API_KEY}`
+        },
+        body: JSON.stringify(payload),
+        signal: AbortSignal.timeout(90_000)
+      });
+
+      const raw = await response.text();
+      const requestId = response.headers.get("x-request-id");
+
+      if (!response.ok) {
+        const error = buildOpenAIError({
+          scope,
+          status: response.status,
+          body: raw,
+          requestId,
+          attempt
+        });
+
+        if (!isRetryableStatus(response.status) || attempt === OPENAI_MAX_RETRIES) {
+          throw error;
+        }
+
+        lastError = error;
+        const delay = OPENAI_RETRY_BASE_MS * 2 ** (attempt - 1);
+        await sleep(delay);
+        continue;
+      }
+
+      return JSON.parse(raw);
+    } catch (error) {
+      lastError = error instanceof Error ? error : new Error(String(error));
+      if (attempt === OPENAI_MAX_RETRIES) {
+        throw lastError;
+      }
+      const delay = OPENAI_RETRY_BASE_MS * 2 ** (attempt - 1);
+      await sleep(delay);
+    }
+  }
+
+  throw lastError || new Error(`${scope} failed after retries.`);
+}
+
 export async function discoverJobsForCompany({
   company,
   snapshots,
@@ -157,38 +240,46 @@ export async function discoverJobsForCompany({
     throw new Error("Missing OPENAI_API_KEY.");
   }
 
-  const payload = {
-    model,
-    tools: [{ type: "web_search" }],
-    input: buildPrompt({ company, snapshots, maxJobsPerCompany }),
-    max_output_tokens: 4_000
-  };
+  const input = buildPrompt({ company, snapshots, maxJobsPerCompany });
 
-  const response = await fetch(`${OPENAI_BASE_URL}/responses`, {
-    method: "POST",
-    headers: {
-      "content-type": "application/json",
-      authorization: `Bearer ${process.env.OPENAI_API_KEY}`
-    },
-    body: JSON.stringify(payload),
-    signal: AbortSignal.timeout(90_000)
-  });
+  try {
+    const json = await callResponsesApi({
+      scope: `OpenAI request for ${company.name}`,
+      input,
+      tools: [{ type: "web_search" }],
+      model
+    });
+    const text = extractResponseText(json);
+    const parsed = JSON.parse(extractJsonText(text));
+    const jobs = Array.isArray(parsed) ? parsed : parsed.jobs;
 
-  const raw = await response.text();
-  if (!response.ok) {
-    throw new Error(`OpenAI request failed for ${company.name}: ${response.status} ${raw}`);
+    if (!Array.isArray(jobs)) {
+      throw new Error(`OpenAI response for ${company.name} did not contain a jobs array.`);
+    }
+
+    return jobs.map((job) => normalizeJob(job, company));
+  } catch (primaryError) {
+    const fallbackJson = await callResponsesApi({
+      scope: `OpenAI fallback request for ${company.name}`,
+      input: [
+        buildPrompt({ company, snapshots, maxJobsPerCompany }),
+        "",
+        "Fallback mode: do not use web search. Extract likely current matching jobs only from the provided official page snapshots. If the snapshots do not show enough evidence, return {\"jobs\":[]}."
+      ].join("\n"),
+      tools: [],
+      model
+    });
+
+    const text = extractResponseText(fallbackJson);
+    const parsed = JSON.parse(extractJsonText(text));
+    const jobs = Array.isArray(parsed) ? parsed : parsed.jobs;
+
+    if (!Array.isArray(jobs)) {
+      throw primaryError;
+    }
+
+    return jobs.map((job) => normalizeJob(job, company));
   }
-
-  const json = JSON.parse(raw);
-  const text = extractResponseText(json);
-  const parsed = JSON.parse(extractJsonText(text));
-  const jobs = Array.isArray(parsed) ? parsed : parsed.jobs;
-
-  if (!Array.isArray(jobs)) {
-    throw new Error(`OpenAI response for ${company.name} did not contain a jobs array.`);
-  }
-
-  return jobs.map((job) => normalizeJob(job, company));
 }
 
 export async function discoverExternalJobs({
@@ -200,19 +291,20 @@ export async function discoverExternalJobs({
     throw new Error("Missing OPENAI_API_KEY.");
   }
 
-  const payload = {
-    model,
-    tools: [{ type: "web_search" }],
-    max_output_tokens: 4_000,
+  const json = await callResponsesApi({
+    scope: "OpenAI external discovery",
     input: [
       "You are helping a daily Stockholm finance job scanner.",
       "Find active finance jobs in Stockholm outside the already-tracked company list.",
       "Focus on banks, brokers, exchanges, hedge funds, market infrastructure, asset managers and similar financial firms.",
       "Focus on roles related to quant, trading, markets, treasury, research, risk, analytics, model validation and data science.",
+      "Focus only on Stockholm-area roles: Stockholm, Solna, Sundbyberg, or clearly Stockholm-based hybrid roles.",
+      "Only include junior-friendly roles. Exclude roles that are senior, lead, principal, head, manager, director, staff, expert, or that clearly require more than 1 year of prior experience.",
+      "If a role explicitly asks for 2 or more years of experience, exclude it.",
       `Exclude these companies because they are already tracked directly: ${excludedCompanyNames.join(", ")}`,
       `Return at most ${maxJobs} jobs.`,
       "Use official company or ATS job URLs whenever possible.",
-      "Only include jobs that appear active right now.",
+      "Prefer recall over precision: if a Stockholm finance role looks plausibly relevant, include it rather than omit it.",
       "Return JSON only with this shape:",
       JSON.stringify(
         {
@@ -226,6 +318,7 @@ export async function discoverExternalJobs({
               location_type: "onsite|hybrid|remote|unknown",
               team: "string",
               posted_at: "YYYY-MM-DD or null",
+              expires_at: "YYYY-MM-DD or null",
               summary: "string",
               area_tags: ["one_or_more_from_area_universe"],
               stockholm_match: true,
@@ -241,25 +334,11 @@ export async function discoverExternalJobs({
       ),
       "If none are found, return {\"jobs\":[]}.",
       `Allowed area tags: ${AREA_UNIVERSE.join(", ")}`
-    ].join("\n")
-  };
-
-  const response = await fetch(`${OPENAI_BASE_URL}/responses`, {
-    method: "POST",
-    headers: {
-      "content-type": "application/json",
-      authorization: `Bearer ${process.env.OPENAI_API_KEY}`
-    },
-    body: JSON.stringify(payload),
-    signal: AbortSignal.timeout(90_000)
+    ].join("\n"),
+    tools: [{ type: "web_search" }],
+    model
   });
 
-  const raw = await response.text();
-  if (!response.ok) {
-    throw new Error(`OpenAI external discovery failed: ${response.status} ${raw}`);
-  }
-
-  const json = JSON.parse(raw);
   const text = extractResponseText(json);
   const parsed = JSON.parse(extractJsonText(text));
   const jobs = Array.isArray(parsed) ? parsed : parsed.jobs;

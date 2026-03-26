@@ -50,10 +50,15 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-5-mini' }}
+          OPENAI_MAX_RETRIES: ${{ vars.OPENAI_MAX_RETRIES || '3' }}
+          OPENAI_RETRY_BASE_MS: ${{ vars.OPENAI_RETRY_BASE_MS || '1500' }}
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          MIN_RELEVANCE_SCORE: ${{ vars.MIN_RELEVANCE_SCORE || '65' }}
+          MIN_RELEVANCE_SCORE: ${{ vars.MIN_RELEVANCE_SCORE || '55' }}
           MAX_JOBS_PER_COMPANY: ${{ vars.MAX_JOBS_PER_COMPANY || '8' }}
           MISSING_RUNS_THRESHOLD: ${{ vars.MISSING_RUNS_THRESHOLD || '3' }}
+          JUNIOR_ONLY: ${{ vars.JUNIOR_ONLY || 'true' }}
+          MAX_EXPERIENCE_YEARS: ${{ vars.MAX_EXPERIENCE_YEARS || '1' }}
+          RECENTLY_EXPIRED_GRACE_DAYS: ${{ vars.RECENTLY_EXPIRED_GRACE_DAYS || '14' }}
           RUN_RETENTION_DAYS: ${{ vars.RUN_RETENTION_DAYS || '45' }}
           RUN_RETENTION_COUNT: ${{ vars.RUN_RETENTION_COUNT || '60' }}
           ENABLE_OPENAI_FALLBACK: ${{ vars.ENABLE_OPENAI_FALLBACK || 'true' }}

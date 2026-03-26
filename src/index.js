@@ -19,7 +19,7 @@ import {
   uniqueBy
 } from "./lib/utils.js";
 
-const MIN_RELEVANCE_SCORE = Number(process.env.MIN_RELEVANCE_SCORE || 65);
+const MIN_RELEVANCE_SCORE = Number(process.env.MIN_RELEVANCE_SCORE || 55);
 const MAX_JOBS_PER_COMPANY = Number(process.env.MAX_JOBS_PER_COMPANY || 8);
 const MISSING_RUNS_THRESHOLD = Number(process.env.MISSING_RUNS_THRESHOLD || 3);
 const RUN_RETENTION_DAYS = Number(process.env.RUN_RETENTION_DAYS || 45);

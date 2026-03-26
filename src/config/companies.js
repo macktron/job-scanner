@@ -3,7 +3,6 @@ export const COMPANIES = [
     id: "seb",
     name: "SEB",
     priority: "high",
-    adapter: "seb",
     careerUrls: [
       "https://sebgroup.com/career/find-your-new-job"
     ],
@@ -12,7 +11,13 @@ export const COMPANIES = [
       "https://sebgroup.com/career/career-at-seb/vacant-positions"
     ],
     stockholmSignals: ["stockholm", "solna"],
-    searchHints: ["markets", "quant", "risk", "treasury", "data science"]
+    searchHints: ["markets", "quant", "risk", "treasury", "data science"],
+    searchSeedQueries: [
+      "site:sebgroup.com/career/find-your-new-job/our-vacant-positions SEB Stockholm treasury quantitative analyst",
+      "site:sebgroup.com/career/find-your-new-job/our-vacant-positions SEB Solna risk markets",
+      "site:sebgroup.com/career/find-your-new-job/our-vacant-positions SEB Stockholm quant",
+      "site:sebgroup.com/career/find-your-new-job/our-vacant-positions SEB Stockholm trading"
+    ]
   },
   {
     id: "nordnet",
@@ -66,7 +71,12 @@ export const COMPANIES = [
       "https://careers.nordea.com/search/?createNewAlert=false&q=&locationsearch=Stockholm"
     ],
     stockholmSignals: ["stockholm"],
-    searchHints: ["quantitative analyst", "markets trading", "risk", "data science"]
+    searchHints: ["quantitative analyst", "markets trading", "risk", "data science"],
+    searchSeedQueries: [
+      "site:careers.nordea.com/job/ Stockholm quantitative risk analyst Nordea",
+      "site:careers.nordea.com/job/ Stockholm markets trading Nordea",
+      "site:careers.nordea.com/job/ Stockholm data science Nordea"
+    ]
   },
   {
     id: "swedbank",
