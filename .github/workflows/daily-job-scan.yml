@@ -1,0 +1,76 @@
+name: Daily Job Scan
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Run without Discord notifications"
+        required: false
+        default: "false"
+  schedule:
+    - cron: "0 16 * * *"
+    - cron: "0 17 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-job-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Decide whether this scheduled run should continue
+        id: schedule_gate
+        env:
+          GITHUB_EVENT_NAME: ${{ github.event_name }}
+          SCHEDULE_TIMEZONE: Europe/Stockholm
+          SCHEDULE_TARGET_HOUR: "18"
+        run: |
+          output=$(node ./src/should-run-now.js)
+          echo "$output"
+          should_run=$(echo "$output" | awk -F= '/^should_run=/{print $2}')
+          echo "should_run=$should_run" >> "$GITHUB_OUTPUT"
+
+      - name: Run scanner
+        if: ${{ github.event_name != 'schedule' || steps.schedule_gate.outputs.should_run == 'true' }}
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-5-mini' }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          MIN_RELEVANCE_SCORE: ${{ vars.MIN_RELEVANCE_SCORE || '65' }}
+          MAX_JOBS_PER_COMPANY: ${{ vars.MAX_JOBS_PER_COMPANY || '8' }}
+          MISSING_RUNS_THRESHOLD: ${{ vars.MISSING_RUNS_THRESHOLD || '3' }}
+          RUN_RETENTION_DAYS: ${{ vars.RUN_RETENTION_DAYS || '45' }}
+          RUN_RETENTION_COUNT: ${{ vars.RUN_RETENTION_COUNT || '60' }}
+          ENABLE_OPENAI_FALLBACK: ${{ vars.ENABLE_OPENAI_FALLBACK || 'true' }}
+          ENABLE_GLOBAL_DISCOVERY: ${{ vars.ENABLE_GLOBAL_DISCOVERY || 'true' }}
+          MAX_EXTERNAL_JOBS: ${{ vars.MAX_EXTERNAL_JOBS || '12' }}
+          DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run || 'false' }}
+        run: node ./src/index.js
+
+      - name: Commit updated job state
+        if: ${{ github.event_name != 'schedule' || steps.schedule_gate.outputs.should_run == 'true' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/jobs/*.json data/runs/*.json
+          if git diff --staged --quiet; then
+            echo "No state changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: update job scan state"
+          git push

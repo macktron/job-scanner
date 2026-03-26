@@ -1,0 +1,62 @@
+export const PERSONAL_PROFILE = {
+  areaWeights: {
+    quant: 18,
+    quant_developer: 16,
+    trading: 17,
+    sales_trading: 15,
+    market_risk: 15,
+    risk: 13,
+    treasury: 13,
+    alm_liquidity: 11,
+    data_science: 12,
+    analytics: 8,
+    research: 10,
+    model_validation: 11,
+    pricing: 12,
+    portfolio_analytics: 9,
+    market_surveillance: 8
+  },
+  companyWeights: {
+    seb: 10,
+    nordea: 10,
+    nordnet: 9,
+    avanza: 9,
+    handelsbanken: 8,
+    swedbank: 7,
+    dnb_carnegie: 7,
+    nasdaq_stockholm: 7,
+    pareto_securities: 6,
+    abg_sundal_collier: 6,
+    brummer_partners: 7,
+    lynx_asset_management: 9
+  },
+  keywordWeights: {
+    "quantitative analyst": 10,
+    "quant analyst": 10,
+    "quantitative risk": 9,
+    "risk model": 9,
+    "model developer": 8,
+    "market risk": 10,
+    "counterparty credit risk": 10,
+    "treasury": 9,
+    "liquidity": 8,
+    "trading": 10,
+    "markets trading": 10,
+    "structured products": 8,
+    "derivatives": 8,
+    "securities finance": 8,
+    "research": 7,
+    "data scientist": 9,
+    "machine learning": 8,
+    "pricing": 8,
+    "valuation": 7
+  },
+  softNegativeKeywordWeights: {
+    "frontend developer": -8,
+    "fullstack software engineer": -6,
+    "backend software engineer": -6,
+    "talent acquisition": -12,
+    "customer service": -10,
+    "support engineer": -6
+  }
+};

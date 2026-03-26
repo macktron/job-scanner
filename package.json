@@ -1,0 +1,13 @@
+{
+  "name": "job-scanner",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "scan": "node ./src/index.js",
+    "scan:dry": "DRY_RUN=true node ./src/index.js"
+  }
+}
