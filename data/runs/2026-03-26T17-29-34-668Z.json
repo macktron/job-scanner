@@ -1,6 +1,10 @@
 {
-  "updated_at": "2026-03-26T17:29:34.668Z",
-  "jobs": [
+  "timestamp": "2026-03-26T17:29:34.668Z",
+  "dry_run": false,
+  "min_relevance_score": 55,
+  "missing_runs_threshold": 3,
+  "company_count": 12,
+  "discovered_jobs": [
     {
       "title": "Quantitative Risk Model Developer (Credit Risk)",
       "company": "Nordea",
@@ -31,51 +35,7 @@
         "profile_keyword_bonus": 26,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-03-26T17:29:34.668Z",
-      "notified_at": "2026-03-26T17:11:28.632Z"
-    },
-    {
-      "company": "Nasdaq Stockholm",
-      "company_id": "nasdaq_stockholm",
-      "title": "Software Developing Intern - Summer 2026",
-      "apply_url": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Nasdaq_Careers",
-      "source_url": "https://se.linkedin.com/jobs/view/software-developing-intern-summer-2026-at-nasdaq-4334297864",
-      "location": "Stockholm, Sweden (on-site)",
-      "location_type": "onsite",
-      "team": "European Market Services / Internship Program",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "10-week summer software development internship within Nasdaq's European Market Services teams. On-site in central Stockholm. Work on distributed systems used in market services; requires SQL experience and strong programming interest (Java preferred).",
-      "area_tags": [
-        "quant_developer",
-        "data_science",
-        "analytics",
-        "trading"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 99,
-      "why_relevant": "Junior-friendly (intern) role inside Nasdaq's European Market Services — hands-on software work on market systems relevant to quant/markets/data teams.",
-      "confidence": 0.6,
-      "discovery_method": "openai:web_search",
-      "discovered_at": "2026-03-26T17:11:28.632Z",
-      "id": "nasdaq_stockholm_480948329734a33a081093b5",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 7,
-        "area_preference_bonus": 53,
-        "profile_keyword_bonus": 10,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 1,
-      "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-03-26T17:11:28.632Z",
-      "notified_at": "2026-03-26T17:11:28.632Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Cash Management Adviser, Cash Management Sweden",
@@ -108,13 +68,328 @@
         "profile_keyword_bonus": 8,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-03-26T17:29:34.668Z",
-      "notified_at": "2026-03-26T17:11:28.632Z"
+      "matches_minimum_score": true
     },
+    {
+      "company": "Pareto Securities",
+      "company_id": "pareto_securities",
+      "title": "Open Application (Sweden) — Stockholm",
+      "apply_url": "https://paretosecurities.teamtailor.com/jobs/3713025-open-application-sweden",
+      "source_url": "https://paretosecurities.teamtailor.com/jobs/3713025-open-application-sweden",
+      "location": "Stockholm, Sweden",
+      "location_type": "onsite",
+      "team": "Investment Banking / General Careers (open application)",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Open application for junior candidates interested in joining Pareto Securities’ Sweden team (Stockholm). Suitable for students and recent graduates with strong analytical skills and interest in capital markets; used as a route into roles across investment banking, research and sales.",
+      "area_tags": [
+        "research",
+        "sales_trading",
+        "analytics"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 85,
+      "why_relevant": "Official Stockholm-targeted open application on Pareto's ATS suitable for junior candidates and internships in research/sales/trading.",
+      "confidence": 0.8,
+      "discovery_method": "openai:web_search",
+      "discovered_at": "2026-03-26T17:29:34.668Z",
+      "id": "pareto_securities_7f092ab1ac9d6cb46db3ade8",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 6,
+        "area_preference_bonus": 33,
+        "profile_keyword_bonus": 17,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true
+    },
+    {
+      "company": "DNB Carnegie",
+      "company_id": "dnb_carnegie",
+      "title": "Treasury Operations söker studentmedarbetare",
+      "apply_url": "https://jobs.carnegie.se/talentcommunity/apply/1378016733/?locale=en_GB",
+      "source_url": "https://jobs.carnegie.se/job/Stockholm-Treasury-Operations-s%C3%B6ker-studentmedarbetare-103-38/1378016733/",
+      "location": "Stockholm, SE",
+      "location_type": "onsite",
+      "team": "Treasury Operations",
+      "posted_at": null,
+      "expires_at": "2026-04-15",
+      "summary": "Part-time / student position in Treasury Operations supporting payments, stock lending, FX handling and reporting. Requires a student with at least two years remaining in studies and fluency in Swedish and English. Start as soon as possible; selection is ongoing.",
+      "area_tags": [
+        "treasury",
+        "alm_liquidity"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 81,
+      "why_relevant": "Direct treasury role (student/entry-level) in Stockholm covering FX, payments, reporting — matches treasury/ALM target areas.",
+      "confidence": 0.9,
+      "discovery_method": "openai:web_search",
+      "discovered_at": "2026-03-26T17:29:34.668Z",
+      "id": "dnb_carnegie_6e20ae4bf355e6c2f792eb74",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 7,
+        "area_preference_bonus": 24,
+        "profile_keyword_bonus": 17,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true
+    },
+    {
+      "title": "Data Scientist / AI Engineer",
+      "company": "Nordea",
+      "company_id": "nordea",
+      "apply_url": "https://careers.nordea.com/job/Helsinki-Data-Scientist-AI-Engineer-00500/1374539833/",
+      "source_url": "https://careers.nordea.com/job/Helsinki-Data-Scientist-AI-Engineer-00500/1374539833/",
+      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Data Scientist / AI Engineer Helsinki, FI, 00500 Stockholm, SE, 111 46 #job-location.job-location-inline { display: inline; }",
+      "location_type": "unknown",
+      "team": "",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Helsinki Data Scientist / AI Engineer, 00500",
+      "area_tags": [
+        "market_risk",
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 79,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:nordea",
+      "discovered_at": "2026-03-26T17:29:34.668Z",
+      "id": "nordea_0cb200f7469df9b82c51a5eb",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 10,
+        "area_preference_bonus": 27,
+        "profile_keyword_bonus": 9,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true
+    },
+    {
+      "title": "Client Executive, Large Corporates & Institutions Sweden",
+      "company": "Nordea",
+      "company_id": "nordea",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-Client-Executive%2C-Large-Corporates-&amp;-Institutions-Sweden-111-46/1374493233/",
+      "source_url": "https://careers.nordea.com/job/Stockholm-Client-Executive%2C-Large-Corporates-&amp;-Institutions-Sweden-111-46/1374493233/",
+      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Client Executive, Large Corporates & Institutions Sweden Stockholm, SE, 111 46 Stockholm, SE, 111 46 Göteborg, SE, 411 04 #job-location.job-location-inline { display: inline; }",
+      "location_type": "unknown",
+      "team": "",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Stockholm Client Executive, Large Corporates & Institutions Sweden, 111 46",
+      "area_tags": [
+        "market_risk",
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 68,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:nordea",
+      "discovered_at": "2026-03-26T17:29:34.668Z",
+      "id": "nordea_88bc52ce494494ec0f2987bf",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 10,
+        "area_preference_bonus": 27,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true
+    },
+    {
+      "title": "Forward Deployed AI Scientist",
+      "company": "Nordea",
+      "company_id": "nordea",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-Forward-Deployed-AI-Scientist-111-46/1376991633/",
+      "source_url": "https://careers.nordea.com/job/Stockholm-Forward-Deployed-AI-Scientist-111-46/1376991633/",
+      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Forward Deployed AI Scientist Stockholm, SE, 111 46 Gdańsk, PL, 80-309 Warszawa, PL, 02-460 København S, DK, 2300 Helsinki, FI, 00500 Gdynia, PL, 81-537 #job-location.job-location-inline { display: inline; }",
+      "location_type": "unknown",
+      "team": "AI Delivery",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Stockholm Forward Deployed AI Scientist, 111 46",
+      "area_tags": [
+        "market_risk",
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 68,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:nordea",
+      "discovered_at": "2026-03-26T17:29:34.668Z",
+      "id": "nordea_5291170422172465c1fdf260",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 10,
+        "area_preference_bonus": 27,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true
+    },
+    {
+      "title": "Kontorschef Södertälje",
+      "company": "Nordea",
+      "company_id": "nordea",
+      "apply_url": "https://careers.nordea.com/job/S%C3%B6dert%C3%A4lje-Kontorschef-S%C3%B6dert%C3%A4lje-151-71/1375049333/",
+      "source_url": "https://careers.nordea.com/job/S%C3%B6dert%C3%A4lje-Kontorschef-S%C3%B6dert%C3%A4lje-151-71/1375049333/",
+      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Kontorschef Södertälje Södertälje, SE, 151 71 Stockholm, SE, 111 46 #job-location.job-location-inline { display: inline; }",
+      "location_type": "unknown",
+      "team": "",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Södertälje Kontorschef Södertälje, 151 71",
+      "area_tags": [
+        "market_risk",
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 68,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:nordea",
+      "discovered_at": "2026-03-26T17:29:34.668Z",
+      "id": "nordea_2fc4cb135adff11f702dace0",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 10,
+        "area_preference_bonus": 27,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true
+    },
+    {
+      "title": "AI Application & Model Owner",
+      "company": "Nordea",
+      "company_id": "nordea",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-AI-Application-&amp;-Model-Owner-111-46/1371995233/",
+      "source_url": "https://careers.nordea.com/job/Stockholm-AI-Application-&amp;-Model-Owner-111-46/1371995233/",
+      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » AI Application & Model Owner Stockholm, SE, 111 46 København S, DK, 2300 Gdynia, PL, 81-537 Helsinki, FI, 00500 Gdańsk, PL, 80-309 Warszawa, PL, 02-460 #job-location.job-location-inline { display: inline; }",
+      "location_type": "unknown",
+      "team": "AI Innovation",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Stockholm AI Application & Model Owner, 111 46",
+      "area_tags": [
+        "market_risk",
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 68,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:nordea",
+      "discovered_at": "2026-03-26T17:29:34.668Z",
+      "id": "nordea_5af60883f0869f932fbac4cb",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 10,
+        "area_preference_bonus": 27,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true
+    },
+    {
+      "title": "Backoffice Administrator - Clearing & Settlement (Föräldravikariat)",
+      "company": "Avanza",
+      "company_id": "avanza",
+      "apply_url": "https://career.avanza.se/jobs/7402542-backoffice-administrator-clearing-settlement-foraldravikariat",
+      "source_url": "https://career.avanza.se/jobs/7402542-backoffice-administrator-clearing-settlement-foraldravikariat",
+      "location": "Stockholm, SE",
+      "location_type": "unknown",
+      "team": "",
+      "posted_at": "2026-03-17",
+      "expires_at": "2026-03-29",
+      "summary": "Vill du vara en nyckelspelare i hjärtat av Avanza, där din noggrannhet bidrar till en bättre kundupplevelse? Trivs du i en miljö som kombinerar ordning och reda med ett starkt driv att ständigt hitta smartare lösningar? Då kan rollen som administratör i vårt Clearing & Settlement-team vara din nästa utmaning! Detta är ett föräldravikariat som sträcker sig till september 2027. Om tjänsten Du blir e...",
+      "area_tags": [
+        "market_risk"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 53,
+      "why_relevant": "",
+      "confidence": 0.75,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-03-26T17:29:34.668Z",
+      "id": "avanza_acccc6c217afdfd55cf59826",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 9,
+        "area_preference_bonus": 15,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    },
+    {
+      "title": "Select which cookies you accept",
+      "company": "Nordnet",
+      "company_id": "nordnet",
+      "apply_url": "https://career.nordnetab.com/jobs/5923098-mobile-app-platform-engineer",
+      "source_url": "https://career.nordnetab.com/jobs/5923098-mobile-app-platform-engineer",
+      "location": "Stockholm",
+      "location_type": "hybrid",
+      "team": "Engineering",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Nordnet redefined the financial world as the first digital bank in Europe. Now we are about to do it again and the aim is to create the next generation bank,...",
+      "area_tags": [
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 48,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-03-26T17:29:34.668Z",
+      "id": "nordnet_c2a3484ec4f663d2f853a426",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 9,
+        "area_preference_bonus": 12,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    },
+    {
+      "title": "Select which cookies you accept",
+      "company": "Nordnet",
+      "company_id": "nordnet",
+      "apply_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
+      "source_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
+      "location": "Stockholm",
+      "location_type": "hybrid",
+      "team": "Engineering",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Nordnet redefined the financial world as the first digital bank in Europe. Now we are about to do it again and the aim is to create the next generation of ba...",
+      "area_tags": [
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 48,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-03-26T17:29:34.668Z",
+      "id": "nordnet_31c422a02028d12443e749a2",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 9,
+        "area_preference_bonus": 12,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    }
+  ],
+  "new_jobs": [
     {
       "company": "Pareto Securities",
       "company_id": "pareto_securities",
@@ -151,7 +426,7 @@
       "missing_runs": 0,
       "first_seen_at": "2026-03-26T17:29:34.668Z",
       "last_seen_at": "2026-03-26T17:29:34.668Z",
-      "notified_at": "2026-03-26T17:29:34.668Z"
+      "notified_at": null
     },
     {
       "company": "DNB Carnegie",
@@ -188,300 +463,13 @@
       "missing_runs": 0,
       "first_seen_at": "2026-03-26T17:29:34.668Z",
       "last_seen_at": "2026-03-26T17:29:34.668Z",
-      "notified_at": "2026-03-26T17:29:34.668Z"
-    },
+      "notified_at": null
+    }
+  ],
+  "errors": [
     {
-      "title": "Data Scientist / AI Engineer",
-      "company": "Nordea",
-      "company_id": "nordea",
-      "apply_url": "https://careers.nordea.com/job/Helsinki-Data-Scientist-AI-Engineer-00500/1374539833/",
-      "source_url": "https://careers.nordea.com/job/Helsinki-Data-Scientist-AI-Engineer-00500/1374539833/",
-      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Data Scientist / AI Engineer Helsinki, FI, 00500 Stockholm, SE, 111 46 #job-location.job-location-inline { display: inline; }",
-      "location_type": "unknown",
-      "team": "",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Helsinki Data Scientist / AI Engineer, 00500",
-      "area_tags": [
-        "market_risk",
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 79,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:nordea",
-      "discovered_at": "2026-03-26T17:29:34.668Z",
-      "id": "nordea_0cb200f7469df9b82c51a5eb",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 10,
-        "area_preference_bonus": 27,
-        "profile_keyword_bonus": 9,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-03-26T17:29:34.668Z",
-      "notified_at": "2026-03-26T17:11:28.632Z"
-    },
-    {
-      "title": "Client Executive, Large Corporates & Institutions Sweden",
-      "company": "Nordea",
-      "company_id": "nordea",
-      "apply_url": "https://careers.nordea.com/job/Stockholm-Client-Executive%2C-Large-Corporates-&amp;-Institutions-Sweden-111-46/1374493233/",
-      "source_url": "https://careers.nordea.com/job/Stockholm-Client-Executive%2C-Large-Corporates-&amp;-Institutions-Sweden-111-46/1374493233/",
-      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Client Executive, Large Corporates & Institutions Sweden Stockholm, SE, 111 46 Stockholm, SE, 111 46 Göteborg, SE, 411 04 #job-location.job-location-inline { display: inline; }",
-      "location_type": "unknown",
-      "team": "",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Stockholm Client Executive, Large Corporates & Institutions Sweden, 111 46",
-      "area_tags": [
-        "market_risk",
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 68,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:nordea",
-      "discovered_at": "2026-03-26T17:29:34.668Z",
-      "id": "nordea_88bc52ce494494ec0f2987bf",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 10,
-        "area_preference_bonus": 27,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-03-26T17:29:34.668Z",
-      "notified_at": "2026-03-26T17:11:28.632Z"
-    },
-    {
-      "title": "Forward Deployed AI Scientist",
-      "company": "Nordea",
-      "company_id": "nordea",
-      "apply_url": "https://careers.nordea.com/job/Stockholm-Forward-Deployed-AI-Scientist-111-46/1376991633/",
-      "source_url": "https://careers.nordea.com/job/Stockholm-Forward-Deployed-AI-Scientist-111-46/1376991633/",
-      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Forward Deployed AI Scientist Stockholm, SE, 111 46 Gdańsk, PL, 80-309 Warszawa, PL, 02-460 København S, DK, 2300 Helsinki, FI, 00500 Gdynia, PL, 81-537 #job-location.job-location-inline { display: inline; }",
-      "location_type": "unknown",
-      "team": "AI Delivery",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Stockholm Forward Deployed AI Scientist, 111 46",
-      "area_tags": [
-        "market_risk",
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 68,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:nordea",
-      "discovered_at": "2026-03-26T17:29:34.668Z",
-      "id": "nordea_5291170422172465c1fdf260",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 10,
-        "area_preference_bonus": 27,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-03-26T17:29:34.668Z",
-      "notified_at": "2026-03-26T17:11:28.632Z"
-    },
-    {
-      "title": "Kontorschef Södertälje",
-      "company": "Nordea",
-      "company_id": "nordea",
-      "apply_url": "https://careers.nordea.com/job/S%C3%B6dert%C3%A4lje-Kontorschef-S%C3%B6dert%C3%A4lje-151-71/1375049333/",
-      "source_url": "https://careers.nordea.com/job/S%C3%B6dert%C3%A4lje-Kontorschef-S%C3%B6dert%C3%A4lje-151-71/1375049333/",
-      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Kontorschef Södertälje Södertälje, SE, 151 71 Stockholm, SE, 111 46 #job-location.job-location-inline { display: inline; }",
-      "location_type": "unknown",
-      "team": "",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Södertälje Kontorschef Södertälje, 151 71",
-      "area_tags": [
-        "market_risk",
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 68,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:nordea",
-      "discovered_at": "2026-03-26T17:29:34.668Z",
-      "id": "nordea_2fc4cb135adff11f702dace0",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 10,
-        "area_preference_bonus": 27,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-03-26T17:29:34.668Z",
-      "notified_at": "2026-03-26T17:11:28.632Z"
-    },
-    {
-      "title": "AI Application & Model Owner",
-      "company": "Nordea",
-      "company_id": "nordea",
-      "apply_url": "https://careers.nordea.com/job/Stockholm-AI-Application-&amp;-Model-Owner-111-46/1371995233/",
-      "source_url": "https://careers.nordea.com/job/Stockholm-AI-Application-&amp;-Model-Owner-111-46/1371995233/",
-      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » AI Application & Model Owner Stockholm, SE, 111 46 København S, DK, 2300 Gdynia, PL, 81-537 Helsinki, FI, 00500 Gdańsk, PL, 80-309 Warszawa, PL, 02-460 #job-location.job-location-inline { display: inline; }",
-      "location_type": "unknown",
-      "team": "AI Innovation",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Stockholm AI Application & Model Owner, 111 46",
-      "area_tags": [
-        "market_risk",
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 68,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:nordea",
-      "discovered_at": "2026-03-26T17:29:34.668Z",
-      "id": "nordea_5af60883f0869f932fbac4cb",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 10,
-        "area_preference_bonus": 27,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-03-26T17:29:34.668Z",
-      "notified_at": "2026-03-26T17:11:28.632Z"
-    },
-    {
-      "title": "Backoffice Administrator - Clearing & Settlement (Föräldravikariat)",
-      "company": "Avanza",
-      "company_id": "avanza",
-      "apply_url": "https://career.avanza.se/jobs/7402542-backoffice-administrator-clearing-settlement-foraldravikariat",
-      "source_url": "https://career.avanza.se/jobs/7402542-backoffice-administrator-clearing-settlement-foraldravikariat",
-      "location": "Stockholm, SE",
-      "location_type": "unknown",
-      "team": "",
-      "posted_at": "2026-03-17",
-      "expires_at": "2026-03-29",
-      "summary": "Vill du vara en nyckelspelare i hjärtat av Avanza, där din noggrannhet bidrar till en bättre kundupplevelse? Trivs du i en miljö som kombinerar ordning och reda med ett starkt driv att ständigt hitta smartare lösningar? Då kan rollen som administratör i vårt Clearing & Settlement-team vara din nästa utmaning! Detta är ett föräldravikariat som sträcker sig till september 2027. Om tjänsten Du blir e...",
-      "area_tags": [
-        "market_risk"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 53,
-      "why_relevant": "",
-      "confidence": 0.75,
-      "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-03-26T17:29:34.668Z",
-      "id": "avanza_acccc6c217afdfd55cf59826",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 9,
-        "area_preference_bonus": 15,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-03-26T17:29:34.668Z",
-      "notified_at": "2026-03-26T17:11:28.632Z"
-    },
-    {
-      "title": "Select which cookies you accept",
-      "company": "Nordnet",
-      "company_id": "nordnet",
-      "apply_url": "https://career.nordnetab.com/jobs/5923098-mobile-app-platform-engineer",
-      "source_url": "https://career.nordnetab.com/jobs/5923098-mobile-app-platform-engineer",
-      "location": "Stockholm",
-      "location_type": "hybrid",
-      "team": "Engineering",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Nordnet redefined the financial world as the first digital bank in Europe. Now we are about to do it again and the aim is to create the next generation bank,...",
-      "area_tags": [
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 48,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-03-26T17:29:34.668Z",
-      "id": "nordnet_c2a3484ec4f663d2f853a426",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 9,
-        "area_preference_bonus": 12,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-03-26T17:29:34.668Z",
-      "notified_at": "2026-03-26T17:11:28.632Z"
-    },
-    {
-      "title": "Select which cookies you accept",
-      "company": "Nordnet",
-      "company_id": "nordnet",
-      "apply_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
-      "source_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
-      "location": "Stockholm",
-      "location_type": "hybrid",
-      "team": "Engineering",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Nordnet redefined the financial world as the first digital bank in Europe. Now we are about to do it again and the aim is to create the next generation of ba...",
-      "area_tags": [
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 48,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-03-26T17:29:34.668Z",
-      "id": "nordnet_31c422a02028d12443e749a2",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 9,
-        "area_preference_bonus": 12,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-03-26T17:29:34.668Z",
-      "notified_at": "2026-03-26T17:11:28.632Z"
+      "company": "External market scan",
+      "error": "OpenAI response was empty."
     }
   ]
 }
