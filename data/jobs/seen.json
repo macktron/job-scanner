@@ -1,4 +1,115 @@
 {
-  "updated_at": null,
-  "jobs": {}
+  "updated_at": "2026-03-26T17:11:28.632Z",
+  "jobs": {
+    "nordea_96329aec09a934eb64f8c6c7": {
+      "id": "nordea_96329aec09a934eb64f8c6c7",
+      "company": "Nordea",
+      "title": "Quantitative Risk Model Developer (Credit Risk)",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-Quantitative-Risk-Model-Developer-%28Credit-Risk%29-111-46/1376849133/",
+      "first_seen_at": "2026-03-26T17:11:28.632Z",
+      "last_seen_at": "2026-03-26T17:11:28.632Z",
+      "last_status": "active",
+      "notified_at": "2026-03-26T17:11:28.632Z"
+    },
+    "nasdaq_stockholm_480948329734a33a081093b5": {
+      "id": "nasdaq_stockholm_480948329734a33a081093b5",
+      "company": "Nasdaq Stockholm",
+      "title": "Software Developing Intern - Summer 2026",
+      "apply_url": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Nasdaq_Careers",
+      "first_seen_at": "2026-03-26T17:11:28.632Z",
+      "last_seen_at": "2026-03-26T17:11:28.632Z",
+      "last_status": "active",
+      "notified_at": "2026-03-26T17:11:28.632Z"
+    },
+    "nordea_45d48c4df86c8ca0cdf96e9c": {
+      "id": "nordea_45d48c4df86c8ca0cdf96e9c",
+      "company": "Nordea",
+      "title": "Cash Management Adviser, Cash Management Sweden",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-Cash-Management-Adviser%2C-Cash-Management-Sweden-111-46/1373099833/",
+      "first_seen_at": "2026-03-26T17:11:28.632Z",
+      "last_seen_at": "2026-03-26T17:11:28.632Z",
+      "last_status": "active",
+      "notified_at": "2026-03-26T17:11:28.632Z"
+    },
+    "nordea_0cb200f7469df9b82c51a5eb": {
+      "id": "nordea_0cb200f7469df9b82c51a5eb",
+      "company": "Nordea",
+      "title": "Data Scientist / AI Engineer",
+      "apply_url": "https://careers.nordea.com/job/Helsinki-Data-Scientist-AI-Engineer-00500/1374539833/",
+      "first_seen_at": "2026-03-26T17:11:28.632Z",
+      "last_seen_at": "2026-03-26T17:11:28.632Z",
+      "last_status": "active",
+      "notified_at": "2026-03-26T17:11:28.632Z"
+    },
+    "nordea_88bc52ce494494ec0f2987bf": {
+      "id": "nordea_88bc52ce494494ec0f2987bf",
+      "company": "Nordea",
+      "title": "Client Executive, Large Corporates & Institutions Sweden",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-Client-Executive%2C-Large-Corporates-&amp;-Institutions-Sweden-111-46/1374493233/",
+      "first_seen_at": "2026-03-26T17:11:28.632Z",
+      "last_seen_at": "2026-03-26T17:11:28.632Z",
+      "last_status": "active",
+      "notified_at": "2026-03-26T17:11:28.632Z"
+    },
+    "nordea_5291170422172465c1fdf260": {
+      "id": "nordea_5291170422172465c1fdf260",
+      "company": "Nordea",
+      "title": "Forward Deployed AI Scientist",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-Forward-Deployed-AI-Scientist-111-46/1376991633/",
+      "first_seen_at": "2026-03-26T17:11:28.632Z",
+      "last_seen_at": "2026-03-26T17:11:28.632Z",
+      "last_status": "active",
+      "notified_at": "2026-03-26T17:11:28.632Z"
+    },
+    "nordea_2fc4cb135adff11f702dace0": {
+      "id": "nordea_2fc4cb135adff11f702dace0",
+      "company": "Nordea",
+      "title": "Kontorschef Södertälje",
+      "apply_url": "https://careers.nordea.com/job/S%C3%B6dert%C3%A4lje-Kontorschef-S%C3%B6dert%C3%A4lje-151-71/1375049333/",
+      "first_seen_at": "2026-03-26T17:11:28.632Z",
+      "last_seen_at": "2026-03-26T17:11:28.632Z",
+      "last_status": "active",
+      "notified_at": "2026-03-26T17:11:28.632Z"
+    },
+    "nordea_5af60883f0869f932fbac4cb": {
+      "id": "nordea_5af60883f0869f932fbac4cb",
+      "company": "Nordea",
+      "title": "AI Application & Model Owner",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-AI-Application-&amp;-Model-Owner-111-46/1371995233/",
+      "first_seen_at": "2026-03-26T17:11:28.632Z",
+      "last_seen_at": "2026-03-26T17:11:28.632Z",
+      "last_status": "active",
+      "notified_at": "2026-03-26T17:11:28.632Z"
+    },
+    "avanza_acccc6c217afdfd55cf59826": {
+      "id": "avanza_acccc6c217afdfd55cf59826",
+      "company": "Avanza",
+      "title": "Backoffice Administrator - Clearing & Settlement (Föräldravikariat)",
+      "apply_url": "https://career.avanza.se/jobs/7402542-backoffice-administrator-clearing-settlement-foraldravikariat",
+      "first_seen_at": "2026-03-26T17:11:28.632Z",
+      "last_seen_at": "2026-03-26T17:11:28.632Z",
+      "last_status": "active",
+      "notified_at": "2026-03-26T17:11:28.632Z"
+    },
+    "nordnet_c2a3484ec4f663d2f853a426": {
+      "id": "nordnet_c2a3484ec4f663d2f853a426",
+      "company": "Nordnet",
+      "title": "Select which cookies you accept",
+      "apply_url": "https://career.nordnetab.com/jobs/5923098-mobile-app-platform-engineer",
+      "first_seen_at": "2026-03-26T17:11:28.632Z",
+      "last_seen_at": "2026-03-26T17:11:28.632Z",
+      "last_status": "active",
+      "notified_at": "2026-03-26T17:11:28.632Z"
+    },
+    "nordnet_31c422a02028d12443e749a2": {
+      "id": "nordnet_31c422a02028d12443e749a2",
+      "company": "Nordnet",
+      "title": "Select which cookies you accept",
+      "apply_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
+      "first_seen_at": "2026-03-26T17:11:28.632Z",
+      "last_seen_at": "2026-03-26T17:11:28.632Z",
+      "last_status": "active",
+      "notified_at": "2026-03-26T17:11:28.632Z"
+    }
+  }
 }
