@@ -1,6 +1,10 @@
 {
-  "updated_at": "2026-03-28T17:12:54.956Z",
-  "jobs": [
+  "timestamp": "2026-03-28T17:12:54.956Z",
+  "dry_run": false,
+  "min_relevance_score": 55,
+  "missing_runs_threshold": 3,
+  "company_count": 12,
+  "discovered_jobs": [
     {
       "title": "Quantitative Risk Model Developer (Credit Risk)",
       "company": "Nordea",
@@ -31,12 +35,7 @@
         "profile_keyword_bonus": 26,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-03-28T17:12:54.956Z",
-      "notified_at": "2026-03-26T17:11:28.632Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Customer Insight Analyst to Business Banking Analytics",
@@ -70,12 +69,7 @@
         "profile_keyword_bonus": 7,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-03-27T17:23:30.600Z",
-      "last_seen_at": "2026-03-28T17:12:54.956Z",
-      "notified_at": "2026-03-27T17:23:30.600Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Customer Insight Analyst to Business Banking Analytics",
@@ -109,12 +103,7 @@
         "profile_keyword_bonus": 7,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-03-27T17:23:30.600Z",
-      "last_seen_at": "2026-03-28T17:12:54.956Z",
-      "notified_at": "2026-03-27T17:23:30.600Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Cash Management Adviser, Cash Management Sweden",
@@ -147,87 +136,7 @@
         "profile_keyword_bonus": 8,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-03-28T17:12:54.956Z",
-      "notified_at": "2026-03-26T17:11:28.632Z"
-    },
-    {
-      "company": "Pareto Securities",
-      "company_id": "pareto_securities",
-      "title": "Open Application (Sweden) — Stockholm",
-      "apply_url": "https://paretosecurities.teamtailor.com/jobs/3713025-open-application-sweden",
-      "source_url": "https://paretosecurities.teamtailor.com/jobs/3713025-open-application-sweden",
-      "location": "Stockholm, Sweden",
-      "location_type": "onsite",
-      "team": "Investment Banking / General Careers (open application)",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Open application for junior candidates interested in joining Pareto Securities’ Sweden team (Stockholm). Suitable for students and recent graduates with strong analytical skills and interest in capital markets; used as a route into roles across investment banking, research and sales.",
-      "area_tags": [
-        "research",
-        "sales_trading",
-        "analytics"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 85,
-      "why_relevant": "Official Stockholm-targeted open application on Pareto's ATS suitable for junior candidates and internships in research/sales/trading.",
-      "confidence": 0.8,
-      "discovery_method": "openai:web_search",
-      "discovered_at": "2026-03-26T17:29:34.668Z",
-      "id": "pareto_securities_7f092ab1ac9d6cb46db3ade8",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 6,
-        "area_preference_bonus": 33,
-        "profile_keyword_bonus": 17,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-03-26T17:29:34.668Z",
-      "last_seen_at": "2026-03-26T17:29:34.668Z",
-      "notified_at": "2026-03-26T17:29:34.668Z"
-    },
-    {
-      "company": "DNB Carnegie",
-      "company_id": "dnb_carnegie",
-      "title": "Treasury Operations söker studentmedarbetare",
-      "apply_url": "https://jobs.carnegie.se/talentcommunity/apply/1378016733/?locale=en_GB",
-      "source_url": "https://jobs.carnegie.se/job/Stockholm-Treasury-Operations-s%C3%B6ker-studentmedarbetare-103-38/1378016733/",
-      "location": "Stockholm, SE",
-      "location_type": "onsite",
-      "team": "Treasury Operations",
-      "posted_at": null,
-      "expires_at": "2026-04-15",
-      "summary": "Part-time / student position in Treasury Operations supporting payments, stock lending, FX handling and reporting. Requires a student with at least two years remaining in studies and fluency in Swedish and English. Start as soon as possible; selection is ongoing.",
-      "area_tags": [
-        "treasury",
-        "alm_liquidity"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 81,
-      "why_relevant": "Direct treasury role (student/entry-level) in Stockholm covering FX, payments, reporting — matches treasury/ALM target areas.",
-      "confidence": 0.9,
-      "discovery_method": "openai:web_search",
-      "discovered_at": "2026-03-26T17:29:34.668Z",
-      "id": "dnb_carnegie_6e20ae4bf355e6c2f792eb74",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 7,
-        "area_preference_bonus": 24,
-        "profile_keyword_bonus": 17,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-03-26T17:29:34.668Z",
-      "last_seen_at": "2026-03-26T17:29:34.668Z",
-      "notified_at": "2026-03-26T17:29:34.668Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Data Scientist / AI Engineer",
@@ -259,12 +168,7 @@
         "profile_keyword_bonus": 9,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-03-28T17:12:54.956Z",
-      "notified_at": "2026-03-26T17:11:28.632Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Fullstack Developer to Nordea Life & Pension Sweden",
@@ -296,12 +200,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-03-27T17:23:30.600Z",
-      "last_seen_at": "2026-03-28T17:12:54.956Z",
-      "notified_at": "2026-03-27T17:23:30.600Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Client Executive, Large Corporates & Institutions Sweden",
@@ -333,12 +232,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-03-28T17:12:54.956Z",
-      "notified_at": "2026-03-26T17:11:28.632Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Fullstack Developer to Nordea Life & Pension Sweden",
@@ -370,12 +264,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-03-27T17:23:30.600Z",
-      "last_seen_at": "2026-03-28T17:12:54.956Z",
-      "notified_at": "2026-03-27T17:23:30.600Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Forward Deployed AI Scientist",
@@ -407,12 +296,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-03-28T17:12:54.956Z",
-      "notified_at": "2026-03-26T17:11:28.632Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Kontorschef Södertälje",
@@ -444,12 +328,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-03-28T17:12:54.956Z",
-      "notified_at": "2026-03-26T17:11:28.632Z"
+      "matches_minimum_score": true
     },
     {
       "title": "AI Application & Model Owner",
@@ -481,12 +360,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-03-28T17:12:54.956Z",
-      "notified_at": "2026-03-26T17:11:28.632Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Backoffice Administrator - Clearing & Settlement (Föräldravikariat)",
@@ -517,12 +391,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-03-28T17:12:54.956Z",
-      "notified_at": "2026-03-26T17:11:28.632Z"
+      "matches_minimum_score": false
     },
     {
       "title": "Select which cookies you accept",
@@ -553,12 +422,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-03-28T17:12:54.956Z",
-      "notified_at": "2026-03-26T17:11:28.632Z"
+      "matches_minimum_score": false
     },
     {
       "title": "Select which cookies you accept",
@@ -589,12 +453,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-03-28T17:12:54.956Z",
-      "notified_at": "2026-03-26T17:11:28.632Z"
+      "matches_minimum_score": false
     },
     {
       "title": "Select which cookies you accept",
@@ -625,12 +484,14 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-03-27T17:23:30.600Z",
-      "last_seen_at": "2026-03-28T17:12:54.956Z",
-      "notified_at": "2026-03-27T17:23:30.600Z"
+      "matches_minimum_score": false
+    }
+  ],
+  "new_jobs": [],
+  "errors": [
+    {
+      "company": "External market scan",
+      "error": "OpenAI response was empty."
     }
   ]
 }
