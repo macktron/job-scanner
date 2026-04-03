@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-02T16:26:44.214Z",
+  "updated_at": "2026-04-03T16:17:32.660Z",
   "jobs": {
     "nordea_96329aec09a934eb64f8c6c7": {
       "id": "nordea_96329aec09a934eb64f8c6c7",
@@ -7,7 +7,7 @@
       "title": "Quantitative Risk Model Developer (Credit Risk)",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Quantitative-Risk-Model-Developer-%28Credit-Risk%29-111-46/1376849133/",
       "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-04-02T16:26:44.214Z",
+      "last_seen_at": "2026-04-03T16:17:32.660Z",
       "last_status": "active",
       "notified_at": "2026-03-26T17:11:28.632Z"
     },
@@ -37,7 +37,7 @@
       "title": "Data Scientist / AI Engineer",
       "apply_url": "https://careers.nordea.com/job/Helsinki-Data-Scientist-AI-Engineer-00500/1374539833/",
       "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-04-02T16:26:44.214Z",
+      "last_seen_at": "2026-04-03T16:17:32.660Z",
       "last_status": "active",
       "notified_at": "2026-03-26T17:11:28.632Z"
     },
@@ -48,7 +48,7 @@
       "apply_url": "https://careers.nordea.com/job/Stockholm-Client-Executive%2C-Large-Corporates-&amp;-Institutions-Sweden-111-46/1374493233/",
       "first_seen_at": "2026-03-26T17:11:28.632Z",
       "last_seen_at": "2026-03-31T16:28:57.933Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-03-26T17:11:28.632Z"
     },
     "nordea_5291170422172465c1fdf260": {
@@ -97,7 +97,7 @@
       "title": "Select which cookies you accept",
       "apply_url": "https://career.nordnetab.com/jobs/5923098-mobile-app-platform-engineer",
       "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-04-02T16:26:44.214Z",
+      "last_seen_at": "2026-04-03T16:17:32.660Z",
       "last_status": "active",
       "notified_at": "2026-03-26T17:11:28.632Z"
     },
@@ -107,7 +107,7 @@
       "title": "Select which cookies you accept",
       "apply_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
       "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-04-02T16:26:44.214Z",
+      "last_seen_at": "2026-04-03T16:17:32.660Z",
       "last_status": "active",
       "notified_at": "2026-03-26T17:11:28.632Z"
     },
@@ -147,7 +147,7 @@
       "title": "Customer Insight Analyst to Business Banking Analytics",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Customer-Insight-Analyst-to-Business-Banking-Analytics-111-46/1378482833/",
       "first_seen_at": "2026-03-27T17:23:30.600Z",
-      "last_seen_at": "2026-04-02T16:26:44.214Z",
+      "last_seen_at": "2026-04-03T16:17:32.660Z",
       "last_status": "active",
       "notified_at": "2026-03-27T17:23:30.600Z"
     },
@@ -167,7 +167,7 @@
       "title": "Fullstack Developer to Nordea Life & Pension Sweden",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Fullstack-Developer-to-Nordea-Life-&amp;-Pension-Sweden-111-44/1378516533/",
       "first_seen_at": "2026-03-27T17:23:30.600Z",
-      "last_seen_at": "2026-04-02T16:26:44.214Z",
+      "last_seen_at": "2026-04-03T16:17:32.660Z",
       "last_status": "active",
       "notified_at": "2026-03-27T17:23:30.600Z"
     },
@@ -178,7 +178,7 @@
       "apply_url": "https://jobs.swedbank.com/jobs/26174-client-advisor-holistic-advice-private",
       "first_seen_at": "2026-03-27T17:23:30.600Z",
       "last_seen_at": "2026-03-31T16:28:57.933Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-03-27T17:23:30.600Z"
     },
     "dnb_carnegie_88eacd026757ce93d48ab324": {
@@ -208,7 +208,7 @@
       "apply_url": "https://careers.nordea.com/job/Stockholm-AI-Application-&amp;-Model-Owner-111-46/1371995233/",
       "first_seen_at": "2026-03-30T16:28:15.371Z",
       "last_seen_at": "2026-03-31T16:28:57.933Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-03-30T16:28:15.371Z"
     },
     "nordea_d6209ba0b6c8289b7e7cad7a": {
@@ -217,7 +217,7 @@
       "title": "Forward Deployed AI Scientist",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Forward-Deployed-AI-Scientist-111-46/1376991633/",
       "first_seen_at": "2026-03-30T16:28:15.371Z",
-      "last_seen_at": "2026-04-02T16:26:44.214Z",
+      "last_seen_at": "2026-04-03T16:17:32.660Z",
       "last_status": "active",
       "notified_at": "2026-03-30T16:28:15.371Z"
     },
@@ -228,7 +228,7 @@
       "apply_url": "https://paretosecurities.teamtailor.com/jobs/3713025-open-application-sweden",
       "first_seen_at": "2026-03-31T16:28:57.933Z",
       "last_seen_at": "2026-03-31T16:28:57.933Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-03-31T16:28:57.933Z"
     },
     "nordea_07649ed6a0fd7def5389a4af": {
@@ -238,7 +238,7 @@
       "apply_url": "https://careers.nordea.com/job/Stockholm-Copywriter-to-In-house-Agency-at-Group-Brand-Marketing-&amp;-Communications-111-46/1370020233/?feedId=451033&amp;utm_source=CareerSite",
       "first_seen_at": "2026-03-31T16:28:57.933Z",
       "last_seen_at": "2026-03-31T16:28:57.933Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-03-31T16:28:57.933Z"
     },
     "nordea_cad38e8707154b4f76ca109f": {
@@ -258,7 +258,7 @@
       "apply_url": "https://careers.nordea.com/job/Stockholm-Product-Owner-AI-&amp;-Machine-Learning-%28Financial-Crime-Prevention%29-111-46/1287940601/?feedId=451033&amp;utm_source=CareerSite",
       "first_seen_at": "2026-03-31T16:28:57.933Z",
       "last_seen_at": "2026-03-31T16:28:57.933Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-03-31T16:28:57.933Z"
     },
     "nordea_a757db79f2e95e52f888ded0": {
@@ -267,7 +267,7 @@
       "title": "Product Owner - AI & Machine Learning (Financial Crime Prevention)",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Product-Owner-AI-&amp;-Machine-Learning-%28Financial-Crime-Prevention%29-111-46/1287940601/",
       "first_seen_at": "2026-03-31T16:28:57.933Z",
-      "last_seen_at": "2026-04-02T16:26:44.214Z",
+      "last_seen_at": "2026-04-03T16:17:32.660Z",
       "last_status": "active",
       "notified_at": "2026-03-31T16:28:57.933Z"
     },
@@ -297,7 +297,7 @@
       "title": "AI Model Governance Analyst (Financial Crime Prevention)",
       "apply_url": "https://careers.nordea.com/job/Stockholm-AI-Model-Governance-Analyst-%28Financial-Crime-Prevention%29-111-46/1379925933/",
       "first_seen_at": "2026-04-01T16:27:03.549Z",
-      "last_seen_at": "2026-04-02T16:26:44.214Z",
+      "last_seen_at": "2026-04-03T16:17:32.660Z",
       "last_status": "active",
       "notified_at": "2026-04-01T16:27:03.549Z"
     },
@@ -307,7 +307,7 @@
       "title": "AI Product Analyst (Financial Crime Prevention)",
       "apply_url": "https://careers.nordea.com/job/Stockholm-AI-Product-Analyst-%28Financial-Crime-Prevention%29-111-46/1379924033/",
       "first_seen_at": "2026-04-01T16:27:03.549Z",
-      "last_seen_at": "2026-04-02T16:26:44.214Z",
+      "last_seen_at": "2026-04-03T16:17:32.660Z",
       "last_status": "active",
       "notified_at": "2026-04-01T16:27:03.549Z"
     },
@@ -317,7 +317,7 @@
       "title": "Select which cookies you accept",
       "apply_url": "https://career.nordnetab.com/jobs/7501643-network-engineer",
       "first_seen_at": "2026-04-01T16:27:03.549Z",
-      "last_seen_at": "2026-04-02T16:26:44.214Z",
+      "last_seen_at": "2026-04-03T16:17:32.660Z",
       "last_status": "active",
       "notified_at": "2026-04-01T16:27:03.549Z"
     },
@@ -340,6 +340,26 @@
       "last_seen_at": "2026-04-02T16:26:44.214Z",
       "last_status": "active",
       "notified_at": "2026-04-02T16:26:44.214Z"
+    },
+    "nordea_37257c5e872fb2d75f28c6d1": {
+      "id": "nordea_37257c5e872fb2d75f28c6d1",
+      "company": "Nordea",
+      "title": "Quantitative Risk Analysts, Credit Stress Testing and IFRS9",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-Quantitative-Risk-Analysts%2C-Credit-Stress-Testing-and-IFRS9-111-44/1290865701/?feedId=451033&amp;utm_source=CareerSite",
+      "first_seen_at": "2026-04-03T16:17:32.660Z",
+      "last_seen_at": "2026-04-03T16:17:32.660Z",
+      "last_status": "active",
+      "notified_at": "2026-04-03T16:17:32.660Z"
+    },
+    "nordea_1dd2ba147d04bf9a76926717": {
+      "id": "nordea_1dd2ba147d04bf9a76926717",
+      "company": "Nordea",
+      "title": "Quantitative Risk Analysts, Credit Stress Testing and IFRS9",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-Quantitative-Risk-Analysts%2C-Credit-Stress-Testing-and-IFRS9-111-44/1290865701/",
+      "first_seen_at": "2026-04-03T16:17:32.660Z",
+      "last_seen_at": "2026-04-03T16:17:32.660Z",
+      "last_status": "active",
+      "notified_at": "2026-04-03T16:17:32.660Z"
     }
   }
 }
