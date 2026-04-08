@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-07T16:29:00.688Z",
+  "updated_at": "2026-04-08T16:33:44.658Z",
   "jobs": [
     {
       "company": "Brummer & Partners",
@@ -37,7 +37,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-04-07T16:29:00.688Z",
       "last_seen_at": "2026-04-07T16:29:00.688Z",
       "notified_at": "2026-04-07T16:29:00.688Z"
@@ -68,7 +68,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:nordea",
-      "discovered_at": "2026-04-07T16:29:00.688Z",
+      "discovered_at": "2026-04-08T16:33:44.658Z",
       "id": "nordea_3925343da577954ac634d7ee",
       "profile_score_breakdown": {
         "company_preference_bonus": 10,
@@ -80,7 +80,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-04-07T16:29:00.688Z",
-      "last_seen_at": "2026-04-07T16:29:00.688Z",
+      "last_seen_at": "2026-04-08T16:33:44.658Z",
       "notified_at": "2026-04-07T16:29:00.688Z"
     },
     {
@@ -109,7 +109,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:nordea",
-      "discovered_at": "2026-04-07T16:29:00.688Z",
+      "discovered_at": "2026-04-08T16:33:44.658Z",
       "id": "nordea_fc25c0acae9de527e5264987",
       "profile_score_breakdown": {
         "company_preference_bonus": 10,
@@ -121,7 +121,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-04-07T16:29:00.688Z",
-      "last_seen_at": "2026-04-07T16:29:00.688Z",
+      "last_seen_at": "2026-04-08T16:33:44.658Z",
       "notified_at": "2026-04-07T16:29:00.688Z"
     },
     {
@@ -146,7 +146,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:nordea",
-      "discovered_at": "2026-04-07T16:29:00.688Z",
+      "discovered_at": "2026-04-08T16:33:44.658Z",
       "id": "nordea_96329aec09a934eb64f8c6c7",
       "profile_score_breakdown": {
         "company_preference_bonus": 10,
@@ -158,7 +158,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-04-07T16:29:00.688Z",
+      "last_seen_at": "2026-04-08T16:33:44.658Z",
       "notified_at": "2026-03-26T17:11:28.632Z"
     },
     {
@@ -197,7 +197,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-04-03T16:17:32.660Z",
       "last_seen_at": "2026-04-06T16:22:06.854Z",
       "notified_at": "2026-04-03T16:17:32.660Z"
@@ -238,50 +238,10 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-04-03T16:17:32.660Z",
       "last_seen_at": "2026-04-06T16:22:06.854Z",
       "notified_at": "2026-04-03T16:17:32.660Z"
-    },
-    {
-      "company": "SEB",
-      "company_id": "seb",
-      "title": "Junior Quantitative Risk Analyst",
-      "apply_url": "https://sebgroup.com/career/find-your-new-job/our-vacant-positions/junior-quantitative-risk-analyst--seb-37c95c47-509b-41e6-8ac1-6449af1ee249",
-      "source_url": "https://sebgroup.com/career/find-your-new-job/our-vacant-positions/junior-quantitative-risk-analyst--seb-37c95c47-509b-41e6-8ac1-6449af1ee249",
-      "location": "Stockholm",
-      "location_type": "hybrid",
-      "team": "Market Risk and Analytics (Group Risk)",
-      "posted_at": null,
-      "expires_at": "2026-04-17",
-      "summary": "Join SEB’s Group Risk Market Risk & Analytics team to help develop, maintain and enhance quantitative risk models across asset classes using programming (Python/C#/Java) and analytical tools; junior role with Master’s in a quantitative field expected.",
-      "area_tags": [
-        "quant",
-        "risk",
-        "market_risk",
-        "analytics",
-        "model_validation"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 100,
-      "why_relevant": "Explicit junior quantitative risk role in SEB's Market Risk & Analytics team based in Stockholm.",
-      "confidence": 0.9,
-      "discovery_method": "openai:web_search",
-      "discovered_at": "2026-04-05T16:13:52.502Z",
-      "id": "seb_08bb597ba8db50c3aa687d3f",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 10,
-        "area_preference_bonus": 65,
-        "profile_keyword_bonus": 28,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-04-02T16:26:44.214Z",
-      "last_seen_at": "2026-04-05T16:13:52.502Z",
-      "notified_at": "2026-04-02T16:26:44.214Z"
     },
     {
       "title": "Customer Insight Analyst to Business Banking Analytics",
@@ -317,7 +277,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-03-27T17:23:30.600Z",
       "last_seen_at": "2026-04-06T16:22:06.854Z",
       "notified_at": "2026-03-27T17:23:30.600Z"
@@ -345,7 +305,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:nordea",
-      "discovered_at": "2026-04-07T16:29:00.688Z",
+      "discovered_at": "2026-04-08T16:33:44.658Z",
       "id": "nordea_fee8e915b6654d9642e635b5",
       "profile_score_breakdown": {
         "company_preference_bonus": 10,
@@ -357,7 +317,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-04-01T16:27:03.549Z",
-      "last_seen_at": "2026-04-07T16:29:00.688Z",
+      "last_seen_at": "2026-04-08T16:33:44.658Z",
       "notified_at": "2026-04-01T16:27:03.549Z"
     },
     {
@@ -383,7 +343,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:nordea",
-      "discovered_at": "2026-04-07T16:29:00.688Z",
+      "discovered_at": "2026-04-08T16:33:44.658Z",
       "id": "nordea_91d2294f4ba75133fef21930",
       "profile_score_breakdown": {
         "company_preference_bonus": 10,
@@ -395,8 +355,46 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-04-01T16:27:03.549Z",
-      "last_seen_at": "2026-04-07T16:29:00.688Z",
+      "last_seen_at": "2026-04-08T16:33:44.658Z",
       "notified_at": "2026-04-01T16:27:03.549Z"
+    },
+    {
+      "company": "DNB Carnegie",
+      "company_id": "dnb_carnegie",
+      "title": "Kundansvarig kundrelationer - Montrose",
+      "apply_url": "https://jobs.carnegie.se/job/Stockholm-Kundansvarig-kundrelationer-Montrose-103-38/1379761333/",
+      "source_url": "https://jobs.carnegie.se/job/Stockholm-Kundansvarig-kundrelationer-Montrose-103-38/1379761333/",
+      "location": "Stockholm, SE (Regeringsgatan / Stockholm office)",
+      "location_type": "onsite",
+      "team": "Montrose / Kundrelationer",
+      "posted_at": null,
+      "expires_at": "2026-04-26",
+      "summary": "Customer-facing role for Montrose (digital investment platform) handling client inquiries, onboarding and basic portfolio/investment support — involves market/ trading awareness and platform support.",
+      "area_tags": [
+        "sales_trading",
+        "analytics",
+        "portfolio_analytics"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 80,
+      "why_relevant": "Client-facing role on a trading/investment platform in Stockholm with portfolio/support tasks relevant to trading/markets operations.",
+      "confidence": 0.75,
+      "discovery_method": "openai:web_search",
+      "discovered_at": "2026-04-08T16:33:44.658Z",
+      "id": "dnb_carnegie_831db32fd203c6d6c4bf85c7",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 7,
+        "area_preference_bonus": 32,
+        "profile_keyword_bonus": 10,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true,
+      "status": "active",
+      "missing_runs": 0,
+      "first_seen_at": "2026-04-08T16:33:44.658Z",
+      "last_seen_at": "2026-04-08T16:33:44.658Z",
+      "notified_at": "2026-04-08T16:33:44.658Z"
     },
     {
       "title": "Data Scientist / AI Engineer",
@@ -430,7 +428,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-03-26T17:11:28.632Z",
       "last_seen_at": "2026-04-07T16:29:00.688Z",
       "notified_at": "2026-03-26T17:11:28.632Z"
@@ -467,7 +465,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-04-06T16:22:06.854Z",
       "last_seen_at": "2026-04-06T16:22:06.854Z",
       "notified_at": "2026-04-06T16:22:06.854Z"
@@ -504,7 +502,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-04-07T16:29:00.688Z",
       "last_seen_at": "2026-04-07T16:29:00.688Z",
       "notified_at": "2026-04-07T16:29:00.688Z"
@@ -531,7 +529,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:nordea",
-      "discovered_at": "2026-04-07T16:29:00.688Z",
+      "discovered_at": "2026-04-08T16:33:44.658Z",
       "id": "nordea_5f98739dd04d520c5b78f9a9",
       "profile_score_breakdown": {
         "company_preference_bonus": 10,
@@ -543,7 +541,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-03-27T17:23:30.600Z",
-      "last_seen_at": "2026-04-07T16:29:00.688Z",
+      "last_seen_at": "2026-04-08T16:33:44.658Z",
       "notified_at": "2026-03-27T17:23:30.600Z"
     },
     {
@@ -568,7 +566,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:nordea",
-      "discovered_at": "2026-04-07T16:29:00.688Z",
+      "discovered_at": "2026-04-08T16:33:44.658Z",
       "id": "nordea_d6209ba0b6c8289b7e7cad7a",
       "profile_score_breakdown": {
         "company_preference_bonus": 10,
@@ -580,7 +578,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-03-30T16:28:15.371Z",
-      "last_seen_at": "2026-04-07T16:29:00.688Z",
+      "last_seen_at": "2026-04-08T16:33:44.658Z",
       "notified_at": "2026-03-30T16:28:15.371Z"
     },
     {
@@ -604,7 +602,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:nordea",
-      "discovered_at": "2026-04-07T16:29:00.688Z",
+      "discovered_at": "2026-04-08T16:33:44.658Z",
       "id": "nordea_a757db79f2e95e52f888ded0",
       "profile_score_breakdown": {
         "company_preference_bonus": 10,
@@ -616,7 +614,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-03-31T16:28:57.933Z",
-      "last_seen_at": "2026-04-07T16:29:00.688Z",
+      "last_seen_at": "2026-04-08T16:33:44.658Z",
       "notified_at": "2026-03-31T16:28:57.933Z"
     },
     {
@@ -651,7 +649,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-04-06T16:22:06.854Z",
       "last_seen_at": "2026-04-06T16:22:06.854Z",
       "notified_at": "2026-04-06T16:22:06.854Z"
@@ -677,7 +675,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-04-07T16:29:00.688Z",
+      "discovered_at": "2026-04-08T16:33:44.658Z",
       "id": "nordnet_fa09e865176c3580c7f96127",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -689,7 +687,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-04-01T16:27:03.549Z",
-      "last_seen_at": "2026-04-07T16:29:00.688Z",
+      "last_seen_at": "2026-04-08T16:33:44.658Z",
       "notified_at": "2026-04-01T16:27:03.549Z"
     },
     {
@@ -713,7 +711,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-04-07T16:29:00.688Z",
+      "discovered_at": "2026-04-08T16:33:44.658Z",
       "id": "nordnet_c2a3484ec4f663d2f853a426",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -725,7 +723,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-04-07T16:29:00.688Z",
+      "last_seen_at": "2026-04-08T16:33:44.658Z",
       "notified_at": "2026-03-26T17:11:28.632Z"
     },
     {
@@ -749,7 +747,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-04-07T16:29:00.688Z",
+      "discovered_at": "2026-04-08T16:33:44.658Z",
       "id": "nordnet_31c422a02028d12443e749a2",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -761,7 +759,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-04-07T16:29:00.688Z",
+      "last_seen_at": "2026-04-08T16:33:44.658Z",
       "notified_at": "2026-03-26T17:11:28.632Z"
     }
   ]

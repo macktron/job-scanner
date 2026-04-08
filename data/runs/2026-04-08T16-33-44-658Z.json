@@ -1,0 +1,446 @@
+{
+  "timestamp": "2026-04-08T16:33:44.658Z",
+  "dry_run": false,
+  "min_relevance_score": 55,
+  "missing_runs_threshold": 3,
+  "company_count": 12,
+  "discovered_jobs": [
+    {
+      "title": "Quantitative Risk Analysts, Credit Stress Testing and IFRS9",
+      "company": "Nordea",
+      "company_id": "nordea",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-Quantitative-Risk-Analysts%2C-Credit-Stress-Testing-and-IFRS9-111-44/1290865701/?feedId=451033&amp;utm_source=CareerSite",
+      "source_url": "https://careers.nordea.com/job/Stockholm-Quantitative-Risk-Analysts%2C-Credit-Stress-Testing-and-IFRS9-111-44/1290865701/?feedId=451033&amp;utm_source=CareerSite",
+      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Quantitative Risk Analysts, Credit Stress Testing and IFRS9 Stockholm, SE, 111 44 Warszawa, PL, 02-460 Helsinki, FI, 00500 #job-location.job-location-inline { display: inline; }",
+      "location_type": "unknown",
+      "team": "Credit Stress Testing & IFRS9 Models",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Stockholm Quantitative Risk Analysts, Credit Stress Testing and IFRS9, 111 44",
+      "area_tags": [
+        "quant",
+        "risk",
+        "market_risk",
+        "research",
+        "data_science",
+        "analytics"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 100,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:nordea",
+      "discovered_at": "2026-04-08T16:33:44.658Z",
+      "id": "nordea_3925343da577954ac634d7ee",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 10,
+        "area_preference_bonus": 76,
+        "profile_keyword_bonus": 16,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true
+    },
+    {
+      "title": "Quantitative Risk Analysts, Credit Stress Testing and IFRS9",
+      "company": "Nordea",
+      "company_id": "nordea",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-Quantitative-Risk-Analysts%2C-Credit-Stress-Testing-and-IFRS9-111-44/1290865701/",
+      "source_url": "https://careers.nordea.com/job/Stockholm-Quantitative-Risk-Analysts%2C-Credit-Stress-Testing-and-IFRS9-111-44/1290865701/",
+      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Quantitative Risk Analysts, Credit Stress Testing and IFRS9 Stockholm, SE, 111 44 Warszawa, PL, 02-460 Helsinki, FI, 00500 #job-location.job-location-inline { display: inline; }",
+      "location_type": "unknown",
+      "team": "Credit Stress Testing & IFRS9 Models",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Stockholm Quantitative Risk Analysts, Credit Stress Testing and IFRS9, 111 44",
+      "area_tags": [
+        "quant",
+        "risk",
+        "market_risk",
+        "research",
+        "data_science",
+        "analytics"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 100,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:nordea",
+      "discovered_at": "2026-04-08T16:33:44.658Z",
+      "id": "nordea_fc25c0acae9de527e5264987",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 10,
+        "area_preference_bonus": 76,
+        "profile_keyword_bonus": 16,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true
+    },
+    {
+      "title": "Quantitative Risk Model Developer (Credit Risk)",
+      "company": "Nordea",
+      "company_id": "nordea",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-Quantitative-Risk-Model-Developer-%28Credit-Risk%29-111-46/1376849133/",
+      "source_url": "https://careers.nordea.com/job/Stockholm-Quantitative-Risk-Model-Developer-%28Credit-Risk%29-111-46/1376849133/",
+      "location": "",
+      "location_type": "unknown",
+      "team": "Risk Models",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Stockholm Quantitative Risk Model Developer (Credit Risk), 111 46",
+      "area_tags": [
+        "quant",
+        "risk"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 100,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:nordea",
+      "discovered_at": "2026-04-08T16:33:44.658Z",
+      "id": "nordea_96329aec09a934eb64f8c6c7",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 10,
+        "area_preference_bonus": 31,
+        "profile_keyword_bonus": 26,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true
+    },
+    {
+      "title": "AI Model Governance Analyst (Financial Crime Prevention)",
+      "company": "Nordea",
+      "company_id": "nordea",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-AI-Model-Governance-Analyst-%28Financial-Crime-Prevention%29-111-46/1379925933/",
+      "source_url": "https://careers.nordea.com/job/Stockholm-AI-Model-Governance-Analyst-%28Financial-Crime-Prevention%29-111-46/1379925933/",
+      "location": "",
+      "location_type": "unknown",
+      "team": "AI & Machine Learning",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Stockholm AI Model Governance Analyst (Financial Crime Prevention), 111 46",
+      "area_tags": [
+        "research",
+        "data_science",
+        "analytics"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 92,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:nordea",
+      "discovered_at": "2026-04-08T16:33:44.658Z",
+      "id": "nordea_fee8e915b6654d9642e635b5",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 10,
+        "area_preference_bonus": 30,
+        "profile_keyword_bonus": 15,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true
+    },
+    {
+      "title": "AI Product Analyst (Financial Crime Prevention)",
+      "company": "Nordea",
+      "company_id": "nordea",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-AI-Product-Analyst-%28Financial-Crime-Prevention%29-111-46/1379924033/",
+      "source_url": "https://careers.nordea.com/job/Stockholm-AI-Product-Analyst-%28Financial-Crime-Prevention%29-111-46/1379924033/",
+      "location": "",
+      "location_type": "unknown",
+      "team": "AI & Machine Learning",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Stockholm AI Product Analyst (Financial Crime Prevention), 111 46",
+      "area_tags": [
+        "research",
+        "data_science",
+        "analytics"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 92,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:nordea",
+      "discovered_at": "2026-04-08T16:33:44.658Z",
+      "id": "nordea_91d2294f4ba75133fef21930",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 10,
+        "area_preference_bonus": 30,
+        "profile_keyword_bonus": 15,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true
+    },
+    {
+      "company": "DNB Carnegie",
+      "company_id": "dnb_carnegie",
+      "title": "Kundansvarig kundrelationer - Montrose",
+      "apply_url": "https://jobs.carnegie.se/job/Stockholm-Kundansvarig-kundrelationer-Montrose-103-38/1379761333/",
+      "source_url": "https://jobs.carnegie.se/job/Stockholm-Kundansvarig-kundrelationer-Montrose-103-38/1379761333/",
+      "location": "Stockholm, SE (Regeringsgatan / Stockholm office)",
+      "location_type": "onsite",
+      "team": "Montrose / Kundrelationer",
+      "posted_at": null,
+      "expires_at": "2026-04-26",
+      "summary": "Customer-facing role for Montrose (digital investment platform) handling client inquiries, onboarding and basic portfolio/investment support — involves market/ trading awareness and platform support.",
+      "area_tags": [
+        "sales_trading",
+        "analytics",
+        "portfolio_analytics"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 80,
+      "why_relevant": "Client-facing role on a trading/investment platform in Stockholm with portfolio/support tasks relevant to trading/markets operations.",
+      "confidence": 0.75,
+      "discovery_method": "openai:web_search",
+      "discovered_at": "2026-04-08T16:33:44.658Z",
+      "id": "dnb_carnegie_831db32fd203c6d6c4bf85c7",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 7,
+        "area_preference_bonus": 32,
+        "profile_keyword_bonus": 10,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true
+    },
+    {
+      "title": "Fullstack Developer to Nordea Life & Pension Sweden",
+      "company": "Nordea",
+      "company_id": "nordea",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-Fullstack-Developer-to-Nordea-Life-&amp;-Pension-Sweden-111-44/1378516533/",
+      "source_url": "https://careers.nordea.com/job/Stockholm-Fullstack-Developer-to-Nordea-Life-&amp;-Pension-Sweden-111-44/1378516533/",
+      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Fullstack Developer to Nordea Life & Pension Sweden Stockholm, SE, 111 44 #job-location.job-location-inline { display: inline; }",
+      "location_type": "unknown",
+      "team": "",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Stockholm Fullstack Developer to Nordea Life & Pension Sweden, 111 44",
+      "area_tags": [
+        "market_risk",
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 68,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:nordea",
+      "discovered_at": "2026-04-08T16:33:44.658Z",
+      "id": "nordea_5f98739dd04d520c5b78f9a9",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 10,
+        "area_preference_bonus": 27,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true
+    },
+    {
+      "title": "Forward Deployed AI Scientist",
+      "company": "Nordea",
+      "company_id": "nordea",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-Forward-Deployed-AI-Scientist-111-46/1376991633/",
+      "source_url": "https://careers.nordea.com/job/Stockholm-Forward-Deployed-AI-Scientist-111-46/1376991633/",
+      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Forward Deployed AI Scientist Stockholm, SE, 111 46 Warszawa, PL, 02-460 Helsinki, FI, 00500 Gdańsk, PL, 80-309 København S, DK, 2300 Gdynia, PL, 81-537 #job-location.job-location-inline { display: inline; }",
+      "location_type": "unknown",
+      "team": "AI Delivery",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Stockholm Forward Deployed AI Scientist, 111 46",
+      "area_tags": [
+        "market_risk",
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 68,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:nordea",
+      "discovered_at": "2026-04-08T16:33:44.658Z",
+      "id": "nordea_d6209ba0b6c8289b7e7cad7a",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 10,
+        "area_preference_bonus": 27,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true
+    },
+    {
+      "title": "Product Owner - AI & Machine Learning (Financial Crime Prevention)",
+      "company": "Nordea",
+      "company_id": "nordea",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-Product-Owner-AI-&amp;-Machine-Learning-%28Financial-Crime-Prevention%29-111-46/1287940601/",
+      "source_url": "https://careers.nordea.com/job/Stockholm-Product-Owner-AI-&amp;-Machine-Learning-%28Financial-Crime-Prevention%29-111-46/1287940601/",
+      "location": "",
+      "location_type": "unknown",
+      "team": "AI & Machine Learning",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Stockholm Product Owner - AI & Machine Learning (Financial Crime Prevention), 111 46",
+      "area_tags": [
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 59,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:nordea",
+      "discovered_at": "2026-04-08T16:33:44.658Z",
+      "id": "nordea_a757db79f2e95e52f888ded0",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 10,
+        "area_preference_bonus": 12,
+        "profile_keyword_bonus": 8,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true
+    },
+    {
+      "title": "Select which cookies you accept",
+      "company": "Nordnet",
+      "company_id": "nordnet",
+      "apply_url": "https://career.nordnetab.com/jobs/7501643-network-engineer",
+      "source_url": "https://career.nordnetab.com/jobs/7501643-network-engineer",
+      "location": "Stockholm",
+      "location_type": "hybrid",
+      "team": "IT Operations",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Nordnet redefined the financial world as the first digital bank in Europe. Now we are about to do it again and the aim is to create the next generation of ba...",
+      "area_tags": [
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 48,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-04-08T16:33:44.658Z",
+      "id": "nordnet_fa09e865176c3580c7f96127",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 9,
+        "area_preference_bonus": 12,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    },
+    {
+      "title": "Select which cookies you accept",
+      "company": "Nordnet",
+      "company_id": "nordnet",
+      "apply_url": "https://career.nordnetab.com/jobs/5923098-mobile-app-platform-engineer",
+      "source_url": "https://career.nordnetab.com/jobs/5923098-mobile-app-platform-engineer",
+      "location": "Stockholm",
+      "location_type": "hybrid",
+      "team": "Engineering",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Nordnet redefined the financial world as the first digital bank in Europe. Now we are about to do it again and the aim is to create the next generation bank,...",
+      "area_tags": [
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 48,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-04-08T16:33:44.658Z",
+      "id": "nordnet_c2a3484ec4f663d2f853a426",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 9,
+        "area_preference_bonus": 12,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    },
+    {
+      "title": "Select which cookies you accept",
+      "company": "Nordnet",
+      "company_id": "nordnet",
+      "apply_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
+      "source_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
+      "location": "Stockholm",
+      "location_type": "hybrid",
+      "team": "Engineering",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Nordnet redefined the financial world as the first digital bank in Europe. Now we are about to do it again and the aim is to create the next generation of ba...",
+      "area_tags": [
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 48,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-04-08T16:33:44.658Z",
+      "id": "nordnet_31c422a02028d12443e749a2",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 9,
+        "area_preference_bonus": 12,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "DNB Carnegie",
+      "company_id": "dnb_carnegie",
+      "title": "Kundansvarig kundrelationer - Montrose",
+      "apply_url": "https://jobs.carnegie.se/job/Stockholm-Kundansvarig-kundrelationer-Montrose-103-38/1379761333/",
+      "source_url": "https://jobs.carnegie.se/job/Stockholm-Kundansvarig-kundrelationer-Montrose-103-38/1379761333/",
+      "location": "Stockholm, SE (Regeringsgatan / Stockholm office)",
+      "location_type": "onsite",
+      "team": "Montrose / Kundrelationer",
+      "posted_at": null,
+      "expires_at": "2026-04-26",
+      "summary": "Customer-facing role for Montrose (digital investment platform) handling client inquiries, onboarding and basic portfolio/investment support — involves market/ trading awareness and platform support.",
+      "area_tags": [
+        "sales_trading",
+        "analytics",
+        "portfolio_analytics"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 80,
+      "why_relevant": "Client-facing role on a trading/investment platform in Stockholm with portfolio/support tasks relevant to trading/markets operations.",
+      "confidence": 0.75,
+      "discovery_method": "openai:web_search",
+      "discovered_at": "2026-04-08T16:33:44.658Z",
+      "id": "dnb_carnegie_831db32fd203c6d6c4bf85c7",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 7,
+        "area_preference_bonus": 32,
+        "profile_keyword_bonus": 10,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true,
+      "status": "active",
+      "missing_runs": 0,
+      "first_seen_at": "2026-04-08T16:33:44.658Z",
+      "last_seen_at": "2026-04-08T16:33:44.658Z",
+      "notified_at": null
+    }
+  ],
+  "errors": [
+    {
+      "company": "External market scan",
+      "error": "The operation was aborted due to timeout"
+    }
+  ]
+}
