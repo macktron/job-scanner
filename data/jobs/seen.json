@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-10T16:24:51.348Z",
+  "updated_at": "2026-04-11T16:13:54.650Z",
   "jobs": {
     "nordea_96329aec09a934eb64f8c6c7": {
       "id": "nordea_96329aec09a934eb64f8c6c7",
@@ -98,7 +98,7 @@
       "apply_url": "https://career.nordnetab.com/jobs/5923098-mobile-app-platform-engineer",
       "first_seen_at": "2026-03-26T17:11:28.632Z",
       "last_seen_at": "2026-04-08T16:33:44.658Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-03-26T17:11:28.632Z"
     },
     "nordnet_31c422a02028d12443e749a2": {
@@ -107,7 +107,7 @@
       "title": "Select which cookies you accept",
       "apply_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
       "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-04-10T16:24:51.348Z",
+      "last_seen_at": "2026-04-11T16:13:54.650Z",
       "last_status": "active",
       "notified_at": "2026-03-26T17:11:28.632Z"
     },
@@ -167,7 +167,7 @@
       "title": "Fullstack Developer to Nordea Life & Pension Sweden",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Fullstack-Developer-to-Nordea-Life-&amp;-Pension-Sweden-111-44/1378516533/",
       "first_seen_at": "2026-03-27T17:23:30.600Z",
-      "last_seen_at": "2026-04-10T16:24:51.348Z",
+      "last_seen_at": "2026-04-11T16:13:54.650Z",
       "last_status": "active",
       "notified_at": "2026-03-27T17:23:30.600Z"
     },
@@ -217,7 +217,7 @@
       "title": "Forward Deployed AI Scientist",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Forward-Deployed-AI-Scientist-111-46/1376991633/",
       "first_seen_at": "2026-03-30T16:28:15.371Z",
-      "last_seen_at": "2026-04-10T16:24:51.348Z",
+      "last_seen_at": "2026-04-11T16:13:54.650Z",
       "last_status": "active",
       "notified_at": "2026-03-30T16:28:15.371Z"
     },
@@ -267,7 +267,7 @@
       "title": "Product Owner - AI & Machine Learning (Financial Crime Prevention)",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Product-Owner-AI-&amp;-Machine-Learning-%28Financial-Crime-Prevention%29-111-46/1287940601/",
       "first_seen_at": "2026-03-31T16:28:57.933Z",
-      "last_seen_at": "2026-04-10T16:24:51.348Z",
+      "last_seen_at": "2026-04-11T16:13:54.650Z",
       "last_status": "active",
       "notified_at": "2026-03-31T16:28:57.933Z"
     },
@@ -297,7 +297,7 @@
       "title": "AI Model Governance Analyst (Financial Crime Prevention)",
       "apply_url": "https://careers.nordea.com/job/Stockholm-AI-Model-Governance-Analyst-%28Financial-Crime-Prevention%29-111-46/1379925933/",
       "first_seen_at": "2026-04-01T16:27:03.549Z",
-      "last_seen_at": "2026-04-10T16:24:51.348Z",
+      "last_seen_at": "2026-04-11T16:13:54.650Z",
       "last_status": "active",
       "notified_at": "2026-04-01T16:27:03.549Z"
     },
@@ -307,7 +307,7 @@
       "title": "AI Product Analyst (Financial Crime Prevention)",
       "apply_url": "https://careers.nordea.com/job/Stockholm-AI-Product-Analyst-%28Financial-Crime-Prevention%29-111-46/1379924033/",
       "first_seen_at": "2026-04-01T16:27:03.549Z",
-      "last_seen_at": "2026-04-10T16:24:51.348Z",
+      "last_seen_at": "2026-04-11T16:13:54.650Z",
       "last_status": "active",
       "notified_at": "2026-04-01T16:27:03.549Z"
     },
@@ -317,7 +317,7 @@
       "title": "Select which cookies you accept",
       "apply_url": "https://career.nordnetab.com/jobs/7501643-network-engineer",
       "first_seen_at": "2026-04-01T16:27:03.549Z",
-      "last_seen_at": "2026-04-10T16:24:51.348Z",
+      "last_seen_at": "2026-04-11T16:13:54.650Z",
       "last_status": "active",
       "notified_at": "2026-04-01T16:27:03.549Z"
     },
@@ -327,8 +327,8 @@
       "title": "Junior Quantitative Risk Analyst",
       "apply_url": "https://sebgroup.com/career/find-your-new-job/our-vacant-positions/junior-quantitative-risk-analyst--seb-37c95c47-509b-41e6-8ac1-6449af1ee249",
       "first_seen_at": "2026-04-02T16:26:44.214Z",
-      "last_seen_at": "2026-04-05T16:13:52.502Z",
-      "last_status": "stale",
+      "last_seen_at": "2026-04-11T16:13:54.650Z",
+      "last_status": "active",
       "notified_at": "2026-04-02T16:26:44.214Z"
     },
     "seb_2607eafeeec82fe2f4cfbe58": {
@@ -377,8 +377,8 @@
       "title": "Equity Research Competition (student case competition)",
       "apply_url": "https://paretosecurities.teamtailor.com/jobs/7499337-equity-research-competition",
       "first_seen_at": "2026-04-06T16:22:06.854Z",
-      "last_seen_at": "2026-04-06T16:22:06.854Z",
-      "last_status": "stale",
+      "last_seen_at": "2026-04-11T16:13:54.650Z",
+      "last_status": "active",
       "notified_at": "2026-04-06T16:22:06.854Z"
     },
     "brummer_partners_4efc5c13faa8386e69879a80": {
@@ -398,7 +398,7 @@
       "apply_url": "https://careers.nordea.com/job/Stockholm-Quantitative-Risk-Analysts%2C-Credit-Stress-Testing-and-IFRS9-111-44/1290865701/?feedId=451033&amp;utm_source=CareerSite",
       "first_seen_at": "2026-04-07T16:29:00.688Z",
       "last_seen_at": "2026-04-08T16:33:44.658Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-04-07T16:29:00.688Z"
     },
     "nordea_fc25c0acae9de527e5264987": {
@@ -407,7 +407,7 @@
       "title": "Quantitative Risk Analysts, Credit Stress Testing and IFRS9",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Quantitative-Risk-Analysts%2C-Credit-Stress-Testing-and-IFRS9-111-44/1290865701/",
       "first_seen_at": "2026-04-07T16:29:00.688Z",
-      "last_seen_at": "2026-04-10T16:24:51.348Z",
+      "last_seen_at": "2026-04-11T16:13:54.650Z",
       "last_status": "active",
       "notified_at": "2026-04-07T16:29:00.688Z"
     },
@@ -428,7 +428,7 @@
       "apply_url": "https://jobs.carnegie.se/job/Stockholm-Kundansvarig-kundrelationer-Montrose-103-38/1379761333/",
       "first_seen_at": "2026-04-08T16:33:44.658Z",
       "last_seen_at": "2026-04-08T16:33:44.658Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-04-08T16:33:44.658Z"
     },
     "pareto_securities_28cc4014fa5f757cafd25085": {
@@ -467,7 +467,7 @@
       "title": "Select which cookies you accept",
       "apply_url": "https://jobs.swedbank.com/jobs/26322-data-scientist-within-client-solutions",
       "first_seen_at": "2026-04-09T16:37:44.806Z",
-      "last_seen_at": "2026-04-10T16:24:51.348Z",
+      "last_seen_at": "2026-04-11T16:13:54.650Z",
       "last_status": "active",
       "notified_at": "2026-04-09T16:37:44.806Z"
     },
@@ -497,7 +497,7 @@
       "title": "Select which cookies you accept",
       "apply_url": "https://jobs.swedbank.com/jobs/26339-senior-internal-auditor",
       "first_seen_at": "2026-04-10T16:24:51.348Z",
-      "last_seen_at": "2026-04-10T16:24:51.348Z",
+      "last_seen_at": "2026-04-11T16:13:54.650Z",
       "last_status": "active",
       "notified_at": "2026-04-10T16:24:51.348Z"
     },
@@ -517,7 +517,7 @@
       "title": "Actuary Nordea Life and Pensions",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Actuary-Nordea-Life-and-Pensions-111-56/1382586633/",
       "first_seen_at": "2026-04-10T16:24:51.348Z",
-      "last_seen_at": "2026-04-10T16:24:51.348Z",
+      "last_seen_at": "2026-04-11T16:13:54.650Z",
       "last_status": "active",
       "notified_at": "2026-04-10T16:24:51.348Z"
     },
@@ -527,9 +527,59 @@
       "title": "Product Owner role in Data Product Hub Business Team",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Product-Owner-role-in-Data-Product-Hub-Business-Team-112-51/1382591433/",
       "first_seen_at": "2026-04-10T16:24:51.348Z",
-      "last_seen_at": "2026-04-10T16:24:51.348Z",
+      "last_seen_at": "2026-04-11T16:13:54.650Z",
       "last_status": "active",
       "notified_at": "2026-04-10T16:24:51.348Z"
+    },
+    "nordea_276854b9d18fda0597641efb": {
+      "id": "nordea_276854b9d18fda0597641efb",
+      "company": "Nordea",
+      "title": "AI Platform Analyst",
+      "apply_url": "https://careers.nordea.com/job/Helsinki-AI-Platform-Analyst-00500/1382818933/?feedId=451033&amp;utm_source=CareerSite",
+      "first_seen_at": "2026-04-11T16:13:54.650Z",
+      "last_seen_at": "2026-04-11T16:13:54.650Z",
+      "last_status": "active",
+      "notified_at": "2026-04-11T16:13:54.650Z"
+    },
+    "nordea_a972ce49680ffdda22ba6432": {
+      "id": "nordea_a972ce49680ffdda22ba6432",
+      "company": "Nordea",
+      "title": "AI Platform Analyst",
+      "apply_url": "https://careers.nordea.com/job/Helsinki-AI-Platform-Analyst-00500/1382818933/",
+      "first_seen_at": "2026-04-11T16:13:54.650Z",
+      "last_seen_at": "2026-04-11T16:13:54.650Z",
+      "last_status": "active",
+      "notified_at": "2026-04-11T16:13:54.650Z"
+    },
+    "nordea_16cc712b0f561a0ea6420ac2": {
+      "id": "nordea_16cc712b0f561a0ea6420ac2",
+      "company": "Nordea",
+      "title": "AI Platform Engineer",
+      "apply_url": "https://careers.nordea.com/job/Helsinki-AI-Platform-Engineer-00500/1382818133/?feedId=451033&amp;utm_source=CareerSite",
+      "first_seen_at": "2026-04-11T16:13:54.650Z",
+      "last_seen_at": "2026-04-11T16:13:54.650Z",
+      "last_status": "active",
+      "notified_at": "2026-04-11T16:13:54.650Z"
+    },
+    "nordea_71a3122299fb5fabd490b4de": {
+      "id": "nordea_71a3122299fb5fabd490b4de",
+      "company": "Nordea",
+      "title": "AI Platform Engineer",
+      "apply_url": "https://careers.nordea.com/job/Helsinki-AI-Platform-Engineer-00500/1382818133/",
+      "first_seen_at": "2026-04-11T16:13:54.650Z",
+      "last_seen_at": "2026-04-11T16:13:54.650Z",
+      "last_status": "active",
+      "notified_at": "2026-04-11T16:13:54.650Z"
+    },
+    "pareto_securities_b6cf7bce191722a2dacc4903": {
+      "id": "pareto_securities_b6cf7bce191722a2dacc4903",
+      "company": "Pareto Securities",
+      "title": "Open Application — Sweden (Stockholm)",
+      "apply_url": "https://paretosecurities.teamtailor.com/jobs/3713025-open-application-sweden",
+      "first_seen_at": "2026-04-11T16:13:54.650Z",
+      "last_seen_at": "2026-04-11T16:13:54.650Z",
+      "last_status": "active",
+      "notified_at": "2026-04-11T16:13:54.650Z"
     }
   }
 }
