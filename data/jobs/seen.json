@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-12T16:15:41.709Z",
+  "updated_at": "2026-04-13T16:34:12.614Z",
   "jobs": {
     "nordea_96329aec09a934eb64f8c6c7": {
       "id": "nordea_96329aec09a934eb64f8c6c7",
@@ -8,7 +8,7 @@
       "apply_url": "https://careers.nordea.com/job/Stockholm-Quantitative-Risk-Model-Developer-%28Credit-Risk%29-111-46/1376849133/",
       "first_seen_at": "2026-03-26T17:11:28.632Z",
       "last_seen_at": "2026-04-10T16:24:51.348Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-03-26T17:11:28.632Z"
     },
     "nasdaq_stockholm_480948329734a33a081093b5": {
@@ -107,7 +107,7 @@
       "title": "Select which cookies you accept",
       "apply_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
       "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-04-12T16:15:41.709Z",
+      "last_seen_at": "2026-04-13T16:34:12.614Z",
       "last_status": "active",
       "notified_at": "2026-03-26T17:11:28.632Z"
     },
@@ -167,7 +167,7 @@
       "title": "Fullstack Developer to Nordea Life & Pension Sweden",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Fullstack-Developer-to-Nordea-Life-&amp;-Pension-Sweden-111-44/1378516533/",
       "first_seen_at": "2026-03-27T17:23:30.600Z",
-      "last_seen_at": "2026-04-12T16:15:41.709Z",
+      "last_seen_at": "2026-04-13T16:34:12.614Z",
       "last_status": "active",
       "notified_at": "2026-03-27T17:23:30.600Z"
     },
@@ -267,7 +267,7 @@
       "title": "Product Owner - AI & Machine Learning (Financial Crime Prevention)",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Product-Owner-AI-&amp;-Machine-Learning-%28Financial-Crime-Prevention%29-111-46/1287940601/",
       "first_seen_at": "2026-03-31T16:28:57.933Z",
-      "last_seen_at": "2026-04-12T16:15:41.709Z",
+      "last_seen_at": "2026-04-13T16:34:12.614Z",
       "last_status": "active",
       "notified_at": "2026-03-31T16:28:57.933Z"
     },
@@ -297,7 +297,7 @@
       "title": "AI Model Governance Analyst (Financial Crime Prevention)",
       "apply_url": "https://careers.nordea.com/job/Stockholm-AI-Model-Governance-Analyst-%28Financial-Crime-Prevention%29-111-46/1379925933/",
       "first_seen_at": "2026-04-01T16:27:03.549Z",
-      "last_seen_at": "2026-04-12T16:15:41.709Z",
+      "last_seen_at": "2026-04-13T16:34:12.614Z",
       "last_status": "active",
       "notified_at": "2026-04-01T16:27:03.549Z"
     },
@@ -307,7 +307,7 @@
       "title": "AI Product Analyst (Financial Crime Prevention)",
       "apply_url": "https://careers.nordea.com/job/Stockholm-AI-Product-Analyst-%28Financial-Crime-Prevention%29-111-46/1379924033/",
       "first_seen_at": "2026-04-01T16:27:03.549Z",
-      "last_seen_at": "2026-04-12T16:15:41.709Z",
+      "last_seen_at": "2026-04-13T16:34:12.614Z",
       "last_status": "active",
       "notified_at": "2026-04-01T16:27:03.549Z"
     },
@@ -317,7 +317,7 @@
       "title": "Select which cookies you accept",
       "apply_url": "https://career.nordnetab.com/jobs/7501643-network-engineer",
       "first_seen_at": "2026-04-01T16:27:03.549Z",
-      "last_seen_at": "2026-04-12T16:15:41.709Z",
+      "last_seen_at": "2026-04-13T16:34:12.614Z",
       "last_status": "active",
       "notified_at": "2026-04-01T16:27:03.549Z"
     },
@@ -407,7 +407,7 @@
       "title": "Quantitative Risk Analysts, Credit Stress Testing and IFRS9",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Quantitative-Risk-Analysts%2C-Credit-Stress-Testing-and-IFRS9-111-44/1290865701/",
       "first_seen_at": "2026-04-07T16:29:00.688Z",
-      "last_seen_at": "2026-04-12T16:15:41.709Z",
+      "last_seen_at": "2026-04-13T16:34:12.614Z",
       "last_status": "active",
       "notified_at": "2026-04-07T16:29:00.688Z"
     },
@@ -467,7 +467,7 @@
       "title": "Select which cookies you accept",
       "apply_url": "https://jobs.swedbank.com/jobs/26322-data-scientist-within-client-solutions",
       "first_seen_at": "2026-04-09T16:37:44.806Z",
-      "last_seen_at": "2026-04-12T16:15:41.709Z",
+      "last_seen_at": "2026-04-13T16:34:12.614Z",
       "last_status": "active",
       "notified_at": "2026-04-09T16:37:44.806Z"
     },
@@ -477,7 +477,7 @@
       "title": "Equity Research Competition",
       "apply_url": "https://paretosecurities.teamtailor.com/jobs/7499337-equity-research-competition",
       "first_seen_at": "2026-04-10T16:24:51.348Z",
-      "last_seen_at": "2026-04-10T16:24:51.348Z",
+      "last_seen_at": "2026-04-13T16:34:12.614Z",
       "last_status": "active",
       "notified_at": "2026-04-10T16:24:51.348Z"
     },
@@ -488,7 +488,7 @@
       "apply_url": "https://paretosecurities.teamtailor.com/jobs/3713025-open-application-sweden",
       "first_seen_at": "2026-04-10T16:24:51.348Z",
       "last_seen_at": "2026-04-10T16:24:51.348Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-04-10T16:24:51.348Z"
     },
     "swedbank_8ead156c5114ccfe1c699663": {
@@ -497,7 +497,7 @@
       "title": "Select which cookies you accept",
       "apply_url": "https://jobs.swedbank.com/jobs/26339-senior-internal-auditor",
       "first_seen_at": "2026-04-10T16:24:51.348Z",
-      "last_seen_at": "2026-04-12T16:15:41.709Z",
+      "last_seen_at": "2026-04-13T16:34:12.614Z",
       "last_status": "active",
       "notified_at": "2026-04-10T16:24:51.348Z"
     },
@@ -508,7 +508,7 @@
       "apply_url": "https://careers.nordea.com/job/Stockholm-Actuary-Nordea-Life-and-Pensions-111-56/1382586633/?feedId=451033&amp;utm_source=CareerSite",
       "first_seen_at": "2026-04-10T16:24:51.348Z",
       "last_seen_at": "2026-04-10T16:24:51.348Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-04-10T16:24:51.348Z"
     },
     "nordea_0f0b6e0a88fc5d004cdb76a1": {
@@ -517,7 +517,7 @@
       "title": "Actuary Nordea Life and Pensions",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Actuary-Nordea-Life-and-Pensions-111-56/1382586633/",
       "first_seen_at": "2026-04-10T16:24:51.348Z",
-      "last_seen_at": "2026-04-12T16:15:41.709Z",
+      "last_seen_at": "2026-04-13T16:34:12.614Z",
       "last_status": "active",
       "notified_at": "2026-04-10T16:24:51.348Z"
     },
@@ -527,7 +527,7 @@
       "title": "Product Owner role in Data Product Hub Business Team",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Product-Owner-role-in-Data-Product-Hub-Business-Team-112-51/1382591433/",
       "first_seen_at": "2026-04-10T16:24:51.348Z",
-      "last_seen_at": "2026-04-12T16:15:41.709Z",
+      "last_seen_at": "2026-04-13T16:34:12.614Z",
       "last_status": "active",
       "notified_at": "2026-04-10T16:24:51.348Z"
     },
@@ -567,7 +567,7 @@
       "title": "AI Platform Engineer",
       "apply_url": "https://careers.nordea.com/job/Helsinki-AI-Platform-Engineer-00500/1382818133/",
       "first_seen_at": "2026-04-11T16:13:54.650Z",
-      "last_seen_at": "2026-04-12T16:15:41.709Z",
+      "last_seen_at": "2026-04-13T16:34:12.614Z",
       "last_status": "active",
       "notified_at": "2026-04-11T16:13:54.650Z"
     },
@@ -590,6 +590,36 @@
       "last_seen_at": "2026-04-12T16:15:41.709Z",
       "last_status": "active",
       "notified_at": "2026-04-12T16:15:41.709Z"
+    },
+    "nordea_be711bb5606fdb688a94da17": {
+      "id": "nordea_be711bb5606fdb688a94da17",
+      "company": "Nordea",
+      "title": "AI Platform Analyst",
+      "apply_url": "https://careers.nordea.com/job/Helsinki-AI-Platform-Analyst-00500/1382818933/",
+      "first_seen_at": "2026-04-13T16:34:12.614Z",
+      "last_seen_at": "2026-04-13T16:34:12.614Z",
+      "last_status": "active",
+      "notified_at": "2026-04-13T16:34:12.614Z"
+    },
+    "pareto_securities_ba48131c450cee9422282ece": {
+      "id": "pareto_securities_ba48131c450cee9422282ece",
+      "company": "Pareto Securities",
+      "title": "Open Application Sweden",
+      "apply_url": "https://paretosecurities.teamtailor.com/jobs/3713025-open-application-sweden",
+      "first_seen_at": "2026-04-13T16:34:12.614Z",
+      "last_seen_at": "2026-04-13T16:34:12.614Z",
+      "last_status": "active",
+      "notified_at": "2026-04-13T16:34:12.614Z"
+    },
+    "swedbank_a12dffc28e9d28ca2395d1f2": {
+      "id": "swedbank_a12dffc28e9d28ca2395d1f2",
+      "company": "Swedbank",
+      "title": "Select which cookies you accept",
+      "apply_url": "https://jobs.swedbank.com/jobs/26356-client-advisor-generalist",
+      "first_seen_at": "2026-04-13T16:34:12.614Z",
+      "last_seen_at": "2026-04-13T16:34:12.614Z",
+      "last_status": "active",
+      "notified_at": "2026-04-13T16:34:12.614Z"
     }
   }
 }
