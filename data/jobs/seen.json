@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T16:32:28.050Z",
+  "updated_at": "2026-04-15T16:30:03.859Z",
   "jobs": {
     "nordea_96329aec09a934eb64f8c6c7": {
       "id": "nordea_96329aec09a934eb64f8c6c7",
@@ -97,7 +97,7 @@
       "title": "Select which cookies you accept",
       "apply_url": "https://career.nordnetab.com/jobs/5923098-mobile-app-platform-engineer",
       "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-04-14T16:32:28.050Z",
+      "last_seen_at": "2026-04-15T16:30:03.859Z",
       "last_status": "active",
       "notified_at": "2026-03-26T17:11:28.632Z"
     },
@@ -107,7 +107,7 @@
       "title": "Select which cookies you accept",
       "apply_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
       "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-04-14T16:32:28.050Z",
+      "last_seen_at": "2026-04-15T16:30:03.859Z",
       "last_status": "active",
       "notified_at": "2026-03-26T17:11:28.632Z"
     },
@@ -167,7 +167,7 @@
       "title": "Fullstack Developer to Nordea Life & Pension Sweden",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Fullstack-Developer-to-Nordea-Life-&amp;-Pension-Sweden-111-44/1378516533/",
       "first_seen_at": "2026-03-27T17:23:30.600Z",
-      "last_seen_at": "2026-04-14T16:32:28.050Z",
+      "last_seen_at": "2026-04-15T16:30:03.859Z",
       "last_status": "active",
       "notified_at": "2026-03-27T17:23:30.600Z"
     },
@@ -218,7 +218,7 @@
       "apply_url": "https://careers.nordea.com/job/Stockholm-Forward-Deployed-AI-Scientist-111-46/1376991633/",
       "first_seen_at": "2026-03-30T16:28:15.371Z",
       "last_seen_at": "2026-04-12T16:15:41.709Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-03-30T16:28:15.371Z"
     },
     "pareto_securities_c47a56c7a96cba4e5ed27bdb": {
@@ -297,7 +297,7 @@
       "title": "AI Model Governance Analyst (Financial Crime Prevention)",
       "apply_url": "https://careers.nordea.com/job/Stockholm-AI-Model-Governance-Analyst-%28Financial-Crime-Prevention%29-111-46/1379925933/",
       "first_seen_at": "2026-04-01T16:27:03.549Z",
-      "last_seen_at": "2026-04-14T16:32:28.050Z",
+      "last_seen_at": "2026-04-15T16:30:03.859Z",
       "last_status": "active",
       "notified_at": "2026-04-01T16:27:03.549Z"
     },
@@ -307,7 +307,7 @@
       "title": "AI Product Analyst (Financial Crime Prevention)",
       "apply_url": "https://careers.nordea.com/job/Stockholm-AI-Product-Analyst-%28Financial-Crime-Prevention%29-111-46/1379924033/",
       "first_seen_at": "2026-04-01T16:27:03.549Z",
-      "last_seen_at": "2026-04-14T16:32:28.050Z",
+      "last_seen_at": "2026-04-15T16:30:03.859Z",
       "last_status": "active",
       "notified_at": "2026-04-01T16:27:03.549Z"
     },
@@ -317,7 +317,7 @@
       "title": "Select which cookies you accept",
       "apply_url": "https://career.nordnetab.com/jobs/7501643-network-engineer",
       "first_seen_at": "2026-04-01T16:27:03.549Z",
-      "last_seen_at": "2026-04-14T16:32:28.050Z",
+      "last_seen_at": "2026-04-15T16:30:03.859Z",
       "last_status": "active",
       "notified_at": "2026-04-01T16:27:03.549Z"
     },
@@ -327,8 +327,8 @@
       "title": "Junior Quantitative Risk Analyst",
       "apply_url": "https://sebgroup.com/career/find-your-new-job/our-vacant-positions/junior-quantitative-risk-analyst--seb-37c95c47-509b-41e6-8ac1-6449af1ee249",
       "first_seen_at": "2026-04-02T16:26:44.214Z",
-      "last_seen_at": "2026-04-11T16:13:54.650Z",
-      "last_status": "stale",
+      "last_seen_at": "2026-04-15T16:30:03.859Z",
+      "last_status": "active",
       "notified_at": "2026-04-02T16:26:44.214Z"
     },
     "seb_2607eafeeec82fe2f4cfbe58": {
@@ -407,7 +407,7 @@
       "title": "Quantitative Risk Analysts, Credit Stress Testing and IFRS9",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Quantitative-Risk-Analysts%2C-Credit-Stress-Testing-and-IFRS9-111-44/1290865701/",
       "first_seen_at": "2026-04-07T16:29:00.688Z",
-      "last_seen_at": "2026-04-14T16:32:28.050Z",
+      "last_seen_at": "2026-04-15T16:30:03.859Z",
       "last_status": "active",
       "notified_at": "2026-04-07T16:29:00.688Z"
     },
@@ -517,7 +517,7 @@
       "title": "Actuary Nordea Life and Pensions",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Actuary-Nordea-Life-and-Pensions-111-56/1382586633/",
       "first_seen_at": "2026-04-10T16:24:51.348Z",
-      "last_seen_at": "2026-04-14T16:32:28.050Z",
+      "last_seen_at": "2026-04-15T16:30:03.859Z",
       "last_status": "active",
       "notified_at": "2026-04-10T16:24:51.348Z"
     },
@@ -548,7 +548,7 @@
       "apply_url": "https://careers.nordea.com/job/Helsinki-AI-Platform-Analyst-00500/1382818933/",
       "first_seen_at": "2026-04-11T16:13:54.650Z",
       "last_seen_at": "2026-04-12T16:15:41.709Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-04-11T16:13:54.650Z"
     },
     "nordea_16cc712b0f561a0ea6420ac2": {
@@ -588,7 +588,7 @@
       "apply_url": "https://se.linkedin.com/jobs/view/quantitative-analyst-developer-till-brummer-partners-at-sjr-4369759696",
       "first_seen_at": "2026-04-12T16:15:41.709Z",
       "last_seen_at": "2026-04-12T16:15:41.709Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-04-12T16:15:41.709Z"
     },
     "nordea_be711bb5606fdb688a94da17": {
@@ -617,7 +617,7 @@
       "title": "Select which cookies you accept",
       "apply_url": "https://jobs.swedbank.com/jobs/26356-client-advisor-generalist",
       "first_seen_at": "2026-04-13T16:34:12.614Z",
-      "last_seen_at": "2026-04-14T16:32:28.050Z",
+      "last_seen_at": "2026-04-15T16:30:03.859Z",
       "last_status": "active",
       "notified_at": "2026-04-13T16:34:12.614Z"
     },
@@ -637,7 +637,7 @@
       "title": "AI Platform Engineer",
       "apply_url": "https://careers.nordea.com/job/Helsinki-AI-Platform-Engineer-00500/1382818133/",
       "first_seen_at": "2026-04-14T16:32:28.050Z",
-      "last_seen_at": "2026-04-14T16:32:28.050Z",
+      "last_seen_at": "2026-04-15T16:30:03.859Z",
       "last_status": "active",
       "notified_at": "2026-04-14T16:32:28.050Z"
     },
@@ -647,9 +647,89 @@
       "title": "Product Owner role in Data Product Hub Business Team",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Product-Owner-role-in-Data-Product-Hub-Business-Team-112-51/1382591433/",
       "first_seen_at": "2026-04-14T16:32:28.050Z",
-      "last_seen_at": "2026-04-14T16:32:28.050Z",
+      "last_seen_at": "2026-04-15T16:30:03.859Z",
       "last_status": "active",
       "notified_at": "2026-04-14T16:32:28.050Z"
+    },
+    "nordea_db282f3a8744d74a812017a6": {
+      "id": "nordea_db282f3a8744d74a812017a6",
+      "company": "Nordea",
+      "title": "AI Platform Analyst",
+      "apply_url": "https://careers.nordea.com/job/Helsinki-AI-Platform-Analyst-00500/1382818933/",
+      "first_seen_at": "2026-04-15T16:30:03.859Z",
+      "last_seen_at": "2026-04-15T16:30:03.859Z",
+      "last_status": "active",
+      "notified_at": "2026-04-15T16:30:03.859Z"
+    },
+    "pareto_securities_805a3b7915a44796193fecef": {
+      "id": "pareto_securities_805a3b7915a44796193fecef",
+      "company": "Pareto Securities",
+      "title": "Open Application - Sweden",
+      "apply_url": "https://paretosecurities.teamtailor.com/jobs/3713025-open-application-sweden",
+      "first_seen_at": "2026-04-15T16:30:03.859Z",
+      "last_seen_at": "2026-04-15T16:30:03.859Z",
+      "last_status": "active",
+      "notified_at": "2026-04-15T16:30:03.859Z"
+    },
+    "dnb_carnegie_79e96e0a474f97bec131c61c": {
+      "id": "dnb_carnegie_79e96e0a474f97bec131c61c",
+      "company": "DNB Carnegie",
+      "title": "Kundansvarig kundrelationer - Montrose",
+      "apply_url": "https://jobs.carnegie.se/talentcommunity/apply/1379761333/?locale=en_GB",
+      "first_seen_at": "2026-04-15T16:30:03.859Z",
+      "last_seen_at": "2026-04-15T16:30:03.859Z",
+      "last_status": "active",
+      "notified_at": "2026-04-15T16:30:03.859Z"
+    },
+    "abg_sundal_collier_16fbd1a8890b3b1dfb99c49d": {
+      "id": "abg_sundal_collier_16fbd1a8890b3b1dfb99c49d",
+      "company": "ABG Sundal Collier",
+      "title": "Junior Equity Research Analyst — Financial Sector (Stockholm)",
+      "apply_url": "https://www.abgsc.com/careers#job-posting-6069777",
+      "first_seen_at": "2026-04-15T16:30:03.859Z",
+      "last_seen_at": "2026-04-15T16:30:03.859Z",
+      "last_status": "active",
+      "notified_at": "2026-04-15T16:30:03.859Z"
+    },
+    "abg_sundal_collier_bd141682b1e5d2cb4700aaca": {
+      "id": "abg_sundal_collier_bd141682b1e5d2cb4700aaca",
+      "company": "ABG Sundal Collier",
+      "title": "Junior Equity & Credit Research Analysts (Stockholm)",
+      "apply_url": "https://www.abgsc.com/careers",
+      "first_seen_at": "2026-04-15T16:30:03.859Z",
+      "last_seen_at": "2026-04-15T16:30:03.859Z",
+      "last_status": "active",
+      "notified_at": "2026-04-15T16:30:03.859Z"
+    },
+    "abg_sundal_collier_63c2de7be64f73ad95ee96f2": {
+      "id": "abg_sundal_collier_63c2de7be64f73ad95ee96f2",
+      "company": "ABG Sundal Collier",
+      "title": "Equity Research Internship (Fall 2026)",
+      "apply_url": "https://www.abgsc.com/careers",
+      "first_seen_at": "2026-04-15T16:30:03.859Z",
+      "last_seen_at": "2026-04-15T16:30:03.859Z",
+      "last_status": "active",
+      "notified_at": "2026-04-15T16:30:03.859Z"
+    },
+    "pareto_securities_2ae1095c6e9a2e9249e0b25b": {
+      "id": "pareto_securities_2ae1095c6e9a2e9249e0b25b",
+      "company": "Pareto Securities",
+      "title": "Equity Research case competition",
+      "apply_url": "https://paretosecurities.teamtailor.com/jobs/7499337-equity-research-competition",
+      "first_seen_at": "2026-04-15T16:30:03.859Z",
+      "last_seen_at": "2026-04-15T16:30:03.859Z",
+      "last_status": "active",
+      "notified_at": "2026-04-15T16:30:03.859Z"
+    },
+    "abg_sundal_collier_d8d19c1e64bf5ca75958c10f": {
+      "id": "abg_sundal_collier_d8d19c1e64bf5ca75958c10f",
+      "company": "ABG Sundal Collier",
+      "title": "Investment Banking Internship (Fall 2026) — Stockholm",
+      "apply_url": "https://www.abgsc.com/careers",
+      "first_seen_at": "2026-04-15T16:30:03.859Z",
+      "last_seen_at": "2026-04-15T16:30:03.859Z",
+      "last_status": "active",
+      "notified_at": "2026-04-15T16:30:03.859Z"
     }
   }
 }
