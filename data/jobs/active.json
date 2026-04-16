@@ -1,6 +1,82 @@
 {
-  "updated_at": "2026-04-15T16:30:03.859Z",
+  "updated_at": "2026-04-16T16:40:02.464Z",
   "jobs": [
+    {
+      "title": "Counterparty Credit Risk Model Developer",
+      "company": "Nordea",
+      "company_id": "nordea",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-Counterparty-Credit-Risk-Model-Developer-111-46/1289284201/?feedId=451033&amp;utm_source=CareerSite",
+      "source_url": "https://careers.nordea.com/job/Stockholm-Counterparty-Credit-Risk-Model-Developer-111-46/1289284201/?feedId=451033&amp;utm_source=CareerSite",
+      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Counterparty Credit Risk Model Developer Stockholm, SE, 111 46 #job-location.job-location-inline { display: inline; }",
+      "location_type": "unknown",
+      "team": "Counterparty Credit Risk Models",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Stockholm Counterparty Credit Risk Model Developer, 111 46",
+      "area_tags": [
+        "risk",
+        "market_risk",
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 100,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:nordea",
+      "discovered_at": "2026-04-16T16:40:02.464Z",
+      "id": "nordea_11cc62ba2f52f3e2a0a74688",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 10,
+        "area_preference_bonus": 40,
+        "profile_keyword_bonus": 27,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true,
+      "status": "active",
+      "missing_runs": 0,
+      "first_seen_at": "2026-04-16T16:40:02.464Z",
+      "last_seen_at": "2026-04-16T16:40:02.464Z",
+      "notified_at": "2026-04-16T16:40:02.464Z"
+    },
+    {
+      "title": "Counterparty Credit Risk Model Developer",
+      "company": "Nordea",
+      "company_id": "nordea",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-Counterparty-Credit-Risk-Model-Developer-111-46/1289284201/",
+      "source_url": "https://careers.nordea.com/job/Stockholm-Counterparty-Credit-Risk-Model-Developer-111-46/1289284201/",
+      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Counterparty Credit Risk Model Developer Stockholm, SE, 111 46 #job-location.job-location-inline { display: inline; }",
+      "location_type": "unknown",
+      "team": "Counterparty Credit Risk Models",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Stockholm Counterparty Credit Risk Model Developer, 111 46",
+      "area_tags": [
+        "risk",
+        "market_risk",
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 100,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:nordea",
+      "discovered_at": "2026-04-16T16:40:02.464Z",
+      "id": "nordea_28761a23623112bf845ca828",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 10,
+        "area_preference_bonus": 40,
+        "profile_keyword_bonus": 27,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true,
+      "status": "active",
+      "missing_runs": 0,
+      "first_seen_at": "2026-04-16T16:40:02.464Z",
+      "last_seen_at": "2026-04-16T16:40:02.464Z",
+      "notified_at": "2026-04-16T16:40:02.464Z"
+    },
     {
       "title": "Quantitative Risk Analysts, Credit Stress Testing and IFRS9",
       "company": "Nordea",
@@ -27,7 +103,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:nordea",
-      "discovered_at": "2026-04-15T16:30:03.859Z",
+      "discovered_at": "2026-04-16T16:40:02.464Z",
       "id": "nordea_fc25c0acae9de527e5264987",
       "profile_score_breakdown": {
         "company_preference_bonus": 10,
@@ -39,7 +115,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-04-07T16:29:00.688Z",
-      "last_seen_at": "2026-04-15T16:30:03.859Z",
+      "last_seen_at": "2026-04-16T16:40:02.464Z",
       "notified_at": "2026-04-07T16:29:00.688Z"
     },
     {
@@ -66,7 +142,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:nordea",
-      "discovered_at": "2026-04-15T16:30:03.859Z",
+      "discovered_at": "2026-04-16T16:40:02.464Z",
       "id": "nordea_db282f3a8744d74a812017a6",
       "profile_score_breakdown": {
         "company_preference_bonus": 10,
@@ -78,7 +154,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-04-15T16:30:03.859Z",
-      "last_seen_at": "2026-04-15T16:30:03.859Z",
+      "last_seen_at": "2026-04-16T16:40:02.464Z",
       "notified_at": "2026-04-15T16:30:03.859Z"
     },
     {
@@ -115,49 +191,10 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-04-14T16:32:28.050Z",
       "last_seen_at": "2026-04-14T16:32:28.050Z",
       "notified_at": "2026-04-14T16:32:28.050Z"
-    },
-    {
-      "title": "AI Platform Analyst",
-      "company": "Nordea",
-      "company_id": "nordea",
-      "apply_url": "https://careers.nordea.com/job/Helsinki-AI-Platform-Analyst-00500/1382818933/",
-      "source_url": "https://careers.nordea.com/job/Helsinki-AI-Platform-Analyst-00500/1382818933/",
-      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » AI Platform Analyst Helsinki, FI, 00500 Stockholm, SE, 111 44 Tallinn, EE, 11415 Warszawa, PL, 02-460 #job-location.job-location-inline { display: inline; }",
-      "location_type": "unknown",
-      "team": "AI & Machine Learning",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Helsinki AI Platform Analyst, 00500",
-      "area_tags": [
-        "market_risk",
-        "research",
-        "data_science",
-        "analytics"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 100,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:nordea",
-      "discovered_at": "2026-04-13T16:34:12.614Z",
-      "id": "nordea_be711bb5606fdb688a94da17",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 10,
-        "area_preference_bonus": 45,
-        "profile_keyword_bonus": 15,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-04-13T16:34:12.614Z",
-      "last_seen_at": "2026-04-13T16:34:12.614Z",
-      "notified_at": "2026-04-13T16:34:12.614Z"
     },
     {
       "company": "Pareto Securities",
@@ -194,7 +231,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-04-15T16:30:03.859Z",
       "last_seen_at": "2026-04-15T16:30:03.859Z",
       "notified_at": "2026-04-15T16:30:03.859Z"
@@ -234,10 +271,49 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-04-02T16:26:44.214Z",
       "last_seen_at": "2026-04-15T16:30:03.859Z",
       "notified_at": "2026-04-02T16:26:44.214Z"
+    },
+    {
+      "title": "AML Analyst - Part time",
+      "company": "Avanza",
+      "company_id": "avanza",
+      "apply_url": "https://career.avanza.se/jobs/7579502-aml-analyst-part-time",
+      "source_url": "https://career.avanza.se/jobs/7579502-aml-analyst-part-time",
+      "location": "Stockholm, SE",
+      "location_type": "unknown",
+      "team": "",
+      "posted_at": "2026-04-16",
+      "expires_at": "2026-05-03",
+      "summary": "Vill du göra skillnad i arbetet mot penningtvätt och finansiering av terrorism – och samtidigt bli en del av ett kunnigt och engagerat team? Har du minst två år kvar av dina studier och vill bidra i ett samhällsviktigt uppdrag? Då kan rollen som deltidsanställd AML-analyst på Avanza vara rätt för dig! Om tjänsten Som deltidsanställd AML-analyst på Avanza blir du en del av Surveillance – teamet som...",
+      "area_tags": [
+        "market_risk",
+        "research",
+        "analytics",
+        "market_surveillance"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 94,
+      "why_relevant": "",
+      "confidence": 0.75,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-04-16T16:40:02.464Z",
+      "id": "avanza_4228d683db7466d53aa98c98",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 9,
+        "area_preference_bonus": 41,
+        "profile_keyword_bonus": 7,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true,
+      "status": "active",
+      "missing_runs": 0,
+      "first_seen_at": "2026-04-16T16:40:02.464Z",
+      "last_seen_at": "2026-04-16T16:40:02.464Z",
+      "notified_at": "2026-04-16T16:40:02.464Z"
     },
     {
       "title": "AI Model Governance Analyst (Financial Crime Prevention)",
@@ -272,7 +348,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-04-01T16:27:03.549Z",
       "last_seen_at": "2026-04-15T16:30:03.859Z",
       "notified_at": "2026-04-01T16:27:03.549Z"
@@ -310,7 +386,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-04-01T16:27:03.549Z",
       "last_seen_at": "2026-04-15T16:30:03.859Z",
       "notified_at": "2026-04-01T16:27:03.549Z"
@@ -348,7 +424,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-04-15T16:30:03.859Z",
       "last_seen_at": "2026-04-15T16:30:03.859Z",
       "notified_at": "2026-04-15T16:30:03.859Z"
@@ -387,10 +463,47 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-04-15T16:30:03.859Z",
       "last_seen_at": "2026-04-15T16:30:03.859Z",
       "notified_at": "2026-04-15T16:30:03.859Z"
+    },
+    {
+      "title": "AI Platform Engineer",
+      "company": "Nordea",
+      "company_id": "nordea",
+      "apply_url": "https://careers.nordea.com/job/Helsinki-AI-Platform-Engineer-00500/1382818133/",
+      "source_url": "https://careers.nordea.com/job/Helsinki-AI-Platform-Engineer-00500/1382818133/",
+      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » AI Platform Engineer Helsinki, FI, 00500 Tallinn, EE, 11415 Warszawa, PL, 02-460 Stockholm, SE, 111 46 #job-location.job-location-inline { display: inline; }",
+      "location_type": "unknown",
+      "team": "AI & Machine Learning",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Helsinki AI Platform Engineer, 00500",
+      "area_tags": [
+        "market_risk",
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 78,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:nordea",
+      "discovered_at": "2026-04-16T16:40:02.464Z",
+      "id": "nordea_71a3122299fb5fabd490b4de",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 10,
+        "area_preference_bonus": 27,
+        "profile_keyword_bonus": 8,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true,
+      "status": "active",
+      "missing_runs": 0,
+      "first_seen_at": "2026-04-11T16:13:54.650Z",
+      "last_seen_at": "2026-04-16T16:40:02.464Z",
+      "notified_at": "2026-04-11T16:13:54.650Z"
     },
     {
       "title": "AI Platform Engineer",
@@ -424,47 +537,10 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-04-14T16:32:28.050Z",
       "last_seen_at": "2026-04-15T16:30:03.859Z",
       "notified_at": "2026-04-14T16:32:28.050Z"
-    },
-    {
-      "title": "AI Platform Engineer",
-      "company": "Nordea",
-      "company_id": "nordea",
-      "apply_url": "https://careers.nordea.com/job/Helsinki-AI-Platform-Engineer-00500/1382818133/",
-      "source_url": "https://careers.nordea.com/job/Helsinki-AI-Platform-Engineer-00500/1382818133/",
-      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » AI Platform Engineer Helsinki, FI, 00500 Tallinn, EE, 11415 Warszawa, PL, 02-460 Stockholm, SE, 111 46 #job-location.job-location-inline { display: inline; }",
-      "location_type": "unknown",
-      "team": "AI & Machine Learning",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Helsinki AI Platform Engineer, 00500",
-      "area_tags": [
-        "market_risk",
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 78,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:nordea",
-      "discovered_at": "2026-04-13T16:34:12.614Z",
-      "id": "nordea_71a3122299fb5fabd490b4de",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 10,
-        "area_preference_bonus": 27,
-        "profile_keyword_bonus": 8,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-04-11T16:13:54.650Z",
-      "last_seen_at": "2026-04-13T16:34:12.614Z",
-      "notified_at": "2026-04-11T16:13:54.650Z"
     },
     {
       "company": "ABG Sundal Collier",
@@ -499,10 +575,84 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-04-15T16:30:03.859Z",
       "last_seen_at": "2026-04-15T16:30:03.859Z",
       "notified_at": "2026-04-15T16:30:03.859Z"
+    },
+    {
+      "company": "DNB Carnegie",
+      "company_id": "dnb_carnegie",
+      "title": "Kvällsmäklare - Montrose Kundrelationer (student)",
+      "apply_url": "https://jobs.carnegie.se/job/Stockholm-Kv%C3%A4llsm%C3%A4klare-Montrose-Kundrelationer-%28student%29-103-38/1288978301/",
+      "source_url": "https://jobs.carnegie.se/job/Stockholm-Kv%C3%A4llsm%C3%A4klare-Montrose-Kundrelationer-%28student%29-103-38/1288978301/",
+      "location": "Stockholm, SE, 103 38",
+      "location_type": "onsite",
+      "team": "Montrose Kundrelationer (Montrose / DNB Carnegie)",
+      "posted_at": null,
+      "expires_at": "2026-04-26",
+      "summary": "Student/part-time role in the Montrose customer-relations team handling customer questions and assisting when customers want to trade equities and other securities. Requires at least two semesters left in studies; Swedsec licence supported by employer.",
+      "area_tags": [
+        "sales_trading",
+        "trading"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 74,
+      "why_relevant": "Student trading/support role at Montrose (DNB Carnegie) that directly involves handling customer trades and market activity.",
+      "confidence": 0.9,
+      "discovery_method": "openai:web_search",
+      "discovered_at": "2026-04-16T16:40:02.464Z",
+      "id": "dnb_carnegie_55a41d3235f689e89d22205b",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 7,
+        "area_preference_bonus": 32,
+        "profile_keyword_bonus": 10,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true,
+      "status": "active",
+      "missing_runs": 0,
+      "first_seen_at": "2026-04-16T16:40:02.464Z",
+      "last_seen_at": "2026-04-16T16:40:02.464Z",
+      "notified_at": "2026-04-16T16:40:02.464Z"
+    },
+    {
+      "company": "DNB Carnegie",
+      "company_id": "dnb_carnegie",
+      "title": "Kundansvarig kundrelationer - Montrose",
+      "apply_url": "https://jobs.carnegie.se/job/Stockholm-Kundansvarig-kundrelationer-Montrose-103-38/1379761333/",
+      "source_url": "https://jobs.carnegie.se/job/Stockholm-Kundansvarig-kundrelationer-Montrose-103-38/1379761333/",
+      "location": "Stockholm, SE, 103 38",
+      "location_type": "onsite",
+      "team": "Montrose Kundrelationer (Montrose / DNB Carnegie)",
+      "posted_at": null,
+      "expires_at": "2026-04-26",
+      "summary": "Full-time customer-responsibility role within Montrose (DNB Carnegie's digital investment platform). You handle incoming customer enquiries, assist customers with trading and onboarding, and collaborate with internal teams. Swedsec licence is meritorious and can be arranged.",
+      "area_tags": [
+        "sales_trading",
+        "trading"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 74,
+      "why_relevant": "Client-facing role supporting customers who trade securities on Montrose; junior-friendly and explicitly based in Stockholm.",
+      "confidence": 0.8,
+      "discovery_method": "openai:web_search",
+      "discovered_at": "2026-04-16T16:40:02.464Z",
+      "id": "dnb_carnegie_2899d2ae6f19669b48c2e8dd",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 7,
+        "area_preference_bonus": 32,
+        "profile_keyword_bonus": 10,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true,
+      "status": "active",
+      "missing_runs": 0,
+      "first_seen_at": "2026-04-16T16:40:02.464Z",
+      "last_seen_at": "2026-04-16T16:40:02.464Z",
+      "notified_at": "2026-04-16T16:40:02.464Z"
     },
     {
       "title": "Select which cookies you accept",
@@ -536,7 +686,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-04-10T16:24:51.348Z",
       "last_seen_at": "2026-04-14T16:32:28.050Z",
       "notified_at": "2026-04-10T16:24:51.348Z"
@@ -574,47 +724,10 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-04-15T16:30:03.859Z",
       "last_seen_at": "2026-04-15T16:30:03.859Z",
       "notified_at": "2026-04-15T16:30:03.859Z"
-    },
-    {
-      "title": "Actuary Nordea Life and Pensions",
-      "company": "Nordea",
-      "company_id": "nordea",
-      "apply_url": "https://careers.nordea.com/job/Stockholm-Actuary-Nordea-Life-and-Pensions-111-56/1382586633/",
-      "source_url": "https://careers.nordea.com/job/Stockholm-Actuary-Nordea-Life-and-Pensions-111-56/1382586633/",
-      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Actuary Nordea Life and Pensions Stockholm, SE, 111 56 #job-location.job-location-inline { display: inline; }",
-      "location_type": "unknown",
-      "team": "",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Stockholm Actuary Nordea Life and Pensions, 111 56",
-      "area_tags": [
-        "market_risk",
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 68,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:nordea",
-      "discovered_at": "2026-04-15T16:30:03.859Z",
-      "id": "nordea_0f0b6e0a88fc5d004cdb76a1",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 10,
-        "area_preference_bonus": 27,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-10T16:24:51.348Z",
-      "last_seen_at": "2026-04-15T16:30:03.859Z",
-      "notified_at": "2026-04-10T16:24:51.348Z"
     },
     {
       "title": "Fullstack Developer to Nordea Life & Pension Sweden",
@@ -638,7 +751,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:nordea",
-      "discovered_at": "2026-04-15T16:30:03.859Z",
+      "discovered_at": "2026-04-16T16:40:02.464Z",
       "id": "nordea_5f98739dd04d520c5b78f9a9",
       "profile_score_breakdown": {
         "company_preference_bonus": 10,
@@ -650,8 +763,45 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-03-27T17:23:30.600Z",
-      "last_seen_at": "2026-04-15T16:30:03.859Z",
+      "last_seen_at": "2026-04-16T16:40:02.464Z",
       "notified_at": "2026-03-27T17:23:30.600Z"
+    },
+    {
+      "title": "Actuary Nordea Life and Pensions",
+      "company": "Nordea",
+      "company_id": "nordea",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-Actuary-Nordea-Life-and-Pensions-111-56/1382586633/",
+      "source_url": "https://careers.nordea.com/job/Stockholm-Actuary-Nordea-Life-and-Pensions-111-56/1382586633/",
+      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Actuary Nordea Life and Pensions Stockholm, SE, 111 56 #job-location.job-location-inline { display: inline; }",
+      "location_type": "unknown",
+      "team": "",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Stockholm Actuary Nordea Life and Pensions, 111 56",
+      "area_tags": [
+        "market_risk",
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 68,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:nordea",
+      "discovered_at": "2026-04-16T16:40:02.464Z",
+      "id": "nordea_0f0b6e0a88fc5d004cdb76a1",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 10,
+        "area_preference_bonus": 27,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true,
+      "status": "active",
+      "missing_runs": 0,
+      "first_seen_at": "2026-04-10T16:24:51.348Z",
+      "last_seen_at": "2026-04-16T16:40:02.464Z",
+      "notified_at": "2026-04-10T16:24:51.348Z"
     },
     {
       "title": "Product Owner role in Data Product Hub Business Team",
@@ -675,7 +825,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:nordea",
-      "discovered_at": "2026-04-15T16:30:03.859Z",
+      "discovered_at": "2026-04-16T16:40:02.464Z",
       "id": "nordea_2b507a0594caf5e50d74dd16",
       "profile_score_breakdown": {
         "company_preference_bonus": 10,
@@ -687,45 +837,8 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-04-14T16:32:28.050Z",
-      "last_seen_at": "2026-04-15T16:30:03.859Z",
+      "last_seen_at": "2026-04-16T16:40:02.464Z",
       "notified_at": "2026-04-14T16:32:28.050Z"
-    },
-    {
-      "title": "Product Owner role in Data Product Hub Business Team",
-      "company": "Nordea",
-      "company_id": "nordea",
-      "apply_url": "https://careers.nordea.com/job/Stockholm-Product-Owner-role-in-Data-Product-Hub-Business-Team-112-51/1382591433/",
-      "source_url": "https://careers.nordea.com/job/Stockholm-Product-Owner-role-in-Data-Product-Hub-Business-Team-112-51/1382591433/",
-      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Product Owner role in Data Product Hub Business Team Stockholm, SE, 112 51 Helsinki, FI, 00500 Helsinki, FI, 00500 Helsinki, FI, 00500 Gdynia, PL, 81-537 Helsinki, FI, 00500 Helsinki, FI, 00500 Helsinki, FI, 00500 Gdańsk, PL, 80-309 Helsinki, FI, 00500 Warszawa, PL, 02-460 Stockholm, SE, 112 51 #job-location.job-location-inline { display: inline; }",
-      "location_type": "unknown",
-      "team": "",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Stockholm Product Owner role in Data Product Hub Business Team, 112 51",
-      "area_tags": [
-        "market_risk",
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 68,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:nordea",
-      "discovered_at": "2026-04-13T16:34:12.614Z",
-      "id": "nordea_80af6fcb81bbd7c4b169e626",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 10,
-        "area_preference_bonus": 27,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-04-10T16:24:51.348Z",
-      "last_seen_at": "2026-04-13T16:34:12.614Z",
-      "notified_at": "2026-04-10T16:24:51.348Z"
     },
     {
       "company": "Pareto Securities",
@@ -759,7 +872,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-04-15T16:30:03.859Z",
       "last_seen_at": "2026-04-15T16:30:03.859Z",
       "notified_at": "2026-04-15T16:30:03.859Z"
@@ -796,47 +909,10 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-04-09T16:37:44.806Z",
       "last_seen_at": "2026-04-14T16:32:28.050Z",
       "notified_at": "2026-04-09T16:37:44.806Z"
-    },
-    {
-      "company": "Pareto Securities",
-      "company_id": "pareto_securities",
-      "title": "Equity Research Competition",
-      "apply_url": "https://paretosecurities.teamtailor.com/jobs/7499337-equity-research-competition",
-      "source_url": "https://paretosec.com/updates/vacant-positions",
-      "location": "Stockholm",
-      "location_type": "onsite",
-      "team": "Research",
-      "posted_at": null,
-      "expires_at": "2026-04-26",
-      "summary": "Case competition for students to work on company valuation and equity research; registration 5 April–26 April, initial case release 27 April, finale in Stockholm 13 May. Prize 30,000 SEK and exposure to the Equity Research team.",
-      "area_tags": [
-        "research",
-        "analytics"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 67,
-      "why_relevant": "Directly related to equity research — student-friendly, Stockholm-based event that connects participants to the Research team.",
-      "confidence": 0.9,
-      "discovery_method": "openai:web_search",
-      "discovered_at": "2026-04-13T16:34:12.614Z",
-      "id": "pareto_securities_d812e5025809f47daeb9dca5",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 6,
-        "area_preference_bonus": 18,
-        "profile_keyword_bonus": 14,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-04-10T16:24:51.348Z",
-      "last_seen_at": "2026-04-13T16:34:12.614Z",
-      "notified_at": "2026-04-10T16:24:51.348Z"
     },
     {
       "company": "ABG Sundal Collier",
@@ -870,46 +946,10 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-04-15T16:30:03.859Z",
       "last_seen_at": "2026-04-15T16:30:03.859Z",
       "notified_at": "2026-04-15T16:30:03.859Z"
-    },
-    {
-      "title": "Product Owner - AI & Machine Learning (Financial Crime Prevention)",
-      "company": "Nordea",
-      "company_id": "nordea",
-      "apply_url": "https://careers.nordea.com/job/Stockholm-Product-Owner-AI-&amp;-Machine-Learning-%28Financial-Crime-Prevention%29-111-46/1287940601/",
-      "source_url": "https://careers.nordea.com/job/Stockholm-Product-Owner-AI-&amp;-Machine-Learning-%28Financial-Crime-Prevention%29-111-46/1287940601/",
-      "location": "",
-      "location_type": "unknown",
-      "team": "AI & Machine Learning",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Stockholm Product Owner - AI & Machine Learning (Financial Crime Prevention), 111 46",
-      "area_tags": [
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 59,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:nordea",
-      "discovered_at": "2026-04-13T16:34:12.614Z",
-      "id": "nordea_a757db79f2e95e52f888ded0",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 10,
-        "area_preference_bonus": 12,
-        "profile_keyword_bonus": 8,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-03-31T16:28:57.933Z",
-      "last_seen_at": "2026-04-13T16:34:12.614Z",
-      "notified_at": "2026-03-31T16:28:57.933Z"
     },
     {
       "company": "Pareto Securities",
@@ -943,47 +983,10 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-04-11T16:13:54.650Z",
       "last_seen_at": "2026-04-14T16:32:28.050Z",
       "notified_at": "2026-04-11T16:13:54.650Z"
-    },
-    {
-      "company": "Pareto Securities",
-      "company_id": "pareto_securities",
-      "title": "Open Application Sweden",
-      "apply_url": "https://paretosecurities.teamtailor.com/jobs/3713025-open-application-sweden",
-      "source_url": "https://paretosecurities.teamtailor.com/jobs",
-      "location": "Stockholm",
-      "location_type": "onsite",
-      "team": "Investment Banking / General",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Open application for Stockholm candidates — aimed at young talents and students with analytical interest in finance; used to consider candidates for entry-level roles across the firm.",
-      "area_tags": [
-        "research",
-        "analytics"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 58,
-      "why_relevant": "Stockholm-based open application that targets junior hires across research and other finance teams—useful for placing early-career candidates into relevant roles.",
-      "confidence": 0.75,
-      "discovery_method": "openai:web_search",
-      "discovered_at": "2026-04-13T16:34:12.614Z",
-      "id": "pareto_securities_ba48131c450cee9422282ece",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 6,
-        "area_preference_bonus": 18,
-        "profile_keyword_bonus": 7,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-04-13T16:34:12.614Z",
-      "last_seen_at": "2026-04-13T16:34:12.614Z",
-      "notified_at": "2026-04-13T16:34:12.614Z"
     },
     {
       "title": "Select which cookies you accept",
@@ -1006,7 +1009,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-04-15T16:30:03.859Z",
+      "discovered_at": "2026-04-16T16:40:02.464Z",
       "id": "nordnet_fa09e865176c3580c7f96127",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -1018,7 +1021,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-04-01T16:27:03.549Z",
-      "last_seen_at": "2026-04-15T16:30:03.859Z",
+      "last_seen_at": "2026-04-16T16:40:02.464Z",
       "notified_at": "2026-04-01T16:27:03.549Z"
     },
     {
@@ -1042,7 +1045,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-04-15T16:30:03.859Z",
+      "discovered_at": "2026-04-16T16:40:02.464Z",
       "id": "nordnet_c2a3484ec4f663d2f853a426",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -1054,7 +1057,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-04-15T16:30:03.859Z",
+      "last_seen_at": "2026-04-16T16:40:02.464Z",
       "notified_at": "2026-03-26T17:11:28.632Z"
     },
     {
@@ -1078,7 +1081,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-04-15T16:30:03.859Z",
+      "discovered_at": "2026-04-16T16:40:02.464Z",
       "id": "nordnet_31c422a02028d12443e749a2",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -1090,7 +1093,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-04-15T16:30:03.859Z",
+      "last_seen_at": "2026-04-16T16:40:02.464Z",
       "notified_at": "2026-03-26T17:11:28.632Z"
     },
     {
@@ -1114,7 +1117,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-04-15T16:30:03.859Z",
+      "discovered_at": "2026-04-16T16:40:02.464Z",
       "id": "swedbank_a12dffc28e9d28ca2395d1f2",
       "profile_score_breakdown": {
         "company_preference_bonus": 7,
@@ -1126,44 +1129,8 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-04-13T16:34:12.614Z",
-      "last_seen_at": "2026-04-15T16:30:03.859Z",
+      "last_seen_at": "2026-04-16T16:40:02.464Z",
       "notified_at": "2026-04-13T16:34:12.614Z"
-    },
-    {
-      "title": "Select which cookies you accept",
-      "company": "Swedbank",
-      "company_id": "swedbank",
-      "apply_url": "https://jobs.swedbank.com/jobs/26322-data-scientist-within-client-solutions",
-      "source_url": "https://jobs.swedbank.com/jobs/26322-data-scientist-within-client-solutions",
-      "location": "Stockholm Region",
-      "location_type": "hybrid",
-      "team": "",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Brinner du för att omvandla data till insikter och affärsvärde? Vill du vara med och utveckla datadrivna lösningar som stärker vår affär och framtidssäkrar b...",
-      "area_tags": [
-        "market_risk"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 46,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-04-13T16:34:12.614Z",
-      "id": "swedbank_ca9f6281a48a2aaabd19ba56",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 7,
-        "area_preference_bonus": 15,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-04-09T16:37:44.806Z",
-      "last_seen_at": "2026-04-13T16:34:12.614Z",
-      "notified_at": "2026-04-09T16:37:44.806Z"
     }
   ]
 }
