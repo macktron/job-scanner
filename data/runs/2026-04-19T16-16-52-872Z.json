@@ -1,6 +1,10 @@
 {
-  "updated_at": "2026-04-19T16:16:52.872Z",
-  "jobs": [
+  "timestamp": "2026-04-19T16:16:52.872Z",
+  "dry_run": false,
+  "min_relevance_score": 55,
+  "missing_runs_threshold": 3,
+  "company_count": 12,
+  "discovered_jobs": [
     {
       "title": "Counterparty Credit Risk Model Developer",
       "company": "Nordea",
@@ -32,12 +36,7 @@
         "profile_keyword_bonus": 27,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-16T16:40:02.464Z",
-      "last_seen_at": "2026-04-19T16:16:52.872Z",
-      "notified_at": "2026-04-16T16:40:02.464Z"
+      "matches_minimum_score": true
     },
     {
       "title": "AI Platform Analyst",
@@ -71,93 +70,7 @@
         "profile_keyword_bonus": 15,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-15T16:30:03.859Z",
-      "last_seen_at": "2026-04-19T16:16:52.872Z",
-      "notified_at": "2026-04-15T16:30:03.859Z"
-    },
-    {
-      "title": "Quantitative Risk Analysts, Credit Stress Testing and IFRS9",
-      "company": "Nordea",
-      "company_id": "nordea",
-      "apply_url": "https://careers.nordea.com/job/Stockholm-Quantitative-Risk-Analysts%2C-Credit-Stress-Testing-and-IFRS9-111-44/1290865701/",
-      "source_url": "https://careers.nordea.com/job/Stockholm-Quantitative-Risk-Analysts%2C-Credit-Stress-Testing-and-IFRS9-111-44/1290865701/",
-      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Quantitative Risk Analysts, Credit Stress Testing and IFRS9 Stockholm, SE, 111 44 Warszawa, PL, 02-460 Helsinki, FI, 00500 #job-location.job-location-inline { display: inline; }",
-      "location_type": "unknown",
-      "team": "Credit Stress Testing & IFRS9 Models",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Stockholm Quantitative Risk Analysts, Credit Stress Testing and IFRS9, 111 44",
-      "area_tags": [
-        "quant",
-        "risk",
-        "market_risk",
-        "research",
-        "data_science",
-        "analytics"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 100,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:nordea",
-      "discovered_at": "2026-04-17T16:26:10.149Z",
-      "id": "nordea_fc25c0acae9de527e5264987",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 10,
-        "area_preference_bonus": 76,
-        "profile_keyword_bonus": 16,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-04-07T16:29:00.688Z",
-      "last_seen_at": "2026-04-17T16:26:10.149Z",
-      "notified_at": "2026-04-07T16:29:00.688Z"
-    },
-    {
-      "company": "SEB",
-      "company_id": "seb",
-      "title": "Junior Quantitative Risk Analyst",
-      "apply_url": "https://sebgroup.com/career/find-your-new-job/our-vacant-positions/junior-quantitative-risk-analyst--seb-37c95c47-509b-41e6-8ac1-6449af1ee249",
-      "source_url": "https://sebgroup.com/career/find-your-new-job/our-vacant-positions/junior-quantitative-risk-analyst--seb-37c95c47-509b-41e6-8ac1-6449af1ee249",
-      "location": "Stockholm",
-      "location_type": "hybrid",
-      "team": "Group Risk — Market Risk & Analytics",
-      "posted_at": null,
-      "expires_at": "2026-04-17",
-      "summary": "Contribute to development, maintenance and enhancement of market risk and regulatory capital models across asset classes. Requires quantitative modelling skills and programming (Python/C#/Java, SQL useful).",
-      "area_tags": [
-        "quant",
-        "risk",
-        "market_risk",
-        "analytics",
-        "model_validation"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 100,
-      "why_relevant": "Explicit junior quantitative role in Group Risk based in Stockholm focused on market-risk modelling and programming.",
-      "confidence": 0.8,
-      "discovery_method": "openai:web_search",
-      "discovered_at": "2026-04-17T16:26:10.149Z",
-      "id": "seb_08bb597ba8db50c3aa687d3f",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 10,
-        "area_preference_bonus": 65,
-        "profile_keyword_bonus": 28,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-04-02T16:26:44.214Z",
-      "last_seen_at": "2026-04-17T16:26:10.149Z",
-      "notified_at": "2026-04-02T16:26:44.214Z"
+      "matches_minimum_score": true
     },
     {
       "title": "AML Analyst - Part time",
@@ -191,50 +104,7 @@
         "profile_keyword_bonus": 7,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-16T16:40:02.464Z",
-      "last_seen_at": "2026-04-19T16:16:52.872Z",
-      "notified_at": "2026-04-16T16:40:02.464Z"
-    },
-    {
-      "company": "Pareto Securities",
-      "company_id": "pareto_securities",
-      "title": "Open Application – Sweden (Stockholm)",
-      "apply_url": "https://paretosecurities.teamtailor.com/jobs/3713025-open-application-sweden",
-      "source_url": "https://paretosecurities.teamtailor.com/jobs/3713025-open-application-sweden",
-      "location": "Stockholm, Sweden",
-      "location_type": "onsite",
-      "team": "Open application (Investment Banking / Research / Sales)",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Open application for Stockholm: Pareto invites students and junior candidates with analytical and commercial mindsets to apply for roles across investment banking, research and sales; intended as a channel for junior hiring.",
-      "area_tags": [
-        "research",
-        "sales_trading",
-        "analytics"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 83,
-      "why_relevant": "Official Stockholm open application targeted at students/juniors for roles in research, sales and investment banking.",
-      "confidence": 0.82,
-      "discovery_method": "openai:web_search",
-      "discovered_at": "2026-04-17T16:26:10.149Z",
-      "id": "pareto_securities_8e73f39d9075cc8986c3d9d2",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 6,
-        "area_preference_bonus": 33,
-        "profile_keyword_bonus": 17,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-04-06T16:22:06.854Z",
-      "last_seen_at": "2026-04-17T16:26:10.149Z",
-      "notified_at": "2026-04-06T16:22:06.854Z"
+      "matches_minimum_score": true
     },
     {
       "title": "AI Platform Engineer",
@@ -266,12 +136,7 @@
         "profile_keyword_bonus": 8,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-11T16:13:54.650Z",
-      "last_seen_at": "2026-04-19T16:16:52.872Z",
-      "notified_at": "2026-04-11T16:13:54.650Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Analyst - Corporate Advisory| Business Banking",
@@ -303,12 +168,7 @@
         "profile_keyword_bonus": 7,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-17T16:26:10.149Z",
-      "last_seen_at": "2026-04-19T16:16:52.872Z",
-      "notified_at": "2026-04-17T16:26:10.149Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Analyst - Corporate Advisory| Business Banking",
@@ -340,12 +200,7 @@
         "profile_keyword_bonus": 7,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-17T16:26:10.149Z",
-      "last_seen_at": "2026-04-19T16:16:52.872Z",
-      "notified_at": "2026-04-17T16:26:10.149Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Actuary Nordea Life and Pensions",
@@ -377,12 +232,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-10T16:24:51.348Z",
-      "last_seen_at": "2026-04-19T16:16:52.872Z",
-      "notified_at": "2026-04-10T16:24:51.348Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Fullstack Developer to Nordea Life & Pension Sweden",
@@ -414,12 +264,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-03-27T17:23:30.600Z",
-      "last_seen_at": "2026-04-19T16:16:52.872Z",
-      "notified_at": "2026-03-27T17:23:30.600Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Product Owner role in Data Product Hub Business Team",
@@ -451,121 +296,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-14T16:32:28.050Z",
-      "last_seen_at": "2026-04-19T16:16:52.872Z",
-      "notified_at": "2026-04-14T16:32:28.050Z"
-    },
-    {
-      "company": "Pareto Securities",
-      "company_id": "pareto_securities",
-      "title": "Equity Research Competition (student case competition)",
-      "apply_url": "https://paretosecurities.teamtailor.com/jobs/7499337-equity-research-competition",
-      "source_url": "https://paretosecurities.teamtailor.com/jobs/7499337-equity-research-competition",
-      "location": "Stockholm, Sweden",
-      "location_type": "onsite",
-      "team": "Research",
-      "posted_at": null,
-      "expires_at": "2026-04-26",
-      "summary": "Student equity research case competition (teams or individuals). 72-hour initial case (valuation), finalists invited to Stockholm for workshops and the final on 13 May; prize and exposure to the Equity Research team.",
-      "area_tags": [
-        "research",
-        "analytics"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 67,
-      "why_relevant": "Directly relevant to equity research and valuation skills; student-friendly entry point into Pareto's research team.",
-      "confidence": 0.86,
-      "discovery_method": "openai:web_search",
-      "discovered_at": "2026-04-17T16:26:10.149Z",
-      "id": "pareto_securities_2321fab8ae0f7eb0fb612142",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 6,
-        "area_preference_bonus": 18,
-        "profile_keyword_bonus": 14,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-04-06T16:22:06.854Z",
-      "last_seen_at": "2026-04-17T16:26:10.149Z",
-      "notified_at": "2026-04-06T16:22:06.854Z"
-    },
-    {
-      "company": "Pareto Securities",
-      "company_id": "pareto_securities",
-      "title": "Equity Research Competition (case competition) — Stockholm",
-      "apply_url": "https://paretosecurities.teamtailor.com/jobs/7499337-equity-research-competition",
-      "source_url": "https://paretosec.com/updates/vacant-positions/equity-research-case-competition",
-      "location": "Stockholm, Sweden",
-      "location_type": "onsite",
-      "team": "Research",
-      "posted_at": null,
-      "expires_at": "2026-04-26",
-      "summary": "Student case competition run by Pareto Securities’ Equity Research team — two-round valuation/analysis competition with finalists invited to Stockholm (finale on 2026-05-13). Open to students and teams (up to 4).",
-      "area_tags": [
-        "research"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 59,
-      "why_relevant": "Directly targets students for Equity Research — strong fit for junior research/analyst pipelines.",
-      "confidence": 0.9,
-      "discovery_method": "openai:web_search",
-      "discovered_at": "2026-04-18T16:16:54.098Z",
-      "id": "pareto_securities_382a51efd29bd4a988b56029",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 6,
-        "area_preference_bonus": 10,
-        "profile_keyword_bonus": 14,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 1,
-      "first_seen_at": "2026-04-18T16:16:54.098Z",
-      "last_seen_at": "2026-04-18T16:16:54.098Z",
-      "notified_at": "2026-04-18T16:16:54.098Z"
-    },
-    {
-      "company": "Pareto Securities",
-      "company_id": "pareto_securities",
-      "title": "Women in Finance evening — Stockholm (student recruiting event)",
-      "apply_url": "https://paretosecurities.teamtailor.com/jobs/7561583-women-in-finance-evening-at-pareto-securities",
-      "source_url": "https://paretosecurities.teamtailor.com/jobs/7561583-women-in-finance-evening-at-pareto-securities",
-      "location": "Berzelii Park 9, Stockholm, Sweden",
-      "location_type": "onsite",
-      "team": "Recruitment / Events (early careers)",
-      "posted_at": null,
-      "expires_at": "2026-04-28",
-      "summary": "Recruiting/networking event for female university students interested in finance; hosted at Pareto's Stockholm office on May 5, 2026. Application via ATS (limited capacity).",
-      "area_tags": [
-        "research"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 58,
-      "why_relevant": "Student-focused recruiting event useful for junior candidates seeking roles in research/sales/trading.",
-      "confidence": 0.85,
-      "discovery_method": "openai:web_search",
-      "discovered_at": "2026-04-18T16:16:54.098Z",
-      "id": "pareto_securities_0d475e7c09d69e5d6b622a3d",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 6,
-        "area_preference_bonus": 10,
-        "profile_keyword_bonus": 17,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 1,
-      "first_seen_at": "2026-04-18T16:16:54.098Z",
-      "last_seen_at": "2026-04-18T16:16:54.098Z",
-      "notified_at": "2026-04-18T16:16:54.098Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Select which cookies you accept",
@@ -596,12 +327,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-01T16:27:03.549Z",
-      "last_seen_at": "2026-04-19T16:16:52.872Z",
-      "notified_at": "2026-04-01T16:27:03.549Z"
+      "matches_minimum_score": false
     },
     {
       "title": "Select which cookies you accept",
@@ -632,12 +358,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-04-19T16:16:52.872Z",
-      "notified_at": "2026-03-26T17:11:28.632Z"
+      "matches_minimum_score": false
     },
     {
       "title": "Select which cookies you accept",
@@ -668,12 +389,14 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-04-19T16:16:52.872Z",
-      "notified_at": "2026-03-26T17:11:28.632Z"
+      "matches_minimum_score": false
+    }
+  ],
+  "new_jobs": [],
+  "errors": [
+    {
+      "company": "External market scan",
+      "error": "OpenAI response was empty."
     }
   ]
 }
