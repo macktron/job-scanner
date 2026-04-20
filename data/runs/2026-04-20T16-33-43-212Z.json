@@ -1,0 +1,349 @@
+{
+  "timestamp": "2026-04-20T16:33:43.212Z",
+  "dry_run": false,
+  "min_relevance_score": 55,
+  "missing_runs_threshold": 3,
+  "company_count": 12,
+  "discovered_jobs": [
+    {
+      "title": "AML Analyst - Part time",
+      "company": "Avanza",
+      "company_id": "avanza",
+      "apply_url": "https://career.avanza.se/jobs/7579502-aml-analyst-part-time",
+      "source_url": "https://career.avanza.se/jobs/7579502-aml-analyst-part-time",
+      "location": "Stockholm, SE",
+      "location_type": "unknown",
+      "team": "",
+      "posted_at": "2026-04-16",
+      "expires_at": "2026-05-03",
+      "summary": "Vill du göra skillnad i arbetet mot penningtvätt och finansiering av terrorism – och samtidigt bli en del av ett kunnigt och engagerat team? Har du minst två år kvar av dina studier och vill bidra i ett samhällsviktigt uppdrag? Då kan rollen som deltidsanställd AML-analyst på Avanza vara rätt för dig! Om tjänsten Som deltidsanställd AML-analyst på Avanza blir du en del av Surveillance – teamet som...",
+      "area_tags": [
+        "market_risk",
+        "research",
+        "analytics",
+        "market_surveillance"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 94,
+      "why_relevant": "",
+      "confidence": 0.75,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-04-20T16:33:43.212Z",
+      "id": "avanza_4228d683db7466d53aa98c98",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 9,
+        "area_preference_bonus": 41,
+        "profile_keyword_bonus": 7,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true
+    },
+    {
+      "company": "DNB Carnegie",
+      "company_id": "dnb_carnegie",
+      "title": "Kvällsmäklare - Montrose Kundrelationer (student)",
+      "apply_url": "https://jobs.carnegie.se/job/Stockholm-Kv%C3%A4llsm%C3%A4klare-Montrose-Kundrelationer-%28student%29-103-38/1288978301/",
+      "source_url": "https://jobs.carnegie.se/job/Stockholm-Kv%C3%A4llsm%C3%A4klare-Montrose-Kundrelationer-%28student%29-103-38/1288978301/",
+      "location": "Stockholm, SE (Regeringsgatan area)",
+      "location_type": "onsite",
+      "team": "Montrose - Kundrelationer",
+      "posted_at": null,
+      "expires_at": "2026-04-26",
+      "summary": "Part-time student role in the Montrose customer relations team handling customer inquiries, supporting trading (helping customers trade equities and other securities), and administrative tasks. Swedsec training/licence support provided; requires minimum 2 remaining study terms.",
+      "area_tags": [
+        "sales_trading",
+        "trading"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 78,
+      "why_relevant": "Student-facing trading support role on Montrose (DNB Carnegie) — directly related to trading/customer execution and junior-friendly.",
+      "confidence": 0.9,
+      "discovery_method": "openai:web_search",
+      "discovered_at": "2026-04-20T16:33:43.212Z",
+      "id": "dnb_carnegie_b3f93fcb9fbf791c34bd4684",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 7,
+        "area_preference_bonus": 32,
+        "profile_keyword_bonus": 10,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true
+    },
+    {
+      "company": "DNB Carnegie",
+      "company_id": "dnb_carnegie",
+      "title": "Kundansvarig kundrelationer - Montrose",
+      "apply_url": "https://jobs.carnegie.se/job/Stockholm-Kundansvarig-kundrelationer-Montrose-103-38/1379761333/",
+      "source_url": "https://jobs.carnegie.se/job/Stockholm-Kundansvarig-kundrelationer-Montrose-103-38/1379761333/",
+      "location": "Stockholm, SE (Regeringsgatan area)",
+      "location_type": "onsite",
+      "team": "Montrose - Kundrelationer",
+      "posted_at": null,
+      "expires_at": "2026-04-26",
+      "summary": "Full-time customer-responsibility role within Montrose's customer relations team: handle incoming customer cases (phone, email, messages), assist customers with onboarding and trades, act as bridge to internal stakeholders. Swedsec licence supported; junior-friendly candidate profile.",
+      "area_tags": [
+        "sales_trading",
+        "market_surveillance"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 69,
+      "why_relevant": "Customer-facing trading/operational role at Montrose (DNB Carnegie) supporting client trades and platform operations — suitable for junior applicants.",
+      "confidence": 0.88,
+      "discovery_method": "openai:web_search",
+      "discovered_at": "2026-04-20T16:33:43.212Z",
+      "id": "dnb_carnegie_353416b812212836759a3844",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 7,
+        "area_preference_bonus": 23,
+        "profile_keyword_bonus": 10,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true
+    },
+    {
+      "title": "Select which cookies you accept",
+      "company": "Swedbank",
+      "company_id": "swedbank",
+      "apply_url": "https://jobs.swedbank.com/jobs/26437-senior-cyberark-engineer",
+      "source_url": "https://jobs.swedbank.com/jobs/26437-senior-cyberark-engineer",
+      "location": "Stockholm Region, Malmö, Göteborg",
+      "location_type": "hybrid",
+      "team": "",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Do you have a passion for Privileged Access Management and are you looking for work in a dynamic environment where Security is Everyone’s Business?. In Swedb...",
+      "area_tags": [
+        "alm_liquidity"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 50,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-04-20T16:33:43.212Z",
+      "id": "swedbank_7e4ddfd394d9077ae431b0af",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 7,
+        "area_preference_bonus": 11,
+        "profile_keyword_bonus": 8,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    },
+    {
+      "title": "Select which cookies you accept",
+      "company": "Nordnet",
+      "company_id": "nordnet",
+      "apply_url": "https://career.nordnetab.com/jobs/7501643-network-engineer",
+      "source_url": "https://career.nordnetab.com/jobs/7501643-network-engineer",
+      "location": "Stockholm",
+      "location_type": "hybrid",
+      "team": "IT Operations",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Nordnet redefined the financial world as the first digital bank in Europe. Now we are about to do it again and the aim is to create the next generation of ba...",
+      "area_tags": [
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 48,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-04-20T16:33:43.212Z",
+      "id": "nordnet_fa09e865176c3580c7f96127",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 9,
+        "area_preference_bonus": 12,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    },
+    {
+      "title": "Select which cookies you accept",
+      "company": "Nordnet",
+      "company_id": "nordnet",
+      "apply_url": "https://career.nordnetab.com/jobs/5923098-mobile-app-platform-engineer",
+      "source_url": "https://career.nordnetab.com/jobs/5923098-mobile-app-platform-engineer",
+      "location": "Stockholm",
+      "location_type": "hybrid",
+      "team": "Engineering",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Nordnet redefined the financial world as the first digital bank in Europe. Now we are about to do it again and the aim is to create the next generation bank,...",
+      "area_tags": [
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 48,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-04-20T16:33:43.212Z",
+      "id": "nordnet_c2a3484ec4f663d2f853a426",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 9,
+        "area_preference_bonus": 12,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    },
+    {
+      "title": "Select which cookies you accept",
+      "company": "Nordnet",
+      "company_id": "nordnet",
+      "apply_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
+      "source_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
+      "location": "Stockholm",
+      "location_type": "hybrid",
+      "team": "Engineering",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Nordnet redefined the financial world as the first digital bank in Europe. Now we are about to do it again and the aim is to create the next generation of ba...",
+      "area_tags": [
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 48,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-04-20T16:33:43.212Z",
+      "id": "nordnet_31c422a02028d12443e749a2",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 9,
+        "area_preference_bonus": 12,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "DNB Carnegie",
+      "company_id": "dnb_carnegie",
+      "title": "Kvällsmäklare - Montrose Kundrelationer (student)",
+      "apply_url": "https://jobs.carnegie.se/job/Stockholm-Kv%C3%A4llsm%C3%A4klare-Montrose-Kundrelationer-%28student%29-103-38/1288978301/",
+      "source_url": "https://jobs.carnegie.se/job/Stockholm-Kv%C3%A4llsm%C3%A4klare-Montrose-Kundrelationer-%28student%29-103-38/1288978301/",
+      "location": "Stockholm, SE (Regeringsgatan area)",
+      "location_type": "onsite",
+      "team": "Montrose - Kundrelationer",
+      "posted_at": null,
+      "expires_at": "2026-04-26",
+      "summary": "Part-time student role in the Montrose customer relations team handling customer inquiries, supporting trading (helping customers trade equities and other securities), and administrative tasks. Swedsec training/licence support provided; requires minimum 2 remaining study terms.",
+      "area_tags": [
+        "sales_trading",
+        "trading"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 78,
+      "why_relevant": "Student-facing trading support role on Montrose (DNB Carnegie) — directly related to trading/customer execution and junior-friendly.",
+      "confidence": 0.9,
+      "discovery_method": "openai:web_search",
+      "discovered_at": "2026-04-20T16:33:43.212Z",
+      "id": "dnb_carnegie_b3f93fcb9fbf791c34bd4684",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 7,
+        "area_preference_bonus": 32,
+        "profile_keyword_bonus": 10,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true,
+      "status": "active",
+      "missing_runs": 0,
+      "first_seen_at": "2026-04-20T16:33:43.212Z",
+      "last_seen_at": "2026-04-20T16:33:43.212Z",
+      "notified_at": null
+    },
+    {
+      "company": "DNB Carnegie",
+      "company_id": "dnb_carnegie",
+      "title": "Kundansvarig kundrelationer - Montrose",
+      "apply_url": "https://jobs.carnegie.se/job/Stockholm-Kundansvarig-kundrelationer-Montrose-103-38/1379761333/",
+      "source_url": "https://jobs.carnegie.se/job/Stockholm-Kundansvarig-kundrelationer-Montrose-103-38/1379761333/",
+      "location": "Stockholm, SE (Regeringsgatan area)",
+      "location_type": "onsite",
+      "team": "Montrose - Kundrelationer",
+      "posted_at": null,
+      "expires_at": "2026-04-26",
+      "summary": "Full-time customer-responsibility role within Montrose's customer relations team: handle incoming customer cases (phone, email, messages), assist customers with onboarding and trades, act as bridge to internal stakeholders. Swedsec licence supported; junior-friendly candidate profile.",
+      "area_tags": [
+        "sales_trading",
+        "market_surveillance"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 69,
+      "why_relevant": "Customer-facing trading/operational role at Montrose (DNB Carnegie) supporting client trades and platform operations — suitable for junior applicants.",
+      "confidence": 0.88,
+      "discovery_method": "openai:web_search",
+      "discovered_at": "2026-04-20T16:33:43.212Z",
+      "id": "dnb_carnegie_353416b812212836759a3844",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 7,
+        "area_preference_bonus": 23,
+        "profile_keyword_bonus": 10,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true,
+      "status": "active",
+      "missing_runs": 0,
+      "first_seen_at": "2026-04-20T16:33:43.212Z",
+      "last_seen_at": "2026-04-20T16:33:43.212Z",
+      "notified_at": null
+    },
+    {
+      "title": "Select which cookies you accept",
+      "company": "Swedbank",
+      "company_id": "swedbank",
+      "apply_url": "https://jobs.swedbank.com/jobs/26437-senior-cyberark-engineer",
+      "source_url": "https://jobs.swedbank.com/jobs/26437-senior-cyberark-engineer",
+      "location": "Stockholm Region, Malmö, Göteborg",
+      "location_type": "hybrid",
+      "team": "",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Do you have a passion for Privileged Access Management and are you looking for work in a dynamic environment where Security is Everyone’s Business?. In Swedb...",
+      "area_tags": [
+        "alm_liquidity"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 50,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-04-20T16:33:43.212Z",
+      "id": "swedbank_7e4ddfd394d9077ae431b0af",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 7,
+        "area_preference_bonus": 11,
+        "profile_keyword_bonus": 8,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false,
+      "status": "active",
+      "missing_runs": 0,
+      "first_seen_at": "2026-04-20T16:33:43.212Z",
+      "last_seen_at": "2026-04-20T16:33:43.212Z",
+      "notified_at": null
+    }
+  ],
+  "errors": [
+    {
+      "company": "External market scan",
+      "error": "The operation was aborted due to timeout"
+    }
+  ]
+}
