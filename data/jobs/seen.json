@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T16:33:43.212Z",
+  "updated_at": "2026-04-21T16:31:03.195Z",
   "jobs": {
     "nordea_96329aec09a934eb64f8c6c7": {
       "id": "nordea_96329aec09a934eb64f8c6c7",
@@ -107,7 +107,7 @@
       "title": "Select which cookies you accept",
       "apply_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
       "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-04-20T16:33:43.212Z",
+      "last_seen_at": "2026-04-21T16:31:03.195Z",
       "last_status": "active",
       "notified_at": "2026-03-26T17:11:28.632Z"
     },
@@ -167,7 +167,7 @@
       "title": "Fullstack Developer to Nordea Life & Pension Sweden",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Fullstack-Developer-to-Nordea-Life-&amp;-Pension-Sweden-111-44/1378516533/",
       "first_seen_at": "2026-03-27T17:23:30.600Z",
-      "last_seen_at": "2026-04-19T16:16:52.872Z",
+      "last_seen_at": "2026-04-21T16:31:03.195Z",
       "last_status": "active",
       "notified_at": "2026-03-27T17:23:30.600Z"
     },
@@ -317,7 +317,7 @@
       "title": "Select which cookies you accept",
       "apply_url": "https://career.nordnetab.com/jobs/7501643-network-engineer",
       "first_seen_at": "2026-04-01T16:27:03.549Z",
-      "last_seen_at": "2026-04-20T16:33:43.212Z",
+      "last_seen_at": "2026-04-21T16:31:03.195Z",
       "last_status": "active",
       "notified_at": "2026-04-01T16:27:03.549Z"
     },
@@ -517,7 +517,7 @@
       "title": "Actuary Nordea Life and Pensions",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Actuary-Nordea-Life-and-Pensions-111-56/1382586633/",
       "first_seen_at": "2026-04-10T16:24:51.348Z",
-      "last_seen_at": "2026-04-19T16:16:52.872Z",
+      "last_seen_at": "2026-04-21T16:31:03.195Z",
       "last_status": "active",
       "notified_at": "2026-04-10T16:24:51.348Z"
     },
@@ -567,7 +567,7 @@
       "title": "AI Platform Engineer",
       "apply_url": "https://careers.nordea.com/job/Helsinki-AI-Platform-Engineer-00500/1382818133/",
       "first_seen_at": "2026-04-11T16:13:54.650Z",
-      "last_seen_at": "2026-04-19T16:16:52.872Z",
+      "last_seen_at": "2026-04-21T16:31:03.195Z",
       "last_status": "active",
       "notified_at": "2026-04-11T16:13:54.650Z"
     },
@@ -657,7 +657,7 @@
       "title": "AI Platform Analyst",
       "apply_url": "https://careers.nordea.com/job/Helsinki-AI-Platform-Analyst-00500/1382818933/",
       "first_seen_at": "2026-04-15T16:30:03.859Z",
-      "last_seen_at": "2026-04-19T16:16:52.872Z",
+      "last_seen_at": "2026-04-21T16:31:03.195Z",
       "last_status": "active",
       "notified_at": "2026-04-15T16:30:03.859Z"
     },
@@ -747,7 +747,7 @@
       "title": "Counterparty Credit Risk Model Developer",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Counterparty-Credit-Risk-Model-Developer-111-46/1289284201/",
       "first_seen_at": "2026-04-16T16:40:02.464Z",
-      "last_seen_at": "2026-04-19T16:16:52.872Z",
+      "last_seen_at": "2026-04-21T16:31:03.195Z",
       "last_status": "active",
       "notified_at": "2026-04-16T16:40:02.464Z"
     },
@@ -757,7 +757,7 @@
       "title": "AML Analyst - Part time",
       "apply_url": "https://career.avanza.se/jobs/7579502-aml-analyst-part-time",
       "first_seen_at": "2026-04-16T16:40:02.464Z",
-      "last_seen_at": "2026-04-20T16:33:43.212Z",
+      "last_seen_at": "2026-04-21T16:31:03.195Z",
       "last_status": "active",
       "notified_at": "2026-04-16T16:40:02.464Z"
     },
@@ -797,7 +797,7 @@
       "title": "Analyst - Corporate Advisory| Business Banking",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Analyst-Corporate-Advisory-Business-Banking-111-46/1384836633/",
       "first_seen_at": "2026-04-17T16:26:10.149Z",
-      "last_seen_at": "2026-04-19T16:16:52.872Z",
+      "last_seen_at": "2026-04-21T16:31:03.195Z",
       "last_status": "active",
       "notified_at": "2026-04-17T16:26:10.149Z"
     },
@@ -808,7 +808,7 @@
       "apply_url": "https://paretosecurities.teamtailor.com/jobs/7499337-equity-research-competition",
       "first_seen_at": "2026-04-18T16:16:54.098Z",
       "last_seen_at": "2026-04-18T16:16:54.098Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-04-18T16:16:54.098Z"
     },
     "pareto_securities_0d475e7c09d69e5d6b622a3d": {
@@ -818,7 +818,7 @@
       "apply_url": "https://paretosecurities.teamtailor.com/jobs/7561583-women-in-finance-evening-at-pareto-securities",
       "first_seen_at": "2026-04-18T16:16:54.098Z",
       "last_seen_at": "2026-04-18T16:16:54.098Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-04-18T16:16:54.098Z"
     },
     "dnb_carnegie_b3f93fcb9fbf791c34bd4684": {
@@ -847,9 +847,79 @@
       "title": "Select which cookies you accept",
       "apply_url": "https://jobs.swedbank.com/jobs/26437-senior-cyberark-engineer",
       "first_seen_at": "2026-04-20T16:33:43.212Z",
-      "last_seen_at": "2026-04-20T16:33:43.212Z",
+      "last_seen_at": "2026-04-21T16:31:03.195Z",
       "last_status": "active",
       "notified_at": "2026-04-20T16:33:43.212Z"
+    },
+    "nordea_dae2d96515c3ffa431eada61": {
+      "id": "nordea_dae2d96515c3ffa431eada61",
+      "company": "Nordea",
+      "title": "Chief Compliance Officer",
+      "apply_url": "https://careers.nordea.com/job/K%C3%B8benhavn-S-Chief-Compliance-Officer-2300/1385856733/?feedId=451033&amp;utm_source=CareerSite",
+      "first_seen_at": "2026-04-21T16:31:03.195Z",
+      "last_seen_at": "2026-04-21T16:31:03.195Z",
+      "last_status": "active",
+      "notified_at": "2026-04-21T16:31:03.195Z"
+    },
+    "nordea_37a282f5396828f98af2c4ad": {
+      "id": "nordea_37a282f5396828f98af2c4ad",
+      "company": "Nordea",
+      "title": "Customer Adviser",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-Customer-Adviser-112-51/1385871033/?feedId=451033&amp;utm_source=CareerSite",
+      "first_seen_at": "2026-04-21T16:31:03.195Z",
+      "last_seen_at": "2026-04-21T16:31:03.195Z",
+      "last_status": "active",
+      "notified_at": "2026-04-21T16:31:03.195Z"
+    },
+    "nordea_093168c2f7dd55b2d6a18221": {
+      "id": "nordea_093168c2f7dd55b2d6a18221",
+      "company": "Nordea",
+      "title": "Fastighetsvärderare med inriktning på mindre Jord & Skogs-fastigheter",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-Fastighetsv%C3%A4rderare-med-inriktning-p%C3%A5-mindre-Jord-&amp;-Skogs-fastigheter-111-46/1385872733/?feedId=451033&amp;utm_source=CareerSite",
+      "first_seen_at": "2026-04-21T16:31:03.195Z",
+      "last_seen_at": "2026-04-21T16:31:03.195Z",
+      "last_status": "active",
+      "notified_at": "2026-04-21T16:31:03.195Z"
+    },
+    "nordea_bd9bf9a5c12472c43e607a4b": {
+      "id": "nordea_bd9bf9a5c12472c43e607a4b",
+      "company": "Nordea",
+      "title": "Customer Adviser",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-Customer-Adviser-112-51/1385871033/",
+      "first_seen_at": "2026-04-21T16:31:03.195Z",
+      "last_seen_at": "2026-04-21T16:31:03.195Z",
+      "last_status": "active",
+      "notified_at": "2026-04-21T16:31:03.195Z"
+    },
+    "nordea_da7c29542c0dad5d333f5141": {
+      "id": "nordea_da7c29542c0dad5d333f5141",
+      "company": "Nordea",
+      "title": "Fastighetsvärderare med inriktning på mindre Jord & Skogs-fastigheter",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-Fastighetsv%C3%A4rderare-med-inriktning-p%C3%A5-mindre-Jord-&amp;-Skogs-fastigheter-111-46/1385872733/",
+      "first_seen_at": "2026-04-21T16:31:03.195Z",
+      "last_seen_at": "2026-04-21T16:31:03.195Z",
+      "last_status": "active",
+      "notified_at": "2026-04-21T16:31:03.195Z"
+    },
+    "nordea_3b58f76604016a5f7cb28e06": {
+      "id": "nordea_3b58f76604016a5f7cb28e06",
+      "company": "Nordea",
+      "title": "Product Owner role in Data Product Hub Business Team",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-Product-Owner-role-in-Data-Product-Hub-Business-Team-112-51/1382591433/",
+      "first_seen_at": "2026-04-21T16:31:03.195Z",
+      "last_seen_at": "2026-04-21T16:31:03.195Z",
+      "last_status": "active",
+      "notified_at": "2026-04-21T16:31:03.195Z"
+    },
+    "nordea_1e2b6ea2fbfc612b9857d6da": {
+      "id": "nordea_1e2b6ea2fbfc612b9857d6da",
+      "company": "Nordea",
+      "title": "Chief Compliance Officer",
+      "apply_url": "https://careers.nordea.com/job/K%C3%B8benhavn-S-Chief-Compliance-Officer-2300/1385856733/",
+      "first_seen_at": "2026-04-21T16:31:03.195Z",
+      "last_seen_at": "2026-04-21T16:31:03.195Z",
+      "last_status": "active",
+      "notified_at": "2026-04-21T16:31:03.195Z"
     }
   }
 }
