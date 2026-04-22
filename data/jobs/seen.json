@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-21T16:31:03.195Z",
+  "updated_at": "2026-04-22T16:30:28.499Z",
   "jobs": {
     "nordea_96329aec09a934eb64f8c6c7": {
       "id": "nordea_96329aec09a934eb64f8c6c7",
@@ -107,7 +107,7 @@
       "title": "Select which cookies you accept",
       "apply_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
       "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-04-21T16:31:03.195Z",
+      "last_seen_at": "2026-04-22T16:30:28.499Z",
       "last_status": "active",
       "notified_at": "2026-03-26T17:11:28.632Z"
     },
@@ -317,7 +317,7 @@
       "title": "Select which cookies you accept",
       "apply_url": "https://career.nordnetab.com/jobs/7501643-network-engineer",
       "first_seen_at": "2026-04-01T16:27:03.549Z",
-      "last_seen_at": "2026-04-21T16:31:03.195Z",
+      "last_seen_at": "2026-04-22T16:30:28.499Z",
       "last_status": "active",
       "notified_at": "2026-04-01T16:27:03.549Z"
     },
@@ -648,7 +648,7 @@
       "apply_url": "https://careers.nordea.com/job/Stockholm-Product-Owner-role-in-Data-Product-Hub-Business-Team-112-51/1382591433/",
       "first_seen_at": "2026-04-14T16:32:28.050Z",
       "last_seen_at": "2026-04-19T16:16:52.872Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-04-14T16:32:28.050Z"
     },
     "nordea_db282f3a8744d74a812017a6": {
@@ -757,7 +757,7 @@
       "title": "AML Analyst - Part time",
       "apply_url": "https://career.avanza.se/jobs/7579502-aml-analyst-part-time",
       "first_seen_at": "2026-04-16T16:40:02.464Z",
-      "last_seen_at": "2026-04-21T16:31:03.195Z",
+      "last_seen_at": "2026-04-22T16:30:28.499Z",
       "last_status": "active",
       "notified_at": "2026-04-16T16:40:02.464Z"
     },
@@ -788,7 +788,7 @@
       "apply_url": "https://careers.nordea.com/job/Stockholm-Analyst-Corporate-Advisory-Business-Banking-111-46/1384836633/?feedId=451033&amp;utm_source=CareerSite",
       "first_seen_at": "2026-04-17T16:26:10.149Z",
       "last_seen_at": "2026-04-19T16:16:52.872Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-04-17T16:26:10.149Z"
     },
     "nordea_03d77481821068ffbe85dc31": {
@@ -847,7 +847,7 @@
       "title": "Select which cookies you accept",
       "apply_url": "https://jobs.swedbank.com/jobs/26437-senior-cyberark-engineer",
       "first_seen_at": "2026-04-20T16:33:43.212Z",
-      "last_seen_at": "2026-04-21T16:31:03.195Z",
+      "last_seen_at": "2026-04-22T16:30:28.499Z",
       "last_status": "active",
       "notified_at": "2026-04-20T16:33:43.212Z"
     },

@@ -1,0 +1,143 @@
+{
+  "timestamp": "2026-04-22T16:30:28.499Z",
+  "dry_run": false,
+  "min_relevance_score": 55,
+  "missing_runs_threshold": 3,
+  "company_count": 12,
+  "discovered_jobs": [
+    {
+      "title": "AML Analyst - Part time",
+      "company": "Avanza",
+      "company_id": "avanza",
+      "apply_url": "https://career.avanza.se/jobs/7579502-aml-analyst-part-time",
+      "source_url": "https://career.avanza.se/jobs/7579502-aml-analyst-part-time",
+      "location": "Stockholm, SE",
+      "location_type": "unknown",
+      "team": "",
+      "posted_at": "2026-04-16",
+      "expires_at": "2026-05-03",
+      "summary": "Vill du göra skillnad i arbetet mot penningtvätt och finansiering av terrorism – och samtidigt bli en del av ett kunnigt och engagerat team? Har du minst två år kvar av dina studier och vill bidra i ett samhällsviktigt uppdrag? Då kan rollen som deltidsanställd AML-analyst på Avanza vara rätt för dig! Om tjänsten Som deltidsanställd AML-analyst på Avanza blir du en del av Surveillance – teamet som...",
+      "area_tags": [
+        "market_risk",
+        "research",
+        "analytics",
+        "market_surveillance"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 94,
+      "why_relevant": "",
+      "confidence": 0.75,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-04-22T16:30:28.499Z",
+      "id": "avanza_4228d683db7466d53aa98c98",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 9,
+        "area_preference_bonus": 41,
+        "profile_keyword_bonus": 7,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true
+    },
+    {
+      "title": "Select which cookies you accept",
+      "company": "Swedbank",
+      "company_id": "swedbank",
+      "apply_url": "https://jobs.swedbank.com/jobs/26437-senior-cyberark-engineer",
+      "source_url": "https://jobs.swedbank.com/jobs/26437-senior-cyberark-engineer",
+      "location": "Stockholm Region, Malmö, Göteborg",
+      "location_type": "hybrid",
+      "team": "",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Do you have a passion for Privileged Access Management and are you looking for work in a dynamic environment where Security is Everyone’s Business?. In Swedb...",
+      "area_tags": [
+        "alm_liquidity"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 50,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-04-22T16:30:28.499Z",
+      "id": "swedbank_7e4ddfd394d9077ae431b0af",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 7,
+        "area_preference_bonus": 11,
+        "profile_keyword_bonus": 8,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    },
+    {
+      "title": "Select which cookies you accept",
+      "company": "Nordnet",
+      "company_id": "nordnet",
+      "apply_url": "https://career.nordnetab.com/jobs/7501643-network-engineer",
+      "source_url": "https://career.nordnetab.com/jobs/7501643-network-engineer",
+      "location": "Stockholm",
+      "location_type": "hybrid",
+      "team": "IT Operations",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Nordnet redefined the financial world as the first digital bank in Europe. Now we are about to do it again and the aim is to create the next generation of ba...",
+      "area_tags": [
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 48,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-04-22T16:30:28.499Z",
+      "id": "nordnet_fa09e865176c3580c7f96127",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 9,
+        "area_preference_bonus": 12,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    },
+    {
+      "title": "Select which cookies you accept",
+      "company": "Nordnet",
+      "company_id": "nordnet",
+      "apply_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
+      "source_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
+      "location": "Stockholm",
+      "location_type": "hybrid",
+      "team": "Engineering",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Nordnet redefined the financial world as the first digital bank in Europe. Now we are about to do it again and the aim is to create the next generation of ba...",
+      "area_tags": [
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 48,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-04-22T16:30:28.499Z",
+      "id": "nordnet_31c422a02028d12443e749a2",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 9,
+        "area_preference_bonus": 12,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    }
+  ],
+  "new_jobs": [],
+  "errors": [
+    {
+      "company": "External market scan",
+      "error": "The operation was aborted due to timeout"
+    }
+  ]
+}

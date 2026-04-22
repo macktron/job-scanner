@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-21T16:31:03.195Z",
+  "updated_at": "2026-04-22T16:30:28.499Z",
   "jobs": [
     {
       "title": "Counterparty Credit Risk Model Developer",
@@ -34,7 +34,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-04-16T16:40:02.464Z",
       "last_seen_at": "2026-04-21T16:31:03.195Z",
       "notified_at": "2026-04-16T16:40:02.464Z"
@@ -73,7 +73,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-04-15T16:30:03.859Z",
       "last_seen_at": "2026-04-21T16:31:03.195Z",
       "notified_at": "2026-04-15T16:30:03.859Z"
@@ -102,7 +102,7 @@
       "why_relevant": "",
       "confidence": 0.75,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-04-21T16:31:03.195Z",
+      "discovered_at": "2026-04-22T16:30:28.499Z",
       "id": "avanza_4228d683db7466d53aa98c98",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -114,7 +114,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-04-16T16:40:02.464Z",
-      "last_seen_at": "2026-04-21T16:31:03.195Z",
+      "last_seen_at": "2026-04-22T16:30:28.499Z",
       "notified_at": "2026-04-16T16:40:02.464Z"
     },
     {
@@ -149,7 +149,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-04-20T16:33:43.212Z",
       "last_seen_at": "2026-04-20T16:33:43.212Z",
       "notified_at": "2026-04-20T16:33:43.212Z"
@@ -186,7 +186,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-04-11T16:13:54.650Z",
       "last_seen_at": "2026-04-21T16:31:03.195Z",
       "notified_at": "2026-04-11T16:13:54.650Z"
@@ -223,7 +223,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-04-20T16:33:43.212Z",
       "last_seen_at": "2026-04-20T16:33:43.212Z",
       "notified_at": "2026-04-20T16:33:43.212Z"
@@ -260,7 +260,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-04-21T16:31:03.195Z",
       "last_seen_at": "2026-04-21T16:31:03.195Z",
       "notified_at": "2026-04-21T16:31:03.195Z"
@@ -297,7 +297,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-04-21T16:31:03.195Z",
       "last_seen_at": "2026-04-21T16:31:03.195Z",
       "notified_at": "2026-04-21T16:31:03.195Z"
@@ -334,7 +334,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-04-21T16:31:03.195Z",
       "last_seen_at": "2026-04-21T16:31:03.195Z",
       "notified_at": "2026-04-21T16:31:03.195Z"
@@ -371,7 +371,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-04-17T16:26:10.149Z",
       "last_seen_at": "2026-04-21T16:31:03.195Z",
       "notified_at": "2026-04-17T16:26:10.149Z"
@@ -408,7 +408,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-04-21T16:31:03.195Z",
       "last_seen_at": "2026-04-21T16:31:03.195Z",
       "notified_at": "2026-04-21T16:31:03.195Z"
@@ -445,7 +445,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-04-21T16:31:03.195Z",
       "last_seen_at": "2026-04-21T16:31:03.195Z",
       "notified_at": "2026-04-21T16:31:03.195Z"
@@ -482,7 +482,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-04-10T16:24:51.348Z",
       "last_seen_at": "2026-04-21T16:31:03.195Z",
       "notified_at": "2026-04-10T16:24:51.348Z"
@@ -519,7 +519,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-03-27T17:23:30.600Z",
       "last_seen_at": "2026-04-21T16:31:03.195Z",
       "notified_at": "2026-03-27T17:23:30.600Z"
@@ -556,7 +556,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-04-21T16:31:03.195Z",
       "last_seen_at": "2026-04-21T16:31:03.195Z",
       "notified_at": "2026-04-21T16:31:03.195Z"
@@ -593,84 +593,10 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-04-21T16:31:03.195Z",
       "last_seen_at": "2026-04-21T16:31:03.195Z",
       "notified_at": "2026-04-21T16:31:03.195Z"
-    },
-    {
-      "title": "Analyst - Corporate Advisory| Business Banking",
-      "company": "Nordea",
-      "company_id": "nordea",
-      "apply_url": "https://careers.nordea.com/job/Stockholm-Analyst-Corporate-Advisory-Business-Banking-111-46/1384836633/?feedId=451033&amp;utm_source=CareerSite",
-      "source_url": "https://careers.nordea.com/job/Stockholm-Analyst-Corporate-Advisory-Business-Banking-111-46/1384836633/?feedId=451033&amp;utm_source=CareerSite",
-      "location": "",
-      "location_type": "unknown",
-      "team": "",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Stockholm Analyst - Corporate Advisory| Business Banking, 111 46",
-      "area_tags": [
-        "research",
-        "analytics"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 68,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:nordea",
-      "discovered_at": "2026-04-19T16:16:52.872Z",
-      "id": "nordea_dc185c49f6d5b83db6f5eba2",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 10,
-        "area_preference_bonus": 18,
-        "profile_keyword_bonus": 7,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-04-17T16:26:10.149Z",
-      "last_seen_at": "2026-04-19T16:16:52.872Z",
-      "notified_at": "2026-04-17T16:26:10.149Z"
-    },
-    {
-      "title": "Product Owner role in Data Product Hub Business Team",
-      "company": "Nordea",
-      "company_id": "nordea",
-      "apply_url": "https://careers.nordea.com/job/Stockholm-Product-Owner-role-in-Data-Product-Hub-Business-Team-112-51/1382591433/",
-      "source_url": "https://careers.nordea.com/job/Stockholm-Product-Owner-role-in-Data-Product-Hub-Business-Team-112-51/1382591433/",
-      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Product Owner role in Data Product Hub Business Team Stockholm, SE, 112 51 Gdynia, PL, 81-537 Warszawa, PL, 02-460 Gdańsk, PL, 80-309 Helsinki, FI, 00500 Helsinki, FI, 00500 Stockholm, SE, 112 51 Helsinki, FI, 00500 Helsinki, FI, 00500 Helsinki, FI, 00500 Helsinki, FI, 00500 Helsinki, FI, 00500 #job-location.job-location-inline { display: inline; }",
-      "location_type": "unknown",
-      "team": "",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Stockholm Product Owner role in Data Product Hub Business Team, 112 51",
-      "area_tags": [
-        "market_risk",
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 68,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:nordea",
-      "discovered_at": "2026-04-19T16:16:52.872Z",
-      "id": "nordea_2b507a0594caf5e50d74dd16",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 10,
-        "area_preference_bonus": 27,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-04-14T16:32:28.050Z",
-      "last_seen_at": "2026-04-19T16:16:52.872Z",
-      "notified_at": "2026-04-14T16:32:28.050Z"
     },
     {
       "title": "Select which cookies you accept",
@@ -693,7 +619,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-04-21T16:31:03.195Z",
+      "discovered_at": "2026-04-22T16:30:28.499Z",
       "id": "swedbank_7e4ddfd394d9077ae431b0af",
       "profile_score_breakdown": {
         "company_preference_bonus": 7,
@@ -705,7 +631,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-04-20T16:33:43.212Z",
-      "last_seen_at": "2026-04-21T16:31:03.195Z",
+      "last_seen_at": "2026-04-22T16:30:28.499Z",
       "notified_at": "2026-04-20T16:33:43.212Z"
     },
     {
@@ -729,7 +655,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-04-21T16:31:03.195Z",
+      "discovered_at": "2026-04-22T16:30:28.499Z",
       "id": "nordnet_fa09e865176c3580c7f96127",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -741,7 +667,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-04-01T16:27:03.549Z",
-      "last_seen_at": "2026-04-21T16:31:03.195Z",
+      "last_seen_at": "2026-04-22T16:30:28.499Z",
       "notified_at": "2026-04-01T16:27:03.549Z"
     },
     {
@@ -765,7 +691,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-04-21T16:31:03.195Z",
+      "discovered_at": "2026-04-22T16:30:28.499Z",
       "id": "nordnet_31c422a02028d12443e749a2",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -777,7 +703,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-04-21T16:31:03.195Z",
+      "last_seen_at": "2026-04-22T16:30:28.499Z",
       "notified_at": "2026-03-26T17:11:28.632Z"
     },
     {
@@ -811,7 +737,7 @@
       },
       "matches_minimum_score": false,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-03-26T17:11:28.632Z",
       "last_seen_at": "2026-04-20T16:33:43.212Z",
       "notified_at": "2026-03-26T17:11:28.632Z"
