@@ -1,6 +1,10 @@
 {
-  "updated_at": "2026-04-26T16:19:30.917Z",
-  "jobs": [
+  "timestamp": "2026-04-26T16:19:30.917Z",
+  "dry_run": false,
+  "min_relevance_score": 55,
+  "missing_runs_threshold": 3,
+  "company_count": 12,
+  "discovered_jobs": [
     {
       "title": "Counterparty Credit Risk Model Developer",
       "company": "Nordea",
@@ -32,12 +36,7 @@
         "profile_keyword_bonus": 27,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-16T16:40:02.464Z",
-      "last_seen_at": "2026-04-26T16:19:30.917Z",
-      "notified_at": "2026-04-16T16:40:02.464Z"
+      "matches_minimum_score": true
     },
     {
       "title": "AI Platform Analyst",
@@ -71,86 +70,7 @@
         "profile_keyword_bonus": 15,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-15T16:30:03.859Z",
-      "last_seen_at": "2026-04-26T16:19:30.917Z",
-      "notified_at": "2026-04-15T16:30:03.859Z"
-    },
-    {
-      "company": "Pareto Securities",
-      "company_id": "pareto_securities",
-      "title": "Equity Research Competition",
-      "apply_url": "https://paretosecurities.teamtailor.com/jobs/7499337-equity-research-competition",
-      "source_url": "https://paretosecurities.teamtailor.com/jobs/7499337-equity-research-competition",
-      "location": "Stockholm",
-      "location_type": "onsite",
-      "team": "Research",
-      "posted_at": null,
-      "expires_at": "2026-04-26",
-      "summary": "Student case competition run by Pareto's Equity Research team (valuation-focused). Registration open 5 April–26 April; initial round Apr 27–30, finalists invited to a finale in Stockholm on 13 May.",
-      "area_tags": [
-        "research",
-        "analytics"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 100,
-      "why_relevant": "Directly run by Pareto's Equity Research team in Stockholm; suitable for students / junior candidates interested in research and valuation.",
-      "confidence": 0.9,
-      "discovery_method": "openai:web_search",
-      "discovered_at": "2026-04-25T16:18:35.226Z",
-      "id": "pareto_securities_d812e5025809f47daeb9dca5",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 6,
-        "area_preference_bonus": 18,
-        "profile_keyword_bonus": 14,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 1,
-      "first_seen_at": "2026-04-10T16:24:51.348Z",
-      "last_seen_at": "2026-04-25T16:18:35.226Z",
-      "notified_at": "2026-04-10T16:24:51.348Z"
-    },
-    {
-      "company": "Pareto Securities",
-      "company_id": "pareto_securities",
-      "title": "Open Application – Sweden (Stockholm)",
-      "apply_url": "https://paretosecurities.teamtailor.com/jobs/3713025-open-application-sweden",
-      "source_url": "https://paretosecurities.teamtailor.com/jobs/3713025-open-application-sweden",
-      "location": "Stockholm",
-      "location_type": "onsite",
-      "team": "Open application / Investment Banking (Sweden)",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "General open application for Sweden (Stockholm). Targets candidates with analytical mind-set, good academics and interest in finance — intended as a channel for early-career hires.",
-      "area_tags": [
-        "research",
-        "analytics"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 100,
-      "why_relevant": "Stockholm-based open application aimed at early-career recruits in Pareto's finance teams (possible entry route into research/analytics roles).",
-      "confidence": 0.7,
-      "discovery_method": "openai:web_search",
-      "discovered_at": "2026-04-25T16:18:35.226Z",
-      "id": "pareto_securities_0e4336bff3a69aa44e243c4c",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 6,
-        "area_preference_bonus": 18,
-        "profile_keyword_bonus": 7,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 1,
-      "first_seen_at": "2026-04-25T16:18:35.226Z",
-      "last_seen_at": "2026-04-25T16:18:35.226Z",
-      "notified_at": "2026-04-25T16:18:35.226Z"
+      "matches_minimum_score": true
     },
     {
       "title": "AML Analyst - Part time",
@@ -184,12 +104,7 @@
         "profile_keyword_bonus": 7,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-16T16:40:02.464Z",
-      "last_seen_at": "2026-04-26T16:19:30.917Z",
-      "notified_at": "2026-04-16T16:40:02.464Z"
+      "matches_minimum_score": true
     },
     {
       "title": "AI Platform Engineer",
@@ -221,12 +136,7 @@
         "profile_keyword_bonus": 8,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-11T16:13:54.650Z",
-      "last_seen_at": "2026-04-26T16:19:30.917Z",
-      "notified_at": "2026-04-11T16:13:54.650Z"
+      "matches_minimum_score": true
     },
     {
       "company": "DNB Carnegie",
@@ -258,12 +168,7 @@
         "profile_keyword_bonus": 10,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-16T16:40:02.464Z",
-      "last_seen_at": "2026-04-26T16:19:30.917Z",
-      "notified_at": "2026-04-16T16:40:02.464Z"
+      "matches_minimum_score": true
     },
     {
       "company": "DNB Carnegie",
@@ -295,12 +200,7 @@
         "profile_keyword_bonus": 10,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-16T16:40:02.464Z",
-      "last_seen_at": "2026-04-26T16:19:30.917Z",
-      "notified_at": "2026-04-16T16:40:02.464Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Analyst - Corporate Advisory| Business Banking",
@@ -332,12 +232,7 @@
         "profile_keyword_bonus": 7,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-17T16:26:10.149Z",
-      "last_seen_at": "2026-04-26T16:19:30.917Z",
-      "notified_at": "2026-04-17T16:26:10.149Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Customer Adviser",
@@ -369,12 +264,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-21T16:31:03.195Z",
-      "last_seen_at": "2026-04-26T16:19:30.917Z",
-      "notified_at": "2026-04-21T16:31:03.195Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Fastighetsvärderare med inriktning på mindre Jord & Skogs-fastigheter",
@@ -406,12 +296,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-21T16:31:03.195Z",
-      "last_seen_at": "2026-04-26T16:19:30.917Z",
-      "notified_at": "2026-04-21T16:31:03.195Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Fullstack Developer to Nordea Life & Pension Sweden",
@@ -443,12 +328,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-03-27T17:23:30.600Z",
-      "last_seen_at": "2026-04-26T16:19:30.917Z",
-      "notified_at": "2026-03-27T17:23:30.600Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Chief Compliance Officer",
@@ -480,86 +360,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-21T16:31:03.195Z",
-      "last_seen_at": "2026-04-26T16:19:30.917Z",
-      "notified_at": "2026-04-21T16:31:03.195Z"
-    },
-    {
-      "title": "Actuary Nordea Life and Pensions",
-      "company": "Nordea",
-      "company_id": "nordea",
-      "apply_url": "https://careers.nordea.com/job/Stockholm-Actuary-Nordea-Life-and-Pensions-111-56/1382586633/",
-      "source_url": "https://careers.nordea.com/job/Stockholm-Actuary-Nordea-Life-and-Pensions-111-56/1382586633/",
-      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Actuary Nordea Life and Pensions Stockholm, SE, 111 56 #job-location.job-location-inline { display: inline; }",
-      "location_type": "unknown",
-      "team": "",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Stockholm Actuary Nordea Life and Pensions, 111 56",
-      "area_tags": [
-        "market_risk",
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 68,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:nordea",
-      "discovered_at": "2026-04-24T16:27:16.061Z",
-      "id": "nordea_0f0b6e0a88fc5d004cdb76a1",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 10,
-        "area_preference_bonus": 27,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-04-10T16:24:51.348Z",
-      "last_seen_at": "2026-04-24T16:27:16.061Z",
-      "notified_at": "2026-04-10T16:24:51.348Z"
-    },
-    {
-      "title": "Product Owner role in Data Product Hub Business Team",
-      "company": "Nordea",
-      "company_id": "nordea",
-      "apply_url": "https://careers.nordea.com/job/Stockholm-Product-Owner-role-in-Data-Product-Hub-Business-Team-112-51/1382591433/",
-      "source_url": "https://careers.nordea.com/job/Stockholm-Product-Owner-role-in-Data-Product-Hub-Business-Team-112-51/1382591433/",
-      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Product Owner role in Data Product Hub Business Team Stockholm, SE, 112 51 Helsinki, FI, 00500 Stockholm, SE, 112 51 Gdańsk, PL, 80-309 Warszawa, PL, 02-460 Helsinki, FI, 00500 Helsinki, FI, 00500 Helsinki, FI, 00500 Helsinki, FI, 00500 Helsinki, FI, 00500 Helsinki, FI, 00500 Gdynia, PL, 81-537 #job-location.job-location-inline { display: inline; }",
-      "location_type": "unknown",
-      "team": "",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Stockholm Product Owner role in Data Product Hub Business Team, 112 51",
-      "area_tags": [
-        "market_risk",
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 68,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:nordea",
-      "discovered_at": "2026-04-24T16:27:16.061Z",
-      "id": "nordea_3b58f76604016a5f7cb28e06",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 10,
-        "area_preference_bonus": 27,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-04-21T16:31:03.195Z",
-      "last_seen_at": "2026-04-24T16:27:16.061Z",
-      "notified_at": "2026-04-21T16:31:03.195Z"
+      "matches_minimum_score": true
     },
     {
       "company": "Pareto Securities",
@@ -591,12 +392,7 @@
         "profile_keyword_bonus": 14,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-09T16:37:44.806Z",
-      "last_seen_at": "2026-04-26T16:19:30.917Z",
-      "notified_at": "2026-04-09T16:37:44.806Z"
+      "matches_minimum_score": true
     },
     {
       "company": "Pareto Securities",
@@ -628,12 +424,7 @@
         "profile_keyword_bonus": 7,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-07T16:29:00.688Z",
-      "last_seen_at": "2026-04-26T16:19:30.917Z",
-      "notified_at": "2026-04-07T16:29:00.688Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Select which cookies you accept",
@@ -664,12 +455,7 @@
         "profile_keyword_bonus": 8,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-20T16:33:43.212Z",
-      "last_seen_at": "2026-04-26T16:19:30.917Z",
-      "notified_at": "2026-04-20T16:33:43.212Z"
+      "matches_minimum_score": false
     },
     {
       "title": "Select which cookies you accept",
@@ -700,12 +486,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-01T16:27:03.549Z",
-      "last_seen_at": "2026-04-26T16:19:30.917Z",
-      "notified_at": "2026-04-01T16:27:03.549Z"
+      "matches_minimum_score": false
     },
     {
       "title": "Select which cookies you accept",
@@ -736,12 +517,14 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-04-26T16:19:30.917Z",
-      "notified_at": "2026-03-26T17:11:28.632Z"
+      "matches_minimum_score": false
+    }
+  ],
+  "new_jobs": [],
+  "errors": [
+    {
+      "company": "External market scan",
+      "error": "OpenAI response was empty."
     }
   ]
 }
