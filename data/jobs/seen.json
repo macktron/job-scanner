@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-26T16:19:30.917Z",
+  "updated_at": "2026-04-27T16:39:15.922Z",
   "jobs": {
     "nordea_96329aec09a934eb64f8c6c7": {
       "id": "nordea_96329aec09a934eb64f8c6c7",
@@ -107,7 +107,7 @@
       "title": "Select which cookies you accept",
       "apply_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
       "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-04-26T16:19:30.917Z",
+      "last_seen_at": "2026-04-27T16:39:15.922Z",
       "last_status": "active",
       "notified_at": "2026-03-26T17:11:28.632Z"
     },
@@ -317,7 +317,7 @@
       "title": "Select which cookies you accept",
       "apply_url": "https://career.nordnetab.com/jobs/7501643-network-engineer",
       "first_seen_at": "2026-04-01T16:27:03.549Z",
-      "last_seen_at": "2026-04-26T16:19:30.917Z",
+      "last_seen_at": "2026-04-27T16:39:15.922Z",
       "last_status": "active",
       "notified_at": "2026-04-01T16:27:03.549Z"
     },
@@ -518,7 +518,7 @@
       "apply_url": "https://careers.nordea.com/job/Stockholm-Actuary-Nordea-Life-and-Pensions-111-56/1382586633/",
       "first_seen_at": "2026-04-10T16:24:51.348Z",
       "last_seen_at": "2026-04-24T16:27:16.061Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-04-10T16:24:51.348Z"
     },
     "nordea_80af6fcb81bbd7c4b169e626": {
@@ -747,7 +747,7 @@
       "title": "Counterparty Credit Risk Model Developer",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Counterparty-Credit-Risk-Model-Developer-111-46/1289284201/",
       "first_seen_at": "2026-04-16T16:40:02.464Z",
-      "last_seen_at": "2026-04-26T16:19:30.917Z",
+      "last_seen_at": "2026-04-27T16:39:15.922Z",
       "last_status": "active",
       "notified_at": "2026-04-16T16:40:02.464Z"
     },
@@ -757,7 +757,7 @@
       "title": "AML Analyst - Part time",
       "apply_url": "https://career.avanza.se/jobs/7579502-aml-analyst-part-time",
       "first_seen_at": "2026-04-16T16:40:02.464Z",
-      "last_seen_at": "2026-04-26T16:19:30.917Z",
+      "last_seen_at": "2026-04-27T16:39:15.922Z",
       "last_status": "active",
       "notified_at": "2026-04-16T16:40:02.464Z"
     },
@@ -797,7 +797,7 @@
       "title": "Analyst - Corporate Advisory| Business Banking",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Analyst-Corporate-Advisory-Business-Banking-111-46/1384836633/",
       "first_seen_at": "2026-04-17T16:26:10.149Z",
-      "last_seen_at": "2026-04-26T16:19:30.917Z",
+      "last_seen_at": "2026-04-27T16:39:15.922Z",
       "last_status": "active",
       "notified_at": "2026-04-17T16:26:10.149Z"
     },
@@ -887,7 +887,7 @@
       "title": "Customer Adviser",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Customer-Adviser-112-51/1385871033/",
       "first_seen_at": "2026-04-21T16:31:03.195Z",
-      "last_seen_at": "2026-04-26T16:19:30.917Z",
+      "last_seen_at": "2026-04-27T16:39:15.922Z",
       "last_status": "active",
       "notified_at": "2026-04-21T16:31:03.195Z"
     },
@@ -897,7 +897,7 @@
       "title": "Fastighetsvärderare med inriktning på mindre Jord & Skogs-fastigheter",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Fastighetsv%C3%A4rderare-med-inriktning-p%C3%A5-mindre-Jord-&amp;-Skogs-fastigheter-111-46/1385872733/",
       "first_seen_at": "2026-04-21T16:31:03.195Z",
-      "last_seen_at": "2026-04-26T16:19:30.917Z",
+      "last_seen_at": "2026-04-27T16:39:15.922Z",
       "last_status": "active",
       "notified_at": "2026-04-21T16:31:03.195Z"
     },
@@ -908,7 +908,7 @@
       "apply_url": "https://careers.nordea.com/job/Stockholm-Product-Owner-role-in-Data-Product-Hub-Business-Team-112-51/1382591433/",
       "first_seen_at": "2026-04-21T16:31:03.195Z",
       "last_seen_at": "2026-04-24T16:27:16.061Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-04-21T16:31:03.195Z"
     },
     "nordea_1e2b6ea2fbfc612b9857d6da": {
@@ -917,7 +917,7 @@
       "title": "Chief Compliance Officer",
       "apply_url": "https://careers.nordea.com/job/K%C3%B8benhavn-S-Chief-Compliance-Officer-2300/1385856733/",
       "first_seen_at": "2026-04-21T16:31:03.195Z",
-      "last_seen_at": "2026-04-26T16:19:30.917Z",
+      "last_seen_at": "2026-04-27T16:39:15.922Z",
       "last_status": "active",
       "notified_at": "2026-04-21T16:31:03.195Z"
     },
@@ -940,6 +940,86 @@
       "last_seen_at": "2026-04-25T16:18:35.226Z",
       "last_status": "active",
       "notified_at": "2026-04-25T16:18:35.226Z"
+    },
+    "nordea_8ac41e005428dc237f70f3aa": {
+      "id": "nordea_8ac41e005428dc237f70f3aa",
+      "company": "Nordea",
+      "title": "Assistant Quantitative Risk Analyst, Retail PD",
+      "apply_url": "https://careers.nordea.com/job/Helsinki-Assistant-Quantitative-Risk-Analyst%2C-Retail-PD-00500/1387717133/",
+      "first_seen_at": "2026-04-27T16:39:15.922Z",
+      "last_seen_at": "2026-04-27T16:39:15.922Z",
+      "last_status": "active",
+      "notified_at": "2026-04-27T16:39:15.922Z"
+    },
+    "nordea_3f486a1a00d75177a8b5f6c6": {
+      "id": "nordea_3f486a1a00d75177a8b5f6c6",
+      "company": "Nordea",
+      "title": "Financial uu",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-Financial-uu-111-46/1387781333/?feedId=451033&amp;utm_source=CareerSite",
+      "first_seen_at": "2026-04-27T16:39:15.922Z",
+      "last_seen_at": "2026-04-27T16:39:15.922Z",
+      "last_status": "active",
+      "notified_at": "2026-04-27T16:39:15.922Z"
+    },
+    "nordea_14627772c6fd15e502a7c23d": {
+      "id": "nordea_14627772c6fd15e502a7c23d",
+      "company": "Nordea",
+      "title": "Student Assistant - Internal Communication",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-Student-Assistant-Internal-Communication-111-46/1387792433/?feedId=451033&amp;utm_source=CareerSite",
+      "first_seen_at": "2026-04-27T16:39:15.922Z",
+      "last_seen_at": "2026-04-27T16:39:15.922Z",
+      "last_status": "active",
+      "notified_at": "2026-04-27T16:39:15.922Z"
+    },
+    "nordea_9265932df2ff44db4fba30a3": {
+      "id": "nordea_9265932df2ff44db4fba30a3",
+      "company": "Nordea",
+      "title": "AI Transformation and Adoption Partner",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-AI-Transformation-and-Adoption-Partner-111-46/1370055133/?feedId=451033&amp;utm_source=CareerSite",
+      "first_seen_at": "2026-04-27T16:39:15.922Z",
+      "last_seen_at": "2026-04-27T16:39:15.922Z",
+      "last_status": "active",
+      "notified_at": "2026-04-27T16:39:15.922Z"
+    },
+    "nordea_cbad1e98db6fc3c5c51dee10": {
+      "id": "nordea_cbad1e98db6fc3c5c51dee10",
+      "company": "Nordea",
+      "title": "Student Assistant - Internal Communication",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-Student-Assistant-Internal-Communication-111-46/1387792433/",
+      "first_seen_at": "2026-04-27T16:39:15.922Z",
+      "last_seen_at": "2026-04-27T16:39:15.922Z",
+      "last_status": "active",
+      "notified_at": "2026-04-27T16:39:15.922Z"
+    },
+    "nordea_ae85018634504423f30a8bd8": {
+      "id": "nordea_ae85018634504423f30a8bd8",
+      "company": "Nordea",
+      "title": "Financial uu",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-Financial-uu-111-46/1387781333/",
+      "first_seen_at": "2026-04-27T16:39:15.922Z",
+      "last_seen_at": "2026-04-27T16:39:15.922Z",
+      "last_status": "active",
+      "notified_at": "2026-04-27T16:39:15.922Z"
+    },
+    "nordea_687ec2ad6e35772c86c31d39": {
+      "id": "nordea_687ec2ad6e35772c86c31d39",
+      "company": "Nordea",
+      "title": "Associate Forward Deployed AI Scientist",
+      "apply_url": "https://careers.nordea.com/job/Helsinki-Associate-Forward-Deployed-AI-Scientist-00500/1387719933/",
+      "first_seen_at": "2026-04-27T16:39:15.922Z",
+      "last_seen_at": "2026-04-27T16:39:15.922Z",
+      "last_status": "active",
+      "notified_at": "2026-04-27T16:39:15.922Z"
+    },
+    "nordea_8fda15221cb4c3d763071afc": {
+      "id": "nordea_8fda15221cb4c3d763071afc",
+      "company": "Nordea",
+      "title": "AI Transformation and Adoption Partner",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-AI-Transformation-and-Adoption-Partner-111-46/1370055133/",
+      "first_seen_at": "2026-04-27T16:39:15.922Z",
+      "last_seen_at": "2026-04-27T16:39:15.922Z",
+      "last_status": "active",
+      "notified_at": "2026-04-27T16:39:15.922Z"
     }
   }
 }
