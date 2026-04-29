@@ -1,6 +1,10 @@
 {
-  "updated_at": "2026-04-29T16:39:20.939Z",
-  "jobs": [
+  "timestamp": "2026-04-29T16:39:20.939Z",
+  "dry_run": false,
+  "min_relevance_score": 55,
+  "missing_runs_threshold": 3,
+  "company_count": 12,
+  "discovered_jobs": [
     {
       "title": "Counterparty Credit Risk Model Developer",
       "company": "Nordea",
@@ -32,12 +36,7 @@
         "profile_keyword_bonus": 27,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-16T16:40:02.464Z",
-      "last_seen_at": "2026-04-29T16:39:20.939Z",
-      "notified_at": "2026-04-16T16:40:02.464Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Assistant Quantitative Risk Analyst, Retail PD",
@@ -73,53 +72,7 @@
         "profile_keyword_bonus": 16,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-04-29T16:39:20.939Z",
-      "notified_at": "2026-04-28T16:42:27.094Z"
-    },
-    {
-      "title": "Assistant Quantitative Risk Analyst, Retail PD",
-      "company": "Nordea",
-      "company_id": "nordea",
-      "apply_url": "https://careers.nordea.com/job/Helsinki-Assistant-Quantitative-Risk-Analyst%2C-Retail-PD-00500/1387717133/",
-      "source_url": "https://careers.nordea.com/job/Helsinki-Assistant-Quantitative-Risk-Analyst%2C-Retail-PD-00500/1387717133/",
-      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Assistant Quantitative Risk Analyst, Retail PD Helsinki, FI, 00500 Warszawa, PL, 02-460 Oslo, NO, 0368 Stockholm, SE, 111 46 #job-location.job-location-inline { display: inline; }",
-      "location_type": "unknown",
-      "team": "Retail PD",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Helsinki Assistant Quantitative Risk Analyst, Retail PD, 00500",
-      "area_tags": [
-        "quant",
-        "risk",
-        "market_risk",
-        "research",
-        "data_science",
-        "analytics"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 100,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:nordea",
-      "discovered_at": "2026-04-27T16:39:15.922Z",
-      "id": "nordea_8ac41e005428dc237f70f3aa",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 10,
-        "area_preference_bonus": 76,
-        "profile_keyword_bonus": 16,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-04-27T16:39:15.922Z",
-      "last_seen_at": "2026-04-27T16:39:15.922Z",
-      "notified_at": "2026-04-27T16:39:15.922Z"
+      "matches_minimum_score": true
     },
     {
       "title": "AML Analyst - Part time",
@@ -153,12 +106,7 @@
         "profile_keyword_bonus": 7,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-16T16:40:02.464Z",
-      "last_seen_at": "2026-04-29T16:39:20.939Z",
-      "notified_at": "2026-04-16T16:40:02.464Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Administratör/säljstöd till Flyttsupporten, Nordea Liv & Pension",
@@ -190,12 +138,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-04-29T16:39:20.939Z",
-      "notified_at": "2026-04-28T16:42:27.094Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Analyst - Corporate Advisory| Business Banking",
@@ -227,12 +170,7 @@
         "profile_keyword_bonus": 7,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-17T16:26:10.149Z",
-      "last_seen_at": "2026-04-29T16:39:20.939Z",
-      "notified_at": "2026-04-17T16:26:10.149Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Customer Adviser",
@@ -264,12 +202,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-21T16:31:03.195Z",
-      "last_seen_at": "2026-04-29T16:39:20.939Z",
-      "notified_at": "2026-04-21T16:31:03.195Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Fastighetsvärderare med inriktning på mindre Jord & Skogs-fastigheter",
@@ -301,12 +234,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-21T16:31:03.195Z",
-      "last_seen_at": "2026-04-29T16:39:20.939Z",
-      "notified_at": "2026-04-21T16:31:03.195Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Student Assistant - Internal Communication",
@@ -338,12 +266,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-27T16:39:15.922Z",
-      "last_seen_at": "2026-04-29T16:39:20.939Z",
-      "notified_at": "2026-04-27T16:39:15.922Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Financial uu",
@@ -375,12 +298,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-27T16:39:15.922Z",
-      "last_seen_at": "2026-04-29T16:39:20.939Z",
-      "notified_at": "2026-04-27T16:39:15.922Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Strategic Partner, Transaction Banking Strategy Office",
@@ -412,12 +330,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-04-29T16:39:20.939Z",
-      "notified_at": "2026-04-28T16:42:27.094Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Administratör/säljstöd till Flyttsupporten, Nordea Liv & Pension",
@@ -449,12 +362,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-04-29T16:39:20.939Z",
-      "notified_at": "2026-04-28T16:42:27.094Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Associate Forward Deployed AI Scientist",
@@ -486,12 +394,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-27T16:39:15.922Z",
-      "last_seen_at": "2026-04-29T16:39:20.939Z",
-      "notified_at": "2026-04-27T16:39:15.922Z"
+      "matches_minimum_score": true
     },
     {
       "title": "AI Transformation and Adoption Partner",
@@ -523,12 +426,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-04-29T16:39:20.939Z",
-      "notified_at": "2026-04-28T16:42:27.094Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Chief Compliance Officer",
@@ -560,197 +458,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-21T16:31:03.195Z",
-      "last_seen_at": "2026-04-29T16:39:20.939Z",
-      "notified_at": "2026-04-21T16:31:03.195Z"
-    },
-    {
-      "title": "Strategic Partner, Transaction Banking Strategy Office",
-      "company": "Nordea",
-      "company_id": "nordea",
-      "apply_url": "https://careers.nordea.com/job/Stockholm-Strategic-Partner%2C-Transaction-Banking-Strategy-Office-111-46/1388248433/?feedId=451033&amp;utm_source=CareerSite",
-      "source_url": "https://careers.nordea.com/job/Stockholm-Strategic-Partner%2C-Transaction-Banking-Strategy-Office-111-46/1388248433/?feedId=451033&amp;utm_source=CareerSite",
-      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Strategic Partner, Transaction Banking Strategy Office Stockholm, SE, 111 46 #job-location.job-location-inline { display: inline; }",
-      "location_type": "unknown",
-      "team": "",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Stockholm Strategic Partner, Transaction Banking Strategy Office, 111 46",
-      "area_tags": [
-        "market_risk",
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 68,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:nordea",
-      "discovered_at": "2026-04-28T16:42:27.094Z",
-      "id": "nordea_39fd5f613446928eac6dcb0e",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 10,
-        "area_preference_bonus": 27,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 1,
-      "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-04-28T16:42:27.094Z",
-      "notified_at": "2026-04-28T16:42:27.094Z"
-    },
-    {
-      "title": "Financial uu",
-      "company": "Nordea",
-      "company_id": "nordea",
-      "apply_url": "https://careers.nordea.com/job/Stockholm-Financial-uu-111-46/1387781333/?feedId=451033&amp;utm_source=CareerSite",
-      "source_url": "https://careers.nordea.com/job/Stockholm-Financial-uu-111-46/1387781333/?feedId=451033&amp;utm_source=CareerSite",
-      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Financial uu Stockholm, SE, 111 46 #job-location.job-location-inline { display: inline; }",
-      "location_type": "unknown",
-      "team": "",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Stockholm Financial uu, 111 46",
-      "area_tags": [
-        "market_risk",
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 68,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:nordea",
-      "discovered_at": "2026-04-27T16:39:15.922Z",
-      "id": "nordea_3f486a1a00d75177a8b5f6c6",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 10,
-        "area_preference_bonus": 27,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-04-27T16:39:15.922Z",
-      "last_seen_at": "2026-04-27T16:39:15.922Z",
-      "notified_at": "2026-04-27T16:39:15.922Z"
-    },
-    {
-      "title": "Student Assistant - Internal Communication",
-      "company": "Nordea",
-      "company_id": "nordea",
-      "apply_url": "https://careers.nordea.com/job/Stockholm-Student-Assistant-Internal-Communication-111-46/1387792433/?feedId=451033&amp;utm_source=CareerSite",
-      "source_url": "https://careers.nordea.com/job/Stockholm-Student-Assistant-Internal-Communication-111-46/1387792433/?feedId=451033&amp;utm_source=CareerSite",
-      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Student Assistant - Internal Communication Stockholm, SE, 111 46 #job-location.job-location-inline { display: inline; }",
-      "location_type": "unknown",
-      "team": "Internal Engagement & Communication Partnering",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Stockholm Student Assistant - Internal Communication, 111 46",
-      "area_tags": [
-        "market_risk",
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 68,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:nordea",
-      "discovered_at": "2026-04-27T16:39:15.922Z",
-      "id": "nordea_14627772c6fd15e502a7c23d",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 10,
-        "area_preference_bonus": 27,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-04-27T16:39:15.922Z",
-      "last_seen_at": "2026-04-27T16:39:15.922Z",
-      "notified_at": "2026-04-27T16:39:15.922Z"
-    },
-    {
-      "title": "AI Transformation and Adoption Partner",
-      "company": "Nordea",
-      "company_id": "nordea",
-      "apply_url": "https://careers.nordea.com/job/Stockholm-AI-Transformation-and-Adoption-Partner-111-46/1370055133/?feedId=451033&amp;utm_source=CareerSite",
-      "source_url": "https://careers.nordea.com/job/Stockholm-AI-Transformation-and-Adoption-Partner-111-46/1370055133/?feedId=451033&amp;utm_source=CareerSite",
-      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » AI Transformation and Adoption Partner Stockholm, SE, 111 46 Gdańsk, PL, 80-309 Gdynia, PL, 81-537 Helsinki, FI, 00500 Warszawa, PL, 02-460 #job-location.job-location-inline { display: inline; }",
-      "location_type": "unknown",
-      "team": "AI Adoption",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Stockholm AI Transformation and Adoption Partner, 111 46",
-      "area_tags": [
-        "market_risk",
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 68,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:nordea",
-      "discovered_at": "2026-04-27T16:39:15.922Z",
-      "id": "nordea_9265932df2ff44db4fba30a3",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 10,
-        "area_preference_bonus": 27,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-04-27T16:39:15.922Z",
-      "last_seen_at": "2026-04-27T16:39:15.922Z",
-      "notified_at": "2026-04-27T16:39:15.922Z"
-    },
-    {
-      "title": "AI Transformation and Adoption Partner",
-      "company": "Nordea",
-      "company_id": "nordea",
-      "apply_url": "https://careers.nordea.com/job/Stockholm-AI-Transformation-and-Adoption-Partner-111-46/1370055133/",
-      "source_url": "https://careers.nordea.com/job/Stockholm-AI-Transformation-and-Adoption-Partner-111-46/1370055133/",
-      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » AI Transformation and Adoption Partner Stockholm, SE, 111 46 Gdańsk, PL, 80-309 Gdynia, PL, 81-537 Helsinki, FI, 00500 Warszawa, PL, 02-460 #job-location.job-location-inline { display: inline; }",
-      "location_type": "unknown",
-      "team": "AI Adoption",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Stockholm AI Transformation and Adoption Partner, 111 46",
-      "area_tags": [
-        "market_risk",
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 68,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:nordea",
-      "discovered_at": "2026-04-27T16:39:15.922Z",
-      "id": "nordea_8fda15221cb4c3d763071afc",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 10,
-        "area_preference_bonus": 27,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-04-27T16:39:15.922Z",
-      "last_seen_at": "2026-04-27T16:39:15.922Z",
-      "notified_at": "2026-04-27T16:39:15.922Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Data Analyst",
@@ -782,86 +490,7 @@
         "profile_keyword_bonus": 7,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-04-29T16:39:20.939Z",
-      "notified_at": "2026-04-28T16:42:27.094Z"
-    },
-    {
-      "company": "ABG Sundal Collier",
-      "company_id": "abg_sundal_collier",
-      "title": "Investment Banking Analyst",
-      "apply_url": "https://jobs.weekday.works/abg-sundal-collier-investment-banking-analyst",
-      "source_url": "https://jobs.weekday.works/abg-sundal-collier-investment-banking-analyst",
-      "location": "Stockholm (also Oslo)",
-      "location_type": "onsite",
-      "team": "Investment Banking",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Entry-level analyst role working on company/industry analysis, financial modelling and transaction support; location listed as Oslo and Stockholm. Min experience: 0 years.",
-      "area_tags": [
-        "analytics",
-        "research"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 60,
-      "why_relevant": "Junior, Stockholm-listed ABG role involving financial analysis and modelling (fits analytics/research remit).",
-      "confidence": 0.7,
-      "discovery_method": "openai:web_search",
-      "discovered_at": "2026-04-28T16:42:27.094Z",
-      "id": "abg_sundal_collier_7233f883f765d50141ac9d2d",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 6,
-        "area_preference_bonus": 18,
-        "profile_keyword_bonus": 7,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 1,
-      "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-04-28T16:42:27.094Z",
-      "notified_at": "2026-04-28T16:42:27.094Z"
-    },
-    {
-      "company": "ABG Sundal Collier",
-      "company_id": "abg_sundal_collier",
-      "title": "Investment Banking Intern",
-      "apply_url": "https://jobs.weekday.works/abg-sundal-collier-investment-banking-intern",
-      "source_url": "https://jobs.weekday.works/abg-sundal-collier-investment-banking-intern",
-      "location": "Stockholm (also Oslo)",
-      "location_type": "onsite",
-      "team": "Investment Banking / Interns",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Internship providing exposure to financial modelling, research and deal work; location listed as Oslo and Stockholm. Min experience: 0 years.",
-      "area_tags": [
-        "research",
-        "analytics"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 58,
-      "why_relevant": "Junior-friendly internship in ABG's Stockholm office offering research/analytics experience relevant to quant/finance entry paths.",
-      "confidence": 0.6,
-      "discovery_method": "openai:web_search",
-      "discovered_at": "2026-04-28T16:42:27.094Z",
-      "id": "abg_sundal_collier_a01503c170e29b92fe9828f7",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 6,
-        "area_preference_bonus": 18,
-        "profile_keyword_bonus": 7,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 1,
-      "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-04-28T16:42:27.094Z",
-      "notified_at": "2026-04-28T16:42:27.094Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Network Engineer",
@@ -892,12 +521,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-04-29T16:39:20.939Z",
-      "notified_at": "2026-04-28T16:42:27.094Z"
+      "matches_minimum_score": false
     },
     {
       "title": "Software Engineer - Engineering Productivity / AI",
@@ -928,12 +552,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-04-29T16:39:20.939Z",
-      "notified_at": "2026-04-28T16:42:27.094Z"
+      "matches_minimum_score": false
     },
     {
       "title": "Software Engineer",
@@ -964,84 +583,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-04-29T16:39:20.939Z",
-      "notified_at": "2026-04-28T16:42:27.094Z"
-    },
-    {
-      "title": "Select which cookies you accept",
-      "company": "Nordnet",
-      "company_id": "nordnet",
-      "apply_url": "https://career.nordnetab.com/jobs/7501643-network-engineer",
-      "source_url": "https://career.nordnetab.com/jobs/7501643-network-engineer",
-      "location": "Stockholm",
-      "location_type": "hybrid",
-      "team": "IT Operations",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Nordnet redefined the financial world as the first digital bank in Europe. Now we are about to do it again and the aim is to create the next generation of ba...",
-      "area_tags": [
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 48,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-04-27T16:39:15.922Z",
-      "id": "nordnet_fa09e865176c3580c7f96127",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 9,
-        "area_preference_bonus": 12,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-04-01T16:27:03.549Z",
-      "last_seen_at": "2026-04-27T16:39:15.922Z",
-      "notified_at": "2026-04-01T16:27:03.549Z"
-    },
-    {
-      "title": "Select which cookies you accept",
-      "company": "Nordnet",
-      "company_id": "nordnet",
-      "apply_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
-      "source_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
-      "location": "Stockholm",
-      "location_type": "hybrid",
-      "team": "Engineering",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Nordnet redefined the financial world as the first digital bank in Europe. Now we are about to do it again and the aim is to create the next generation of ba...",
-      "area_tags": [
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 48,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-04-27T16:39:15.922Z",
-      "id": "nordnet_31c422a02028d12443e749a2",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 9,
-        "area_preference_bonus": 12,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-03-26T17:11:28.632Z",
-      "last_seen_at": "2026-04-27T16:39:15.922Z",
-      "notified_at": "2026-03-26T17:11:28.632Z"
+      "matches_minimum_score": false
     },
     {
       "title": "Kundrådgivare – Sales & Service",
@@ -1072,12 +614,14 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-04-29T16:39:20.939Z",
-      "notified_at": "2026-04-28T16:42:27.094Z"
+      "matches_minimum_score": false
+    }
+  ],
+  "new_jobs": [],
+  "errors": [
+    {
+      "company": "External market scan",
+      "error": "OpenAI response was empty."
     }
   ]
 }
