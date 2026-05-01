@@ -1,6 +1,10 @@
 {
-  "updated_at": "2026-05-01T16:27:10.795Z",
-  "jobs": [
+  "timestamp": "2026-05-01T16:27:10.795Z",
+  "dry_run": false,
+  "min_relevance_score": 55,
+  "missing_runs_threshold": 3,
+  "company_count": 12,
+  "discovered_jobs": [
     {
       "title": "Assistant Quantitative Risk Analyst, Retail PD",
       "company": "Nordea",
@@ -35,130 +39,7 @@
         "profile_keyword_bonus": 16,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-30T16:38:00.013Z",
-      "last_seen_at": "2026-05-01T16:27:10.795Z",
-      "notified_at": "2026-04-30T16:38:00.013Z"
-    },
-    {
-      "title": "Counterparty Credit Risk Model Developer",
-      "company": "Nordea",
-      "company_id": "nordea",
-      "apply_url": "https://careers.nordea.com/job/Stockholm-Counterparty-Credit-Risk-Model-Developer-111-46/1289284201/",
-      "source_url": "https://careers.nordea.com/job/Stockholm-Counterparty-Credit-Risk-Model-Developer-111-46/1289284201/",
-      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Counterparty Credit Risk Model Developer Stockholm, SE, 111 46 #job-location.job-location-inline { display: inline; }",
-      "location_type": "unknown",
-      "team": "Counterparty Credit Risk Models",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Stockholm Counterparty Credit Risk Model Developer, 111 46",
-      "area_tags": [
-        "risk",
-        "market_risk",
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 100,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:nordea",
-      "discovered_at": "2026-04-30T16:38:00.013Z",
-      "id": "nordea_28761a23623112bf845ca828",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 10,
-        "area_preference_bonus": 40,
-        "profile_keyword_bonus": 27,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 1,
-      "first_seen_at": "2026-04-16T16:40:02.464Z",
-      "last_seen_at": "2026-04-30T16:38:00.013Z",
-      "notified_at": "2026-04-16T16:40:02.464Z"
-    },
-    {
-      "title": "Assistant Quantitative Risk Analyst, Retail PD",
-      "company": "Nordea",
-      "company_id": "nordea",
-      "apply_url": "https://careers.nordea.com/job/Helsinki-Assistant-Quantitative-Risk-Analyst%2C-Retail-PD-00500/1387717133/",
-      "source_url": "https://careers.nordea.com/job/Helsinki-Assistant-Quantitative-Risk-Analyst%2C-Retail-PD-00500/1387717133/",
-      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Assistant Quantitative Risk Analyst, Retail PD Helsinki, FI, 00500 Oslo, NO, 0368 Warszawa, PL, 02-460 Stockholm, SE, 111 46 #job-location.job-location-inline { display: inline; }",
-      "location_type": "unknown",
-      "team": "Retail PD",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Helsinki Assistant Quantitative Risk Analyst, Retail PD, 00500",
-      "area_tags": [
-        "quant",
-        "risk",
-        "market_risk",
-        "research",
-        "data_science",
-        "analytics"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 100,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:nordea",
-      "discovered_at": "2026-04-29T16:39:20.939Z",
-      "id": "nordea_4298ea5a0b572239ad7ae47f",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 10,
-        "area_preference_bonus": 76,
-        "profile_keyword_bonus": 16,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-04-29T16:39:20.939Z",
-      "notified_at": "2026-04-28T16:42:27.094Z"
-    },
-    {
-      "company": "Pareto Securities",
-      "company_id": "pareto_securities",
-      "title": "Open Application — Sweden (Stockholm)",
-      "apply_url": "https://paretosecurities.teamtailor.com/jobs/3713025-open-application-sweden",
-      "source_url": "https://paretosecurities.teamtailor.com/jobs/3713025-open-application-sweden",
-      "location": "Stockholm, Sweden",
-      "location_type": "onsite",
-      "team": "General (open application for roles across Investment Banking, Research & Sales)",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Company open-application for Pareto's Stockholm office to be considered for junior roles across investment banking, equity/credit research, sales and other market-facing teams. Seeks candidates with analytical mindset, good academics and strong communication skills (Swedish & English).",
-      "area_tags": [
-        "research",
-        "sales_trading",
-        "trading",
-        "analytics"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 100,
-      "why_relevant": "Official Stockholm open-application listing; suitable for entry-level roles in research, sales and trading.",
-      "confidence": 0.85,
-      "discovery_method": "openai:web_search",
-      "discovered_at": "2026-04-30T16:38:00.013Z",
-      "id": "pareto_securities_b6cf7bce191722a2dacc4903",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 6,
-        "area_preference_bonus": 50,
-        "profile_keyword_bonus": 17,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 1,
-      "first_seen_at": "2026-04-11T16:13:54.650Z",
-      "last_seen_at": "2026-04-30T16:38:00.013Z",
-      "notified_at": "2026-04-11T16:13:54.650Z"
+      "matches_minimum_score": true
     },
     {
       "title": "AML Analyst - Part time",
@@ -192,12 +73,7 @@
         "profile_keyword_bonus": 7,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-16T16:40:02.464Z",
-      "last_seen_at": "2026-05-01T16:27:10.795Z",
-      "notified_at": "2026-04-16T16:40:02.464Z"
+      "matches_minimum_score": true
     },
     {
       "company": "Pareto Securities",
@@ -230,12 +106,7 @@
         "profile_keyword_bonus": 17,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-03-31T16:28:57.933Z",
-      "last_seen_at": "2026-05-01T16:27:10.795Z",
-      "notified_at": "2026-03-31T16:28:57.933Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Analyst - Corporate Advisory| Business Banking",
@@ -267,12 +138,7 @@
         "profile_keyword_bonus": 7,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-17T16:26:10.149Z",
-      "last_seen_at": "2026-05-01T16:27:10.795Z",
-      "notified_at": "2026-04-17T16:26:10.149Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Financial uu",
@@ -304,12 +170,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-27T16:39:15.922Z",
-      "last_seen_at": "2026-05-01T16:27:10.795Z",
-      "notified_at": "2026-04-27T16:39:15.922Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Student Assistant - Internal Communication",
@@ -341,12 +202,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-27T16:39:15.922Z",
-      "last_seen_at": "2026-05-01T16:27:10.795Z",
-      "notified_at": "2026-04-27T16:39:15.922Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Administratör/säljstöd till Flyttsupporten, Nordea Liv & Pension",
@@ -378,12 +234,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-05-01T16:27:10.795Z",
-      "notified_at": "2026-04-28T16:42:27.094Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Strategic Partner, Transaction Banking Strategy Office",
@@ -415,12 +266,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-05-01T16:27:10.795Z",
-      "notified_at": "2026-04-28T16:42:27.094Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Customer Adviser",
@@ -452,12 +298,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-21T16:31:03.195Z",
-      "last_seen_at": "2026-05-01T16:27:10.795Z",
-      "notified_at": "2026-04-21T16:31:03.195Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Fastighetsvärderare med inriktning på mindre Jord & Skogs-fastigheter",
@@ -489,12 +330,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-21T16:31:03.195Z",
-      "last_seen_at": "2026-05-01T16:27:10.795Z",
-      "notified_at": "2026-04-21T16:31:03.195Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Associate Forward Deployed AI Scientist",
@@ -526,12 +362,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-27T16:39:15.922Z",
-      "last_seen_at": "2026-05-01T16:27:10.795Z",
-      "notified_at": "2026-04-27T16:39:15.922Z"
+      "matches_minimum_score": true
     },
     {
       "title": "AI Transformation and Adoption Partner",
@@ -563,12 +394,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-05-01T16:27:10.795Z",
-      "notified_at": "2026-04-28T16:42:27.094Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Chief Compliance Officer",
@@ -600,49 +426,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-21T16:31:03.195Z",
-      "last_seen_at": "2026-05-01T16:27:10.795Z",
-      "notified_at": "2026-04-21T16:31:03.195Z"
-    },
-    {
-      "title": "Administratör/säljstöd till Flyttsupporten, Nordea Liv & Pension",
-      "company": "Nordea",
-      "company_id": "nordea",
-      "apply_url": "https://careers.nordea.com/job/Stockholm-Administrat%C3%B6rs%C3%A4ljst%C3%B6d-till-Flyttsupporten%2C-Nordea-Liv-&amp;-Pension-111-56/1388241233/?feedId=451033&amp;utm_source=CareerSite",
-      "source_url": "https://careers.nordea.com/job/Stockholm-Administrat%C3%B6rs%C3%A4ljst%C3%B6d-till-Flyttsupporten%2C-Nordea-Liv-&amp;-Pension-111-56/1388241233/?feedId=451033&amp;utm_source=CareerSite",
-      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Administratör/säljstöd till Flyttsupporten, Nordea Liv & Pension Stockholm, SE, 111 56 #job-location.job-location-inline { display: inline; }",
-      "location_type": "unknown",
-      "team": "",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Stockholm Administratör/säljstöd till Flyttsupporten, Nordea Liv & Pension, 111 56",
-      "area_tags": [
-        "market_risk",
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 68,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:nordea",
-      "discovered_at": "2026-04-29T16:39:20.939Z",
-      "id": "nordea_17922279393735b9ed245c8f",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 10,
-        "area_preference_bonus": 27,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-04-29T16:39:20.939Z",
-      "notified_at": "2026-04-28T16:42:27.094Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Data Analyst",
@@ -674,12 +458,7 @@
         "profile_keyword_bonus": 7,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-05-01T16:27:10.795Z",
-      "notified_at": "2026-04-28T16:42:27.094Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Network Engineer",
@@ -710,12 +489,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-05-01T16:27:10.795Z",
-      "notified_at": "2026-04-28T16:42:27.094Z"
+      "matches_minimum_score": false
     },
     {
       "title": "Software Engineer - Engineering Productivity / AI",
@@ -746,12 +520,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-05-01T16:27:10.795Z",
-      "notified_at": "2026-04-28T16:42:27.094Z"
+      "matches_minimum_score": false
     },
     {
       "title": "Software Engineer",
@@ -782,48 +551,14 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-05-01T16:27:10.795Z",
-      "notified_at": "2026-04-28T16:42:27.094Z"
-    },
+      "matches_minimum_score": false
+    }
+  ],
+  "new_jobs": [],
+  "errors": [
     {
-      "title": "Kundrådgivare – Sales & Service",
-      "company": "Swedbank",
-      "company_id": "swedbank",
-      "apply_url": "https://jobs.swedbank.com/jobs/26504-kundradgivare-sales-service",
-      "source_url": "https://jobs.swedbank.com/jobs/26504-kundradgivare-sales-service",
-      "location": "Stockholm Region",
-      "location_type": "unknown",
-      "team": "",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Har du en passion för kundmötet, av att skapa kundnöjdhet och ge service i världsklass? . Hos oss på&nbsp;Swedbank har du en möjlighet att:. Erbjuda bäst...",
-      "area_tags": [
-        "market_risk"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 46,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-04-30T16:38:00.013Z",
-      "id": "swedbank_b1803914f3d2b8372a6976c9",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 7,
-        "area_preference_bonus": 15,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 1,
-      "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-04-30T16:38:00.013Z",
-      "notified_at": "2026-04-28T16:42:27.094Z"
+      "company": "External market scan",
+      "error": "OpenAI response was empty."
     }
   ]
 }
