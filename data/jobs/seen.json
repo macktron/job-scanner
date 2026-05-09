@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-08T16:37:55.976Z",
+  "updated_at": "2026-05-09T16:24:14.364Z",
   "jobs": {
     "nordea_96329aec09a934eb64f8c6c7": {
       "id": "nordea_96329aec09a934eb64f8c6c7",
@@ -158,7 +158,7 @@
       "apply_url": "https://careers.nordea.com/job/Stockholm-Fullstack-Developer-to-Nordea-Life-&amp;-Pension-Sweden-111-44/1378516533/?feedId=451033&amp;utm_source=CareerSite",
       "first_seen_at": "2026-03-27T17:23:30.600Z",
       "last_seen_at": "2026-05-06T16:42:01.191Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-03-27T17:23:30.600Z"
     },
     "nordea_5f98739dd04d520c5b78f9a9": {
@@ -587,8 +587,8 @@
       "title": "Quantitative Analyst / Developer",
       "apply_url": "https://se.linkedin.com/jobs/view/quantitative-analyst-developer-till-brummer-partners-at-sjr-4369759696",
       "first_seen_at": "2026-04-12T16:15:41.709Z",
-      "last_seen_at": "2026-04-12T16:15:41.709Z",
-      "last_status": "stale",
+      "last_seen_at": "2026-05-09T16:24:14.364Z",
+      "last_status": "active",
       "notified_at": "2026-04-12T16:15:41.709Z"
     },
     "nordea_be711bb5606fdb688a94da17": {
@@ -798,7 +798,7 @@
       "apply_url": "https://careers.nordea.com/job/Stockholm-Analyst-Corporate-Advisory-Business-Banking-111-46/1384836633/",
       "first_seen_at": "2026-04-17T16:26:10.149Z",
       "last_seen_at": "2026-05-06T16:42:01.191Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-04-17T16:26:10.149Z"
     },
     "pareto_securities_382a51efd29bd4a988b56029": {
@@ -878,7 +878,7 @@
       "apply_url": "https://careers.nordea.com/job/Stockholm-Fastighetsv%C3%A4rderare-med-inriktning-p%C3%A5-mindre-Jord-&amp;-Skogs-fastigheter-111-46/1385872733/?feedId=451033&amp;utm_source=CareerSite",
       "first_seen_at": "2026-04-21T16:31:03.195Z",
       "last_seen_at": "2026-05-06T16:42:01.191Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-04-21T16:31:03.195Z"
     },
     "nordea_bd9bf9a5c12472c43e607a4b": {
@@ -1117,7 +1117,7 @@
       "title": "Network Engineer",
       "apply_url": "https://career.nordnetab.com/jobs/7501643-network-engineer",
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-05-08T16:37:55.976Z",
+      "last_seen_at": "2026-05-09T16:24:14.364Z",
       "last_status": "active",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
@@ -1127,7 +1127,7 @@
       "title": "Software Engineer - Engineering Productivity / AI",
       "apply_url": "https://career.nordnetab.com/jobs/5809031-software-engineer-engineering-productivity-ai",
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-05-08T16:37:55.976Z",
+      "last_seen_at": "2026-05-09T16:24:14.364Z",
       "last_status": "active",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
@@ -1137,7 +1137,7 @@
       "title": "Software Engineer",
       "apply_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-05-08T16:37:55.976Z",
+      "last_seen_at": "2026-05-09T16:24:14.364Z",
       "last_status": "active",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
@@ -1208,7 +1208,7 @@
       "apply_url": "https://careers.nordea.com/job/Stockholm-Business-Analyst-Group-Credit-Management-111-44/1389870133/",
       "first_seen_at": "2026-05-04T16:40:43.616Z",
       "last_seen_at": "2026-05-06T16:42:01.191Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-05-04T16:40:43.616Z"
     },
     "nordea_acaf7c3f910a0375682f7e4c": {
@@ -1218,7 +1218,7 @@
       "apply_url": "https://careers.nordea.com/job/Helsinki-Associate-Forward-Deployed-AI-Scientist-00500/1387719933/",
       "first_seen_at": "2026-05-04T16:40:43.616Z",
       "last_seen_at": "2026-05-06T16:42:01.191Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-05-04T16:40:43.616Z"
     },
     "pareto_securities_b6c1a07c90a4c560cc7a26af": {
@@ -1268,7 +1268,7 @@
       "apply_url": "https://paretosecurities.teamtailor.com/jobs/7679813-equity-sales",
       "first_seen_at": "2026-05-06T16:42:01.191Z",
       "last_seen_at": "2026-05-06T16:42:01.191Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-05-06T16:42:01.191Z"
     },
     "pareto_securities_0c737e82273e24333c90db6d": {
@@ -1277,7 +1277,7 @@
       "title": "Internship - Investment Banking",
       "apply_url": "https://paretosecurities.teamtailor.com/jobs/7658168-internship-investment-banking",
       "first_seen_at": "2026-05-06T16:42:01.191Z",
-      "last_seen_at": "2026-05-08T16:37:55.976Z",
+      "last_seen_at": "2026-05-09T16:24:14.364Z",
       "last_status": "active",
       "notified_at": "2026-05-06T16:42:01.191Z"
     },
@@ -1297,7 +1297,7 @@
       "title": "Data Scientist – Pricing & Insights at Swedbank",
       "apply_url": "https://jobs.swedbank.com/jobs/26598-data-scientist-pricing-insights-at-swedbank",
       "first_seen_at": "2026-05-07T16:40:51.956Z",
-      "last_seen_at": "2026-05-08T16:37:55.976Z",
+      "last_seen_at": "2026-05-09T16:24:14.364Z",
       "last_status": "active",
       "notified_at": "2026-05-07T16:40:51.956Z"
     },
@@ -1307,7 +1307,7 @@
       "title": "Equity Sales",
       "apply_url": "https://paretosecurities.teamtailor.com/jobs/7679813-equity-sales/05feede8-6c4f-482a-ba05-487990e53c4b",
       "first_seen_at": "2026-05-07T16:40:51.956Z",
-      "last_seen_at": "2026-05-08T16:37:55.976Z",
+      "last_seen_at": "2026-05-09T16:24:14.364Z",
       "last_status": "active",
       "notified_at": "2026-05-07T16:40:51.956Z"
     },
@@ -1347,7 +1347,7 @@
       "title": "Business Architect in Data & AI CoE",
       "apply_url": "https://jobs.swedbank.com/jobs/26630-business-architect-in-data-ai-coe",
       "first_seen_at": "2026-05-08T16:37:55.976Z",
-      "last_seen_at": "2026-05-08T16:37:55.976Z",
+      "last_seen_at": "2026-05-09T16:24:14.364Z",
       "last_status": "active",
       "notified_at": "2026-05-08T16:37:55.976Z"
     }

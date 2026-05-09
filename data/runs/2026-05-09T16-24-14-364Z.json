@@ -1,0 +1,274 @@
+{
+  "timestamp": "2026-05-09T16:24:14.364Z",
+  "dry_run": false,
+  "min_relevance_score": 55,
+  "missing_runs_threshold": 3,
+  "company_count": 12,
+  "discovered_jobs": [
+    {
+      "company": "Brummer & Partners",
+      "company_id": "brummer_partners",
+      "title": "Quantitative Analyst / Developer",
+      "apply_url": "https://se.linkedin.com/jobs/view/quantitative-analyst-developer-till-brummer-partners-at-sjr-4369759696",
+      "source_url": "https://se.linkedin.com/jobs/view/quantitative-analyst-developer-till-brummer-partners-at-sjr-4369759696",
+      "location": "Stockholm (Norrmalmstorg)",
+      "location_type": "onsite",
+      "team": "Risk / Valuation",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Work in the risk/valuation team to develop and maintain valuation frameworks, support trading infrastructure, automate reporting and implement risk models. Role sits at the intersection of quantitative analysis and system development (Python/SQL), with mentorship and opportunities for junior candidates to grow.",
+      "area_tags": [
+        "quant",
+        "quant_developer",
+        "risk",
+        "model_validation",
+        "analytics"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 100,
+      "why_relevant": "Direct quantitative/risk developer role based in central Stockholm, junior-friendly and matches quant + risk + developer tags.",
+      "confidence": 0.78,
+      "discovery_method": "openai:web_search",
+      "discovered_at": "2026-05-09T16:24:14.364Z",
+      "id": "brummer_partners_790d42454678846b66364ad4",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 7,
+        "area_preference_bonus": 66,
+        "profile_keyword_bonus": 36,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true
+    },
+    {
+      "title": "Data Scientist – Pricing & Insights at Swedbank",
+      "company": "Swedbank",
+      "company_id": "swedbank",
+      "apply_url": "https://jobs.swedbank.com/jobs/26598-data-scientist-pricing-insights-at-swedbank",
+      "source_url": "https://jobs.swedbank.com/jobs/26598-data-scientist-pricing-insights-at-swedbank",
+      "location": "Stockholm Region",
+      "location_type": "unknown",
+      "team": "",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Are you passionate about information hidden in vast amounts of data, programming, and finance?. In Swedbank you have the opportunity to:. • Have an analytica...",
+      "area_tags": [
+        "quant",
+        "data_science",
+        "pricing"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 94,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-05-09T16:24:14.364Z",
+      "id": "swedbank_6679d1383ec079cdc248f7dc",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 7,
+        "area_preference_bonus": 42,
+        "profile_keyword_bonus": 17,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true
+    },
+    {
+      "company": "Pareto Securities",
+      "company_id": "pareto_securities",
+      "title": "Equity Sales",
+      "apply_url": "https://paretosecurities.teamtailor.com/jobs/7679813-equity-sales/05feede8-6c4f-482a-ba05-487990e53c4b",
+      "source_url": "https://paretosec.com/updates/vacant-positions/equity-sales-1",
+      "location": "Stockholm, Sweden",
+      "location_type": "onsite",
+      "team": "Sales",
+      "posted_at": null,
+      "expires_at": "2026-05-24",
+      "summary": "Join Pareto's expanding electronic trading business in Sweden to grow and manage a client base of private online investors; junior-friendly with previous sales/trading experience a plus but not required.",
+      "area_tags": [
+        "sales_trading",
+        "trading",
+        "analytics"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 83,
+      "why_relevant": "Stockholm-based sales/trading role focused on electronic equity execution and client growth; suited to junior candidates.",
+      "confidence": 0.9,
+      "discovery_method": "openai:web_search",
+      "discovered_at": "2026-05-09T16:24:14.364Z",
+      "id": "pareto_securities_27576c8dc9079b442043e571",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 6,
+        "area_preference_bonus": 40,
+        "profile_keyword_bonus": 10,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true
+    },
+    {
+      "company": "Pareto Securities",
+      "company_id": "pareto_securities",
+      "title": "Internship - Investment Banking",
+      "apply_url": "https://paretosecurities.teamtailor.com/jobs/7658168-internship-investment-banking",
+      "source_url": "https://paretosec.com/updates/vacant-positions/ecm-investment-banking-internship",
+      "location": "Stockholm, Sweden",
+      "location_type": "onsite",
+      "team": "Investment Banking",
+      "posted_at": null,
+      "expires_at": "2026-05-17",
+      "summary": "Full-time investment banking internship (Jan 2027 start, ~6 months) involving company and sector analysis, pitch preparation and deal support — entry-level/junior-friendly.",
+      "area_tags": [
+        "research",
+        "analytics"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 58,
+      "why_relevant": "Stockholm internship with analytical work (company/sector analysis and deal execution) relevant to research and analytics-focused junior candidates.",
+      "confidence": 0.9,
+      "discovery_method": "openai:web_search",
+      "discovered_at": "2026-05-09T16:24:14.364Z",
+      "id": "pareto_securities_0c737e82273e24333c90db6d",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 6,
+        "area_preference_bonus": 18,
+        "profile_keyword_bonus": 7,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true
+    },
+    {
+      "title": "Business Architect in Data & AI CoE",
+      "company": "Swedbank",
+      "company_id": "swedbank",
+      "apply_url": "https://jobs.swedbank.com/jobs/26630-business-architect-in-data-ai-coe",
+      "source_url": "https://jobs.swedbank.com/jobs/26630-business-architect-in-data-ai-coe",
+      "location": "Stockholm Region, Umeå",
+      "location_type": "hybrid",
+      "team": "",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Are you the one to transform data, analytics and AI into measurable business impact? We are looking for a Business Architect who will be instrumental in shap...",
+      "area_tags": [
+        "data_science",
+        "analytics"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 51,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-05-09T16:24:14.364Z",
+      "id": "swedbank_0de16fa2dfcdd2a2911930d2",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 7,
+        "area_preference_bonus": 20,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    },
+    {
+      "title": "Network Engineer",
+      "company": "Nordnet",
+      "company_id": "nordnet",
+      "apply_url": "https://career.nordnetab.com/jobs/7501643-network-engineer",
+      "source_url": "https://career.nordnetab.com/jobs/7501643-network-engineer",
+      "location": "Stockholm",
+      "location_type": "hybrid",
+      "team": "IT Operations",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Nordnet redefined the financial world as the first digital bank in Europe. Now we are about to do it again and the aim is to create the next generation of ba...",
+      "area_tags": [
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 48,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-05-09T16:24:14.364Z",
+      "id": "nordnet_1a88397d09133916dcffa944",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 9,
+        "area_preference_bonus": 12,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    },
+    {
+      "title": "Software Engineer - Engineering Productivity / AI",
+      "company": "Nordnet",
+      "company_id": "nordnet",
+      "apply_url": "https://career.nordnetab.com/jobs/5809031-software-engineer-engineering-productivity-ai",
+      "source_url": "https://career.nordnetab.com/jobs/5809031-software-engineer-engineering-productivity-ai",
+      "location": "Stockholm",
+      "location_type": "hybrid",
+      "team": "Engineering",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Are you ready to redefine the financial industry? Does a serious technical challenge make your heart beat faster? Then Nordnet is the place for you!",
+      "area_tags": [
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 48,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-05-09T16:24:14.364Z",
+      "id": "nordnet_52db042967f942a01b6dba66",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 9,
+        "area_preference_bonus": 12,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Nordnet",
+      "company_id": "nordnet",
+      "apply_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
+      "source_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
+      "location": "Stockholm",
+      "location_type": "hybrid",
+      "team": "Engineering",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Nordnet redefined the financial world as the first digital bank in Europe. Now we are about to do it again and the aim is to create the next generation of ba...",
+      "area_tags": [
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 48,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-05-09T16:24:14.364Z",
+      "id": "nordnet_9724cc910af8f5b42d1b5421",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 9,
+        "area_preference_bonus": 12,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    }
+  ],
+  "new_jobs": [],
+  "errors": [
+    {
+      "company": "External market scan",
+      "error": "OpenAI response was empty."
+    }
+  ]
+}

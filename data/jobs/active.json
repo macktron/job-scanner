@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-05-08T16:37:55.976Z",
+  "updated_at": "2026-05-09T16:24:14.364Z",
   "jobs": [
+    {
+      "company": "Brummer & Partners",
+      "company_id": "brummer_partners",
+      "title": "Quantitative Analyst / Developer",
+      "apply_url": "https://se.linkedin.com/jobs/view/quantitative-analyst-developer-till-brummer-partners-at-sjr-4369759696",
+      "source_url": "https://se.linkedin.com/jobs/view/quantitative-analyst-developer-till-brummer-partners-at-sjr-4369759696",
+      "location": "Stockholm (Norrmalmstorg)",
+      "location_type": "onsite",
+      "team": "Risk / Valuation",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Work in the risk/valuation team to develop and maintain valuation frameworks, support trading infrastructure, automate reporting and implement risk models. Role sits at the intersection of quantitative analysis and system development (Python/SQL), with mentorship and opportunities for junior candidates to grow.",
+      "area_tags": [
+        "quant",
+        "quant_developer",
+        "risk",
+        "model_validation",
+        "analytics"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 100,
+      "why_relevant": "Direct quantitative/risk developer role based in central Stockholm, junior-friendly and matches quant + risk + developer tags.",
+      "confidence": 0.78,
+      "discovery_method": "openai:web_search",
+      "discovered_at": "2026-05-09T16:24:14.364Z",
+      "id": "brummer_partners_790d42454678846b66364ad4",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 7,
+        "area_preference_bonus": 66,
+        "profile_keyword_bonus": 36,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true,
+      "status": "active",
+      "missing_runs": 0,
+      "first_seen_at": "2026-04-12T16:15:41.709Z",
+      "last_seen_at": "2026-05-09T16:24:14.364Z",
+      "notified_at": "2026-04-12T16:15:41.709Z"
+    },
     {
       "title": "Assistant Quantitative Risk Analyst, Retail PD",
       "company": "Nordea",
@@ -37,7 +77,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-04-30T16:38:00.013Z",
       "last_seen_at": "2026-05-08T16:37:55.976Z",
       "notified_at": "2026-04-30T16:38:00.013Z"
@@ -76,7 +116,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-05-08T16:37:55.976Z",
       "last_seen_at": "2026-05-08T16:37:55.976Z",
       "notified_at": "2026-05-08T16:37:55.976Z"
@@ -115,7 +155,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-05-08T16:37:55.976Z",
       "last_seen_at": "2026-05-08T16:37:55.976Z",
       "notified_at": "2026-05-08T16:37:55.976Z"
@@ -154,7 +194,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-05-07T16:40:51.956Z",
       "last_seen_at": "2026-05-07T16:40:51.956Z",
       "notified_at": "2026-05-07T16:40:51.956Z"
@@ -182,7 +222,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-05-08T16:37:55.976Z",
+      "discovered_at": "2026-05-09T16:24:14.364Z",
       "id": "swedbank_6679d1383ec079cdc248f7dc",
       "profile_score_breakdown": {
         "company_preference_bonus": 7,
@@ -194,46 +234,8 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-05-07T16:40:51.956Z",
-      "last_seen_at": "2026-05-08T16:37:55.976Z",
+      "last_seen_at": "2026-05-09T16:24:14.364Z",
       "notified_at": "2026-05-07T16:40:51.956Z"
-    },
-    {
-      "company": "Pareto Securities",
-      "company_id": "pareto_securities",
-      "title": "Equity Sales",
-      "apply_url": "https://paretosecurities.teamtailor.com/jobs/7679813-equity-sales",
-      "source_url": "https://paretosecurities.teamtailor.com/jobs/7679813-equity-sales",
-      "location": "Stockholm, Sweden",
-      "location_type": "onsite",
-      "team": "Sales",
-      "posted_at": null,
-      "expires_at": "2026-05-24",
-      "summary": "Expand Pareto's electronic trading business in Sweden by growing and managing a client base of private online investors; work closely with the electronic trading team and Pareto Equity Research. Junior-friendly; previous sales/trading experience a plus but not required.",
-      "area_tags": [
-        "sales_trading",
-        "trading",
-        "analytics"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 92,
-      "why_relevant": "Stockholm-based junior sales/trading role at a broker — directly relevant to trading/sales and market-facing analytics.",
-      "confidence": 0.9,
-      "discovery_method": "openai:web_search",
-      "discovered_at": "2026-05-06T16:42:01.191Z",
-      "id": "pareto_securities_733479b736958cda8339e700",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 6,
-        "area_preference_bonus": 40,
-        "profile_keyword_bonus": 17,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-05-06T16:42:01.191Z",
-      "last_seen_at": "2026-05-06T16:42:01.191Z",
-      "notified_at": "2026-05-06T16:42:01.191Z"
     },
     {
       "company": "Pareto Securities",
@@ -243,22 +245,22 @@
       "source_url": "https://paretosec.com/updates/vacant-positions/equity-sales-1",
       "location": "Stockholm, Sweden",
       "location_type": "onsite",
-      "team": "Sales / Electronic Trading",
+      "team": "Sales",
       "posted_at": null,
       "expires_at": "2026-05-24",
-      "summary": "Role within Pareto's expanding electronic trading business in Sweden. Responsible for growing and managing a client base of private online investors; analytical and communication skills required. Previous sales/trading experience is a plus but not required.",
+      "summary": "Join Pareto's expanding electronic trading business in Sweden to grow and manage a client base of private online investors; junior-friendly with previous sales/trading experience a plus but not required.",
       "area_tags": [
-        "trading",
         "sales_trading",
+        "trading",
         "analytics"
       ],
       "stockholm_match": true,
       "finance_match": true,
-      "relevance_score": 81,
-      "why_relevant": "Stockholm-based electronic trading / equity sales role — directly aligned with trading and sales_trading areas and junior-friendly.",
-      "confidence": 0.95,
+      "relevance_score": 83,
+      "why_relevant": "Stockholm-based sales/trading role focused on electronic equity execution and client growth; suited to junior candidates.",
+      "confidence": 0.9,
       "discovery_method": "openai:web_search",
-      "discovered_at": "2026-05-08T16:37:55.976Z",
+      "discovered_at": "2026-05-09T16:24:14.364Z",
       "id": "pareto_securities_27576c8dc9079b442043e571",
       "profile_score_breakdown": {
         "company_preference_bonus": 6,
@@ -270,7 +272,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-05-07T16:40:51.956Z",
-      "last_seen_at": "2026-05-08T16:37:55.976Z",
+      "last_seen_at": "2026-05-09T16:24:14.364Z",
       "notified_at": "2026-05-07T16:40:51.956Z"
     },
     {
@@ -305,7 +307,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-04-16T16:40:02.464Z",
       "last_seen_at": "2026-05-08T16:37:55.976Z",
       "notified_at": "2026-04-16T16:40:02.464Z"
@@ -342,7 +344,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-04-21T16:31:03.195Z",
       "last_seen_at": "2026-05-08T16:37:55.976Z",
       "notified_at": "2026-04-21T16:31:03.195Z"
@@ -379,7 +381,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-05-05T16:40:54.125Z",
       "last_seen_at": "2026-05-08T16:37:55.976Z",
       "notified_at": "2026-05-05T16:40:54.125Z"
@@ -416,7 +418,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-04-27T16:39:15.922Z",
       "last_seen_at": "2026-05-08T16:37:55.976Z",
       "notified_at": "2026-04-27T16:39:15.922Z"
@@ -453,7 +455,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-04-27T16:39:15.922Z",
       "last_seen_at": "2026-05-08T16:37:55.976Z",
       "notified_at": "2026-04-27T16:39:15.922Z"
@@ -490,7 +492,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-04-28T16:42:27.094Z",
       "last_seen_at": "2026-05-08T16:37:55.976Z",
       "notified_at": "2026-04-28T16:42:27.094Z"
@@ -527,7 +529,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-04-28T16:42:27.094Z",
       "last_seen_at": "2026-05-08T16:37:55.976Z",
       "notified_at": "2026-04-28T16:42:27.094Z"
@@ -564,7 +566,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-03-27T17:23:30.600Z",
       "last_seen_at": "2026-05-08T16:37:55.976Z",
       "notified_at": "2026-03-27T17:23:30.600Z"
@@ -601,7 +603,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-04-27T16:39:15.922Z",
       "last_seen_at": "2026-05-08T16:37:55.976Z",
       "notified_at": "2026-04-27T16:39:15.922Z"
@@ -638,7 +640,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-04-28T16:42:27.094Z",
       "last_seen_at": "2026-05-08T16:37:55.976Z",
       "notified_at": "2026-04-28T16:42:27.094Z"
@@ -675,195 +677,10 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-05-07T16:40:51.956Z",
       "last_seen_at": "2026-05-07T16:40:51.956Z",
       "notified_at": "2026-05-07T16:40:51.956Z"
-    },
-    {
-      "title": "Fullstack Developer to Nordea Life & Pension Sweden",
-      "company": "Nordea",
-      "company_id": "nordea",
-      "apply_url": "https://careers.nordea.com/job/Stockholm-Fullstack-Developer-to-Nordea-Life-&amp;-Pension-Sweden-111-44/1378516533/?feedId=451033&amp;utm_source=CareerSite",
-      "source_url": "https://careers.nordea.com/job/Stockholm-Fullstack-Developer-to-Nordea-Life-&amp;-Pension-Sweden-111-44/1378516533/?feedId=451033&amp;utm_source=CareerSite",
-      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Fullstack Developer to Nordea Life & Pension Sweden Stockholm, SE, 111 44 #job-location.job-location-inline { display: inline; }",
-      "location_type": "unknown",
-      "team": "",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Stockholm Fullstack Developer to Nordea Life & Pension Sweden, 111 44",
-      "area_tags": [
-        "market_risk",
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 68,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:nordea",
-      "discovered_at": "2026-05-06T16:42:01.191Z",
-      "id": "nordea_32f81280e859bb0adf765a36",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 10,
-        "area_preference_bonus": 27,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-03-27T17:23:30.600Z",
-      "last_seen_at": "2026-05-06T16:42:01.191Z",
-      "notified_at": "2026-03-27T17:23:30.600Z"
-    },
-    {
-      "title": "Fastighetsvärderare med inriktning på mindre Jord & Skogs-fastigheter",
-      "company": "Nordea",
-      "company_id": "nordea",
-      "apply_url": "https://careers.nordea.com/job/Stockholm-Fastighetsv%C3%A4rderare-med-inriktning-p%C3%A5-mindre-Jord-&amp;-Skogs-fastigheter-111-46/1385872733/?feedId=451033&amp;utm_source=CareerSite",
-      "source_url": "https://careers.nordea.com/job/Stockholm-Fastighetsv%C3%A4rderare-med-inriktning-p%C3%A5-mindre-Jord-&amp;-Skogs-fastigheter-111-46/1385872733/?feedId=451033&amp;utm_source=CareerSite",
-      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Fastighetsvärderare med inriktning på mindre Jord & Skogs-fastigheter Stockholm, SE, 111 46 #job-location.job-location-inline { display: inline; }",
-      "location_type": "unknown",
-      "team": "",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Stockholm Fastighetsvärderare med inriktning på mindre Jord & Skogs-fastigheter, 111 46",
-      "area_tags": [
-        "market_risk",
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 68,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:nordea",
-      "discovered_at": "2026-05-06T16:42:01.191Z",
-      "id": "nordea_093168c2f7dd55b2d6a18221",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 10,
-        "area_preference_bonus": 27,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-04-21T16:31:03.195Z",
-      "last_seen_at": "2026-05-06T16:42:01.191Z",
-      "notified_at": "2026-04-21T16:31:03.195Z"
-    },
-    {
-      "title": "Analyst - Corporate Advisory| Business Banking",
-      "company": "Nordea",
-      "company_id": "nordea",
-      "apply_url": "https://careers.nordea.com/job/Stockholm-Analyst-Corporate-Advisory-Business-Banking-111-46/1384836633/",
-      "source_url": "https://careers.nordea.com/job/Stockholm-Analyst-Corporate-Advisory-Business-Banking-111-46/1384836633/",
-      "location": "",
-      "location_type": "unknown",
-      "team": "",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Stockholm Analyst - Corporate Advisory| Business Banking, 111 46",
-      "area_tags": [
-        "research",
-        "analytics"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 68,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:nordea",
-      "discovered_at": "2026-05-06T16:42:01.191Z",
-      "id": "nordea_03d77481821068ffbe85dc31",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 10,
-        "area_preference_bonus": 18,
-        "profile_keyword_bonus": 7,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-04-17T16:26:10.149Z",
-      "last_seen_at": "2026-05-06T16:42:01.191Z",
-      "notified_at": "2026-04-17T16:26:10.149Z"
-    },
-    {
-      "title": "Business Analyst| Group Credit Management",
-      "company": "Nordea",
-      "company_id": "nordea",
-      "apply_url": "https://careers.nordea.com/job/Stockholm-Business-Analyst-Group-Credit-Management-111-44/1389870133/",
-      "source_url": "https://careers.nordea.com/job/Stockholm-Business-Analyst-Group-Credit-Management-111-44/1389870133/",
-      "location": "",
-      "location_type": "unknown",
-      "team": "",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Stockholm Business Analyst| Group Credit Management, 111 44",
-      "area_tags": [
-        "research",
-        "analytics"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 68,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:nordea",
-      "discovered_at": "2026-05-06T16:42:01.191Z",
-      "id": "nordea_17ea5b5c2011c7410839393b",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 10,
-        "area_preference_bonus": 18,
-        "profile_keyword_bonus": 7,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-05-04T16:40:43.616Z",
-      "last_seen_at": "2026-05-06T16:42:01.191Z",
-      "notified_at": "2026-05-04T16:40:43.616Z"
-    },
-    {
-      "title": "Associate Forward Deployed AI Scientist",
-      "company": "Nordea",
-      "company_id": "nordea",
-      "apply_url": "https://careers.nordea.com/job/Helsinki-Associate-Forward-Deployed-AI-Scientist-00500/1387719933/",
-      "source_url": "https://careers.nordea.com/job/Helsinki-Associate-Forward-Deployed-AI-Scientist-00500/1387719933/",
-      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Associate Forward Deployed AI Scientist Helsinki, FI, 00500 Stockholm, SE, 111 44 København S, DK, 2300 Stockholm, SE, 112 51 #job-location.job-location-inline { display: inline; }",
-      "location_type": "unknown",
-      "team": "AI Delivery",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Helsinki Associate Forward Deployed AI Scientist, 00500",
-      "area_tags": [
-        "market_risk",
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 68,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:nordea",
-      "discovered_at": "2026-05-06T16:42:01.191Z",
-      "id": "nordea_acaf7c3f910a0375682f7e4c",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 10,
-        "area_preference_bonus": 27,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-05-04T16:40:43.616Z",
-      "last_seen_at": "2026-05-06T16:42:01.191Z",
-      "notified_at": "2026-05-04T16:40:43.616Z"
     },
     {
       "title": "Data Analyst",
@@ -897,7 +714,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-04-28T16:42:27.094Z",
       "last_seen_at": "2026-05-07T16:40:51.956Z",
       "notified_at": "2026-04-28T16:42:27.094Z"
@@ -913,18 +730,18 @@
       "team": "Investment Banking",
       "posted_at": null,
       "expires_at": "2026-05-17",
-      "summary": "Full-time internship (approx. six months) starting January 2027. Work includes analysing companies, industries and markets, preparing pitches and investor materials, and supporting transaction execution. Strong analytical and quantitative skills expected.",
+      "summary": "Full-time investment banking internship (Jan 2027 start, ~6 months) involving company and sector analysis, pitch preparation and deal support — entry-level/junior-friendly.",
       "area_tags": [
         "research",
         "analytics"
       ],
       "stockholm_match": true,
       "finance_match": true,
-      "relevance_score": 64,
-      "why_relevant": "Junior internship in Stockholm with analytical responsibilities (company/sector analysis) — relevant to finance analytics and research pathways.",
+      "relevance_score": 58,
+      "why_relevant": "Stockholm internship with analytical work (company/sector analysis and deal execution) relevant to research and analytics-focused junior candidates.",
       "confidence": 0.9,
       "discovery_method": "openai:web_search",
-      "discovered_at": "2026-05-08T16:37:55.976Z",
+      "discovered_at": "2026-05-09T16:24:14.364Z",
       "id": "pareto_securities_0c737e82273e24333c90db6d",
       "profile_score_breakdown": {
         "company_preference_bonus": 6,
@@ -936,7 +753,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-05-06T16:42:01.191Z",
-      "last_seen_at": "2026-05-08T16:37:55.976Z",
+      "last_seen_at": "2026-05-09T16:24:14.364Z",
       "notified_at": "2026-05-06T16:42:01.191Z"
     },
     {
@@ -961,7 +778,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-05-08T16:37:55.976Z",
+      "discovered_at": "2026-05-09T16:24:14.364Z",
       "id": "swedbank_0de16fa2dfcdd2a2911930d2",
       "profile_score_breakdown": {
         "company_preference_bonus": 7,
@@ -973,7 +790,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-05-08T16:37:55.976Z",
-      "last_seen_at": "2026-05-08T16:37:55.976Z",
+      "last_seen_at": "2026-05-09T16:24:14.364Z",
       "notified_at": "2026-05-08T16:37:55.976Z"
     },
     {
@@ -997,7 +814,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-05-08T16:37:55.976Z",
+      "discovered_at": "2026-05-09T16:24:14.364Z",
       "id": "nordnet_1a88397d09133916dcffa944",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -1009,7 +826,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-05-08T16:37:55.976Z",
+      "last_seen_at": "2026-05-09T16:24:14.364Z",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
     {
@@ -1033,7 +850,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-05-08T16:37:55.976Z",
+      "discovered_at": "2026-05-09T16:24:14.364Z",
       "id": "nordnet_52db042967f942a01b6dba66",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -1045,7 +862,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-05-08T16:37:55.976Z",
+      "last_seen_at": "2026-05-09T16:24:14.364Z",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
     {
@@ -1069,7 +886,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-05-08T16:37:55.976Z",
+      "discovered_at": "2026-05-09T16:24:14.364Z",
       "id": "nordnet_9724cc910af8f5b42d1b5421",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -1081,7 +898,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-05-08T16:37:55.976Z",
+      "last_seen_at": "2026-05-09T16:24:14.364Z",
       "notified_at": "2026-04-28T16:42:27.094Z"
     }
   ]
