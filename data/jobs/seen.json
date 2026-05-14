@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T16:54:54.903Z",
+  "updated_at": "2026-05-14T16:47:28.433Z",
   "jobs": {
     "nordea_96329aec09a934eb64f8c6c7": {
       "id": "nordea_96329aec09a934eb64f8c6c7",
@@ -167,7 +167,7 @@
       "title": "Fullstack Developer to Nordea Life & Pension Sweden",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Fullstack-Developer-to-Nordea-Life-&amp;-Pension-Sweden-111-44/1378516533/",
       "first_seen_at": "2026-03-27T17:23:30.600Z",
-      "last_seen_at": "2026-05-13T16:54:54.903Z",
+      "last_seen_at": "2026-05-14T16:47:28.433Z",
       "last_status": "active",
       "notified_at": "2026-03-27T17:23:30.600Z"
     },
@@ -768,7 +768,7 @@
       "apply_url": "https://jobs.carnegie.se/job/Stockholm-Kv%C3%A4llsm%C3%A4klare-Montrose-Kundrelationer-%28student%29-103-38/1288978301/",
       "first_seen_at": "2026-04-16T16:40:02.464Z",
       "last_seen_at": "2026-05-10T16:24:26.835Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-04-16T16:40:02.464Z"
     },
     "dnb_carnegie_2899d2ae6f19669b48c2e8dd": {
@@ -897,7 +897,7 @@
       "title": "Fastighetsvärderare med inriktning på mindre Jord & Skogs-fastigheter",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Fastighetsv%C3%A4rderare-med-inriktning-p%C3%A5-mindre-Jord-&amp;-Skogs-fastigheter-111-46/1385872733/",
       "first_seen_at": "2026-04-21T16:31:03.195Z",
-      "last_seen_at": "2026-05-13T16:54:54.903Z",
+      "last_seen_at": "2026-05-14T16:47:28.433Z",
       "last_status": "active",
       "notified_at": "2026-04-21T16:31:03.195Z"
     },
@@ -988,7 +988,7 @@
       "apply_url": "https://careers.nordea.com/job/Stockholm-Student-Assistant-Internal-Communication-111-46/1387792433/",
       "first_seen_at": "2026-04-27T16:39:15.922Z",
       "last_seen_at": "2026-05-10T16:24:26.835Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-04-27T16:39:15.922Z"
     },
     "nordea_ae85018634504423f30a8bd8": {
@@ -998,7 +998,7 @@
       "apply_url": "https://careers.nordea.com/job/Stockholm-Financial-uu-111-46/1387781333/",
       "first_seen_at": "2026-04-27T16:39:15.922Z",
       "last_seen_at": "2026-05-10T16:24:26.835Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-04-27T16:39:15.922Z"
     },
     "nordea_687ec2ad6e35772c86c31d39": {
@@ -1008,7 +1008,7 @@
       "apply_url": "https://careers.nordea.com/job/Helsinki-Associate-Forward-Deployed-AI-Scientist-00500/1387719933/",
       "first_seen_at": "2026-04-27T16:39:15.922Z",
       "last_seen_at": "2026-05-10T16:24:26.835Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-04-27T16:39:15.922Z"
     },
     "nordea_8fda15221cb4c3d763071afc": {
@@ -1077,7 +1077,7 @@
       "title": "AI Transformation and Adoption Partner",
       "apply_url": "https://careers.nordea.com/job/Stockholm-AI-Transformation-and-Adoption-Partner-111-46/1370055133/",
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-05-13T16:54:54.903Z",
+      "last_seen_at": "2026-05-14T16:47:28.433Z",
       "last_status": "active",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
@@ -1117,7 +1117,7 @@
       "title": "Network Engineer",
       "apply_url": "https://career.nordnetab.com/jobs/7501643-network-engineer",
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-05-13T16:54:54.903Z",
+      "last_seen_at": "2026-05-14T16:47:28.433Z",
       "last_status": "active",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
@@ -1127,7 +1127,7 @@
       "title": "Software Engineer - Engineering Productivity / AI",
       "apply_url": "https://career.nordnetab.com/jobs/5809031-software-engineer-engineering-productivity-ai",
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-05-13T16:54:54.903Z",
+      "last_seen_at": "2026-05-14T16:47:28.433Z",
       "last_status": "active",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
@@ -1137,7 +1137,7 @@
       "title": "Software Engineer",
       "apply_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-05-13T16:54:54.903Z",
+      "last_seen_at": "2026-05-14T16:47:28.433Z",
       "last_status": "active",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
@@ -1158,7 +1158,7 @@
       "apply_url": "https://careers.nordea.com/job/Helsinki-Assistant-Quantitative-Risk-Analyst%2C-Retail-PD-00500/1387717133/",
       "first_seen_at": "2026-04-30T16:38:00.013Z",
       "last_seen_at": "2026-05-10T16:24:26.835Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-04-30T16:38:00.013Z"
     },
     "pareto_securities_ca765884a56e3b3030dda37d": {
@@ -1247,7 +1247,7 @@
       "title": "Student to Retail Payments",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Student-to-Retail-Payments-111-46/1390212833/",
       "first_seen_at": "2026-05-05T16:40:54.125Z",
-      "last_seen_at": "2026-05-13T16:54:54.903Z",
+      "last_seen_at": "2026-05-14T16:47:28.433Z",
       "last_status": "active",
       "notified_at": "2026-05-05T16:40:54.125Z"
     },
@@ -1277,7 +1277,7 @@
       "title": "Internship - Investment Banking",
       "apply_url": "https://paretosecurities.teamtailor.com/jobs/7658168-internship-investment-banking",
       "first_seen_at": "2026-05-06T16:42:01.191Z",
-      "last_seen_at": "2026-05-13T16:54:54.903Z",
+      "last_seen_at": "2026-05-14T16:47:28.433Z",
       "last_status": "active",
       "notified_at": "2026-05-06T16:42:01.191Z"
     },
@@ -1307,7 +1307,7 @@
       "title": "Equity Sales",
       "apply_url": "https://paretosecurities.teamtailor.com/jobs/7679813-equity-sales/05feede8-6c4f-482a-ba05-487990e53c4b",
       "first_seen_at": "2026-05-07T16:40:51.956Z",
-      "last_seen_at": "2026-05-12T16:51:16.766Z",
+      "last_seen_at": "2026-05-14T16:47:28.433Z",
       "last_status": "active",
       "notified_at": "2026-05-07T16:40:51.956Z"
     },
@@ -1328,7 +1328,7 @@
       "apply_url": "https://careers.nordea.com/job/K%C3%B8benhavn-S-Digital-Analyst-in-Nordea-2300/1391248233/?feedId=451033&amp;utm_source=CareerSite",
       "first_seen_at": "2026-05-08T16:37:55.976Z",
       "last_seen_at": "2026-05-10T16:24:26.835Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-05-08T16:37:55.976Z"
     },
     "nordea_423a332610b9d68f919148d8": {
@@ -1338,7 +1338,7 @@
       "apply_url": "https://careers.nordea.com/job/K%C3%B8benhavn-S-Digital-Analyst-in-Nordea-2300/1391248233/",
       "first_seen_at": "2026-05-08T16:37:55.976Z",
       "last_seen_at": "2026-05-10T16:24:26.835Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-05-08T16:37:55.976Z"
     },
     "swedbank_0de16fa2dfcdd2a2911930d2": {
@@ -1357,7 +1357,7 @@
       "title": "Sr. Digital Analyst",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Sr_-Digital-Analyst-111-46/1392253033/",
       "first_seen_at": "2026-05-12T16:51:16.766Z",
-      "last_seen_at": "2026-05-13T16:54:54.903Z",
+      "last_seen_at": "2026-05-14T16:47:28.433Z",
       "last_status": "active",
       "notified_at": "2026-05-12T16:51:16.766Z"
     },
@@ -1387,7 +1387,7 @@
       "title": "Sr. Data Scientist",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Sr_-Data-Scientist-111-44/1392256933/",
       "first_seen_at": "2026-05-12T16:51:16.766Z",
-      "last_seen_at": "2026-05-13T16:54:54.903Z",
+      "last_seen_at": "2026-05-14T16:47:28.433Z",
       "last_status": "active",
       "notified_at": "2026-05-12T16:51:16.766Z"
     },
@@ -1397,7 +1397,7 @@
       "title": "Associate Forward Deployed AI Scientist",
       "apply_url": "https://careers.nordea.com/job/Helsinki-Associate-Forward-Deployed-AI-Scientist-00500/1387719933/",
       "first_seen_at": "2026-05-12T16:51:16.766Z",
-      "last_seen_at": "2026-05-13T16:54:54.903Z",
+      "last_seen_at": "2026-05-14T16:47:28.433Z",
       "last_status": "active",
       "notified_at": "2026-05-12T16:51:16.766Z"
     },
@@ -1407,7 +1407,7 @@
       "title": "Data Engineer",
       "apply_url": "https://career.nordnetab.com/jobs/7712170-data-engineer",
       "first_seen_at": "2026-05-12T16:51:16.766Z",
-      "last_seen_at": "2026-05-13T16:54:54.903Z",
+      "last_seen_at": "2026-05-14T16:47:28.433Z",
       "last_status": "active",
       "notified_at": "2026-05-12T16:51:16.766Z"
     },
@@ -1427,9 +1427,29 @@
       "title": "Reward Partner in Group People",
       "apply_url": "https://careers.nordea.com/job/Helsinki-Reward-Partner-in-Group-People-00500/1393219233/",
       "first_seen_at": "2026-05-13T16:54:54.903Z",
-      "last_seen_at": "2026-05-13T16:54:54.903Z",
+      "last_seen_at": "2026-05-14T16:47:28.433Z",
       "last_status": "active",
       "notified_at": "2026-05-13T16:54:54.903Z"
+    },
+    "nordea_01a134df8992648c1ca59aa4": {
+      "id": "nordea_01a134df8992648c1ca59aa4",
+      "company": "Nordea",
+      "title": "Digital Analyst in Nordea",
+      "apply_url": "https://careers.nordea.com/job/K%C3%B8benhavn-S-Digital-Analyst-in-Nordea-2300/1391248233/",
+      "first_seen_at": "2026-05-14T16:47:28.433Z",
+      "last_seen_at": "2026-05-14T16:47:28.433Z",
+      "last_status": "active",
+      "notified_at": "2026-05-14T16:47:28.433Z"
+    },
+    "abg_sundal_collier_1f18cac1482579084e89fbd2": {
+      "id": "abg_sundal_collier_1f18cac1482579084e89fbd2",
+      "company": "ABG Sundal Collier",
+      "title": "ECM & Corporate Access Coordinator, Stockholm",
+      "apply_url": "https://abgsc.teamtailor.com/jobs/7697008-ecm-corporate-access-coordinator-stockholm",
+      "first_seen_at": "2026-05-14T16:47:28.433Z",
+      "last_seen_at": "2026-05-14T16:47:28.433Z",
+      "last_status": "active",
+      "notified_at": "2026-05-14T16:47:28.433Z"
     }
   }
 }
