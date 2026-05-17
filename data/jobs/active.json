@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T16:24:57.992Z",
+  "updated_at": "2026-05-17T16:26:09.352Z",
   "jobs": [
     {
       "company": "Brummer & Partners",
@@ -37,7 +37,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-04-07T16:29:00.688Z",
       "last_seen_at": "2026-05-15T16:42:10.824Z",
       "notified_at": "2026-04-07T16:29:00.688Z"
@@ -66,7 +66,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:nordea",
-      "discovered_at": "2026-05-16T16:24:57.992Z",
+      "discovered_at": "2026-05-17T16:26:09.352Z",
       "id": "nordea_2216dab931473cbd29ec9bf3",
       "profile_score_breakdown": {
         "company_preference_bonus": 10,
@@ -78,7 +78,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-05-16T16:24:57.992Z",
-      "last_seen_at": "2026-05-16T16:24:57.992Z",
+      "last_seen_at": "2026-05-17T16:26:09.352Z",
       "notified_at": "2026-05-16T16:24:57.992Z"
     },
     {
@@ -105,7 +105,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:nordea",
-      "discovered_at": "2026-05-16T16:24:57.992Z",
+      "discovered_at": "2026-05-17T16:26:09.352Z",
       "id": "nordea_ae5f90ec89fa9eacb06c826b",
       "profile_score_breakdown": {
         "company_preference_bonus": 10,
@@ -117,7 +117,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-05-16T16:24:57.992Z",
-      "last_seen_at": "2026-05-16T16:24:57.992Z",
+      "last_seen_at": "2026-05-17T16:26:09.352Z",
       "notified_at": "2026-05-16T16:24:57.992Z"
     },
     {
@@ -154,7 +154,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-05-12T16:51:16.766Z",
       "last_seen_at": "2026-05-15T16:42:10.824Z",
       "notified_at": "2026-05-12T16:51:16.766Z"
@@ -193,48 +193,48 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-05-14T16:47:28.433Z",
       "last_seen_at": "2026-05-15T16:42:10.824Z",
       "notified_at": "2026-05-14T16:47:28.433Z"
     },
     {
-      "company": "ABG Sundal Collier",
-      "company_id": "abg_sundal_collier",
-      "title": "ECM & Corporate Access Coordinator, Stockholm",
-      "apply_url": "https://abgsc.teamtailor.com/jobs/7697008-ecm-corporate-access-coordinator-stockholm",
-      "source_url": "https://abgsc.teamtailor.com/jobs/7697008-ecm-corporate-access-coordinator-stockholm",
-      "location": "Stockholm",
+      "company": "Pareto Securities",
+      "company_id": "pareto_securities",
+      "title": "Equity Sales",
+      "apply_url": "https://paretosecurities.teamtailor.com/jobs/7679813-equity-sales",
+      "source_url": "https://paretosec.com/updates/vacant-positions/equity-sales-1",
+      "location": "Stockholm, Sweden",
       "location_type": "onsite",
-      "team": "ECM & Corporate Access (Investment Banking / Operations)",
+      "team": "Sales",
       "posted_at": null,
-      "expires_at": "2026-05-31",
-      "summary": "Coordinate corporate access events (conferences, roadshows, investor meetings), support ECM and DCM transaction processes, manage logistics and participant communication, and maintain event systems and statistics. Junior role (1–3 years' relevant experience).",
+      "expires_at": "2026-05-24",
+      "summary": "Join Pareto's expanding electronic trading business in Sweden to grow and manage a client base of private online investors; work closely with the electronic trading team to deliver execution and service. Bachelor’s/Master’s in finance/economics preferred; previous sales/trading experience is a plus but not required.",
       "area_tags": [
-        "research",
         "sales_trading",
+        "trading",
         "analytics"
       ],
       "stockholm_match": true,
       "finance_match": true,
-      "relevance_score": 87,
-      "why_relevant": "Capital-markets-facing role supporting ECM/DCM and investor access; junior experience required (1–3 years).",
-      "confidence": 0.9,
+      "relevance_score": 83,
+      "why_relevant": "Stockholm-based equity sales role tied to electronic trading and brokerage — aligns with sales_trading/trading/analytics targets and is junior-friendly.",
+      "confidence": 0.8,
       "discovery_method": "openai:web_search",
-      "discovered_at": "2026-05-14T16:47:28.433Z",
-      "id": "abg_sundal_collier_1f18cac1482579084e89fbd2",
+      "discovered_at": "2026-05-17T16:26:09.352Z",
+      "id": "pareto_securities_733479b736958cda8339e700",
       "profile_score_breakdown": {
         "company_preference_bonus": 6,
-        "area_preference_bonus": 33,
-        "profile_keyword_bonus": 17,
+        "area_preference_bonus": 40,
+        "profile_keyword_bonus": 10,
         "negative_keyword_penalty": 0
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-05-14T16:47:28.433Z",
-      "last_seen_at": "2026-05-14T16:47:28.433Z",
-      "notified_at": "2026-05-14T16:47:28.433Z"
+      "missing_runs": 0,
+      "first_seen_at": "2026-05-06T16:42:01.191Z",
+      "last_seen_at": "2026-05-17T16:26:09.352Z",
+      "notified_at": "2026-05-06T16:42:01.191Z"
     },
     {
       "company": "Pareto Securities",
@@ -269,7 +269,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-05-07T16:40:51.956Z",
       "last_seen_at": "2026-05-16T16:24:57.992Z",
       "notified_at": "2026-05-07T16:40:51.956Z"
@@ -307,7 +307,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-05-05T16:40:54.125Z",
       "last_seen_at": "2026-05-15T16:42:10.824Z",
       "notified_at": "2026-05-05T16:40:54.125Z"
@@ -334,7 +334,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:nordea",
-      "discovered_at": "2026-05-16T16:24:57.992Z",
+      "discovered_at": "2026-05-17T16:26:09.352Z",
       "id": "nordea_84b18efa68c55e065bd43ba4",
       "profile_score_breakdown": {
         "company_preference_bonus": 10,
@@ -346,7 +346,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-05-16T16:24:57.992Z",
-      "last_seen_at": "2026-05-16T16:24:57.992Z",
+      "last_seen_at": "2026-05-17T16:26:09.352Z",
       "notified_at": "2026-05-16T16:24:57.992Z"
     },
     {
@@ -381,10 +381,47 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-05-12T16:51:16.766Z",
       "last_seen_at": "2026-05-15T16:42:10.824Z",
       "notified_at": "2026-05-12T16:51:16.766Z"
+    },
+    {
+      "company": "DNB Carnegie",
+      "company_id": "dnb_carnegie",
+      "title": "Kvällsmäklare - Montrose Kundrelationer (student)",
+      "apply_url": "https://jobs.carnegie.se/job/Stockholm-Kv%C3%A4llsm%C3%A4klare-Montrose-Kundrelationer-%28student%29-103-38/1288978301/",
+      "source_url": "https://jobs.carnegie.se/job/Stockholm-Kv%C3%A4llsm%C3%A4klare-Montrose-Kundrelationer-%28student%29-103-38/1288978301/",
+      "location": "Stockholm, SE, 103 38 (Regeringsgatan / Montrose by Carnegie)",
+      "location_type": "onsite",
+      "team": "Montrose / Kundrelationer (Customer Relations)",
+      "posted_at": null,
+      "expires_at": "2026-05-24",
+      "summary": "Part-time student role in Montrose Customer Relations supporting customers with trading and account inquiries (2–3 shifts/week, daytime and evenings). Requires at least two semesters left in studies; Swedish and English language skills; Swedsec license supported if not already held. Role based at DNB Carnegie / Montrose office in central Stockholm.",
+      "area_tags": [
+        "sales_trading",
+        "trading"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 74,
+      "why_relevant": "Student-facing trading/customer-support role at Montrose (DNB Carnegie) in Stockholm — junior, markets-facing and directly related to trading/sales.",
+      "confidence": 0.85,
+      "discovery_method": "openai:web_search",
+      "discovered_at": "2026-05-17T16:26:09.352Z",
+      "id": "dnb_carnegie_da668d72dcb81633faf3be2b",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 7,
+        "area_preference_bonus": 32,
+        "profile_keyword_bonus": 10,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true,
+      "status": "active",
+      "missing_runs": 0,
+      "first_seen_at": "2026-05-17T16:26:09.352Z",
+      "last_seen_at": "2026-05-17T16:26:09.352Z",
+      "notified_at": "2026-05-17T16:26:09.352Z"
     },
     {
       "title": "Fastighetsvärderare med inriktning på mindre Jord & Skogs-fastigheter",
@@ -408,7 +445,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:nordea",
-      "discovered_at": "2026-05-16T16:24:57.992Z",
+      "discovered_at": "2026-05-17T16:26:09.352Z",
       "id": "nordea_9d1b82b3bb1087f515d56dd6",
       "profile_score_breakdown": {
         "company_preference_bonus": 10,
@@ -420,7 +457,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-05-16T16:24:57.992Z",
-      "last_seen_at": "2026-05-16T16:24:57.992Z",
+      "last_seen_at": "2026-05-17T16:26:09.352Z",
       "notified_at": "2026-05-16T16:24:57.992Z"
     },
     {
@@ -445,7 +482,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:nordea",
-      "discovered_at": "2026-05-16T16:24:57.992Z",
+      "discovered_at": "2026-05-17T16:26:09.352Z",
       "id": "nordea_6146208de09f181ab6cd139f",
       "profile_score_breakdown": {
         "company_preference_bonus": 10,
@@ -457,7 +494,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-05-16T16:24:57.992Z",
-      "last_seen_at": "2026-05-16T16:24:57.992Z",
+      "last_seen_at": "2026-05-17T16:26:09.352Z",
       "notified_at": "2026-05-16T16:24:57.992Z"
     },
     {
@@ -482,7 +519,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:nordea",
-      "discovered_at": "2026-05-16T16:24:57.992Z",
+      "discovered_at": "2026-05-17T16:26:09.352Z",
       "id": "nordea_e222788538a95a373da1d8c8",
       "profile_score_breakdown": {
         "company_preference_bonus": 10,
@@ -494,7 +531,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-05-16T16:24:57.992Z",
-      "last_seen_at": "2026-05-16T16:24:57.992Z",
+      "last_seen_at": "2026-05-17T16:26:09.352Z",
       "notified_at": "2026-05-16T16:24:57.992Z"
     },
     {
@@ -519,7 +556,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:nordea",
-      "discovered_at": "2026-05-16T16:24:57.992Z",
+      "discovered_at": "2026-05-17T16:26:09.352Z",
       "id": "nordea_dc2403fc8e17bba78d756cea",
       "profile_score_breakdown": {
         "company_preference_bonus": 10,
@@ -531,7 +568,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-05-16T16:24:57.992Z",
-      "last_seen_at": "2026-05-16T16:24:57.992Z",
+      "last_seen_at": "2026-05-17T16:26:09.352Z",
       "notified_at": "2026-05-16T16:24:57.992Z"
     },
     {
@@ -556,7 +593,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:nordea",
-      "discovered_at": "2026-05-16T16:24:57.992Z",
+      "discovered_at": "2026-05-17T16:26:09.352Z",
       "id": "nordea_9309e6f73246eddf7e8f1a1e",
       "profile_score_breakdown": {
         "company_preference_bonus": 10,
@@ -568,7 +605,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-05-16T16:24:57.992Z",
-      "last_seen_at": "2026-05-16T16:24:57.992Z",
+      "last_seen_at": "2026-05-17T16:26:09.352Z",
       "notified_at": "2026-05-16T16:24:57.992Z"
     },
     {
@@ -593,7 +630,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:nordea",
-      "discovered_at": "2026-05-16T16:24:57.992Z",
+      "discovered_at": "2026-05-17T16:26:09.352Z",
       "id": "nordea_02d12303bb4d96856ff1ed16",
       "profile_score_breakdown": {
         "company_preference_bonus": 10,
@@ -605,7 +642,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-05-16T16:24:57.992Z",
-      "last_seen_at": "2026-05-16T16:24:57.992Z",
+      "last_seen_at": "2026-05-17T16:26:09.352Z",
       "notified_at": "2026-05-16T16:24:57.992Z"
     },
     {
@@ -640,7 +677,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-04-21T16:31:03.195Z",
       "last_seen_at": "2026-05-15T16:42:10.824Z",
       "notified_at": "2026-04-21T16:31:03.195Z"
@@ -677,7 +714,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-03-27T17:23:30.600Z",
       "last_seen_at": "2026-05-15T16:42:10.824Z",
       "notified_at": "2026-03-27T17:23:30.600Z"
@@ -714,7 +751,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-05-05T16:40:54.125Z",
       "last_seen_at": "2026-05-15T16:42:10.824Z",
       "notified_at": "2026-05-05T16:40:54.125Z"
@@ -751,7 +788,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-05-12T16:51:16.766Z",
       "last_seen_at": "2026-05-15T16:42:10.824Z",
       "notified_at": "2026-05-12T16:51:16.766Z"
@@ -788,7 +825,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-04-28T16:42:27.094Z",
       "last_seen_at": "2026-05-15T16:42:10.824Z",
       "notified_at": "2026-04-28T16:42:27.094Z"
@@ -825,7 +862,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-05-13T16:54:54.903Z",
       "last_seen_at": "2026-05-15T16:42:10.824Z",
       "notified_at": "2026-05-13T16:54:54.903Z"
@@ -841,18 +878,18 @@
       "team": "Investment Banking",
       "posted_at": null,
       "expires_at": "2026-05-17",
-      "summary": "Full-time internship (approx. six months starting January 2027) supporting the Investment Banking team in company/sector analysis, pitch and presentation preparation, and execution support on equity and M&A transactions. Strong analytical/quantitative skills and academic results expected.",
+      "summary": "Full-time investment banking internship (starts Jan 2027, ~6 months). Responsibilities include analysing companies, industries and markets, preparing pitches and investor materials, coordinating workstreams and supporting deal execution. Seeks candidates with strong analytical and quantitative skills.",
       "area_tags": [
         "research",
         "analytics"
       ],
       "stockholm_match": true,
       "finance_match": true,
-      "relevance_score": 62,
-      "why_relevant": "Junior internship in Stockholm with heavy analytical, modelling and research tasks relevant to market/research/analytics career paths.",
-      "confidence": 0.85,
+      "relevance_score": 64,
+      "why_relevant": "Stockholm internship involving financial/sector analysis and quantitative tasks — relevant to research and analytics-focused junior candidates.",
+      "confidence": 0.8,
       "discovery_method": "openai:web_search",
-      "discovered_at": "2026-05-16T16:24:57.992Z",
+      "discovered_at": "2026-05-17T16:26:09.352Z",
       "id": "pareto_securities_0c737e82273e24333c90db6d",
       "profile_score_breakdown": {
         "company_preference_bonus": 6,
@@ -864,7 +901,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-05-06T16:42:01.191Z",
-      "last_seen_at": "2026-05-16T16:24:57.992Z",
+      "last_seen_at": "2026-05-17T16:26:09.352Z",
       "notified_at": "2026-05-06T16:42:01.191Z"
     },
     {
@@ -899,7 +936,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-05-05T16:40:54.125Z",
       "last_seen_at": "2026-05-15T16:42:10.824Z",
       "notified_at": "2026-05-05T16:40:54.125Z"
@@ -925,7 +962,7 @@
       "why_relevant": "",
       "confidence": 0.75,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-05-16T16:24:57.992Z",
+      "discovered_at": "2026-05-17T16:26:09.352Z",
       "id": "nordnet_4232ffe12d7aececcfa69425",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -937,7 +974,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-05-12T16:51:16.766Z",
-      "last_seen_at": "2026-05-16T16:24:57.992Z",
+      "last_seen_at": "2026-05-17T16:26:09.352Z",
       "notified_at": "2026-05-12T16:51:16.766Z"
     },
     {
@@ -961,7 +998,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-05-16T16:24:57.992Z",
+      "discovered_at": "2026-05-17T16:26:09.352Z",
       "id": "nordnet_1a88397d09133916dcffa944",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -973,7 +1010,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-05-16T16:24:57.992Z",
+      "last_seen_at": "2026-05-17T16:26:09.352Z",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
     {
@@ -997,7 +1034,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-05-16T16:24:57.992Z",
+      "discovered_at": "2026-05-17T16:26:09.352Z",
       "id": "nordnet_52db042967f942a01b6dba66",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -1009,7 +1046,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-05-16T16:24:57.992Z",
+      "last_seen_at": "2026-05-17T16:26:09.352Z",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
     {
@@ -1033,7 +1070,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-05-16T16:24:57.992Z",
+      "discovered_at": "2026-05-17T16:26:09.352Z",
       "id": "nordnet_9724cc910af8f5b42d1b5421",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -1045,7 +1082,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-05-16T16:24:57.992Z",
+      "last_seen_at": "2026-05-17T16:26:09.352Z",
       "notified_at": "2026-04-28T16:42:27.094Z"
     }
   ]
