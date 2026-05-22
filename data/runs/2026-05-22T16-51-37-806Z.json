@@ -1,0 +1,407 @@
+{
+  "timestamp": "2026-05-22T16:51:37.806Z",
+  "dry_run": false,
+  "min_relevance_score": 55,
+  "missing_runs_threshold": 3,
+  "company_count": 12,
+  "discovered_jobs": [
+    {
+      "title": "Sr. Digital Analyst",
+      "company": "Nordea",
+      "company_id": "nordea",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-Sr_-Digital-Analyst-111-46/1392253033/",
+      "source_url": "https://careers.nordea.com/job/Stockholm-Sr_-Digital-Analyst-111-46/1392253033/",
+      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile // View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Sr. Digital Analyst Stockholm, SE, 111 46 Helsinki, FI, 00500 #job-location.job-location-inline { display: inline; }",
+      "location_type": "unknown",
+      "team": "",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Stockholm Sr. Digital Analyst, 111 46",
+      "area_tags": [
+        "market_risk",
+        "research",
+        "data_science",
+        "analytics"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 99,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:nordea",
+      "discovered_at": "2026-05-22T16:51:37.806Z",
+      "id": "nordea_2216dab931473cbd29ec9bf3",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 10,
+        "area_preference_bonus": 45,
+        "profile_keyword_bonus": 7,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true
+    },
+    {
+      "title": "Sr. Data Scientist",
+      "company": "Nordea",
+      "company_id": "nordea",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-Sr_-Data-Scientist-111-44/1392256933/",
+      "source_url": "https://careers.nordea.com/job/Stockholm-Sr_-Data-Scientist-111-44/1392256933/",
+      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile // View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Sr. Data Scientist Stockholm, SE, 111 44 Helsinki, FI, 00500 #job-location.job-location-inline { display: inline; }",
+      "location_type": "unknown",
+      "team": "",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Stockholm Sr. Data Scientist, 111 44",
+      "area_tags": [
+        "market_risk",
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 79,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:nordea",
+      "discovered_at": "2026-05-22T16:51:37.806Z",
+      "id": "nordea_84b18efa68c55e065bd43ba4",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 10,
+        "area_preference_bonus": 27,
+        "profile_keyword_bonus": 9,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true
+    },
+    {
+      "company": "Pareto Securities",
+      "company_id": "pareto_securities",
+      "title": "Equity Sales",
+      "apply_url": "https://paretosecurities.teamtailor.com/jobs/7679813-equity-sales",
+      "source_url": "https://paretosec.com/updates/vacant-positions/equity-sales-1",
+      "location": "Stockholm, Sweden",
+      "location_type": "onsite",
+      "team": "Sales",
+      "posted_at": null,
+      "expires_at": "2026-05-24",
+      "summary": "Junior equity sales role expanding Pareto's electronic trading business in Sweden. Responsible for growing and managing a client base of private online investors, working closely with the electronic trading team. Previous experience is a plus but not required.",
+      "area_tags": [
+        "sales_trading",
+        "trading"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 71,
+      "why_relevant": "Stockholm-based, junior-friendly role connected to electronic trading and equity sales (matches sales_trading/trading tags).",
+      "confidence": 0.9,
+      "discovery_method": "openai:web_search",
+      "discovered_at": "2026-05-22T16:51:37.806Z",
+      "id": "pareto_securities_733479b736958cda8339e700",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 6,
+        "area_preference_bonus": 32,
+        "profile_keyword_bonus": 10,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true
+    },
+    {
+      "title": "Reward Partner in Group People",
+      "company": "Nordea",
+      "company_id": "nordea",
+      "apply_url": "https://careers.nordea.com/job/Helsinki-Reward-Partner-in-Group-People-00500/1393219233/",
+      "source_url": "https://careers.nordea.com/job/Helsinki-Reward-Partner-in-Group-People-00500/1393219233/",
+      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile // View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Reward Partner in Group People Helsinki, FI, 00500 Oslo, NO, 0368 København S, DK, 2300 Stockholm, SE, 111 44 #job-location.job-location-inline { display: inline; }",
+      "location_type": "unknown",
+      "team": "",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Helsinki Reward Partner in Group People, 00500",
+      "area_tags": [
+        "market_risk",
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 68,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:nordea",
+      "discovered_at": "2026-05-22T16:51:37.806Z",
+      "id": "nordea_02d12303bb4d96856ff1ed16",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 10,
+        "area_preference_bonus": 27,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true
+    },
+    {
+      "company": "ABG Sundal Collier",
+      "company_id": "abg_sundal_collier",
+      "title": "ECM & Corporate Access Coordinator, Stockholm",
+      "apply_url": "https://abgsc.teamtailor.com/jobs/7697008-ecm-corporate-access-coordinator-stockholm",
+      "source_url": "https://abgsc.teamtailor.com/jobs/7697008-ecm-corporate-access-coordinator-stockholm",
+      "location": "Stockholm, Sweden",
+      "location_type": "onsite",
+      "team": "Operations and Administration",
+      "posted_at": null,
+      "expires_at": "2026-05-31",
+      "summary": "Coordinate corporate access events (conferences, roadshows, investor meetings) and support ECM/DCM transaction logistics; manage scheduling, travel, venue logistics and act as primary contact for corporates and investors. Suitable for candidates with 1–3 years relevant experience.",
+      "area_tags": [
+        "research",
+        "analytics"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 57,
+      "why_relevant": "Supports ECM/DCM and corporate access within capital markets — junior-friendly role in Stockholm's ABGSC office.",
+      "confidence": 0.85,
+      "discovery_method": "openai:web_search",
+      "discovered_at": "2026-05-22T16:51:37.806Z",
+      "id": "abg_sundal_collier_9ec9e05926eca558e5c4243b",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 6,
+        "area_preference_bonus": 18,
+        "profile_keyword_bonus": 7,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true
+    },
+    {
+      "title": "Data Engineer",
+      "company": "Nordnet",
+      "company_id": "nordnet",
+      "apply_url": "https://career.nordnetab.com/jobs/7712170-data-engineer",
+      "source_url": "https://career.nordnetab.com/jobs/7712170-data-engineer",
+      "location": "Stockholm, Sweden, SE",
+      "location_type": "hybrid",
+      "team": "Data & Insight",
+      "posted_at": "2026-05-11",
+      "expires_at": null,
+      "summary": "Nordnet redefined the financial world as the first digital bank in Europe. Now, we are doing it again, building the next generation of banking in the cloud. We believe our success is rooted in our ability to leverage data and AI at scale, but more importantly, in the people who build it. The Role: Engineering for Impact As a Data Engineer at Nordnet, you aren't just building pipelines; you’re shap...",
+      "area_tags": [
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 48,
+      "why_relevant": "",
+      "confidence": 0.75,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-05-22T16:51:37.806Z",
+      "id": "nordnet_4232ffe12d7aececcfa69425",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 9,
+        "area_preference_bonus": 12,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    },
+    {
+      "title": "Network Engineer",
+      "company": "Nordnet",
+      "company_id": "nordnet",
+      "apply_url": "https://career.nordnetab.com/jobs/7501643-network-engineer",
+      "source_url": "https://career.nordnetab.com/jobs/7501643-network-engineer",
+      "location": "Stockholm",
+      "location_type": "hybrid",
+      "team": "IT Operations",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Nordnet redefined the financial world as the first digital bank in Europe. Now we are about to do it again and the aim is to create the next generation of ba...",
+      "area_tags": [
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 48,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-05-22T16:51:37.806Z",
+      "id": "nordnet_1a88397d09133916dcffa944",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 9,
+        "area_preference_bonus": 12,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    },
+    {
+      "title": "Software Engineer - Engineering Productivity / AI",
+      "company": "Nordnet",
+      "company_id": "nordnet",
+      "apply_url": "https://career.nordnetab.com/jobs/5809031-software-engineer-engineering-productivity-ai",
+      "source_url": "https://career.nordnetab.com/jobs/5809031-software-engineer-engineering-productivity-ai",
+      "location": "Stockholm",
+      "location_type": "hybrid",
+      "team": "Engineering",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Are you ready to redefine the financial industry? Does a serious technical challenge make your heart beat faster? Then Nordnet is the place for you!",
+      "area_tags": [
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 48,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-05-22T16:51:37.806Z",
+      "id": "nordnet_52db042967f942a01b6dba66",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 9,
+        "area_preference_bonus": 12,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Nordnet",
+      "company_id": "nordnet",
+      "apply_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
+      "source_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
+      "location": "Stockholm",
+      "location_type": "hybrid",
+      "team": "Engineering",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Nordnet redefined the financial world as the first digital bank in Europe. Now we are about to do it again and the aim is to create the next generation of ba...",
+      "area_tags": [
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 48,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-05-22T16:51:37.806Z",
+      "id": "nordnet_9724cc910af8f5b42d1b5421",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 9,
+        "area_preference_bonus": 12,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    },
+    {
+      "title": "Kundrådgivare Swedbank - Sales & Service",
+      "company": "Swedbank",
+      "company_id": "swedbank",
+      "apply_url": "https://jobs.swedbank.com/jobs/26777-kundradgivare-swedbank-sales-service",
+      "source_url": "https://jobs.swedbank.com/jobs/26777-kundradgivare-swedbank-sales-service",
+      "location": "Stockholm Region",
+      "location_type": "unknown",
+      "team": "",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Är du intresserad av kundmötet, att skapa kundnöjdhet och ge service i världsklass?. Hos oss på&nbsp;Swedbank har du en möjlighet att:. Erbjuda bästa möj...",
+      "area_tags": [
+        "market_risk"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 46,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-05-22T16:51:37.806Z",
+      "id": "swedbank_b2ae532b6b76e72ac01e15c2",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 7,
+        "area_preference_bonus": 15,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "ABG Sundal Collier",
+      "company_id": "abg_sundal_collier",
+      "title": "ECM & Corporate Access Coordinator, Stockholm",
+      "apply_url": "https://abgsc.teamtailor.com/jobs/7697008-ecm-corporate-access-coordinator-stockholm",
+      "source_url": "https://abgsc.teamtailor.com/jobs/7697008-ecm-corporate-access-coordinator-stockholm",
+      "location": "Stockholm, Sweden",
+      "location_type": "onsite",
+      "team": "Operations and Administration",
+      "posted_at": null,
+      "expires_at": "2026-05-31",
+      "summary": "Coordinate corporate access events (conferences, roadshows, investor meetings) and support ECM/DCM transaction logistics; manage scheduling, travel, venue logistics and act as primary contact for corporates and investors. Suitable for candidates with 1–3 years relevant experience.",
+      "area_tags": [
+        "research",
+        "analytics"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 57,
+      "why_relevant": "Supports ECM/DCM and corporate access within capital markets — junior-friendly role in Stockholm's ABGSC office.",
+      "confidence": 0.85,
+      "discovery_method": "openai:web_search",
+      "discovered_at": "2026-05-22T16:51:37.806Z",
+      "id": "abg_sundal_collier_9ec9e05926eca558e5c4243b",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 6,
+        "area_preference_bonus": 18,
+        "profile_keyword_bonus": 7,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true,
+      "status": "active",
+      "missing_runs": 0,
+      "first_seen_at": "2026-05-22T16:51:37.806Z",
+      "last_seen_at": "2026-05-22T16:51:37.806Z",
+      "notified_at": null
+    },
+    {
+      "title": "Kundrådgivare Swedbank - Sales & Service",
+      "company": "Swedbank",
+      "company_id": "swedbank",
+      "apply_url": "https://jobs.swedbank.com/jobs/26777-kundradgivare-swedbank-sales-service",
+      "source_url": "https://jobs.swedbank.com/jobs/26777-kundradgivare-swedbank-sales-service",
+      "location": "Stockholm Region",
+      "location_type": "unknown",
+      "team": "",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Är du intresserad av kundmötet, att skapa kundnöjdhet och ge service i världsklass?. Hos oss på&nbsp;Swedbank har du en möjlighet att:. Erbjuda bästa möj...",
+      "area_tags": [
+        "market_risk"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 46,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-05-22T16:51:37.806Z",
+      "id": "swedbank_b2ae532b6b76e72ac01e15c2",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 7,
+        "area_preference_bonus": 15,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false,
+      "status": "active",
+      "missing_runs": 0,
+      "first_seen_at": "2026-05-22T16:51:37.806Z",
+      "last_seen_at": "2026-05-22T16:51:37.806Z",
+      "notified_at": null
+    }
+  ],
+  "errors": [
+    {
+      "company": "External market scan",
+      "error": "OpenAI response was empty."
+    }
+  ]
+}
