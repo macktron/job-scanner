@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-05-22T16:51:37.806Z",
+  "updated_at": "2026-05-23T16:26:30.919Z",
   "jobs": [
+    {
+      "company": "Pareto Securities",
+      "company_id": "pareto_securities",
+      "title": "Equity Sales",
+      "apply_url": "https://paretosecurities.teamtailor.com/jobs/7679813-equity-sales/05feede8-6c4f-482a-ba05-487990e53c4b",
+      "source_url": "https://paretosec.com/updates/vacant-positions/equity-sales-1",
+      "location": "Stockholm, Sweden",
+      "location_type": "onsite",
+      "team": "Sales",
+      "posted_at": null,
+      "expires_at": "2026-05-24",
+      "summary": "Join Pareto's Stockholm office to help grow and manage a client base of private online investors as the firm expands its electronic trading business in Sweden. Role is junior-friendly (previous experience a plus but not required); requires a relevant degree, strong interest in markets, communication skills and analytical ability.",
+      "area_tags": [
+        "sales_trading",
+        "trading",
+        "research",
+        "analytics"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 100,
+      "why_relevant": "Stockholm-based junior sales/trading role in electronic trading — directly relevant to sales_trading and trading pipelines; no 2+ years requirement.",
+      "confidence": 0.85,
+      "discovery_method": "openai:web_search",
+      "discovered_at": "2026-05-23T16:26:30.919Z",
+      "id": "pareto_securities_27576c8dc9079b442043e571",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 6,
+        "area_preference_bonus": 50,
+        "profile_keyword_bonus": 17,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true,
+      "status": "active",
+      "missing_runs": 0,
+      "first_seen_at": "2026-05-07T16:40:51.956Z",
+      "last_seen_at": "2026-05-23T16:26:30.919Z",
+      "notified_at": "2026-05-07T16:40:51.956Z"
+    },
     {
       "title": "Sr. Digital Analyst",
       "company": "Nordea",
@@ -25,7 +64,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:nordea",
-      "discovered_at": "2026-05-22T16:51:37.806Z",
+      "discovered_at": "2026-05-23T16:26:30.919Z",
       "id": "nordea_2216dab931473cbd29ec9bf3",
       "profile_score_breakdown": {
         "company_preference_bonus": 10,
@@ -37,7 +76,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-05-16T16:24:57.992Z",
-      "last_seen_at": "2026-05-22T16:51:37.806Z",
+      "last_seen_at": "2026-05-23T16:26:30.919Z",
       "notified_at": "2026-05-16T16:24:57.992Z"
     },
     {
@@ -74,48 +113,10 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-05-16T16:24:57.992Z",
       "last_seen_at": "2026-05-17T16:26:09.352Z",
       "notified_at": "2026-05-16T16:24:57.992Z"
-    },
-    {
-      "company": "Pareto Securities",
-      "company_id": "pareto_securities",
-      "title": "Equity Sales",
-      "apply_url": "https://paretosecurities.teamtailor.com/jobs/7679813-equity-sales/05feede8-6c4f-482a-ba05-487990e53c4b",
-      "source_url": "https://paretosec.com/updates/vacant-positions/equity-sales-1",
-      "location": "Stockholm, Sweden",
-      "location_type": "onsite",
-      "team": "Sales",
-      "posted_at": null,
-      "expires_at": "2026-05-24",
-      "summary": "Pareto is expanding its electronic trading business in Sweden and is seeking a driven Equity Sales professional in the Stockholm office to grow and manage a client base of private online investors, working closely with the electronic trading team. Previous experience is a plus but not required.",
-      "area_tags": [
-        "sales_trading",
-        "trading",
-        "analytics"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 83,
-      "why_relevant": "Stockholm-based sales/trading role tied to electronic trading and execution — junior-friendly (experience a plus, not required).",
-      "confidence": 0.9,
-      "discovery_method": "openai:web_search",
-      "discovered_at": "2026-05-16T16:24:57.992Z",
-      "id": "pareto_securities_27576c8dc9079b442043e571",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 6,
-        "area_preference_bonus": 40,
-        "profile_keyword_bonus": 10,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-05-07T16:40:51.956Z",
-      "last_seen_at": "2026-05-16T16:24:57.992Z",
-      "notified_at": "2026-05-07T16:40:51.956Z"
     },
     {
       "title": "Sr. Data Scientist",
@@ -139,7 +140,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:nordea",
-      "discovered_at": "2026-05-22T16:51:37.806Z",
+      "discovered_at": "2026-05-23T16:26:30.919Z",
       "id": "nordea_84b18efa68c55e065bd43ba4",
       "profile_score_breakdown": {
         "company_preference_bonus": 10,
@@ -151,7 +152,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-05-16T16:24:57.992Z",
-      "last_seen_at": "2026-05-22T16:51:37.806Z",
+      "last_seen_at": "2026-05-23T16:26:30.919Z",
       "notified_at": "2026-05-16T16:24:57.992Z"
     },
     {
@@ -186,7 +187,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-05-17T16:26:09.352Z",
       "last_seen_at": "2026-05-17T16:26:09.352Z",
       "notified_at": "2026-05-17T16:26:09.352Z"
@@ -223,7 +224,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-05-06T16:42:01.191Z",
       "last_seen_at": "2026-05-22T16:51:37.806Z",
       "notified_at": "2026-05-06T16:42:01.191Z"
@@ -250,7 +251,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:nordea",
-      "discovered_at": "2026-05-22T16:51:37.806Z",
+      "discovered_at": "2026-05-23T16:26:30.919Z",
       "id": "nordea_02d12303bb4d96856ff1ed16",
       "profile_score_breakdown": {
         "company_preference_bonus": 10,
@@ -262,7 +263,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-05-16T16:24:57.992Z",
-      "last_seen_at": "2026-05-22T16:51:37.806Z",
+      "last_seen_at": "2026-05-23T16:26:30.919Z",
       "notified_at": "2026-05-16T16:24:57.992Z"
     },
     {
@@ -297,7 +298,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-05-16T16:24:57.992Z",
       "last_seen_at": "2026-05-17T16:26:09.352Z",
       "notified_at": "2026-05-16T16:24:57.992Z"
@@ -334,7 +335,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-05-16T16:24:57.992Z",
       "last_seen_at": "2026-05-17T16:26:09.352Z",
       "notified_at": "2026-05-16T16:24:57.992Z"
@@ -371,7 +372,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-05-16T16:24:57.992Z",
       "last_seen_at": "2026-05-17T16:26:09.352Z",
       "notified_at": "2026-05-16T16:24:57.992Z"
@@ -408,7 +409,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-05-16T16:24:57.992Z",
       "last_seen_at": "2026-05-17T16:26:09.352Z",
       "notified_at": "2026-05-16T16:24:57.992Z"
@@ -445,7 +446,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-05-16T16:24:57.992Z",
       "last_seen_at": "2026-05-17T16:26:09.352Z",
       "notified_at": "2026-05-16T16:24:57.992Z"
@@ -482,10 +483,47 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-05-06T16:42:01.191Z",
       "last_seen_at": "2026-05-17T16:26:09.352Z",
       "notified_at": "2026-05-06T16:42:01.191Z"
+    },
+    {
+      "company": "ABG Sundal Collier",
+      "company_id": "abg_sundal_collier",
+      "title": "ECM & Corporate Access Coordinator, Stockholm",
+      "apply_url": "https://abgsc.teamtailor.com/jobs/7697008-ecm-corporate-access-coordinator-stockholm",
+      "source_url": "https://www.abgsc.com/joblisting/ecm-corporate-access-coordinator-stockholm/",
+      "location": "Stockholm",
+      "location_type": "onsite",
+      "team": "Operations and Administration",
+      "posted_at": null,
+      "expires_at": "2026-05-31",
+      "summary": "Coordinate and execute corporate access events (conferences, roadshows, investor meetings) and support Equity Capital Markets (ECM) and Debt Capital Markets (DCM) processes. Manage logistics, act as primary contact for corporates and investors, maintain systems and event statistics. Suitable for candidates with 1–3 years' relevant experience.",
+      "area_tags": [
+        "research",
+        "analytics"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 59,
+      "why_relevant": "Junior capital-markets role based in Stockholm supporting ECM/DCM and corporate access — aligned with market/analytics-focused finance roles.",
+      "confidence": 0,
+      "discovery_method": "openai:web_search",
+      "discovered_at": "2026-05-23T16:26:30.919Z",
+      "id": "abg_sundal_collier_1f18cac1482579084e89fbd2",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 6,
+        "area_preference_bonus": 18,
+        "profile_keyword_bonus": 7,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true,
+      "status": "active",
+      "missing_runs": 0,
+      "first_seen_at": "2026-05-14T16:47:28.433Z",
+      "last_seen_at": "2026-05-23T16:26:30.919Z",
+      "notified_at": "2026-05-14T16:47:28.433Z"
     },
     {
       "company": "ABG Sundal Collier",
@@ -519,7 +557,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-05-22T16:51:37.806Z",
       "last_seen_at": "2026-05-22T16:51:37.806Z",
       "notified_at": "2026-05-22T16:51:37.806Z"
@@ -545,7 +583,7 @@
       "why_relevant": "",
       "confidence": 0.75,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-05-22T16:51:37.806Z",
+      "discovered_at": "2026-05-23T16:26:30.919Z",
       "id": "nordnet_4232ffe12d7aececcfa69425",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -557,7 +595,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-05-12T16:51:16.766Z",
-      "last_seen_at": "2026-05-22T16:51:37.806Z",
+      "last_seen_at": "2026-05-23T16:26:30.919Z",
       "notified_at": "2026-05-12T16:51:16.766Z"
     },
     {
@@ -581,7 +619,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-05-22T16:51:37.806Z",
+      "discovered_at": "2026-05-23T16:26:30.919Z",
       "id": "nordnet_1a88397d09133916dcffa944",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -593,7 +631,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-05-22T16:51:37.806Z",
+      "last_seen_at": "2026-05-23T16:26:30.919Z",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
     {
@@ -617,7 +655,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-05-22T16:51:37.806Z",
+      "discovered_at": "2026-05-23T16:26:30.919Z",
       "id": "nordnet_52db042967f942a01b6dba66",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -629,7 +667,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-05-22T16:51:37.806Z",
+      "last_seen_at": "2026-05-23T16:26:30.919Z",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
     {
@@ -653,7 +691,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-05-22T16:51:37.806Z",
+      "discovered_at": "2026-05-23T16:26:30.919Z",
       "id": "nordnet_9724cc910af8f5b42d1b5421",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -665,7 +703,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-05-22T16:51:37.806Z",
+      "last_seen_at": "2026-05-23T16:26:30.919Z",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
     {
@@ -689,7 +727,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-05-22T16:51:37.806Z",
+      "discovered_at": "2026-05-23T16:26:30.919Z",
       "id": "swedbank_b2ae532b6b76e72ac01e15c2",
       "profile_score_breakdown": {
         "company_preference_bonus": 7,
@@ -701,7 +739,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-05-22T16:51:37.806Z",
-      "last_seen_at": "2026-05-22T16:51:37.806Z",
+      "last_seen_at": "2026-05-23T16:26:30.919Z",
       "notified_at": "2026-05-22T16:51:37.806Z"
     }
   ]
