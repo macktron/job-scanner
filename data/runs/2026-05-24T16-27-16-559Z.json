@@ -1,6 +1,10 @@
 {
-  "updated_at": "2026-05-24T16:27:16.559Z",
-  "jobs": [
+  "timestamp": "2026-05-24T16:27:16.559Z",
+  "dry_run": false,
+  "min_relevance_score": 55,
+  "missing_runs_threshold": 3,
+  "company_count": 12,
+  "discovered_jobs": [
     {
       "company": "ABG Sundal Collier",
       "company_id": "abg_sundal_collier",
@@ -31,51 +35,7 @@
         "profile_keyword_bonus": 7,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-05-14T16:47:28.433Z",
-      "last_seen_at": "2026-05-24T16:27:16.559Z",
-      "notified_at": "2026-05-14T16:47:28.433Z"
-    },
-    {
-      "company": "Pareto Securities",
-      "company_id": "pareto_securities",
-      "title": "Equity Sales",
-      "apply_url": "https://paretosecurities.teamtailor.com/jobs/7679813-equity-sales/05feede8-6c4f-482a-ba05-487990e53c4b",
-      "source_url": "https://paretosec.com/updates/vacant-positions/equity-sales-1",
-      "location": "Stockholm, Sweden",
-      "location_type": "onsite",
-      "team": "Sales",
-      "posted_at": null,
-      "expires_at": "2026-05-24",
-      "summary": "Join Pareto's Stockholm office to help grow and manage a client base of private online investors as the firm expands its electronic trading business in Sweden. Role is junior-friendly (previous experience a plus but not required); requires a relevant degree, strong interest in markets, communication skills and analytical ability.",
-      "area_tags": [
-        "sales_trading",
-        "trading",
-        "research",
-        "analytics"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 100,
-      "why_relevant": "Stockholm-based junior sales/trading role in electronic trading — directly relevant to sales_trading and trading pipelines; no 2+ years requirement.",
-      "confidence": 0.85,
-      "discovery_method": "openai:web_search",
-      "discovered_at": "2026-05-23T16:26:30.919Z",
-      "id": "pareto_securities_27576c8dc9079b442043e571",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 6,
-        "area_preference_bonus": 50,
-        "profile_keyword_bonus": 17,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 1,
-      "first_seen_at": "2026-05-07T16:40:51.956Z",
-      "last_seen_at": "2026-05-23T16:26:30.919Z",
-      "notified_at": "2026-05-07T16:40:51.956Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Sr. Digital Analyst",
@@ -109,12 +69,7 @@
         "profile_keyword_bonus": 7,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-05-16T16:24:57.992Z",
-      "last_seen_at": "2026-05-24T16:27:16.559Z",
-      "notified_at": "2026-05-16T16:24:57.992Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Sr. Data Scientist",
@@ -146,49 +101,7 @@
         "profile_keyword_bonus": 9,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-05-16T16:24:57.992Z",
-      "last_seen_at": "2026-05-24T16:27:16.559Z",
-      "notified_at": "2026-05-16T16:24:57.992Z"
-    },
-    {
-      "company": "Pareto Securities",
-      "company_id": "pareto_securities",
-      "title": "Equity Sales",
-      "apply_url": "https://paretosecurities.teamtailor.com/jobs/7679813-equity-sales",
-      "source_url": "https://paretosec.com/updates/vacant-positions/equity-sales-1",
-      "location": "Stockholm, Sweden",
-      "location_type": "onsite",
-      "team": "Sales",
-      "posted_at": null,
-      "expires_at": "2026-05-24",
-      "summary": "Junior equity sales role expanding Pareto's electronic trading business in Sweden. Responsible for growing and managing a client base of private online investors, working closely with the electronic trading team. Previous experience is a plus but not required.",
-      "area_tags": [
-        "sales_trading",
-        "trading"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 71,
-      "why_relevant": "Stockholm-based, junior-friendly role connected to electronic trading and equity sales (matches sales_trading/trading tags).",
-      "confidence": 0.9,
-      "discovery_method": "openai:web_search",
-      "discovered_at": "2026-05-22T16:51:37.806Z",
-      "id": "pareto_securities_733479b736958cda8339e700",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 6,
-        "area_preference_bonus": 32,
-        "profile_keyword_bonus": 10,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-05-06T16:42:01.191Z",
-      "last_seen_at": "2026-05-22T16:51:37.806Z",
-      "notified_at": "2026-05-06T16:42:01.191Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Reward Partner in Group People",
@@ -220,49 +133,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-05-16T16:24:57.992Z",
-      "last_seen_at": "2026-05-24T16:27:16.559Z",
-      "notified_at": "2026-05-16T16:24:57.992Z"
-    },
-    {
-      "company": "ABG Sundal Collier",
-      "company_id": "abg_sundal_collier",
-      "title": "ECM & Corporate Access Coordinator, Stockholm",
-      "apply_url": "https://abgsc.teamtailor.com/jobs/7697008-ecm-corporate-access-coordinator-stockholm",
-      "source_url": "https://abgsc.teamtailor.com/jobs/7697008-ecm-corporate-access-coordinator-stockholm",
-      "location": "Stockholm, Sweden",
-      "location_type": "onsite",
-      "team": "Operations and Administration",
-      "posted_at": null,
-      "expires_at": "2026-05-31",
-      "summary": "Coordinate corporate access events (conferences, roadshows, investor meetings) and support ECM/DCM transaction logistics; manage scheduling, travel, venue logistics and act as primary contact for corporates and investors. Suitable for candidates with 1–3 years relevant experience.",
-      "area_tags": [
-        "research",
-        "analytics"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 57,
-      "why_relevant": "Supports ECM/DCM and corporate access within capital markets — junior-friendly role in Stockholm's ABGSC office.",
-      "confidence": 0.85,
-      "discovery_method": "openai:web_search",
-      "discovered_at": "2026-05-22T16:51:37.806Z",
-      "id": "abg_sundal_collier_9ec9e05926eca558e5c4243b",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 6,
-        "area_preference_bonus": 18,
-        "profile_keyword_bonus": 7,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-05-22T16:51:37.806Z",
-      "last_seen_at": "2026-05-22T16:51:37.806Z",
-      "notified_at": "2026-05-22T16:51:37.806Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Data Engineer",
@@ -293,12 +164,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-05-12T16:51:16.766Z",
-      "last_seen_at": "2026-05-24T16:27:16.559Z",
-      "notified_at": "2026-05-12T16:51:16.766Z"
+      "matches_minimum_score": false
     },
     {
       "title": "Network Engineer",
@@ -329,12 +195,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-05-24T16:27:16.559Z",
-      "notified_at": "2026-04-28T16:42:27.094Z"
+      "matches_minimum_score": false
     },
     {
       "title": "Software Engineer - Engineering Productivity / AI",
@@ -365,12 +226,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-05-24T16:27:16.559Z",
-      "notified_at": "2026-04-28T16:42:27.094Z"
+      "matches_minimum_score": false
     },
     {
       "title": "Software Engineer",
@@ -401,12 +257,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-05-24T16:27:16.559Z",
-      "notified_at": "2026-04-28T16:42:27.094Z"
+      "matches_minimum_score": false
     },
     {
       "title": "Kundrådgivare Swedbank - Sales & Service",
@@ -437,12 +288,14 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-05-22T16:51:37.806Z",
-      "last_seen_at": "2026-05-24T16:27:16.559Z",
-      "notified_at": "2026-05-22T16:51:37.806Z"
+      "matches_minimum_score": false
+    }
+  ],
+  "new_jobs": [],
+  "errors": [
+    {
+      "company": "External market scan",
+      "error": "OpenAI response was empty."
     }
   ]
 }
