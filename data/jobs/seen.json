@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T16:49:18.052Z",
+  "updated_at": "2026-05-30T16:28:04.659Z",
   "jobs": {
     "nordea_96329aec09a934eb64f8c6c7": {
       "id": "nordea_96329aec09a934eb64f8c6c7",
@@ -1127,7 +1127,7 @@
       "title": "Software Engineer - Engineering Productivity / AI",
       "apply_url": "https://career.nordnetab.com/jobs/5809031-software-engineer-engineering-productivity-ai",
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-05-25T16:49:18.052Z",
+      "last_seen_at": "2026-05-30T16:28:04.659Z",
       "last_status": "active",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
@@ -1137,7 +1137,7 @@
       "title": "Software Engineer",
       "apply_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-05-25T16:49:18.052Z",
+      "last_seen_at": "2026-05-30T16:28:04.659Z",
       "last_status": "active",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
@@ -1308,7 +1308,7 @@
       "apply_url": "https://paretosecurities.teamtailor.com/jobs/7679813-equity-sales/05feede8-6c4f-482a-ba05-487990e53c4b",
       "first_seen_at": "2026-05-07T16:40:51.956Z",
       "last_seen_at": "2026-05-23T16:26:30.919Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-05-07T16:40:51.956Z"
     },
     "nordea_6882c28b468b364b447d3fde": {
@@ -1407,7 +1407,7 @@
       "title": "Data Engineer",
       "apply_url": "https://career.nordnetab.com/jobs/7712170-data-engineer",
       "first_seen_at": "2026-05-12T16:51:16.766Z",
-      "last_seen_at": "2026-05-25T16:49:18.052Z",
+      "last_seen_at": "2026-05-30T16:28:04.659Z",
       "last_status": "active",
       "notified_at": "2026-05-12T16:51:16.766Z"
     },
@@ -1557,8 +1557,8 @@
       "title": "ECM & Corporate Access Coordinator, Stockholm",
       "apply_url": "https://abgsc.teamtailor.com/jobs/7697008-ecm-corporate-access-coordinator-stockholm",
       "first_seen_at": "2026-05-22T16:51:37.806Z",
-      "last_seen_at": "2026-05-22T16:51:37.806Z",
-      "last_status": "stale",
+      "last_seen_at": "2026-05-30T16:28:04.659Z",
+      "last_status": "active",
       "notified_at": "2026-05-22T16:51:37.806Z"
     },
     "swedbank_b2ae532b6b76e72ac01e15c2": {
@@ -1570,6 +1570,106 @@
       "last_seen_at": "2026-05-25T16:49:18.052Z",
       "last_status": "active",
       "notified_at": "2026-05-22T16:51:37.806Z"
+    },
+    "pareto_securities_066ddfd35d68a4a14be292c1": {
+      "id": "pareto_securities_066ddfd35d68a4a14be292c1",
+      "company": "Pareto Securities",
+      "title": "Part-Time - Electronic Trading",
+      "apply_url": "https://paretosecurities.teamtailor.com/jobs/7811781-part-time-electronic-trading",
+      "first_seen_at": "2026-05-30T16:28:04.659Z",
+      "last_seen_at": "2026-05-30T16:28:04.659Z",
+      "last_status": "active",
+      "notified_at": "2026-05-30T16:28:04.659Z"
+    },
+    "nordea_8ec005231c1d14459e916ce0": {
+      "id": "nordea_8ec005231c1d14459e916ce0",
+      "company": "Nordea",
+      "title": "Data Scientist - Predictive AI",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-Data-Scientist-Predictive-AI-111-46/1289310101/?feedId=451033&amp;utm_source=CareerSite",
+      "first_seen_at": "2026-05-30T16:28:04.659Z",
+      "last_seen_at": "2026-05-30T16:28:04.659Z",
+      "last_status": "active",
+      "notified_at": "2026-05-30T16:28:04.659Z"
+    },
+    "nordea_25cadc3f035403f0870c46d5": {
+      "id": "nordea_25cadc3f035403f0870c46d5",
+      "company": "Nordea",
+      "title": "Data Scientist - Predictive AI",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-Data-Scientist-Predictive-AI-111-46/1289310101/",
+      "first_seen_at": "2026-05-30T16:28:04.659Z",
+      "last_seen_at": "2026-05-30T16:28:04.659Z",
+      "last_status": "active",
+      "notified_at": "2026-05-30T16:28:04.659Z"
+    },
+    "nordea_1d5c0650e493d0077572bf53": {
+      "id": "nordea_1d5c0650e493d0077572bf53",
+      "company": "Nordea",
+      "title": "Product Owner Experience Management and Integrations",
+      "apply_url": "https://careers.nordea.com/job/Helsinki-Product-Owner-Experience-Management-and-Integrations-00500/1398651633/?feedId=451033&amp;utm_source=CareerSite",
+      "first_seen_at": "2026-05-30T16:28:04.659Z",
+      "last_seen_at": "2026-05-30T16:28:04.659Z",
+      "last_status": "active",
+      "notified_at": "2026-05-30T16:28:04.659Z"
+    },
+    "nordea_3fb97851c19401df4a44206a": {
+      "id": "nordea_3fb97851c19401df4a44206a",
+      "company": "Nordea",
+      "title": "Intern in DCM, FIG",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-Intern-in-DCM%2C-FIG-111-46/1397172633/",
+      "first_seen_at": "2026-05-30T16:28:04.659Z",
+      "last_seen_at": "2026-05-30T16:28:04.659Z",
+      "last_status": "active",
+      "notified_at": "2026-05-30T16:28:04.659Z"
+    },
+    "nordea_164eab7583b815339dcde867": {
+      "id": "nordea_164eab7583b815339dcde867",
+      "company": "Nordea",
+      "title": "Product Owner Experience Management and Integrations",
+      "apply_url": "https://careers.nordea.com/job/Helsinki-Product-Owner-Experience-Management-and-Integrations-00500/1398651633/",
+      "first_seen_at": "2026-05-30T16:28:04.659Z",
+      "last_seen_at": "2026-05-30T16:28:04.659Z",
+      "last_status": "active",
+      "notified_at": "2026-05-30T16:28:04.659Z"
+    },
+    "pareto_securities_0ef1b49b3d56aa163b77d2fb": {
+      "id": "pareto_securities_0ef1b49b3d56aa163b77d2fb",
+      "company": "Pareto Securities",
+      "title": "Part-time - Equity Research",
+      "apply_url": "https://paretosecurities.teamtailor.com/jobs/7775299-part-time-equity-research",
+      "first_seen_at": "2026-05-30T16:28:04.659Z",
+      "last_seen_at": "2026-05-30T16:28:04.659Z",
+      "last_status": "active",
+      "notified_at": "2026-05-30T16:28:04.659Z"
+    },
+    "avanza_10e714962ec8dc9002bce8a1": {
+      "id": "avanza_10e714962ec8dc9002bce8a1",
+      "company": "Avanza",
+      "title": "Backoffice Administrator - Part time (Fonder)",
+      "apply_url": "https://career.avanza.se/jobs/7814558-backoffice-administrator-part-time-fonder",
+      "first_seen_at": "2026-05-30T16:28:04.659Z",
+      "last_seen_at": "2026-05-30T16:28:04.659Z",
+      "last_status": "active",
+      "notified_at": "2026-05-30T16:28:04.659Z"
+    },
+    "nordnet_26374b03f35a23cd643a0c10": {
+      "id": "nordnet_26374b03f35a23cd643a0c10",
+      "company": "Nordnet",
+      "title": "Part-time Internal Communications Coordinator",
+      "apply_url": "https://career.nordnetab.com/jobs/7780053-part-time-internal-communications-coordinator",
+      "first_seen_at": "2026-05-30T16:28:04.659Z",
+      "last_seen_at": "2026-05-30T16:28:04.659Z",
+      "last_status": "active",
+      "notified_at": "2026-05-30T16:28:04.659Z"
+    },
+    "swedbank_32b7f42c4fc115a748e46776": {
+      "id": "swedbank_32b7f42c4fc115a748e46776",
+      "company": "Swedbank",
+      "title": "Client Advisor Generalist",
+      "apply_url": "https://jobs.swedbank.com/jobs/26889-client-advisor-generalist",
+      "first_seen_at": "2026-05-30T16:28:04.659Z",
+      "last_seen_at": "2026-05-30T16:28:04.659Z",
+      "last_status": "active",
+      "notified_at": "2026-05-30T16:28:04.659Z"
     }
   }
 }
