@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T16:32:40.717Z",
+  "updated_at": "2026-06-05T16:54:40.360Z",
   "jobs": {
     "nordea_96329aec09a934eb64f8c6c7": {
       "id": "nordea_96329aec09a934eb64f8c6c7",
@@ -1127,7 +1127,7 @@
       "title": "Software Engineer - Engineering Productivity / AI",
       "apply_url": "https://career.nordnetab.com/jobs/5809031-software-engineer-engineering-productivity-ai",
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-05-31T16:32:40.717Z",
+      "last_seen_at": "2026-06-05T16:54:40.360Z",
       "last_status": "active",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
@@ -1137,7 +1137,7 @@
       "title": "Software Engineer",
       "apply_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-05-31T16:32:40.717Z",
+      "last_seen_at": "2026-06-05T16:54:40.360Z",
       "last_status": "active",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
@@ -1448,7 +1448,7 @@
       "apply_url": "https://abgsc.teamtailor.com/jobs/7697008-ecm-corporate-access-coordinator-stockholm",
       "first_seen_at": "2026-05-14T16:47:28.433Z",
       "last_seen_at": "2026-05-25T16:49:18.052Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-05-14T16:47:28.433Z"
     },
     "nordea_2216dab931473cbd29ec9bf3": {
@@ -1538,7 +1538,7 @@
       "apply_url": "https://careers.nordea.com/job/Helsinki-Reward-Partner-in-Group-People-00500/1393219233/",
       "first_seen_at": "2026-05-16T16:24:57.992Z",
       "last_seen_at": "2026-05-25T16:49:18.052Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-05-16T16:24:57.992Z"
     },
     "dnb_carnegie_da668d72dcb81633faf3be2b": {
@@ -1557,7 +1557,7 @@
       "title": "ECM & Corporate Access Coordinator, Stockholm",
       "apply_url": "https://abgsc.teamtailor.com/jobs/7697008-ecm-corporate-access-coordinator-stockholm",
       "first_seen_at": "2026-05-22T16:51:37.806Z",
-      "last_seen_at": "2026-05-30T16:28:04.659Z",
+      "last_seen_at": "2026-06-05T16:54:40.360Z",
       "last_status": "active",
       "notified_at": "2026-05-22T16:51:37.806Z"
     },
@@ -1568,7 +1568,7 @@
       "apply_url": "https://jobs.swedbank.com/jobs/26777-kundradgivare-swedbank-sales-service",
       "first_seen_at": "2026-05-22T16:51:37.806Z",
       "last_seen_at": "2026-05-25T16:49:18.052Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-05-22T16:51:37.806Z"
     },
     "pareto_securities_066ddfd35d68a4a14be292c1": {
@@ -1597,7 +1597,7 @@
       "title": "Data Scientist - Predictive AI",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Data-Scientist-Predictive-AI-111-46/1289310101/",
       "first_seen_at": "2026-05-30T16:28:04.659Z",
-      "last_seen_at": "2026-05-31T16:32:40.717Z",
+      "last_seen_at": "2026-06-05T16:54:40.360Z",
       "last_status": "active",
       "notified_at": "2026-05-30T16:28:04.659Z"
     },
@@ -1617,7 +1617,7 @@
       "title": "Intern in DCM, FIG",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Intern-in-DCM%2C-FIG-111-46/1397172633/",
       "first_seen_at": "2026-05-30T16:28:04.659Z",
-      "last_seen_at": "2026-05-31T16:32:40.717Z",
+      "last_seen_at": "2026-06-05T16:54:40.360Z",
       "last_status": "active",
       "notified_at": "2026-05-30T16:28:04.659Z"
     },
@@ -1627,7 +1627,7 @@
       "title": "Product Owner Experience Management and Integrations",
       "apply_url": "https://careers.nordea.com/job/Helsinki-Product-Owner-Experience-Management-and-Integrations-00500/1398651633/",
       "first_seen_at": "2026-05-30T16:28:04.659Z",
-      "last_seen_at": "2026-05-31T16:32:40.717Z",
+      "last_seen_at": "2026-06-05T16:54:40.360Z",
       "last_status": "active",
       "notified_at": "2026-05-30T16:28:04.659Z"
     },
@@ -1647,7 +1647,7 @@
       "title": "Backoffice Administrator - Part time (Fonder)",
       "apply_url": "https://career.avanza.se/jobs/7814558-backoffice-administrator-part-time-fonder",
       "first_seen_at": "2026-05-30T16:28:04.659Z",
-      "last_seen_at": "2026-05-31T16:32:40.717Z",
+      "last_seen_at": "2026-06-05T16:54:40.360Z",
       "last_status": "active",
       "notified_at": "2026-05-30T16:28:04.659Z"
     },
@@ -1657,7 +1657,7 @@
       "title": "Part-time Internal Communications Coordinator",
       "apply_url": "https://career.nordnetab.com/jobs/7780053-part-time-internal-communications-coordinator",
       "first_seen_at": "2026-05-30T16:28:04.659Z",
-      "last_seen_at": "2026-05-31T16:32:40.717Z",
+      "last_seen_at": "2026-06-05T16:54:40.360Z",
       "last_status": "active",
       "notified_at": "2026-05-30T16:28:04.659Z"
     },
@@ -1687,9 +1687,59 @@
       "title": "Part-time - Equity Research",
       "apply_url": "https://paretosecurities.teamtailor.com/jobs/7775299-part-time-equity-research",
       "first_seen_at": "2026-05-31T16:32:40.717Z",
-      "last_seen_at": "2026-05-31T16:32:40.717Z",
+      "last_seen_at": "2026-06-05T16:54:40.360Z",
       "last_status": "active",
       "notified_at": "2026-05-31T16:32:40.717Z"
+    },
+    "pareto_securities_c174d4a74a1017aa03f85845": {
+      "id": "pareto_securities_c174d4a74a1017aa03f85845",
+      "company": "Pareto Securities",
+      "title": "Part-Time - Electronic Trading",
+      "apply_url": "https://paretosecurities.teamtailor.com/jobs/7811781-part-time-electronic-trading",
+      "first_seen_at": "2026-06-05T16:54:40.360Z",
+      "last_seen_at": "2026-06-05T16:54:40.360Z",
+      "last_status": "active",
+      "notified_at": "2026-06-05T16:54:40.360Z"
+    },
+    "swedbank_4e42b15d5e874edb57af5e67": {
+      "id": "swedbank_4e42b15d5e874edb57af5e67",
+      "company": "Swedbank",
+      "title": "Data Scientist within Client Solutions",
+      "apply_url": "https://jobs.swedbank.com/jobs/26967-data-scientist-within-client-solutions",
+      "first_seen_at": "2026-06-05T16:54:40.360Z",
+      "last_seen_at": "2026-06-05T16:54:40.360Z",
+      "last_status": "active",
+      "notified_at": "2026-06-05T16:54:40.360Z"
+    },
+    "avanza_e4329d9510d35fe46cfaff95": {
+      "id": "avanza_e4329d9510d35fe46cfaff95",
+      "company": "Avanza",
+      "title": "Office Assistant",
+      "apply_url": "https://career.avanza.se/jobs/7843197-office-assistant",
+      "first_seen_at": "2026-06-05T16:54:40.360Z",
+      "last_seen_at": "2026-06-05T16:54:40.360Z",
+      "last_status": "active",
+      "notified_at": "2026-06-05T16:54:40.360Z"
+    },
+    "nordnet_818e72e8004e60c8c2a2c00a": {
+      "id": "nordnet_818e72e8004e60c8c2a2c00a",
+      "company": "Nordnet",
+      "title": "Data Platform Engineer",
+      "apply_url": "https://career.nordnetab.com/jobs/7861004-data-platform-engineer",
+      "first_seen_at": "2026-06-05T16:54:40.360Z",
+      "last_seen_at": "2026-06-05T16:54:40.360Z",
+      "last_status": "active",
+      "notified_at": "2026-06-05T16:54:40.360Z"
+    },
+    "swedbank_7f5ca41418d67c6bc2f7dae9": {
+      "id": "swedbank_7f5ca41418d67c6bc2f7dae9",
+      "company": "Swedbank",
+      "title": "Client Advisor Holistic Advice (Private) - Lidingö",
+      "apply_url": "https://jobs.swedbank.com/jobs/26973-client-advisor-holistic-advice-private-lidingo",
+      "first_seen_at": "2026-06-05T16:54:40.360Z",
+      "last_seen_at": "2026-06-05T16:54:40.360Z",
+      "last_status": "active",
+      "notified_at": "2026-06-05T16:54:40.360Z"
     }
   }
 }
