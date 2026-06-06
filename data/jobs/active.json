@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T16:54:40.360Z",
+  "updated_at": "2026-06-06T16:31:14.834Z",
   "jobs": [
     {
       "company": "Pareto Securities",
@@ -34,48 +34,10 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-06-05T16:54:40.360Z",
       "last_seen_at": "2026-06-05T16:54:40.360Z",
       "notified_at": "2026-06-05T16:54:40.360Z"
-    },
-    {
-      "company": "Pareto Securities",
-      "company_id": "pareto_securities",
-      "title": "Part-Time - Electronic Trading",
-      "apply_url": "https://paretosecurities.teamtailor.com/jobs/7811781-part-time-electronic-trading",
-      "source_url": "https://paretosec.com/updates/vacant-positions/part-time-electronic-trading",
-      "location": "Stockholm",
-      "location_type": "hybrid",
-      "team": "Sales / Electronic Trading",
-      "posted_at": null,
-      "expires_at": "2026-06-14",
-      "summary": "Part-time role on Pareto's Stockholm Electronic Trading desk (student-friendly) working with client acquisition and relationship management, minimum two days/week at the office (Berzelii Park 9).",
-      "area_tags": [
-        "sales_trading",
-        "trading",
-        "analytics"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 83,
-      "why_relevant": "Directly relates to trading/equity sales, student-friendly part-time role based in Stockholm.",
-      "confidence": 0.9,
-      "discovery_method": "openai:web_search",
-      "discovered_at": "2026-05-30T16:28:04.659Z",
-      "id": "pareto_securities_066ddfd35d68a4a14be292c1",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 6,
-        "area_preference_bonus": 40,
-        "profile_keyword_bonus": 10,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-05-30T16:28:04.659Z",
-      "last_seen_at": "2026-05-30T16:28:04.659Z",
-      "notified_at": "2026-05-30T16:28:04.659Z"
     },
     {
       "title": "Data Scientist - Predictive AI",
@@ -99,7 +61,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:nordea",
-      "discovered_at": "2026-06-05T16:54:40.360Z",
+      "discovered_at": "2026-06-06T16:31:14.834Z",
       "id": "nordea_25cadc3f035403f0870c46d5",
       "profile_score_breakdown": {
         "company_preference_bonus": 10,
@@ -111,7 +73,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-05-30T16:28:04.659Z",
-      "last_seen_at": "2026-06-05T16:54:40.360Z",
+      "last_seen_at": "2026-06-06T16:31:14.834Z",
       "notified_at": "2026-05-30T16:28:04.659Z"
     },
     {
@@ -146,7 +108,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-05-30T16:28:04.659Z",
       "last_seen_at": "2026-05-31T16:32:40.717Z",
       "notified_at": "2026-05-30T16:28:04.659Z"
@@ -183,7 +145,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-05-31T16:32:40.717Z",
       "last_seen_at": "2026-05-31T16:32:40.717Z",
       "notified_at": "2026-05-31T16:32:40.717Z"
@@ -210,7 +172,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:nordea",
-      "discovered_at": "2026-06-05T16:54:40.360Z",
+      "discovered_at": "2026-06-06T16:31:14.834Z",
       "id": "nordea_3fb97851c19401df4a44206a",
       "profile_score_breakdown": {
         "company_preference_bonus": 10,
@@ -222,7 +184,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-05-30T16:28:04.659Z",
-      "last_seen_at": "2026-06-05T16:54:40.360Z",
+      "last_seen_at": "2026-06-06T16:31:14.834Z",
       "notified_at": "2026-05-30T16:28:04.659Z"
     },
     {
@@ -247,7 +209,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:nordea",
-      "discovered_at": "2026-06-05T16:54:40.360Z",
+      "discovered_at": "2026-06-06T16:31:14.834Z",
       "id": "nordea_164eab7583b815339dcde867",
       "profile_score_breakdown": {
         "company_preference_bonus": 10,
@@ -259,7 +221,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-05-30T16:28:04.659Z",
-      "last_seen_at": "2026-06-05T16:54:40.360Z",
+      "last_seen_at": "2026-06-06T16:31:14.834Z",
       "notified_at": "2026-05-30T16:28:04.659Z"
     },
     {
@@ -294,7 +256,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-05-30T16:28:04.659Z",
       "last_seen_at": "2026-05-31T16:32:40.717Z",
       "notified_at": "2026-05-30T16:28:04.659Z"
@@ -321,7 +283,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-06-05T16:54:40.360Z",
+      "discovered_at": "2026-06-06T16:31:14.834Z",
       "id": "swedbank_4e42b15d5e874edb57af5e67",
       "profile_score_breakdown": {
         "company_preference_bonus": 7,
@@ -333,7 +295,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-06-05T16:54:40.360Z",
-      "last_seen_at": "2026-06-05T16:54:40.360Z",
+      "last_seen_at": "2026-06-06T16:31:14.834Z",
       "notified_at": "2026-06-05T16:54:40.360Z"
     },
     {
@@ -368,7 +330,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-05-22T16:51:37.806Z",
       "last_seen_at": "2026-06-05T16:54:40.360Z",
       "notified_at": "2026-05-22T16:51:37.806Z"
@@ -405,47 +367,10 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-05-31T16:32:40.717Z",
       "last_seen_at": "2026-06-05T16:54:40.360Z",
       "notified_at": "2026-05-31T16:32:40.717Z"
-    },
-    {
-      "company": "Pareto Securities",
-      "company_id": "pareto_securities",
-      "title": "Part-time - Equity Research",
-      "apply_url": "https://paretosecurities.teamtailor.com/jobs/7775299-part-time-equity-research",
-      "source_url": "https://paretosec.com/updates/vacant-positions/part-time-equity-research-analyst-2",
-      "location": "Stockholm",
-      "location_type": "onsite",
-      "team": "Research / Equity Research",
-      "posted_at": null,
-      "expires_at": "2026-06-07",
-      "summary": "Part-time internship (~15–20 hrs/week) in Stockholm supporting equity research tasks: financial modelling, sector due diligence and investor material; student-friendly with mentoring and potential for full-time after studies.",
-      "area_tags": [
-        "research",
-        "analytics"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 58,
-      "why_relevant": "Direct research/analytics role in Stockholm, explicitly targeted at students and junior candidates.",
-      "confidence": 0.9,
-      "discovery_method": "openai:web_search",
-      "discovered_at": "2026-05-30T16:28:04.659Z",
-      "id": "pareto_securities_0ef1b49b3d56aa163b77d2fb",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 6,
-        "area_preference_bonus": 18,
-        "profile_keyword_bonus": 7,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-05-30T16:28:04.659Z",
-      "last_seen_at": "2026-05-30T16:28:04.659Z",
-      "notified_at": "2026-05-30T16:28:04.659Z"
     },
     {
       "title": "Office Assistant",
@@ -468,7 +393,7 @@
       "why_relevant": "",
       "confidence": 0.75,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-06-05T16:54:40.360Z",
+      "discovered_at": "2026-06-06T16:31:14.834Z",
       "id": "avanza_e4329d9510d35fe46cfaff95",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -480,7 +405,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-06-05T16:54:40.360Z",
-      "last_seen_at": "2026-06-05T16:54:40.360Z",
+      "last_seen_at": "2026-06-06T16:31:14.834Z",
       "notified_at": "2026-06-05T16:54:40.360Z"
     },
     {
@@ -504,7 +429,7 @@
       "why_relevant": "",
       "confidence": 0.75,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-06-05T16:54:40.360Z",
+      "discovered_at": "2026-06-06T16:31:14.834Z",
       "id": "avanza_10e714962ec8dc9002bce8a1",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -516,7 +441,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-05-30T16:28:04.659Z",
-      "last_seen_at": "2026-06-05T16:54:40.360Z",
+      "last_seen_at": "2026-06-06T16:31:14.834Z",
       "notified_at": "2026-05-30T16:28:04.659Z"
     },
     {
@@ -540,7 +465,7 @@
       "why_relevant": "",
       "confidence": 0.75,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-06-05T16:54:40.360Z",
+      "discovered_at": "2026-06-06T16:31:14.834Z",
       "id": "nordnet_818e72e8004e60c8c2a2c00a",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -552,7 +477,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-06-05T16:54:40.360Z",
-      "last_seen_at": "2026-06-05T16:54:40.360Z",
+      "last_seen_at": "2026-06-06T16:31:14.834Z",
       "notified_at": "2026-06-05T16:54:40.360Z"
     },
     {
@@ -576,7 +501,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-06-05T16:54:40.360Z",
+      "discovered_at": "2026-06-06T16:31:14.834Z",
       "id": "nordnet_52db042967f942a01b6dba66",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -588,7 +513,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-06-05T16:54:40.360Z",
+      "last_seen_at": "2026-06-06T16:31:14.834Z",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
     {
@@ -612,7 +537,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-06-05T16:54:40.360Z",
+      "discovered_at": "2026-06-06T16:31:14.834Z",
       "id": "nordnet_9724cc910af8f5b42d1b5421",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -624,7 +549,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-06-05T16:54:40.360Z",
+      "last_seen_at": "2026-06-06T16:31:14.834Z",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
     {
@@ -648,7 +573,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-06-05T16:54:40.360Z",
+      "discovered_at": "2026-06-06T16:31:14.834Z",
       "id": "nordnet_26374b03f35a23cd643a0c10",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -660,7 +585,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-05-30T16:28:04.659Z",
-      "last_seen_at": "2026-06-05T16:54:40.360Z",
+      "last_seen_at": "2026-06-06T16:31:14.834Z",
       "notified_at": "2026-05-30T16:28:04.659Z"
     },
     {
@@ -694,7 +619,7 @@
       },
       "matches_minimum_score": false,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-05-12T16:51:16.766Z",
       "last_seen_at": "2026-05-31T16:32:40.717Z",
       "notified_at": "2026-05-12T16:51:16.766Z"
@@ -720,7 +645,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-06-05T16:54:40.360Z",
+      "discovered_at": "2026-06-06T16:31:14.834Z",
       "id": "swedbank_7f5ca41418d67c6bc2f7dae9",
       "profile_score_breakdown": {
         "company_preference_bonus": 7,
@@ -732,7 +657,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-06-05T16:54:40.360Z",
-      "last_seen_at": "2026-06-05T16:54:40.360Z",
+      "last_seen_at": "2026-06-06T16:31:14.834Z",
       "notified_at": "2026-06-05T16:54:40.360Z"
     },
     {
@@ -766,7 +691,7 @@
       },
       "matches_minimum_score": false,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-05-30T16:28:04.659Z",
       "last_seen_at": "2026-05-31T16:32:40.717Z",
       "notified_at": "2026-05-30T16:28:04.659Z"
