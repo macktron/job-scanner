@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T16:31:14.834Z",
+  "updated_at": "2026-06-07T16:36:00.998Z",
   "jobs": {
     "nordea_96329aec09a934eb64f8c6c7": {
       "id": "nordea_96329aec09a934eb64f8c6c7",
@@ -1127,7 +1127,7 @@
       "title": "Software Engineer - Engineering Productivity / AI",
       "apply_url": "https://career.nordnetab.com/jobs/5809031-software-engineer-engineering-productivity-ai",
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-06-06T16:31:14.834Z",
+      "last_seen_at": "2026-06-07T16:36:00.998Z",
       "last_status": "active",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
@@ -1137,7 +1137,7 @@
       "title": "Software Engineer",
       "apply_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-06-06T16:31:14.834Z",
+      "last_seen_at": "2026-06-07T16:36:00.998Z",
       "last_status": "active",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
@@ -1408,7 +1408,7 @@
       "apply_url": "https://career.nordnetab.com/jobs/7712170-data-engineer",
       "first_seen_at": "2026-05-12T16:51:16.766Z",
       "last_seen_at": "2026-05-31T16:32:40.717Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-05-12T16:51:16.766Z"
     },
     "nordea_e8026b7b580f78e3aefdf219": {
@@ -1557,7 +1557,7 @@
       "title": "ECM & Corporate Access Coordinator, Stockholm",
       "apply_url": "https://abgsc.teamtailor.com/jobs/7697008-ecm-corporate-access-coordinator-stockholm",
       "first_seen_at": "2026-05-22T16:51:37.806Z",
-      "last_seen_at": "2026-06-05T16:54:40.360Z",
+      "last_seen_at": "2026-06-07T16:36:00.998Z",
       "last_status": "active",
       "notified_at": "2026-05-22T16:51:37.806Z"
     },
@@ -1588,7 +1588,7 @@
       "apply_url": "https://careers.nordea.com/job/Stockholm-Data-Scientist-Predictive-AI-111-46/1289310101/?feedId=451033&amp;utm_source=CareerSite",
       "first_seen_at": "2026-05-30T16:28:04.659Z",
       "last_seen_at": "2026-05-31T16:32:40.717Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-05-30T16:28:04.659Z"
     },
     "nordea_25cadc3f035403f0870c46d5": {
@@ -1597,7 +1597,7 @@
       "title": "Data Scientist - Predictive AI",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Data-Scientist-Predictive-AI-111-46/1289310101/",
       "first_seen_at": "2026-05-30T16:28:04.659Z",
-      "last_seen_at": "2026-06-06T16:31:14.834Z",
+      "last_seen_at": "2026-06-07T16:36:00.998Z",
       "last_status": "active",
       "notified_at": "2026-05-30T16:28:04.659Z"
     },
@@ -1608,7 +1608,7 @@
       "apply_url": "https://careers.nordea.com/job/Helsinki-Product-Owner-Experience-Management-and-Integrations-00500/1398651633/?feedId=451033&amp;utm_source=CareerSite",
       "first_seen_at": "2026-05-30T16:28:04.659Z",
       "last_seen_at": "2026-05-31T16:32:40.717Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-05-30T16:28:04.659Z"
     },
     "nordea_3fb97851c19401df4a44206a": {
@@ -1617,7 +1617,7 @@
       "title": "Intern in DCM, FIG",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Intern-in-DCM%2C-FIG-111-46/1397172633/",
       "first_seen_at": "2026-05-30T16:28:04.659Z",
-      "last_seen_at": "2026-06-06T16:31:14.834Z",
+      "last_seen_at": "2026-06-07T16:36:00.998Z",
       "last_status": "active",
       "notified_at": "2026-05-30T16:28:04.659Z"
     },
@@ -1627,7 +1627,7 @@
       "title": "Product Owner Experience Management and Integrations",
       "apply_url": "https://careers.nordea.com/job/Helsinki-Product-Owner-Experience-Management-and-Integrations-00500/1398651633/",
       "first_seen_at": "2026-05-30T16:28:04.659Z",
-      "last_seen_at": "2026-06-06T16:31:14.834Z",
+      "last_seen_at": "2026-06-07T16:36:00.998Z",
       "last_status": "active",
       "notified_at": "2026-05-30T16:28:04.659Z"
     },
@@ -1647,7 +1647,7 @@
       "title": "Backoffice Administrator - Part time (Fonder)",
       "apply_url": "https://career.avanza.se/jobs/7814558-backoffice-administrator-part-time-fonder",
       "first_seen_at": "2026-05-30T16:28:04.659Z",
-      "last_seen_at": "2026-06-06T16:31:14.834Z",
+      "last_seen_at": "2026-06-07T16:36:00.998Z",
       "last_status": "active",
       "notified_at": "2026-05-30T16:28:04.659Z"
     },
@@ -1657,7 +1657,7 @@
       "title": "Part-time Internal Communications Coordinator",
       "apply_url": "https://career.nordnetab.com/jobs/7780053-part-time-internal-communications-coordinator",
       "first_seen_at": "2026-05-30T16:28:04.659Z",
-      "last_seen_at": "2026-06-06T16:31:14.834Z",
+      "last_seen_at": "2026-06-07T16:36:00.998Z",
       "last_status": "active",
       "notified_at": "2026-05-30T16:28:04.659Z"
     },
@@ -1668,7 +1668,7 @@
       "apply_url": "https://jobs.swedbank.com/jobs/26889-client-advisor-generalist",
       "first_seen_at": "2026-05-30T16:28:04.659Z",
       "last_seen_at": "2026-05-31T16:32:40.717Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-05-30T16:28:04.659Z"
     },
     "pareto_securities_058a6aa6b722efbc755d6f59": {
@@ -1678,7 +1678,7 @@
       "apply_url": "https://paretosecurities.teamtailor.com/jobs/7811781-part-time-electronic-trading",
       "first_seen_at": "2026-05-31T16:32:40.717Z",
       "last_seen_at": "2026-05-31T16:32:40.717Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-05-31T16:32:40.717Z"
     },
     "pareto_securities_ccf8d9ea5b2cfb1432059981": {
@@ -1707,7 +1707,7 @@
       "title": "Data Scientist within Client Solutions",
       "apply_url": "https://jobs.swedbank.com/jobs/26967-data-scientist-within-client-solutions",
       "first_seen_at": "2026-06-05T16:54:40.360Z",
-      "last_seen_at": "2026-06-06T16:31:14.834Z",
+      "last_seen_at": "2026-06-07T16:36:00.998Z",
       "last_status": "active",
       "notified_at": "2026-06-05T16:54:40.360Z"
     },
@@ -1717,7 +1717,7 @@
       "title": "Office Assistant",
       "apply_url": "https://career.avanza.se/jobs/7843197-office-assistant",
       "first_seen_at": "2026-06-05T16:54:40.360Z",
-      "last_seen_at": "2026-06-06T16:31:14.834Z",
+      "last_seen_at": "2026-06-07T16:36:00.998Z",
       "last_status": "active",
       "notified_at": "2026-06-05T16:54:40.360Z"
     },
@@ -1727,7 +1727,7 @@
       "title": "Data Platform Engineer",
       "apply_url": "https://career.nordnetab.com/jobs/7861004-data-platform-engineer",
       "first_seen_at": "2026-06-05T16:54:40.360Z",
-      "last_seen_at": "2026-06-06T16:31:14.834Z",
+      "last_seen_at": "2026-06-07T16:36:00.998Z",
       "last_status": "active",
       "notified_at": "2026-06-05T16:54:40.360Z"
     },
@@ -1737,9 +1737,29 @@
       "title": "Client Advisor Holistic Advice (Private) - Lidingö",
       "apply_url": "https://jobs.swedbank.com/jobs/26973-client-advisor-holistic-advice-private-lidingo",
       "first_seen_at": "2026-06-05T16:54:40.360Z",
-      "last_seen_at": "2026-06-06T16:31:14.834Z",
+      "last_seen_at": "2026-06-07T16:36:00.998Z",
       "last_status": "active",
       "notified_at": "2026-06-05T16:54:40.360Z"
+    },
+    "pareto_securities_34195429475571bb3eca4b4c": {
+      "id": "pareto_securities_34195429475571bb3eca4b4c",
+      "company": "Pareto Securities",
+      "title": "Part-Time - Electronic Trading",
+      "apply_url": "https://paretosecurities.teamtailor.com/jobs/7811781-part-time-electronic-trading",
+      "first_seen_at": "2026-06-07T16:36:00.998Z",
+      "last_seen_at": "2026-06-07T16:36:00.998Z",
+      "last_status": "active",
+      "notified_at": "2026-06-07T16:36:00.998Z"
+    },
+    "pareto_securities_33d93e2698b82730fe3d082b": {
+      "id": "pareto_securities_33d93e2698b82730fe3d082b",
+      "company": "Pareto Securities",
+      "title": "Part-time - Equity Research (Internship)",
+      "apply_url": "https://paretosecurities.teamtailor.com/jobs/7775299-part-time-equity-research",
+      "first_seen_at": "2026-06-07T16:36:00.998Z",
+      "last_seen_at": "2026-06-07T16:36:00.998Z",
+      "last_status": "active",
+      "notified_at": "2026-06-07T16:36:00.998Z"
     }
   }
 }
