@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T16:36:00.998Z",
+  "updated_at": "2026-06-13T16:37:24.499Z",
   "jobs": {
     "nordea_96329aec09a934eb64f8c6c7": {
       "id": "nordea_96329aec09a934eb64f8c6c7",
@@ -1127,7 +1127,7 @@
       "title": "Software Engineer - Engineering Productivity / AI",
       "apply_url": "https://career.nordnetab.com/jobs/5809031-software-engineer-engineering-productivity-ai",
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-06-07T16:36:00.998Z",
+      "last_seen_at": "2026-06-13T16:37:24.499Z",
       "last_status": "active",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
@@ -1137,7 +1137,7 @@
       "title": "Software Engineer",
       "apply_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-06-07T16:36:00.998Z",
+      "last_seen_at": "2026-06-13T16:37:24.499Z",
       "last_status": "active",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
@@ -1597,7 +1597,7 @@
       "title": "Data Scientist - Predictive AI",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Data-Scientist-Predictive-AI-111-46/1289310101/",
       "first_seen_at": "2026-05-30T16:28:04.659Z",
-      "last_seen_at": "2026-06-07T16:36:00.998Z",
+      "last_seen_at": "2026-06-13T16:37:24.499Z",
       "last_status": "active",
       "notified_at": "2026-05-30T16:28:04.659Z"
     },
@@ -1627,7 +1627,7 @@
       "title": "Product Owner Experience Management and Integrations",
       "apply_url": "https://careers.nordea.com/job/Helsinki-Product-Owner-Experience-Management-and-Integrations-00500/1398651633/",
       "first_seen_at": "2026-05-30T16:28:04.659Z",
-      "last_seen_at": "2026-06-07T16:36:00.998Z",
+      "last_seen_at": "2026-06-13T16:37:24.499Z",
       "last_status": "active",
       "notified_at": "2026-05-30T16:28:04.659Z"
     },
@@ -1688,7 +1688,7 @@
       "apply_url": "https://paretosecurities.teamtailor.com/jobs/7775299-part-time-equity-research",
       "first_seen_at": "2026-05-31T16:32:40.717Z",
       "last_seen_at": "2026-06-05T16:54:40.360Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-05-31T16:32:40.717Z"
     },
     "pareto_securities_c174d4a74a1017aa03f85845": {
@@ -1698,7 +1698,7 @@
       "apply_url": "https://paretosecurities.teamtailor.com/jobs/7811781-part-time-electronic-trading",
       "first_seen_at": "2026-06-05T16:54:40.360Z",
       "last_seen_at": "2026-06-05T16:54:40.360Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-06-05T16:54:40.360Z"
     },
     "swedbank_4e42b15d5e874edb57af5e67": {
@@ -1717,7 +1717,7 @@
       "title": "Office Assistant",
       "apply_url": "https://career.avanza.se/jobs/7843197-office-assistant",
       "first_seen_at": "2026-06-05T16:54:40.360Z",
-      "last_seen_at": "2026-06-07T16:36:00.998Z",
+      "last_seen_at": "2026-06-13T16:37:24.499Z",
       "last_status": "active",
       "notified_at": "2026-06-05T16:54:40.360Z"
     },
@@ -1727,7 +1727,7 @@
       "title": "Data Platform Engineer",
       "apply_url": "https://career.nordnetab.com/jobs/7861004-data-platform-engineer",
       "first_seen_at": "2026-06-05T16:54:40.360Z",
-      "last_seen_at": "2026-06-07T16:36:00.998Z",
+      "last_seen_at": "2026-06-13T16:37:24.499Z",
       "last_status": "active",
       "notified_at": "2026-06-05T16:54:40.360Z"
     },
@@ -1760,6 +1760,46 @@
       "last_seen_at": "2026-06-07T16:36:00.998Z",
       "last_status": "active",
       "notified_at": "2026-06-07T16:36:00.998Z"
+    },
+    "swedbank_ac54998ef0c5fdb13ce57e29": {
+      "id": "swedbank_ac54998ef0c5fdb13ce57e29",
+      "company": "Swedbank",
+      "title": "Data Scientist – Pricing & Insights at Swedbank",
+      "apply_url": "https://jobs.swedbank.com/jobs/27017-data-scientist-pricing-insights-at-swedbank",
+      "first_seen_at": "2026-06-13T16:37:24.499Z",
+      "last_seen_at": "2026-06-13T16:37:24.499Z",
+      "last_status": "active",
+      "notified_at": "2026-06-13T16:37:24.499Z"
+    },
+    "swedbank_4d200bad97dcc44eaf141060": {
+      "id": "swedbank_4d200bad97dcc44eaf141060",
+      "company": "Swedbank",
+      "title": "Data Scientist - Proactive Communication",
+      "apply_url": "https://jobs.swedbank.com/jobs/27082-data-scientist-proactive-communication",
+      "first_seen_at": "2026-06-13T16:37:24.499Z",
+      "last_seen_at": "2026-06-13T16:37:24.499Z",
+      "last_status": "active",
+      "notified_at": "2026-06-13T16:37:24.499Z"
+    },
+    "avanza_e001d23c54d94fe787f7ed10": {
+      "id": "avanza_e001d23c54d94fe787f7ed10",
+      "company": "Avanza",
+      "title": "Software Engineer – AI & Backend Experience",
+      "apply_url": "https://career.avanza.se/en/jobs/7857787-software-engineer-ai-backend-experience",
+      "first_seen_at": "2026-06-13T16:37:24.499Z",
+      "last_seen_at": "2026-06-13T16:37:24.499Z",
+      "last_status": "active",
+      "notified_at": "2026-06-13T16:37:24.499Z"
+    },
+    "swedbank_1c3c4ca8d4b03d9134393ced": {
+      "id": "swedbank_1c3c4ca8d4b03d9134393ced",
+      "company": "Swedbank",
+      "title": "Kundrådgivare – Sales & Service",
+      "apply_url": "https://jobs.swedbank.com/jobs/27000-kundradgivare-sales-service",
+      "first_seen_at": "2026-06-13T16:37:24.499Z",
+      "last_seen_at": "2026-06-13T16:37:24.499Z",
+      "last_status": "active",
+      "notified_at": "2026-06-13T16:37:24.499Z"
     }
   }
 }
