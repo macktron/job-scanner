@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T16:38:34.159Z",
+  "updated_at": "2026-06-19T16:54:01.240Z",
   "jobs": {
     "nordea_96329aec09a934eb64f8c6c7": {
       "id": "nordea_96329aec09a934eb64f8c6c7",
@@ -1127,7 +1127,7 @@
       "title": "Software Engineer - Engineering Productivity / AI",
       "apply_url": "https://career.nordnetab.com/jobs/5809031-software-engineer-engineering-productivity-ai",
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-06-14T16:38:34.159Z",
+      "last_seen_at": "2026-06-19T16:54:01.240Z",
       "last_status": "active",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
@@ -1137,7 +1137,7 @@
       "title": "Software Engineer",
       "apply_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-06-14T16:38:34.159Z",
+      "last_seen_at": "2026-06-19T16:54:01.240Z",
       "last_status": "active",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
@@ -1618,7 +1618,7 @@
       "apply_url": "https://careers.nordea.com/job/Stockholm-Intern-in-DCM%2C-FIG-111-46/1397172633/",
       "first_seen_at": "2026-05-30T16:28:04.659Z",
       "last_seen_at": "2026-06-07T16:36:00.998Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-05-30T16:28:04.659Z"
     },
     "nordea_164eab7583b815339dcde867": {
@@ -1637,8 +1637,8 @@
       "title": "Part-time - Equity Research",
       "apply_url": "https://paretosecurities.teamtailor.com/jobs/7775299-part-time-equity-research",
       "first_seen_at": "2026-05-30T16:28:04.659Z",
-      "last_seen_at": "2026-05-30T16:28:04.659Z",
-      "last_status": "stale",
+      "last_seen_at": "2026-06-19T16:54:01.240Z",
+      "last_status": "active",
       "notified_at": "2026-05-30T16:28:04.659Z"
     },
     "avanza_10e714962ec8dc9002bce8a1": {
@@ -1648,7 +1648,7 @@
       "apply_url": "https://career.avanza.se/jobs/7814558-backoffice-administrator-part-time-fonder",
       "first_seen_at": "2026-05-30T16:28:04.659Z",
       "last_seen_at": "2026-06-07T16:36:00.998Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-05-30T16:28:04.659Z"
     },
     "nordnet_26374b03f35a23cd643a0c10": {
@@ -1658,7 +1658,7 @@
       "apply_url": "https://career.nordnetab.com/jobs/7780053-part-time-internal-communications-coordinator",
       "first_seen_at": "2026-05-30T16:28:04.659Z",
       "last_seen_at": "2026-06-07T16:36:00.998Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-05-30T16:28:04.659Z"
     },
     "swedbank_32b7f42c4fc115a748e46776": {
@@ -1708,7 +1708,7 @@
       "apply_url": "https://jobs.swedbank.com/jobs/26967-data-scientist-within-client-solutions",
       "first_seen_at": "2026-06-05T16:54:40.360Z",
       "last_seen_at": "2026-06-07T16:36:00.998Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-06-05T16:54:40.360Z"
     },
     "avanza_e4329d9510d35fe46cfaff95": {
@@ -1738,7 +1738,7 @@
       "apply_url": "https://jobs.swedbank.com/jobs/26973-client-advisor-holistic-advice-private-lidingo",
       "first_seen_at": "2026-06-05T16:54:40.360Z",
       "last_seen_at": "2026-06-07T16:36:00.998Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-06-05T16:54:40.360Z"
     },
     "pareto_securities_34195429475571bb3eca4b4c": {
@@ -1747,7 +1747,7 @@
       "title": "Part-Time - Electronic Trading",
       "apply_url": "https://paretosecurities.teamtailor.com/jobs/7811781-part-time-electronic-trading",
       "first_seen_at": "2026-06-07T16:36:00.998Z",
-      "last_seen_at": "2026-06-07T16:36:00.998Z",
+      "last_seen_at": "2026-06-19T16:54:01.240Z",
       "last_status": "active",
       "notified_at": "2026-06-07T16:36:00.998Z"
     },
@@ -1758,7 +1758,7 @@
       "apply_url": "https://paretosecurities.teamtailor.com/jobs/7775299-part-time-equity-research",
       "first_seen_at": "2026-06-07T16:36:00.998Z",
       "last_seen_at": "2026-06-07T16:36:00.998Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-06-07T16:36:00.998Z"
     },
     "swedbank_ac54998ef0c5fdb13ce57e29": {
@@ -1800,6 +1800,46 @@
       "last_seen_at": "2026-06-14T16:38:34.159Z",
       "last_status": "active",
       "notified_at": "2026-06-13T16:37:24.499Z"
+    },
+    "nordea_b8fca6d6263b6e3f8464f1dc": {
+      "id": "nordea_b8fca6d6263b6e3f8464f1dc",
+      "company": "Nordea",
+      "title": "Analyst/Associate in Investment Banking",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-AnalystAssociate-in-Investment-Banking-111-46/1405562933/?feedId=451033&amp;utm_source=CareerSite",
+      "first_seen_at": "2026-06-19T16:54:01.240Z",
+      "last_seen_at": "2026-06-19T16:54:01.240Z",
+      "last_status": "active",
+      "notified_at": "2026-06-19T16:54:01.240Z"
+    },
+    "nordea_fca5cf2954843191b4a77849": {
+      "id": "nordea_fca5cf2954843191b4a77849",
+      "company": "Nordea",
+      "title": "Analyst/Associate in Investment Banking",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-AnalystAssociate-in-Investment-Banking-111-46/1405562933/",
+      "first_seen_at": "2026-06-19T16:54:01.240Z",
+      "last_seen_at": "2026-06-19T16:54:01.240Z",
+      "last_status": "active",
+      "notified_at": "2026-06-19T16:54:01.240Z"
+    },
+    "nordea_363d25231dc08b4149e23044": {
+      "id": "nordea_363d25231dc08b4149e23044",
+      "company": "Nordea",
+      "title": "Private Banker",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-Private-Banker-111-46/1404339233/",
+      "first_seen_at": "2026-06-19T16:54:01.240Z",
+      "last_seen_at": "2026-06-19T16:54:01.240Z",
+      "last_status": "active",
+      "notified_at": "2026-06-19T16:54:01.240Z"
+    },
+    "nordnet_1ae3c51a4d3a3cb4d5655850": {
+      "id": "nordnet_1ae3c51a4d3a3cb4d5655850",
+      "company": "Nordnet",
+      "title": "Data Platform Engineer",
+      "apply_url": "https://career.nordnetab.com/jobs/7861004-data-platform-engineer",
+      "first_seen_at": "2026-06-19T16:54:01.240Z",
+      "last_seen_at": "2026-06-19T16:54:01.240Z",
+      "last_status": "active",
+      "notified_at": "2026-06-19T16:54:01.240Z"
     }
   }
 }
