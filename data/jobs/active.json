@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T16:54:01.240Z",
+  "updated_at": "2026-06-20T16:38:17.072Z",
   "jobs": [
     {
       "title": "Analyst/Associate in Investment Banking",
@@ -35,7 +35,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-06-19T16:54:01.240Z",
       "last_seen_at": "2026-06-19T16:54:01.240Z",
       "notified_at": "2026-06-19T16:54:01.240Z"
@@ -74,7 +74,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-06-19T16:54:01.240Z",
       "last_seen_at": "2026-06-19T16:54:01.240Z",
       "notified_at": "2026-06-19T16:54:01.240Z"
@@ -112,7 +112,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-06-13T16:37:24.499Z",
       "last_seen_at": "2026-06-14T16:38:34.159Z",
       "notified_at": "2026-06-13T16:37:24.499Z"
@@ -150,7 +150,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-06-07T16:36:00.998Z",
       "last_seen_at": "2026-06-19T16:54:01.240Z",
       "notified_at": "2026-06-07T16:36:00.998Z"
@@ -187,7 +187,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-05-30T16:28:04.659Z",
       "last_seen_at": "2026-06-14T16:38:34.159Z",
       "notified_at": "2026-05-30T16:28:04.659Z"
@@ -225,7 +225,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-05-30T16:28:04.659Z",
       "last_seen_at": "2026-06-19T16:54:01.240Z",
       "notified_at": "2026-05-30T16:28:04.659Z"
@@ -262,7 +262,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-06-19T16:54:01.240Z",
       "last_seen_at": "2026-06-19T16:54:01.240Z",
       "notified_at": "2026-06-19T16:54:01.240Z"
@@ -299,7 +299,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-05-30T16:28:04.659Z",
       "last_seen_at": "2026-06-14T16:38:34.159Z",
       "notified_at": "2026-05-30T16:28:04.659Z"
@@ -336,7 +336,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-05-22T16:51:37.806Z",
       "last_seen_at": "2026-06-14T16:38:34.159Z",
       "notified_at": "2026-05-22T16:51:37.806Z"
@@ -372,7 +372,7 @@
       },
       "matches_minimum_score": false,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-06-05T16:54:40.360Z",
       "last_seen_at": "2026-06-14T16:38:34.159Z",
       "notified_at": "2026-06-05T16:54:40.360Z"
@@ -408,7 +408,7 @@
       },
       "matches_minimum_score": false,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-06-13T16:37:24.499Z",
       "last_seen_at": "2026-06-14T16:38:34.159Z",
       "notified_at": "2026-06-13T16:37:24.499Z"
@@ -444,7 +444,7 @@
       },
       "matches_minimum_score": false,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-06-13T16:37:24.499Z",
       "last_seen_at": "2026-06-14T16:38:34.159Z",
       "notified_at": "2026-06-13T16:37:24.499Z"
@@ -470,7 +470,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-06-19T16:54:01.240Z",
+      "discovered_at": "2026-06-20T16:38:17.072Z",
       "id": "nordnet_1ae3c51a4d3a3cb4d5655850",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -482,7 +482,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-06-19T16:54:01.240Z",
-      "last_seen_at": "2026-06-19T16:54:01.240Z",
+      "last_seen_at": "2026-06-20T16:38:17.072Z",
       "notified_at": "2026-06-19T16:54:01.240Z"
     },
     {
@@ -506,7 +506,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-06-19T16:54:01.240Z",
+      "discovered_at": "2026-06-20T16:38:17.072Z",
       "id": "nordnet_52db042967f942a01b6dba66",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -518,7 +518,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-06-19T16:54:01.240Z",
+      "last_seen_at": "2026-06-20T16:38:17.072Z",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
     {
@@ -542,7 +542,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-06-19T16:54:01.240Z",
+      "discovered_at": "2026-06-20T16:38:17.072Z",
       "id": "nordnet_9724cc910af8f5b42d1b5421",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -554,7 +554,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-06-19T16:54:01.240Z",
+      "last_seen_at": "2026-06-20T16:38:17.072Z",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
     {
@@ -588,7 +588,7 @@
       },
       "matches_minimum_score": false,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-06-05T16:54:40.360Z",
       "last_seen_at": "2026-06-14T16:38:34.159Z",
       "notified_at": "2026-06-05T16:54:40.360Z"
@@ -624,7 +624,7 @@
       },
       "matches_minimum_score": false,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-06-13T16:37:24.499Z",
       "last_seen_at": "2026-06-14T16:38:34.159Z",
       "notified_at": "2026-06-13T16:37:24.499Z"
