@@ -1,6 +1,10 @@
 {
-  "updated_at": "2026-06-21T16:39:49.179Z",
-  "jobs": [
+  "timestamp": "2026-06-21T16:39:49.179Z",
+  "dry_run": false,
+  "min_relevance_score": 55,
+  "missing_runs_threshold": 3,
+  "company_count": 12,
+  "discovered_jobs": [
     {
       "title": "Analyst/Associate in Investment Banking",
       "company": "Nordea",
@@ -33,12 +37,7 @@
         "profile_keyword_bonus": 7,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-19T16:54:01.240Z",
-      "last_seen_at": "2026-06-21T16:39:49.179Z",
-      "notified_at": "2026-06-19T16:54:01.240Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Analyst/Associate in Investment Banking",
@@ -72,88 +71,7 @@
         "profile_keyword_bonus": 7,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-19T16:54:01.240Z",
-      "last_seen_at": "2026-06-21T16:39:49.179Z",
-      "notified_at": "2026-06-19T16:54:01.240Z"
-    },
-    {
-      "company": "Pareto Securities",
-      "company_id": "pareto_securities",
-      "title": "Part-Time - Electronic Trading",
-      "apply_url": "https://paretosecurities.teamtailor.com/jobs/7811781-part-time-electronic-trading",
-      "source_url": "https://paretosecurities.teamtailor.com/jobs/7811781-part-time-electronic-trading",
-      "location": "Stockholm (Berzelii Park 9)",
-      "location_type": "onsite",
-      "team": "Sales",
-      "posted_at": null,
-      "expires_at": "2026-06-14",
-      "summary": "Part-time role on Pareto's Electronic Trading desk in Stockholm. Student-friendly, phone-driven sales role working with client acquisition and relationship management; starts around Aug/Sep 2026.",
-      "area_tags": [
-        "sales_trading",
-        "trading",
-        "analytics"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 83,
-      "why_relevant": "Direct trading/sales desk role in Stockholm; junior/student position relevant to sales_trading and trading pipelines.",
-      "confidence": 0.95,
-      "discovery_method": "openai:web_search",
-      "discovered_at": "2026-06-19T16:54:01.240Z",
-      "id": "pareto_securities_34195429475571bb3eca4b4c",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 6,
-        "area_preference_bonus": 40,
-        "profile_keyword_bonus": 10,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-06-07T16:36:00.998Z",
-      "last_seen_at": "2026-06-19T16:54:01.240Z",
-      "notified_at": "2026-06-07T16:36:00.998Z"
-    },
-    {
-      "company": "Pareto Securities",
-      "company_id": "pareto_securities",
-      "title": "Part-time - Equity Research",
-      "apply_url": "https://paretosecurities.teamtailor.com/jobs/7775299-part-time-equity-research",
-      "source_url": "https://paretosecurities.teamtailor.com/jobs/7775299-part-time-equity-research",
-      "location": "Stockholm",
-      "location_type": "onsite",
-      "team": "Research",
-      "posted_at": null,
-      "expires_at": "2026-06-07",
-      "summary": "Part-time (~15–20 hrs/week) equity research role for students in Stockholm. Responsibilities include financial modelling, sector research, producing investor/pitch material and ad-hoc research support.",
-      "area_tags": [
-        "research",
-        "analytics",
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 70,
-      "why_relevant": "Junior research role in Stockholm with modelling and analytical responsibilities — directly relevant to research/analytics/data roles in finance.",
-      "confidence": 0.95,
-      "discovery_method": "openai:web_search",
-      "discovered_at": "2026-06-19T16:54:01.240Z",
-      "id": "pareto_securities_0ef1b49b3d56aa163b77d2fb",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 6,
-        "area_preference_bonus": 30,
-        "profile_keyword_bonus": 7,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-05-30T16:28:04.659Z",
-      "last_seen_at": "2026-06-19T16:54:01.240Z",
-      "notified_at": "2026-05-30T16:28:04.659Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Private Banker",
@@ -185,12 +103,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-19T16:54:01.240Z",
-      "last_seen_at": "2026-06-21T16:39:49.179Z",
-      "notified_at": "2026-06-19T16:54:01.240Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Data Platform Engineer",
@@ -221,12 +134,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-19T16:54:01.240Z",
-      "last_seen_at": "2026-06-21T16:39:49.179Z",
-      "notified_at": "2026-06-19T16:54:01.240Z"
+      "matches_minimum_score": false
     },
     {
       "title": "Software Engineer - Engineering Productivity / AI",
@@ -257,12 +165,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-06-21T16:39:49.179Z",
-      "notified_at": "2026-04-28T16:42:27.094Z"
+      "matches_minimum_score": false
     },
     {
       "title": "Software Engineer",
@@ -293,12 +196,14 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-06-21T16:39:49.179Z",
-      "notified_at": "2026-04-28T16:42:27.094Z"
+      "matches_minimum_score": false
+    }
+  ],
+  "new_jobs": [],
+  "errors": [
+    {
+      "company": "External market scan",
+      "error": "OpenAI response was empty."
     }
   ]
 }
