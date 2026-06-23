@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T16:39:49.179Z",
+  "updated_at": "2026-06-23T16:55:41.149Z",
   "jobs": {
     "nordea_96329aec09a934eb64f8c6c7": {
       "id": "nordea_96329aec09a934eb64f8c6c7",
@@ -1127,7 +1127,7 @@
       "title": "Software Engineer - Engineering Productivity / AI",
       "apply_url": "https://career.nordnetab.com/jobs/5809031-software-engineer-engineering-productivity-ai",
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-06-21T16:39:49.179Z",
+      "last_seen_at": "2026-06-23T16:55:41.149Z",
       "last_status": "active",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
@@ -1137,7 +1137,7 @@
       "title": "Software Engineer",
       "apply_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-06-21T16:39:49.179Z",
+      "last_seen_at": "2026-06-23T16:55:41.149Z",
       "last_status": "active",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
@@ -1638,7 +1638,7 @@
       "apply_url": "https://paretosecurities.teamtailor.com/jobs/7775299-part-time-equity-research",
       "first_seen_at": "2026-05-30T16:28:04.659Z",
       "last_seen_at": "2026-06-19T16:54:01.240Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-05-30T16:28:04.659Z"
     },
     "avanza_10e714962ec8dc9002bce8a1": {
@@ -1748,7 +1748,7 @@
       "apply_url": "https://paretosecurities.teamtailor.com/jobs/7811781-part-time-electronic-trading",
       "first_seen_at": "2026-06-07T16:36:00.998Z",
       "last_seen_at": "2026-06-19T16:54:01.240Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-06-07T16:36:00.998Z"
     },
     "pareto_securities_33d93e2698b82730fe3d082b": {
@@ -1817,7 +1817,7 @@
       "title": "Analyst/Associate in Investment Banking",
       "apply_url": "https://careers.nordea.com/job/Stockholm-AnalystAssociate-in-Investment-Banking-111-46/1405562933/",
       "first_seen_at": "2026-06-19T16:54:01.240Z",
-      "last_seen_at": "2026-06-21T16:39:49.179Z",
+      "last_seen_at": "2026-06-23T16:55:41.149Z",
       "last_status": "active",
       "notified_at": "2026-06-19T16:54:01.240Z"
     },
@@ -1827,7 +1827,7 @@
       "title": "Private Banker",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Private-Banker-111-46/1404339233/",
       "first_seen_at": "2026-06-19T16:54:01.240Z",
-      "last_seen_at": "2026-06-21T16:39:49.179Z",
+      "last_seen_at": "2026-06-23T16:55:41.149Z",
       "last_status": "active",
       "notified_at": "2026-06-19T16:54:01.240Z"
     },
@@ -1837,9 +1837,49 @@
       "title": "Data Platform Engineer",
       "apply_url": "https://career.nordnetab.com/jobs/7861004-data-platform-engineer",
       "first_seen_at": "2026-06-19T16:54:01.240Z",
-      "last_seen_at": "2026-06-21T16:39:49.179Z",
+      "last_seen_at": "2026-06-23T16:55:41.149Z",
       "last_status": "active",
       "notified_at": "2026-06-19T16:54:01.240Z"
+    },
+    "nordea_9ea029f34fe99552166dfe72": {
+      "id": "nordea_9ea029f34fe99552166dfe72",
+      "company": "Nordea",
+      "title": "Business Analyst",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-Business-Analyst-111-46/1407012533/?feedId=451033&amp;utm_source=CareerSite",
+      "first_seen_at": "2026-06-23T16:55:41.149Z",
+      "last_seen_at": "2026-06-23T16:55:41.149Z",
+      "last_status": "active",
+      "notified_at": "2026-06-23T16:55:41.149Z"
+    },
+    "nordea_5dbc49bf87b62c1f2f8d3ef0": {
+      "id": "nordea_5dbc49bf87b62c1f2f8d3ef0",
+      "company": "Nordea",
+      "title": "Business Analyst",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-Business-Analyst-111-46/1407012533/",
+      "first_seen_at": "2026-06-23T16:55:41.149Z",
+      "last_seen_at": "2026-06-23T16:55:41.149Z",
+      "last_status": "active",
+      "notified_at": "2026-06-23T16:55:41.149Z"
+    },
+    "swedbank_0095b098be0618d8d792c054": {
+      "id": "swedbank_0095b098be0618d8d792c054",
+      "company": "Swedbank",
+      "title": "Privatrådgivare Sales & Advisory - Stockholm City",
+      "apply_url": "https://jobs.swedbank.com/jobs/27217-privatradgivare-sales-advisory-stockholm-city",
+      "first_seen_at": "2026-06-23T16:55:41.149Z",
+      "last_seen_at": "2026-06-23T16:55:41.149Z",
+      "last_status": "active",
+      "notified_at": "2026-06-23T16:55:41.149Z"
+    },
+    "swedbank_198514a997d53fda4659a8fa": {
+      "id": "swedbank_198514a997d53fda4659a8fa",
+      "company": "Swedbank",
+      "title": "Client Advisor Holistic Advice (Private)",
+      "apply_url": "https://jobs.swedbank.com/jobs/27140-client-advisor-holistic-advice-private",
+      "first_seen_at": "2026-06-23T16:55:41.149Z",
+      "last_seen_at": "2026-06-23T16:55:41.149Z",
+      "last_status": "active",
+      "notified_at": "2026-06-23T16:55:41.149Z"
     }
   }
 }
