@@ -1,6 +1,10 @@
 {
-  "updated_at": "2026-06-26T16:46:26.441Z",
-  "jobs": [
+  "timestamp": "2026-06-26T16:46:26.441Z",
+  "dry_run": false,
+  "min_relevance_score": 55,
+  "missing_runs_threshold": 3,
+  "company_count": 12,
+  "discovered_jobs": [
     {
       "title": "Analyst/Associate in Investment Banking",
       "company": "Nordea",
@@ -33,12 +37,7 @@
         "profile_keyword_bonus": 7,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-19T16:54:01.240Z",
-      "last_seen_at": "2026-06-26T16:46:26.441Z",
-      "notified_at": "2026-06-19T16:54:01.240Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Business Analyst",
@@ -72,127 +71,7 @@
         "profile_keyword_bonus": 7,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-23T16:55:41.149Z",
-      "last_seen_at": "2026-06-26T16:46:26.441Z",
-      "notified_at": "2026-06-23T16:55:41.149Z"
-    },
-    {
-      "title": "Business Analyst",
-      "company": "Nordea",
-      "company_id": "nordea",
-      "apply_url": "https://careers.nordea.com/job/Stockholm-Business-Analyst-111-46/1407012533/?feedId=451033&amp;utm_source=CareerSite",
-      "source_url": "https://careers.nordea.com/job/Stockholm-Business-Analyst-111-46/1407012533/?feedId=451033&amp;utm_source=CareerSite",
-      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile // View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Business Analyst Stockholm, SE, 111 46 #job-location.job-location-inline { display: inline; }",
-      "location_type": "unknown",
-      "team": "",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Stockholm Business Analyst, 111 46",
-      "area_tags": [
-        "market_risk",
-        "research",
-        "data_science",
-        "analytics"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 99,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:nordea",
-      "discovered_at": "2026-06-24T16:50:42.383Z",
-      "id": "nordea_9ea029f34fe99552166dfe72",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 10,
-        "area_preference_bonus": 45,
-        "profile_keyword_bonus": 7,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-06-23T16:55:41.149Z",
-      "last_seen_at": "2026-06-24T16:50:42.383Z",
-      "notified_at": "2026-06-23T16:55:41.149Z"
-    },
-    {
-      "company": "Nasdaq Stockholm",
-      "company_id": "nasdaq_stockholm",
-      "title": "Student worker in Nasdaq Exchange Services Team",
-      "apply_url": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/Student-worker-in-Exchange-Services_R0026012",
-      "source_url": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/Student-worker-in-Exchange-Services_R0026012",
-      "location": "Stockholm, Sweden (Zenit)",
-      "location_type": "hybrid",
-      "team": "Exchange Services",
-      "posted_at": "2026-06-20",
-      "expires_at": null,
-      "summary": "Part-time student role supporting Exchange Services: analyze system calculated prices, calculate/distribute settlement prices, test products/data quality, and assist with analytics for Nordic Clearing House and equity derivatives broker desk.",
-      "area_tags": [
-        "trading",
-        "analytics",
-        "market_surveillance"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 89,
-      "why_relevant": "Hands-on exposure to trading/derivatives operations, price calculation and settlement — good junior entry into trading/market operations and surveillance.",
-      "confidence": 0.85,
-      "discovery_method": "openai:web_search",
-      "discovered_at": "2026-06-25T16:52:51.929Z",
-      "id": "nasdaq_stockholm_e653993a1578264a19918927",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 7,
-        "area_preference_bonus": 33,
-        "profile_keyword_bonus": 18,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 1,
-      "first_seen_at": "2026-06-25T16:52:51.929Z",
-      "last_seen_at": "2026-06-25T16:52:51.929Z",
-      "notified_at": "2026-06-25T16:52:51.929Z"
-    },
-    {
-      "company": "Nasdaq Stockholm",
-      "company_id": "nasdaq_stockholm",
-      "title": "Student Analyst - Market Statistics",
-      "apply_url": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/Student-Analyst---Market-Statistics_R0026010-1",
-      "source_url": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/Student-Analyst---Market-Statistics_R0026010-1",
-      "location": "Stockholm, Sweden (Zenit)",
-      "location_type": "hybrid",
-      "team": "Economic & Statistical Research (ESR) - Market Statistics",
-      "posted_at": "2026-06-20",
-      "expires_at": null,
-      "summary": "Part-time student role supporting ESR Market Statistics with quantitative analysis, BI/reporting (Power BI, SAP BO), SQL/Python work on large market datasets to produce statistical reporting and dashboards for Nordic markets.",
-      "area_tags": [
-        "research",
-        "analytics",
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 85,
-      "why_relevant": "Direct market-statistics/data-analytics role supporting equities/derivatives/fixed income — good junior entry for quant/data careers in markets.",
-      "confidence": 0.85,
-      "discovery_method": "openai:web_search",
-      "discovered_at": "2026-06-25T16:52:51.929Z",
-      "id": "nasdaq_stockholm_09da0428f48e23f6bf567e90",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 7,
-        "area_preference_bonus": 30,
-        "profile_keyword_bonus": 15,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 1,
-      "first_seen_at": "2026-06-25T16:52:51.929Z",
-      "last_seen_at": "2026-06-25T16:52:51.929Z",
-      "notified_at": "2026-06-25T16:52:51.929Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Private Banker",
@@ -224,13 +103,227 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-19T16:54:01.240Z",
-      "last_seen_at": "2026-06-26T16:46:26.441Z",
-      "notified_at": "2026-06-19T16:54:01.240Z"
+      "matches_minimum_score": true
     },
+    {
+      "title": "Cloud Security Engineer",
+      "company": "Nordnet",
+      "company_id": "nordnet",
+      "apply_url": "https://career.nordnetab.com/jobs/7978516-cloud-security-engineer",
+      "source_url": "https://career.nordnetab.com/jobs/7978516-cloud-security-engineer",
+      "location": "Stockholm",
+      "location_type": "hybrid",
+      "team": "Security",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Nordnet redefined the financial world as the first digital bank in Europe. Now we are about to do it again and the aim is to create the next generation of ba...",
+      "area_tags": [
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 48,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-06-26T16:46:26.441Z",
+      "id": "nordnet_3f17ad21ac4f68438ab19640",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 9,
+        "area_preference_bonus": 12,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    },
+    {
+      "title": "Software Engineer - Engineering Productivity / AI",
+      "company": "Nordnet",
+      "company_id": "nordnet",
+      "apply_url": "https://career.nordnetab.com/jobs/5809031-software-engineer-engineering-productivity-ai",
+      "source_url": "https://career.nordnetab.com/jobs/5809031-software-engineer-engineering-productivity-ai",
+      "location": "Stockholm",
+      "location_type": "hybrid",
+      "team": "Engineering",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Are you ready to redefine the financial industry? Does a serious technical challenge make your heart beat faster? Then Nordnet is the place for you!",
+      "area_tags": [
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 48,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-06-26T16:46:26.441Z",
+      "id": "nordnet_52db042967f942a01b6dba66",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 9,
+        "area_preference_bonus": 12,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Nordnet",
+      "company_id": "nordnet",
+      "apply_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
+      "source_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
+      "location": "Stockholm",
+      "location_type": "hybrid",
+      "team": "Engineering",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Nordnet redefined the financial world as the first digital bank in Europe. Now we are about to do it again and the aim is to create the next generation of ba...",
+      "area_tags": [
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 48,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-06-26T16:46:26.441Z",
+      "id": "nordnet_9724cc910af8f5b42d1b5421",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 9,
+        "area_preference_bonus": 12,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    },
+    {
+      "title": "Mobile App Platform Engineer",
+      "company": "Nordnet",
+      "company_id": "nordnet",
+      "apply_url": "https://career.nordnetab.com/jobs/5923098-mobile-app-platform-engineer",
+      "source_url": "https://career.nordnetab.com/jobs/5923098-mobile-app-platform-engineer",
+      "location": "Stockholm",
+      "location_type": "hybrid",
+      "team": "Engineering",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Nordnet redefined the financial world as the first digital bank in Europe. Now we are about to do it again and the aim is to create the next generation bank,...",
+      "area_tags": [
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 48,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-06-26T16:46:26.441Z",
+      "id": "nordnet_b8fa8c40fc80d96f05aa2272",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 9,
+        "area_preference_bonus": 12,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    },
+    {
+      "title": "Privatrådgivare Stockholm Nord (Upplands Väsby)",
+      "company": "Swedbank",
+      "company_id": "swedbank",
+      "apply_url": "https://jobs.swedbank.com/jobs/27219-privatradgivare-stockholm-nord-upplands-vasby",
+      "source_url": "https://jobs.swedbank.com/jobs/27219-privatradgivare-stockholm-nord-upplands-vasby",
+      "location": "Stockholm Region",
+      "location_type": "unknown",
+      "team": "",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Bli en del av vårt team och hjälp kunder att nå sina finansiella mål . Hos oss på&nbsp;Swedbank har du en möjlighet att:. Göra verklig skillnad för våra ...",
+      "area_tags": [
+        "market_risk"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 46,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-06-26T16:46:26.441Z",
+      "id": "swedbank_fa193904af89a0b756d66127",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 7,
+        "area_preference_bonus": 15,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    },
+    {
+      "title": "Privatrådgivare Stockholm Nord (Sollentuna)",
+      "company": "Swedbank",
+      "company_id": "swedbank",
+      "apply_url": "https://jobs.swedbank.com/jobs/26977-privatradgivare-stockholm-nord-sollentuna",
+      "source_url": "https://jobs.swedbank.com/jobs/26977-privatradgivare-stockholm-nord-sollentuna",
+      "location": "Stockholm Region",
+      "location_type": "unknown",
+      "team": "",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Bli en del av vårt team och hjälp kunder att nå sina finansiella mål. . Hos oss på&nbsp;Swedbank har du en möjlighet att:. Göra verklig skillnad för våra...",
+      "area_tags": [
+        "market_risk"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 46,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-06-26T16:46:26.441Z",
+      "id": "swedbank_a9b2bacce3ebb166a4e34094",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 7,
+        "area_preference_bonus": 15,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    },
+    {
+      "title": "Privatrådgivare Sales & Advisory - Stockholm City",
+      "company": "Swedbank",
+      "company_id": "swedbank",
+      "apply_url": "https://jobs.swedbank.com/jobs/27217-privatradgivare-sales-advisory-stockholm-city",
+      "source_url": "https://jobs.swedbank.com/jobs/27217-privatradgivare-sales-advisory-stockholm-city",
+      "location": "Stockholm Region",
+      "location_type": "unknown",
+      "team": "",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Har du en passion för att hjälpa våra kunder till en bättre finansiell hälsa nationellt, regionalt och lokalt? Är du nyfiken på människor samt brinner för af...",
+      "area_tags": [
+        "market_risk"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 46,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-06-26T16:46:26.441Z",
+      "id": "swedbank_0095b098be0618d8d792c054",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 7,
+        "area_preference_bonus": 15,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    }
+  ],
+  "new_jobs": [
     {
       "title": "Cloud Security Engineer",
       "company": "Nordnet",
@@ -265,295 +358,13 @@
       "missing_runs": 0,
       "first_seen_at": "2026-06-26T16:46:26.441Z",
       "last_seen_at": "2026-06-26T16:46:26.441Z",
-      "notified_at": "2026-06-26T16:46:26.441Z"
-    },
+      "notified_at": null
+    }
+  ],
+  "errors": [
     {
-      "title": "Software Engineer - Engineering Productivity / AI",
-      "company": "Nordnet",
-      "company_id": "nordnet",
-      "apply_url": "https://career.nordnetab.com/jobs/5809031-software-engineer-engineering-productivity-ai",
-      "source_url": "https://career.nordnetab.com/jobs/5809031-software-engineer-engineering-productivity-ai",
-      "location": "Stockholm",
-      "location_type": "hybrid",
-      "team": "Engineering",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Are you ready to redefine the financial industry? Does a serious technical challenge make your heart beat faster? Then Nordnet is the place for you!",
-      "area_tags": [
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 48,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-06-26T16:46:26.441Z",
-      "id": "nordnet_52db042967f942a01b6dba66",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 9,
-        "area_preference_bonus": 12,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-06-26T16:46:26.441Z",
-      "notified_at": "2026-04-28T16:42:27.094Z"
-    },
-    {
-      "title": "Software Engineer",
-      "company": "Nordnet",
-      "company_id": "nordnet",
-      "apply_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
-      "source_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
-      "location": "Stockholm",
-      "location_type": "hybrid",
-      "team": "Engineering",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Nordnet redefined the financial world as the first digital bank in Europe. Now we are about to do it again and the aim is to create the next generation of ba...",
-      "area_tags": [
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 48,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-06-26T16:46:26.441Z",
-      "id": "nordnet_9724cc910af8f5b42d1b5421",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 9,
-        "area_preference_bonus": 12,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-06-26T16:46:26.441Z",
-      "notified_at": "2026-04-28T16:42:27.094Z"
-    },
-    {
-      "title": "Mobile App Platform Engineer",
-      "company": "Nordnet",
-      "company_id": "nordnet",
-      "apply_url": "https://career.nordnetab.com/jobs/5923098-mobile-app-platform-engineer",
-      "source_url": "https://career.nordnetab.com/jobs/5923098-mobile-app-platform-engineer",
-      "location": "Stockholm",
-      "location_type": "hybrid",
-      "team": "Engineering",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Nordnet redefined the financial world as the first digital bank in Europe. Now we are about to do it again and the aim is to create the next generation bank,...",
-      "area_tags": [
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 48,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-06-26T16:46:26.441Z",
-      "id": "nordnet_b8fa8c40fc80d96f05aa2272",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 9,
-        "area_preference_bonus": 12,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-25T16:52:51.929Z",
-      "last_seen_at": "2026-06-26T16:46:26.441Z",
-      "notified_at": "2026-06-25T16:52:51.929Z"
-    },
-    {
-      "title": "Data Platform Engineer",
-      "company": "Nordnet",
-      "company_id": "nordnet",
-      "apply_url": "https://career.nordnetab.com/jobs/7861004-data-platform-engineer",
-      "source_url": "https://career.nordnetab.com/jobs/7861004-data-platform-engineer",
-      "location": "Stockholm",
-      "location_type": "hybrid",
-      "team": "",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Nordnet redefined the financial world as the first digital bank in Europe. Now, we are doing it again, building the next generation of banking in the cloud. ...",
-      "area_tags": [
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 48,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-06-25T16:52:51.929Z",
-      "id": "nordnet_1ae3c51a4d3a3cb4d5655850",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 9,
-        "area_preference_bonus": 12,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 1,
-      "first_seen_at": "2026-06-19T16:54:01.240Z",
-      "last_seen_at": "2026-06-25T16:52:51.929Z",
-      "notified_at": "2026-06-19T16:54:01.240Z"
-    },
-    {
-      "title": "Privatrådgivare Stockholm Nord (Upplands Väsby)",
-      "company": "Swedbank",
-      "company_id": "swedbank",
-      "apply_url": "https://jobs.swedbank.com/jobs/27219-privatradgivare-stockholm-nord-upplands-vasby",
-      "source_url": "https://jobs.swedbank.com/jobs/27219-privatradgivare-stockholm-nord-upplands-vasby",
-      "location": "Stockholm Region",
-      "location_type": "unknown",
-      "team": "",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Bli en del av vårt team och hjälp kunder att nå sina finansiella mål . Hos oss på&nbsp;Swedbank har du en möjlighet att:. Göra verklig skillnad för våra ...",
-      "area_tags": [
-        "market_risk"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 46,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-06-26T16:46:26.441Z",
-      "id": "swedbank_fa193904af89a0b756d66127",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 7,
-        "area_preference_bonus": 15,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-24T16:50:42.383Z",
-      "last_seen_at": "2026-06-26T16:46:26.441Z",
-      "notified_at": "2026-06-24T16:50:42.383Z"
-    },
-    {
-      "title": "Privatrådgivare Stockholm Nord (Sollentuna)",
-      "company": "Swedbank",
-      "company_id": "swedbank",
-      "apply_url": "https://jobs.swedbank.com/jobs/26977-privatradgivare-stockholm-nord-sollentuna",
-      "source_url": "https://jobs.swedbank.com/jobs/26977-privatradgivare-stockholm-nord-sollentuna",
-      "location": "Stockholm Region",
-      "location_type": "unknown",
-      "team": "",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Bli en del av vårt team och hjälp kunder att nå sina finansiella mål. . Hos oss på&nbsp;Swedbank har du en möjlighet att:. Göra verklig skillnad för våra...",
-      "area_tags": [
-        "market_risk"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 46,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-06-26T16:46:26.441Z",
-      "id": "swedbank_a9b2bacce3ebb166a4e34094",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 7,
-        "area_preference_bonus": 15,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-24T16:50:42.383Z",
-      "last_seen_at": "2026-06-26T16:46:26.441Z",
-      "notified_at": "2026-06-24T16:50:42.383Z"
-    },
-    {
-      "title": "Privatrådgivare Sales & Advisory - Stockholm City",
-      "company": "Swedbank",
-      "company_id": "swedbank",
-      "apply_url": "https://jobs.swedbank.com/jobs/27217-privatradgivare-sales-advisory-stockholm-city",
-      "source_url": "https://jobs.swedbank.com/jobs/27217-privatradgivare-sales-advisory-stockholm-city",
-      "location": "Stockholm Region",
-      "location_type": "unknown",
-      "team": "",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Har du en passion för att hjälpa våra kunder till en bättre finansiell hälsa nationellt, regionalt och lokalt? Är du nyfiken på människor samt brinner för af...",
-      "area_tags": [
-        "market_risk"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 46,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-06-26T16:46:26.441Z",
-      "id": "swedbank_0095b098be0618d8d792c054",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 7,
-        "area_preference_bonus": 15,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-23T16:55:41.149Z",
-      "last_seen_at": "2026-06-26T16:46:26.441Z",
-      "notified_at": "2026-06-23T16:55:41.149Z"
-    },
-    {
-      "title": "Client Advisor Holistic Advice (Private)",
-      "company": "Swedbank",
-      "company_id": "swedbank",
-      "apply_url": "https://jobs.swedbank.com/jobs/27140-client-advisor-holistic-advice-private",
-      "source_url": "https://jobs.swedbank.com/jobs/27140-client-advisor-holistic-advice-private",
-      "location": "Stockholm Region",
-      "location_type": "unknown",
-      "team": "",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Swedbank arbetar för att skapa en trygg och hållbar ekonomi för våra kunder. Med hög tillgänglighet, stort engagemang och affärsfokus kan du vara med att for...",
-      "area_tags": [
-        "market_risk"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 46,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-06-25T16:52:51.929Z",
-      "id": "swedbank_198514a997d53fda4659a8fa",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 7,
-        "area_preference_bonus": 15,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 1,
-      "first_seen_at": "2026-06-23T16:55:41.149Z",
-      "last_seen_at": "2026-06-25T16:52:51.929Z",
-      "notified_at": "2026-06-23T16:55:41.149Z"
+      "company": "External market scan",
+      "error": "OpenAI response was empty."
     }
   ]
 }
