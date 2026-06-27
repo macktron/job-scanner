@@ -1,6 +1,10 @@
 {
-  "updated_at": "2026-06-27T16:29:59.760Z",
-  "jobs": [
+  "timestamp": "2026-06-27T16:29:59.760Z",
+  "dry_run": false,
+  "min_relevance_score": 55,
+  "missing_runs_threshold": 3,
+  "company_count": 12,
+  "discovered_jobs": [
     {
       "company": "Pareto Securities",
       "company_id": "pareto_securities",
@@ -34,12 +38,7 @@
         "profile_keyword_bonus": 17,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-09T16:37:44.806Z",
-      "last_seen_at": "2026-06-27T16:29:59.760Z",
-      "notified_at": "2026-04-09T16:37:44.806Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Analyst/Associate in Investment Banking",
@@ -73,12 +72,7 @@
         "profile_keyword_bonus": 7,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-19T16:54:01.240Z",
-      "last_seen_at": "2026-06-27T16:29:59.760Z",
-      "notified_at": "2026-06-19T16:54:01.240Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Business Analyst",
@@ -112,88 +106,7 @@
         "profile_keyword_bonus": 7,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-23T16:55:41.149Z",
-      "last_seen_at": "2026-06-27T16:29:59.760Z",
-      "notified_at": "2026-06-23T16:55:41.149Z"
-    },
-    {
-      "company": "Nasdaq Stockholm",
-      "company_id": "nasdaq_stockholm",
-      "title": "Student worker in Nasdaq Exchange Services Team",
-      "apply_url": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/Student-worker-in-Exchange-Services_R0026012",
-      "source_url": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/Student-worker-in-Exchange-Services_R0026012",
-      "location": "Stockholm, Sweden (Zenit)",
-      "location_type": "hybrid",
-      "team": "Exchange Services",
-      "posted_at": "2026-06-20",
-      "expires_at": null,
-      "summary": "Part-time student role supporting Exchange Services: analyze system calculated prices, calculate/distribute settlement prices, test products/data quality, and assist with analytics for Nordic Clearing House and equity derivatives broker desk.",
-      "area_tags": [
-        "trading",
-        "analytics",
-        "market_surveillance"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 89,
-      "why_relevant": "Hands-on exposure to trading/derivatives operations, price calculation and settlement — good junior entry into trading/market operations and surveillance.",
-      "confidence": 0.85,
-      "discovery_method": "openai:web_search",
-      "discovered_at": "2026-06-25T16:52:51.929Z",
-      "id": "nasdaq_stockholm_e653993a1578264a19918927",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 7,
-        "area_preference_bonus": 33,
-        "profile_keyword_bonus": 18,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-06-25T16:52:51.929Z",
-      "last_seen_at": "2026-06-25T16:52:51.929Z",
-      "notified_at": "2026-06-25T16:52:51.929Z"
-    },
-    {
-      "company": "Nasdaq Stockholm",
-      "company_id": "nasdaq_stockholm",
-      "title": "Student Analyst - Market Statistics",
-      "apply_url": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/Student-Analyst---Market-Statistics_R0026010-1",
-      "source_url": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/Student-Analyst---Market-Statistics_R0026010-1",
-      "location": "Stockholm, Sweden (Zenit)",
-      "location_type": "hybrid",
-      "team": "Economic & Statistical Research (ESR) - Market Statistics",
-      "posted_at": "2026-06-20",
-      "expires_at": null,
-      "summary": "Part-time student role supporting ESR Market Statistics with quantitative analysis, BI/reporting (Power BI, SAP BO), SQL/Python work on large market datasets to produce statistical reporting and dashboards for Nordic markets.",
-      "area_tags": [
-        "research",
-        "analytics",
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 85,
-      "why_relevant": "Direct market-statistics/data-analytics role supporting equities/derivatives/fixed income — good junior entry for quant/data careers in markets.",
-      "confidence": 0.85,
-      "discovery_method": "openai:web_search",
-      "discovered_at": "2026-06-25T16:52:51.929Z",
-      "id": "nasdaq_stockholm_09da0428f48e23f6bf567e90",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 7,
-        "area_preference_bonus": 30,
-        "profile_keyword_bonus": 15,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-06-25T16:52:51.929Z",
-      "last_seen_at": "2026-06-25T16:52:51.929Z",
-      "notified_at": "2026-06-25T16:52:51.929Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Private Banker",
@@ -225,12 +138,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-19T16:54:01.240Z",
-      "last_seen_at": "2026-06-27T16:29:59.760Z",
-      "notified_at": "2026-06-19T16:54:01.240Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Cloud Security Engineer",
@@ -261,12 +169,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-26T16:46:26.441Z",
-      "last_seen_at": "2026-06-27T16:29:59.760Z",
-      "notified_at": "2026-06-26T16:46:26.441Z"
+      "matches_minimum_score": false
     },
     {
       "title": "Software Engineer - Engineering Productivity / AI",
@@ -297,12 +200,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-06-27T16:29:59.760Z",
-      "notified_at": "2026-04-28T16:42:27.094Z"
+      "matches_minimum_score": false
     },
     {
       "title": "Software Engineer",
@@ -333,12 +231,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-06-27T16:29:59.760Z",
-      "notified_at": "2026-04-28T16:42:27.094Z"
+      "matches_minimum_score": false
     },
     {
       "title": "Mobile App Platform Engineer",
@@ -369,48 +262,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-25T16:52:51.929Z",
-      "last_seen_at": "2026-06-27T16:29:59.760Z",
-      "notified_at": "2026-06-25T16:52:51.929Z"
-    },
-    {
-      "title": "Data Platform Engineer",
-      "company": "Nordnet",
-      "company_id": "nordnet",
-      "apply_url": "https://career.nordnetab.com/jobs/7861004-data-platform-engineer",
-      "source_url": "https://career.nordnetab.com/jobs/7861004-data-platform-engineer",
-      "location": "Stockholm",
-      "location_type": "hybrid",
-      "team": "",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Nordnet redefined the financial world as the first digital bank in Europe. Now, we are doing it again, building the next generation of banking in the cloud. ...",
-      "area_tags": [
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 48,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-06-25T16:52:51.929Z",
-      "id": "nordnet_1ae3c51a4d3a3cb4d5655850",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 9,
-        "area_preference_bonus": 12,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-06-19T16:54:01.240Z",
-      "last_seen_at": "2026-06-25T16:52:51.929Z",
-      "notified_at": "2026-06-19T16:54:01.240Z"
+      "matches_minimum_score": false
     },
     {
       "title": "Privatrådgivare Stockholm Nord (Upplands Väsby)",
@@ -441,12 +293,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-24T16:50:42.383Z",
-      "last_seen_at": "2026-06-27T16:29:59.760Z",
-      "notified_at": "2026-06-24T16:50:42.383Z"
+      "matches_minimum_score": false
     },
     {
       "title": "Privatrådgivare Stockholm Nord (Sollentuna)",
@@ -477,12 +324,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-24T16:50:42.383Z",
-      "last_seen_at": "2026-06-27T16:29:59.760Z",
-      "notified_at": "2026-06-24T16:50:42.383Z"
+      "matches_minimum_score": false
     },
     {
       "title": "Privatrådgivare Sales & Advisory - Stockholm City",
@@ -513,48 +355,14 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-23T16:55:41.149Z",
-      "last_seen_at": "2026-06-27T16:29:59.760Z",
-      "notified_at": "2026-06-23T16:55:41.149Z"
-    },
+      "matches_minimum_score": false
+    }
+  ],
+  "new_jobs": [],
+  "errors": [
     {
-      "title": "Client Advisor Holistic Advice (Private)",
-      "company": "Swedbank",
-      "company_id": "swedbank",
-      "apply_url": "https://jobs.swedbank.com/jobs/27140-client-advisor-holistic-advice-private",
-      "source_url": "https://jobs.swedbank.com/jobs/27140-client-advisor-holistic-advice-private",
-      "location": "Stockholm Region",
-      "location_type": "unknown",
-      "team": "",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Swedbank arbetar för att skapa en trygg och hållbar ekonomi för våra kunder. Med hög tillgänglighet, stort engagemang och affärsfokus kan du vara med att for...",
-      "area_tags": [
-        "market_risk"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 46,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-06-25T16:52:51.929Z",
-      "id": "swedbank_198514a997d53fda4659a8fa",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 7,
-        "area_preference_bonus": 15,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-06-23T16:55:41.149Z",
-      "last_seen_at": "2026-06-25T16:52:51.929Z",
-      "notified_at": "2026-06-23T16:55:41.149Z"
+      "company": "External market scan",
+      "error": "OpenAI response was empty."
     }
   ]
 }

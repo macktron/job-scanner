@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T16:46:26.441Z",
+  "updated_at": "2026-06-27T16:29:59.760Z",
   "jobs": {
     "nordea_96329aec09a934eb64f8c6c7": {
       "id": "nordea_96329aec09a934eb64f8c6c7",
@@ -437,8 +437,8 @@
       "title": "Open Application – Sweden",
       "apply_url": "https://paretosecurities.teamtailor.com/jobs/3713025-open-application-sweden",
       "first_seen_at": "2026-04-09T16:37:44.806Z",
-      "last_seen_at": "2026-04-09T16:37:44.806Z",
-      "last_status": "stale",
+      "last_seen_at": "2026-06-27T16:29:59.760Z",
+      "last_status": "active",
       "notified_at": "2026-04-09T16:37:44.806Z"
     },
     "dnb_carnegie_d81cedea791a6abe5aa180cb": {
@@ -1127,7 +1127,7 @@
       "title": "Software Engineer - Engineering Productivity / AI",
       "apply_url": "https://career.nordnetab.com/jobs/5809031-software-engineer-engineering-productivity-ai",
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-06-26T16:46:26.441Z",
+      "last_seen_at": "2026-06-27T16:29:59.760Z",
       "last_status": "active",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
@@ -1137,7 +1137,7 @@
       "title": "Software Engineer",
       "apply_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-06-26T16:46:26.441Z",
+      "last_seen_at": "2026-06-27T16:29:59.760Z",
       "last_status": "active",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
@@ -1817,7 +1817,7 @@
       "title": "Analyst/Associate in Investment Banking",
       "apply_url": "https://careers.nordea.com/job/Stockholm-AnalystAssociate-in-Investment-Banking-111-46/1405562933/",
       "first_seen_at": "2026-06-19T16:54:01.240Z",
-      "last_seen_at": "2026-06-26T16:46:26.441Z",
+      "last_seen_at": "2026-06-27T16:29:59.760Z",
       "last_status": "active",
       "notified_at": "2026-06-19T16:54:01.240Z"
     },
@@ -1827,7 +1827,7 @@
       "title": "Private Banker",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Private-Banker-111-46/1404339233/",
       "first_seen_at": "2026-06-19T16:54:01.240Z",
-      "last_seen_at": "2026-06-26T16:46:26.441Z",
+      "last_seen_at": "2026-06-27T16:29:59.760Z",
       "last_status": "active",
       "notified_at": "2026-06-19T16:54:01.240Z"
     },
@@ -1848,7 +1848,7 @@
       "apply_url": "https://careers.nordea.com/job/Stockholm-Business-Analyst-111-46/1407012533/?feedId=451033&amp;utm_source=CareerSite",
       "first_seen_at": "2026-06-23T16:55:41.149Z",
       "last_seen_at": "2026-06-24T16:50:42.383Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-06-23T16:55:41.149Z"
     },
     "nordea_5dbc49bf87b62c1f2f8d3ef0": {
@@ -1857,7 +1857,7 @@
       "title": "Business Analyst",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Business-Analyst-111-46/1407012533/",
       "first_seen_at": "2026-06-23T16:55:41.149Z",
-      "last_seen_at": "2026-06-26T16:46:26.441Z",
+      "last_seen_at": "2026-06-27T16:29:59.760Z",
       "last_status": "active",
       "notified_at": "2026-06-23T16:55:41.149Z"
     },
@@ -1867,7 +1867,7 @@
       "title": "Privatrådgivare Sales & Advisory - Stockholm City",
       "apply_url": "https://jobs.swedbank.com/jobs/27217-privatradgivare-sales-advisory-stockholm-city",
       "first_seen_at": "2026-06-23T16:55:41.149Z",
-      "last_seen_at": "2026-06-26T16:46:26.441Z",
+      "last_seen_at": "2026-06-27T16:29:59.760Z",
       "last_status": "active",
       "notified_at": "2026-06-23T16:55:41.149Z"
     },
@@ -1887,7 +1887,7 @@
       "title": "Privatrådgivare Stockholm Nord (Upplands Väsby)",
       "apply_url": "https://jobs.swedbank.com/jobs/27219-privatradgivare-stockholm-nord-upplands-vasby",
       "first_seen_at": "2026-06-24T16:50:42.383Z",
-      "last_seen_at": "2026-06-26T16:46:26.441Z",
+      "last_seen_at": "2026-06-27T16:29:59.760Z",
       "last_status": "active",
       "notified_at": "2026-06-24T16:50:42.383Z"
     },
@@ -1897,7 +1897,7 @@
       "title": "Privatrådgivare Stockholm Nord (Sollentuna)",
       "apply_url": "https://jobs.swedbank.com/jobs/26977-privatradgivare-stockholm-nord-sollentuna",
       "first_seen_at": "2026-06-24T16:50:42.383Z",
-      "last_seen_at": "2026-06-26T16:46:26.441Z",
+      "last_seen_at": "2026-06-27T16:29:59.760Z",
       "last_status": "active",
       "notified_at": "2026-06-24T16:50:42.383Z"
     },
@@ -1927,7 +1927,7 @@
       "title": "Mobile App Platform Engineer",
       "apply_url": "https://career.nordnetab.com/jobs/5923098-mobile-app-platform-engineer",
       "first_seen_at": "2026-06-25T16:52:51.929Z",
-      "last_seen_at": "2026-06-26T16:46:26.441Z",
+      "last_seen_at": "2026-06-27T16:29:59.760Z",
       "last_status": "active",
       "notified_at": "2026-06-25T16:52:51.929Z"
     },
@@ -1937,7 +1937,7 @@
       "title": "Cloud Security Engineer",
       "apply_url": "https://career.nordnetab.com/jobs/7978516-cloud-security-engineer",
       "first_seen_at": "2026-06-26T16:46:26.441Z",
-      "last_seen_at": "2026-06-26T16:46:26.441Z",
+      "last_seen_at": "2026-06-27T16:29:59.760Z",
       "last_status": "active",
       "notified_at": "2026-06-26T16:46:26.441Z"
     }
