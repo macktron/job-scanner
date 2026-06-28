@@ -1,46 +1,10 @@
 {
-  "updated_at": "2026-06-28T16:32:16.384Z",
-  "jobs": [
-    {
-      "company": "Pareto Securities",
-      "company_id": "pareto_securities",
-      "title": "Open Application – Sweden",
-      "apply_url": "https://paretosecurities.teamtailor.com/jobs/3713025-open-application-sweden",
-      "source_url": "https://paretosecurities.teamtailor.com/jobs/3713025-open-application-sweden",
-      "location": "Stockholm, Sweden",
-      "location_type": "onsite",
-      "team": "Open application / Investment Banking (Sweden)",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Company-level open application for Sweden (Stockholm). Targets students and early-career candidates with analytical skills and interest in finance; useful route to internships or junior roles across research, sales/trading and investment banking.",
-      "area_tags": [
-        "research",
-        "sales_trading",
-        "trading",
-        "analytics",
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 100,
-      "why_relevant": "Official Sweden/Stockholm open application on Pareto's ATS—junior-friendly route into research, trading or analytics teams.",
-      "confidence": 0.6,
-      "discovery_method": "openai:web_search",
-      "discovered_at": "2026-06-27T16:29:59.760Z",
-      "id": "pareto_securities_28cc4014fa5f757cafd25085",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 6,
-        "area_preference_bonus": 62,
-        "profile_keyword_bonus": 17,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 1,
-      "first_seen_at": "2026-04-09T16:37:44.806Z",
-      "last_seen_at": "2026-06-27T16:29:59.760Z",
-      "notified_at": "2026-04-09T16:37:44.806Z"
-    },
+  "timestamp": "2026-06-28T16:32:16.384Z",
+  "dry_run": false,
+  "min_relevance_score": 55,
+  "missing_runs_threshold": 3,
+  "company_count": 12,
+  "discovered_jobs": [
     {
       "title": "Analyst/Associate in Investment Banking",
       "company": "Nordea",
@@ -73,12 +37,7 @@
         "profile_keyword_bonus": 7,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-19T16:54:01.240Z",
-      "last_seen_at": "2026-06-28T16:32:16.384Z",
-      "notified_at": "2026-06-19T16:54:01.240Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Business Analyst",
@@ -112,12 +71,7 @@
         "profile_keyword_bonus": 7,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-23T16:55:41.149Z",
-      "last_seen_at": "2026-06-28T16:32:16.384Z",
-      "notified_at": "2026-06-23T16:55:41.149Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Private Banker",
@@ -149,12 +103,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-19T16:54:01.240Z",
-      "last_seen_at": "2026-06-28T16:32:16.384Z",
-      "notified_at": "2026-06-19T16:54:01.240Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Cloud Security Engineer",
@@ -185,12 +134,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-26T16:46:26.441Z",
-      "last_seen_at": "2026-06-28T16:32:16.384Z",
-      "notified_at": "2026-06-26T16:46:26.441Z"
+      "matches_minimum_score": false
     },
     {
       "title": "Software Engineer - Engineering Productivity / AI",
@@ -221,12 +165,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-06-28T16:32:16.384Z",
-      "notified_at": "2026-04-28T16:42:27.094Z"
+      "matches_minimum_score": false
     },
     {
       "title": "Software Engineer",
@@ -257,12 +196,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-06-28T16:32:16.384Z",
-      "notified_at": "2026-04-28T16:42:27.094Z"
+      "matches_minimum_score": false
     },
     {
       "title": "Mobile App Platform Engineer",
@@ -293,12 +227,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-25T16:52:51.929Z",
-      "last_seen_at": "2026-06-28T16:32:16.384Z",
-      "notified_at": "2026-06-25T16:52:51.929Z"
+      "matches_minimum_score": false
     },
     {
       "title": "Privatrådgivare Stockholm Nord (Upplands Väsby)",
@@ -329,12 +258,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-24T16:50:42.383Z",
-      "last_seen_at": "2026-06-28T16:32:16.384Z",
-      "notified_at": "2026-06-24T16:50:42.383Z"
+      "matches_minimum_score": false
     },
     {
       "title": "Privatrådgivare Stockholm Nord (Sollentuna)",
@@ -365,12 +289,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-24T16:50:42.383Z",
-      "last_seen_at": "2026-06-28T16:32:16.384Z",
-      "notified_at": "2026-06-24T16:50:42.383Z"
+      "matches_minimum_score": false
     },
     {
       "title": "Privatrådgivare Sales & Advisory - Stockholm City",
@@ -401,12 +320,14 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-23T16:55:41.149Z",
-      "last_seen_at": "2026-06-28T16:32:16.384Z",
-      "notified_at": "2026-06-23T16:55:41.149Z"
+      "matches_minimum_score": false
+    }
+  ],
+  "new_jobs": [],
+  "errors": [
+    {
+      "company": "External market scan",
+      "error": "OpenAI response was empty."
     }
   ]
 }
