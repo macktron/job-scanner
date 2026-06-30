@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T16:32:16.384Z",
+  "updated_at": "2026-06-30T16:48:18.749Z",
   "jobs": {
     "nordea_96329aec09a934eb64f8c6c7": {
       "id": "nordea_96329aec09a934eb64f8c6c7",
@@ -607,8 +607,8 @@
       "title": "Open Application Sweden",
       "apply_url": "https://paretosecurities.teamtailor.com/jobs/3713025-open-application-sweden",
       "first_seen_at": "2026-04-13T16:34:12.614Z",
-      "last_seen_at": "2026-04-13T16:34:12.614Z",
-      "last_status": "stale",
+      "last_seen_at": "2026-06-30T16:48:18.749Z",
+      "last_status": "active",
       "notified_at": "2026-04-13T16:34:12.614Z"
     },
     "swedbank_a12dffc28e9d28ca2395d1f2": {
@@ -1127,7 +1127,7 @@
       "title": "Software Engineer - Engineering Productivity / AI",
       "apply_url": "https://career.nordnetab.com/jobs/5809031-software-engineer-engineering-productivity-ai",
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-06-28T16:32:16.384Z",
+      "last_seen_at": "2026-06-30T16:48:18.749Z",
       "last_status": "active",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
@@ -1137,7 +1137,7 @@
       "title": "Software Engineer",
       "apply_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-06-28T16:32:16.384Z",
+      "last_seen_at": "2026-06-30T16:48:18.749Z",
       "last_status": "active",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
@@ -1817,7 +1817,7 @@
       "title": "Analyst/Associate in Investment Banking",
       "apply_url": "https://careers.nordea.com/job/Stockholm-AnalystAssociate-in-Investment-Banking-111-46/1405562933/",
       "first_seen_at": "2026-06-19T16:54:01.240Z",
-      "last_seen_at": "2026-06-28T16:32:16.384Z",
+      "last_seen_at": "2026-06-30T16:48:18.749Z",
       "last_status": "active",
       "notified_at": "2026-06-19T16:54:01.240Z"
     },
@@ -1827,7 +1827,7 @@
       "title": "Private Banker",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Private-Banker-111-46/1404339233/",
       "first_seen_at": "2026-06-19T16:54:01.240Z",
-      "last_seen_at": "2026-06-28T16:32:16.384Z",
+      "last_seen_at": "2026-06-30T16:48:18.749Z",
       "last_status": "active",
       "notified_at": "2026-06-19T16:54:01.240Z"
     },
@@ -1857,7 +1857,7 @@
       "title": "Business Analyst",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Business-Analyst-111-46/1407012533/",
       "first_seen_at": "2026-06-23T16:55:41.149Z",
-      "last_seen_at": "2026-06-28T16:32:16.384Z",
+      "last_seen_at": "2026-06-30T16:48:18.749Z",
       "last_status": "active",
       "notified_at": "2026-06-23T16:55:41.149Z"
     },
@@ -1927,7 +1927,7 @@
       "title": "Mobile App Platform Engineer",
       "apply_url": "https://career.nordnetab.com/jobs/5923098-mobile-app-platform-engineer",
       "first_seen_at": "2026-06-25T16:52:51.929Z",
-      "last_seen_at": "2026-06-28T16:32:16.384Z",
+      "last_seen_at": "2026-06-30T16:48:18.749Z",
       "last_status": "active",
       "notified_at": "2026-06-25T16:52:51.929Z"
     },
@@ -1937,9 +1937,59 @@
       "title": "Cloud Security Engineer",
       "apply_url": "https://career.nordnetab.com/jobs/7978516-cloud-security-engineer",
       "first_seen_at": "2026-06-26T16:46:26.441Z",
-      "last_seen_at": "2026-06-28T16:32:16.384Z",
+      "last_seen_at": "2026-06-30T16:48:18.749Z",
       "last_status": "active",
       "notified_at": "2026-06-26T16:46:26.441Z"
+    },
+    "nordea_41fedbfeae06974cc2433254": {
+      "id": "nordea_41fedbfeae06974cc2433254",
+      "company": "Nordea",
+      "title": "Student Analyst, Group Treasury Nordea",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-Student-Analyst%2C-Group-Treasury-Nordea-111-46/1409330233/",
+      "first_seen_at": "2026-06-30T16:48:18.749Z",
+      "last_seen_at": "2026-06-30T16:48:18.749Z",
+      "last_status": "active",
+      "notified_at": "2026-06-30T16:48:18.749Z"
+    },
+    "nordea_70e8876d2706d52f498bd8fa": {
+      "id": "nordea_70e8876d2706d52f498bd8fa",
+      "company": "Nordea",
+      "title": "IT Support Technician",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-IT-Support-Technician-111-46/1409232733/",
+      "first_seen_at": "2026-06-30T16:48:18.749Z",
+      "last_seen_at": "2026-06-30T16:48:18.749Z",
+      "last_status": "active",
+      "notified_at": "2026-06-30T16:48:18.749Z"
+    },
+    "avanza_0471be90515bb440dd160d1d": {
+      "id": "avanza_0471be90515bb440dd160d1d",
+      "company": "Avanza",
+      "title": "Regelefterlevnadsansvarig - Avanza Fonder",
+      "apply_url": "https://career.avanza.se/jobs/7881005-regelefterlevnadsansvarig-avanza-fonder",
+      "first_seen_at": "2026-06-30T16:48:18.749Z",
+      "last_seen_at": "2026-06-30T16:48:18.749Z",
+      "last_status": "active",
+      "notified_at": "2026-06-30T16:48:18.749Z"
+    },
+    "swedbank_71a21a28c7c6f68b8ec289ad": {
+      "id": "swedbank_71a21a28c7c6f68b8ec289ad",
+      "company": "Swedbank",
+      "title": "Motion Designer",
+      "apply_url": "https://jobs.swedbank.com/jobs/27265-motion-designer",
+      "first_seen_at": "2026-06-30T16:48:18.749Z",
+      "last_seen_at": "2026-06-30T16:48:18.749Z",
+      "last_status": "active",
+      "notified_at": "2026-06-30T16:48:18.749Z"
+    },
+    "swedbank_e5bcb42fbcfa48e31d0bc7f7": {
+      "id": "swedbank_e5bcb42fbcfa48e31d0bc7f7",
+      "company": "Swedbank",
+      "title": "Content Creator till Swedbank Content Studio",
+      "apply_url": "https://jobs.swedbank.com/jobs/27249-content-creator-till-swedbank-content-studio",
+      "first_seen_at": "2026-06-30T16:48:18.749Z",
+      "last_seen_at": "2026-06-30T16:48:18.749Z",
+      "last_status": "active",
+      "notified_at": "2026-06-30T16:48:18.749Z"
     }
   }
 }
