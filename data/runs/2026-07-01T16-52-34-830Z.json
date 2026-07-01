@@ -1,6 +1,10 @@
 {
-  "updated_at": "2026-07-01T16:52:34.830Z",
-  "jobs": [
+  "timestamp": "2026-07-01T16:52:34.830Z",
+  "dry_run": false,
+  "min_relevance_score": 55,
+  "missing_runs_threshold": 3,
+  "company_count": 12,
+  "discovered_jobs": [
     {
       "title": "Student Analyst, Group Treasury Nordea",
       "company": "Nordea",
@@ -34,12 +38,7 @@
         "profile_keyword_bonus": 16,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-30T16:48:18.749Z",
-      "last_seen_at": "2026-07-01T16:52:34.830Z",
-      "notified_at": "2026-06-30T16:48:18.749Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Business Analyst",
@@ -73,12 +72,7 @@
         "profile_keyword_bonus": 7,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-23T16:55:41.149Z",
-      "last_seen_at": "2026-07-01T16:52:34.830Z",
-      "notified_at": "2026-06-23T16:55:41.149Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Analyst/Associate in Investment Banking",
@@ -112,50 +106,7 @@
         "profile_keyword_bonus": 7,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-19T16:54:01.240Z",
-      "last_seen_at": "2026-07-01T16:52:34.830Z",
-      "notified_at": "2026-06-19T16:54:01.240Z"
-    },
-    {
-      "company": "Pareto Securities",
-      "company_id": "pareto_securities",
-      "title": "Open Application Sweden",
-      "apply_url": "https://paretosecurities.teamtailor.com/jobs/3713025-open-application-sweden",
-      "source_url": "https://paretosecurities.teamtailor.com/jobs/3713025-open-application-sweden",
-      "location": "Stockholm",
-      "location_type": "onsite",
-      "team": "Investment Banking",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Open application for Stockholm office seeking junior candidates with analytical and commercial mindset, good academic results, high ethical standards, and fluency in Swedish and English. Suited for those interested in capital markets roles (research, sales, trading) and early-career positions.",
-      "area_tags": [
-        "research",
-        "sales_trading",
-        "analytics"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 85,
-      "why_relevant": "Explicit Stockholm open application targeting junior candidates for capital-markets roles (research/sales/trading), matching the requested areas.",
-      "confidence": 0.82,
-      "discovery_method": "openai:web_search",
-      "discovered_at": "2026-06-30T16:48:18.749Z",
-      "id": "pareto_securities_ba48131c450cee9422282ece",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 6,
-        "area_preference_bonus": 33,
-        "profile_keyword_bonus": 17,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 1,
-      "first_seen_at": "2026-04-13T16:34:12.614Z",
-      "last_seen_at": "2026-06-30T16:48:18.749Z",
-      "notified_at": "2026-04-13T16:34:12.614Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Private Banker",
@@ -187,12 +138,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-19T16:54:01.240Z",
-      "last_seen_at": "2026-07-01T16:52:34.830Z",
-      "notified_at": "2026-06-19T16:54:01.240Z"
+      "matches_minimum_score": true
     },
     {
       "title": "IT Support Technician",
@@ -224,12 +170,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-30T16:48:18.749Z",
-      "last_seen_at": "2026-07-01T16:52:34.830Z",
-      "notified_at": "2026-06-30T16:48:18.749Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Regelefterlevnadsansvarig - Avanza Fonder",
@@ -260,12 +201,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-30T16:48:18.749Z",
-      "last_seen_at": "2026-07-01T16:52:34.830Z",
-      "notified_at": "2026-06-30T16:48:18.749Z"
+      "matches_minimum_score": false
     },
     {
       "title": "Cloud Security Engineer",
@@ -296,12 +232,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-26T16:46:26.441Z",
-      "last_seen_at": "2026-07-01T16:52:34.830Z",
-      "notified_at": "2026-06-26T16:46:26.441Z"
+      "matches_minimum_score": false
     },
     {
       "title": "Software Engineer - Engineering Productivity / AI",
@@ -332,12 +263,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-07-01T16:52:34.830Z",
-      "notified_at": "2026-04-28T16:42:27.094Z"
+      "matches_minimum_score": false
     },
     {
       "title": "Software Engineer",
@@ -368,12 +294,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-07-01T16:52:34.830Z",
-      "notified_at": "2026-04-28T16:42:27.094Z"
+      "matches_minimum_score": false
     },
     {
       "title": "Mobile App Platform Engineer",
@@ -404,12 +325,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-25T16:52:51.929Z",
-      "last_seen_at": "2026-07-01T16:52:34.830Z",
-      "notified_at": "2026-06-25T16:52:51.929Z"
+      "matches_minimum_score": false
     },
     {
       "title": "Motion Designer",
@@ -440,12 +356,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-30T16:48:18.749Z",
-      "last_seen_at": "2026-07-01T16:52:34.830Z",
-      "notified_at": "2026-06-30T16:48:18.749Z"
+      "matches_minimum_score": false
     },
     {
       "title": "Content Creator till Swedbank Content Studio",
@@ -476,120 +387,14 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-30T16:48:18.749Z",
-      "last_seen_at": "2026-07-01T16:52:34.830Z",
-      "notified_at": "2026-06-30T16:48:18.749Z"
-    },
+      "matches_minimum_score": false
+    }
+  ],
+  "new_jobs": [],
+  "errors": [
     {
-      "title": "Privatrådgivare Stockholm Nord (Upplands Väsby)",
-      "company": "Swedbank",
-      "company_id": "swedbank",
-      "apply_url": "https://jobs.swedbank.com/jobs/27219-privatradgivare-stockholm-nord-upplands-vasby",
-      "source_url": "https://jobs.swedbank.com/jobs/27219-privatradgivare-stockholm-nord-upplands-vasby",
-      "location": "Stockholm Region",
-      "location_type": "unknown",
-      "team": "",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Bli en del av vårt team och hjälp kunder att nå sina finansiella mål . Hos oss på&nbsp;Swedbank har du en möjlighet att:. Göra verklig skillnad för våra ...",
-      "area_tags": [
-        "market_risk"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 46,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-06-28T16:32:16.384Z",
-      "id": "swedbank_fa193904af89a0b756d66127",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 7,
-        "area_preference_bonus": 15,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-06-24T16:50:42.383Z",
-      "last_seen_at": "2026-06-28T16:32:16.384Z",
-      "notified_at": "2026-06-24T16:50:42.383Z"
-    },
-    {
-      "title": "Privatrådgivare Stockholm Nord (Sollentuna)",
-      "company": "Swedbank",
-      "company_id": "swedbank",
-      "apply_url": "https://jobs.swedbank.com/jobs/26977-privatradgivare-stockholm-nord-sollentuna",
-      "source_url": "https://jobs.swedbank.com/jobs/26977-privatradgivare-stockholm-nord-sollentuna",
-      "location": "Stockholm Region",
-      "location_type": "unknown",
-      "team": "",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Bli en del av vårt team och hjälp kunder att nå sina finansiella mål. . Hos oss på&nbsp;Swedbank har du en möjlighet att:. Göra verklig skillnad för våra...",
-      "area_tags": [
-        "market_risk"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 46,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-06-28T16:32:16.384Z",
-      "id": "swedbank_a9b2bacce3ebb166a4e34094",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 7,
-        "area_preference_bonus": 15,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-06-24T16:50:42.383Z",
-      "last_seen_at": "2026-06-28T16:32:16.384Z",
-      "notified_at": "2026-06-24T16:50:42.383Z"
-    },
-    {
-      "title": "Privatrådgivare Sales & Advisory - Stockholm City",
-      "company": "Swedbank",
-      "company_id": "swedbank",
-      "apply_url": "https://jobs.swedbank.com/jobs/27217-privatradgivare-sales-advisory-stockholm-city",
-      "source_url": "https://jobs.swedbank.com/jobs/27217-privatradgivare-sales-advisory-stockholm-city",
-      "location": "Stockholm Region",
-      "location_type": "unknown",
-      "team": "",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Har du en passion för att hjälpa våra kunder till en bättre finansiell hälsa nationellt, regionalt och lokalt? Är du nyfiken på människor samt brinner för af...",
-      "area_tags": [
-        "market_risk"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 46,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-06-28T16:32:16.384Z",
-      "id": "swedbank_0095b098be0618d8d792c054",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 7,
-        "area_preference_bonus": 15,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-06-23T16:55:41.149Z",
-      "last_seen_at": "2026-06-28T16:32:16.384Z",
-      "notified_at": "2026-06-23T16:55:41.149Z"
+      "company": "External market scan",
+      "error": "OpenAI response was empty."
     }
   ]
 }
