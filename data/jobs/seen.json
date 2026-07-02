@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T16:52:34.830Z",
+  "updated_at": "2026-07-02T16:40:17.603Z",
   "jobs": {
     "nordea_96329aec09a934eb64f8c6c7": {
       "id": "nordea_96329aec09a934eb64f8c6c7",
@@ -1127,7 +1127,7 @@
       "title": "Software Engineer - Engineering Productivity / AI",
       "apply_url": "https://career.nordnetab.com/jobs/5809031-software-engineer-engineering-productivity-ai",
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-07-01T16:52:34.830Z",
+      "last_seen_at": "2026-07-02T16:40:17.603Z",
       "last_status": "active",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
@@ -1137,7 +1137,7 @@
       "title": "Software Engineer",
       "apply_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-07-01T16:52:34.830Z",
+      "last_seen_at": "2026-07-02T16:40:17.603Z",
       "last_status": "active",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
@@ -1817,7 +1817,7 @@
       "title": "Analyst/Associate in Investment Banking",
       "apply_url": "https://careers.nordea.com/job/Stockholm-AnalystAssociate-in-Investment-Banking-111-46/1405562933/",
       "first_seen_at": "2026-06-19T16:54:01.240Z",
-      "last_seen_at": "2026-07-01T16:52:34.830Z",
+      "last_seen_at": "2026-07-02T16:40:17.603Z",
       "last_status": "active",
       "notified_at": "2026-06-19T16:54:01.240Z"
     },
@@ -1827,7 +1827,7 @@
       "title": "Private Banker",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Private-Banker-111-46/1404339233/",
       "first_seen_at": "2026-06-19T16:54:01.240Z",
-      "last_seen_at": "2026-07-01T16:52:34.830Z",
+      "last_seen_at": "2026-07-02T16:40:17.603Z",
       "last_status": "active",
       "notified_at": "2026-06-19T16:54:01.240Z"
     },
@@ -1857,7 +1857,7 @@
       "title": "Business Analyst",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Business-Analyst-111-46/1407012533/",
       "first_seen_at": "2026-06-23T16:55:41.149Z",
-      "last_seen_at": "2026-07-01T16:52:34.830Z",
+      "last_seen_at": "2026-07-02T16:40:17.603Z",
       "last_status": "active",
       "notified_at": "2026-06-23T16:55:41.149Z"
     },
@@ -1868,7 +1868,7 @@
       "apply_url": "https://jobs.swedbank.com/jobs/27217-privatradgivare-sales-advisory-stockholm-city",
       "first_seen_at": "2026-06-23T16:55:41.149Z",
       "last_seen_at": "2026-06-28T16:32:16.384Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-06-23T16:55:41.149Z"
     },
     "swedbank_198514a997d53fda4659a8fa": {
@@ -1888,7 +1888,7 @@
       "apply_url": "https://jobs.swedbank.com/jobs/27219-privatradgivare-stockholm-nord-upplands-vasby",
       "first_seen_at": "2026-06-24T16:50:42.383Z",
       "last_seen_at": "2026-06-28T16:32:16.384Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-06-24T16:50:42.383Z"
     },
     "swedbank_a9b2bacce3ebb166a4e34094": {
@@ -1898,7 +1898,7 @@
       "apply_url": "https://jobs.swedbank.com/jobs/26977-privatradgivare-stockholm-nord-sollentuna",
       "first_seen_at": "2026-06-24T16:50:42.383Z",
       "last_seen_at": "2026-06-28T16:32:16.384Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-06-24T16:50:42.383Z"
     },
     "nasdaq_stockholm_e653993a1578264a19918927": {
@@ -1927,7 +1927,7 @@
       "title": "Mobile App Platform Engineer",
       "apply_url": "https://career.nordnetab.com/jobs/5923098-mobile-app-platform-engineer",
       "first_seen_at": "2026-06-25T16:52:51.929Z",
-      "last_seen_at": "2026-07-01T16:52:34.830Z",
+      "last_seen_at": "2026-07-02T16:40:17.603Z",
       "last_status": "active",
       "notified_at": "2026-06-25T16:52:51.929Z"
     },
@@ -1937,7 +1937,7 @@
       "title": "Cloud Security Engineer",
       "apply_url": "https://career.nordnetab.com/jobs/7978516-cloud-security-engineer",
       "first_seen_at": "2026-06-26T16:46:26.441Z",
-      "last_seen_at": "2026-07-01T16:52:34.830Z",
+      "last_seen_at": "2026-07-02T16:40:17.603Z",
       "last_status": "active",
       "notified_at": "2026-06-26T16:46:26.441Z"
     },
@@ -1947,7 +1947,7 @@
       "title": "Student Analyst, Group Treasury Nordea",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Student-Analyst%2C-Group-Treasury-Nordea-111-46/1409330233/",
       "first_seen_at": "2026-06-30T16:48:18.749Z",
-      "last_seen_at": "2026-07-01T16:52:34.830Z",
+      "last_seen_at": "2026-07-02T16:40:17.603Z",
       "last_status": "active",
       "notified_at": "2026-06-30T16:48:18.749Z"
     },
@@ -1957,7 +1957,7 @@
       "title": "IT Support Technician",
       "apply_url": "https://careers.nordea.com/job/Stockholm-IT-Support-Technician-111-46/1409232733/",
       "first_seen_at": "2026-06-30T16:48:18.749Z",
-      "last_seen_at": "2026-07-01T16:52:34.830Z",
+      "last_seen_at": "2026-07-02T16:40:17.603Z",
       "last_status": "active",
       "notified_at": "2026-06-30T16:48:18.749Z"
     },
@@ -1967,7 +1967,7 @@
       "title": "Regelefterlevnadsansvarig - Avanza Fonder",
       "apply_url": "https://career.avanza.se/jobs/7881005-regelefterlevnadsansvarig-avanza-fonder",
       "first_seen_at": "2026-06-30T16:48:18.749Z",
-      "last_seen_at": "2026-07-01T16:52:34.830Z",
+      "last_seen_at": "2026-07-02T16:40:17.603Z",
       "last_status": "active",
       "notified_at": "2026-06-30T16:48:18.749Z"
     },
@@ -1977,7 +1977,7 @@
       "title": "Motion Designer",
       "apply_url": "https://jobs.swedbank.com/jobs/27265-motion-designer",
       "first_seen_at": "2026-06-30T16:48:18.749Z",
-      "last_seen_at": "2026-07-01T16:52:34.830Z",
+      "last_seen_at": "2026-07-02T16:40:17.603Z",
       "last_status": "active",
       "notified_at": "2026-06-30T16:48:18.749Z"
     },
@@ -1987,9 +1987,19 @@
       "title": "Content Creator till Swedbank Content Studio",
       "apply_url": "https://jobs.swedbank.com/jobs/27249-content-creator-till-swedbank-content-studio",
       "first_seen_at": "2026-06-30T16:48:18.749Z",
-      "last_seen_at": "2026-07-01T16:52:34.830Z",
+      "last_seen_at": "2026-07-02T16:40:17.603Z",
       "last_status": "active",
       "notified_at": "2026-06-30T16:48:18.749Z"
+    },
+    "swedbank_4f5581b4283f37002f13e2fb": {
+      "id": "swedbank_4f5581b4283f37002f13e2fb",
+      "company": "Swedbank",
+      "title": "Data Scientist till Savings Performance",
+      "apply_url": "https://jobs.swedbank.com/jobs/27275-data-scientist-till-savings-performance",
+      "first_seen_at": "2026-07-02T16:40:17.603Z",
+      "last_seen_at": "2026-07-02T16:40:17.603Z",
+      "last_status": "active",
+      "notified_at": "2026-07-02T16:40:17.603Z"
     }
   }
 }

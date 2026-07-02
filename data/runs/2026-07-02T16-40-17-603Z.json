@@ -1,6 +1,10 @@
 {
-  "updated_at": "2026-07-02T16:40:17.603Z",
-  "jobs": [
+  "timestamp": "2026-07-02T16:40:17.603Z",
+  "dry_run": false,
+  "min_relevance_score": 55,
+  "missing_runs_threshold": 3,
+  "company_count": 12,
+  "discovered_jobs": [
     {
       "title": "Student Analyst, Group Treasury Nordea",
       "company": "Nordea",
@@ -34,12 +38,7 @@
         "profile_keyword_bonus": 16,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-30T16:48:18.749Z",
-      "last_seen_at": "2026-07-02T16:40:17.603Z",
-      "notified_at": "2026-06-30T16:48:18.749Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Business Analyst",
@@ -73,12 +72,7 @@
         "profile_keyword_bonus": 7,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-23T16:55:41.149Z",
-      "last_seen_at": "2026-07-02T16:40:17.603Z",
-      "notified_at": "2026-06-23T16:55:41.149Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Analyst/Associate in Investment Banking",
@@ -112,50 +106,7 @@
         "profile_keyword_bonus": 7,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-19T16:54:01.240Z",
-      "last_seen_at": "2026-07-02T16:40:17.603Z",
-      "notified_at": "2026-06-19T16:54:01.240Z"
-    },
-    {
-      "company": "Pareto Securities",
-      "company_id": "pareto_securities",
-      "title": "Open Application Sweden",
-      "apply_url": "https://paretosecurities.teamtailor.com/jobs/3713025-open-application-sweden",
-      "source_url": "https://paretosecurities.teamtailor.com/jobs/3713025-open-application-sweden",
-      "location": "Stockholm",
-      "location_type": "onsite",
-      "team": "Investment Banking",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Open application for Stockholm office seeking junior candidates with analytical and commercial mindset, good academic results, high ethical standards, and fluency in Swedish and English. Suited for those interested in capital markets roles (research, sales, trading) and early-career positions.",
-      "area_tags": [
-        "research",
-        "sales_trading",
-        "analytics"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 85,
-      "why_relevant": "Explicit Stockholm open application targeting junior candidates for capital-markets roles (research/sales/trading), matching the requested areas.",
-      "confidence": 0.82,
-      "discovery_method": "openai:web_search",
-      "discovered_at": "2026-06-30T16:48:18.749Z",
-      "id": "pareto_securities_ba48131c450cee9422282ece",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 6,
-        "area_preference_bonus": 33,
-        "profile_keyword_bonus": 17,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-04-13T16:34:12.614Z",
-      "last_seen_at": "2026-06-30T16:48:18.749Z",
-      "notified_at": "2026-04-13T16:34:12.614Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Private Banker",
@@ -187,12 +138,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-19T16:54:01.240Z",
-      "last_seen_at": "2026-07-02T16:40:17.603Z",
-      "notified_at": "2026-06-19T16:54:01.240Z"
+      "matches_minimum_score": true
     },
     {
       "title": "IT Support Technician",
@@ -224,12 +170,7 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-30T16:48:18.749Z",
-      "last_seen_at": "2026-07-02T16:40:17.603Z",
-      "notified_at": "2026-06-30T16:48:18.749Z"
+      "matches_minimum_score": true
     },
     {
       "title": "Regelefterlevnadsansvarig - Avanza Fonder",
@@ -260,13 +201,227 @@
         "profile_keyword_bonus": 0,
         "negative_keyword_penalty": 0
       },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-30T16:48:18.749Z",
-      "last_seen_at": "2026-07-02T16:40:17.603Z",
-      "notified_at": "2026-06-30T16:48:18.749Z"
+      "matches_minimum_score": false
     },
+    {
+      "title": "Data Scientist till Savings Performance",
+      "company": "Swedbank",
+      "company_id": "swedbank",
+      "apply_url": "https://jobs.swedbank.com/jobs/27275-data-scientist-till-savings-performance",
+      "source_url": "https://jobs.swedbank.com/jobs/27275-data-scientist-till-savings-performance",
+      "location": "Stockholm Region",
+      "location_type": "unknown",
+      "team": "",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Har du en passion för att omvandla data till insikter som påverkar riktiga affärsbeslut? Vill du arbeta nära affären och bidra till att utveckla våra sparapr...",
+      "area_tags": [
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 50,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-07-02T16:40:17.603Z",
+      "id": "swedbank_4f5581b4283f37002f13e2fb",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 7,
+        "area_preference_bonus": 12,
+        "profile_keyword_bonus": 9,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    },
+    {
+      "title": "Cloud Security Engineer",
+      "company": "Nordnet",
+      "company_id": "nordnet",
+      "apply_url": "https://career.nordnetab.com/jobs/7978516-cloud-security-engineer",
+      "source_url": "https://career.nordnetab.com/jobs/7978516-cloud-security-engineer",
+      "location": "Stockholm",
+      "location_type": "hybrid",
+      "team": "Security",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Nordnet redefined the financial world as the first digital bank in Europe. Now we are about to do it again and the aim is to create the next generation of ba...",
+      "area_tags": [
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 48,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-07-02T16:40:17.603Z",
+      "id": "nordnet_3f17ad21ac4f68438ab19640",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 9,
+        "area_preference_bonus": 12,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    },
+    {
+      "title": "Software Engineer - Engineering Productivity / AI",
+      "company": "Nordnet",
+      "company_id": "nordnet",
+      "apply_url": "https://career.nordnetab.com/jobs/5809031-software-engineer-engineering-productivity-ai",
+      "source_url": "https://career.nordnetab.com/jobs/5809031-software-engineer-engineering-productivity-ai",
+      "location": "Stockholm",
+      "location_type": "hybrid",
+      "team": "Engineering",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Are you ready to redefine the financial industry? Does a serious technical challenge make your heart beat faster? Then Nordnet is the place for you!",
+      "area_tags": [
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 48,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-07-02T16:40:17.603Z",
+      "id": "nordnet_52db042967f942a01b6dba66",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 9,
+        "area_preference_bonus": 12,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Nordnet",
+      "company_id": "nordnet",
+      "apply_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
+      "source_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
+      "location": "Stockholm",
+      "location_type": "hybrid",
+      "team": "Engineering",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Nordnet redefined the financial world as the first digital bank in Europe. Now we are about to do it again and the aim is to create the next generation of ba...",
+      "area_tags": [
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 48,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-07-02T16:40:17.603Z",
+      "id": "nordnet_9724cc910af8f5b42d1b5421",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 9,
+        "area_preference_bonus": 12,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    },
+    {
+      "title": "Mobile App Platform Engineer",
+      "company": "Nordnet",
+      "company_id": "nordnet",
+      "apply_url": "https://career.nordnetab.com/jobs/5923098-mobile-app-platform-engineer",
+      "source_url": "https://career.nordnetab.com/jobs/5923098-mobile-app-platform-engineer",
+      "location": "Stockholm",
+      "location_type": "hybrid",
+      "team": "Engineering",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Nordnet redefined the financial world as the first digital bank in Europe. Now we are about to do it again and the aim is to create the next generation bank,...",
+      "area_tags": [
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 48,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-07-02T16:40:17.603Z",
+      "id": "nordnet_b8fa8c40fc80d96f05aa2272",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 9,
+        "area_preference_bonus": 12,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    },
+    {
+      "title": "Motion Designer",
+      "company": "Swedbank",
+      "company_id": "swedbank",
+      "apply_url": "https://jobs.swedbank.com/jobs/27265-motion-designer",
+      "source_url": "https://jobs.swedbank.com/jobs/27265-motion-designer",
+      "location": "Stockholm Region",
+      "location_type": "hybrid",
+      "team": "",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Kom och sätt ett av Sveriges starkaste varumärken i rörelse. Vi bygger en Content Studio för ett av Sveriges mest kända varumärken — högt tempo, hög kreativ ...",
+      "area_tags": [
+        "market_risk"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 46,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-07-02T16:40:17.603Z",
+      "id": "swedbank_71a21a28c7c6f68b8ec289ad",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 7,
+        "area_preference_bonus": 15,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    },
+    {
+      "title": "Content Creator till Swedbank Content Studio",
+      "company": "Swedbank",
+      "company_id": "swedbank",
+      "apply_url": "https://jobs.swedbank.com/jobs/27249-content-creator-till-swedbank-content-studio",
+      "source_url": "https://jobs.swedbank.com/jobs/27249-content-creator-till-swedbank-content-studio",
+      "location": "Stockholm Region",
+      "location_type": "hybrid",
+      "team": "",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Kan du ta ett av Sveriges starkaste varumärken och göra det omöjligt att scrolla förbi? . Vi bygger en inhouse Content Studio för ett av Sveriges mest kända ...",
+      "area_tags": [
+        "market_risk"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 46,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-07-02T16:40:17.603Z",
+      "id": "swedbank_e5bcb42fbcfa48e31d0bc7f7",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 7,
+        "area_preference_bonus": 15,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    }
+  ],
+  "new_jobs": [
     {
       "title": "Data Scientist till Savings Performance",
       "company": "Swedbank",
@@ -301,223 +456,13 @@
       "missing_runs": 0,
       "first_seen_at": "2026-07-02T16:40:17.603Z",
       "last_seen_at": "2026-07-02T16:40:17.603Z",
-      "notified_at": "2026-07-02T16:40:17.603Z"
-    },
+      "notified_at": null
+    }
+  ],
+  "errors": [
     {
-      "title": "Cloud Security Engineer",
-      "company": "Nordnet",
-      "company_id": "nordnet",
-      "apply_url": "https://career.nordnetab.com/jobs/7978516-cloud-security-engineer",
-      "source_url": "https://career.nordnetab.com/jobs/7978516-cloud-security-engineer",
-      "location": "Stockholm",
-      "location_type": "hybrid",
-      "team": "Security",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Nordnet redefined the financial world as the first digital bank in Europe. Now we are about to do it again and the aim is to create the next generation of ba...",
-      "area_tags": [
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 48,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-07-02T16:40:17.603Z",
-      "id": "nordnet_3f17ad21ac4f68438ab19640",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 9,
-        "area_preference_bonus": 12,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-26T16:46:26.441Z",
-      "last_seen_at": "2026-07-02T16:40:17.603Z",
-      "notified_at": "2026-06-26T16:46:26.441Z"
-    },
-    {
-      "title": "Software Engineer - Engineering Productivity / AI",
-      "company": "Nordnet",
-      "company_id": "nordnet",
-      "apply_url": "https://career.nordnetab.com/jobs/5809031-software-engineer-engineering-productivity-ai",
-      "source_url": "https://career.nordnetab.com/jobs/5809031-software-engineer-engineering-productivity-ai",
-      "location": "Stockholm",
-      "location_type": "hybrid",
-      "team": "Engineering",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Are you ready to redefine the financial industry? Does a serious technical challenge make your heart beat faster? Then Nordnet is the place for you!",
-      "area_tags": [
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 48,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-07-02T16:40:17.603Z",
-      "id": "nordnet_52db042967f942a01b6dba66",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 9,
-        "area_preference_bonus": 12,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-07-02T16:40:17.603Z",
-      "notified_at": "2026-04-28T16:42:27.094Z"
-    },
-    {
-      "title": "Software Engineer",
-      "company": "Nordnet",
-      "company_id": "nordnet",
-      "apply_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
-      "source_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
-      "location": "Stockholm",
-      "location_type": "hybrid",
-      "team": "Engineering",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Nordnet redefined the financial world as the first digital bank in Europe. Now we are about to do it again and the aim is to create the next generation of ba...",
-      "area_tags": [
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 48,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-07-02T16:40:17.603Z",
-      "id": "nordnet_9724cc910af8f5b42d1b5421",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 9,
-        "area_preference_bonus": 12,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-07-02T16:40:17.603Z",
-      "notified_at": "2026-04-28T16:42:27.094Z"
-    },
-    {
-      "title": "Mobile App Platform Engineer",
-      "company": "Nordnet",
-      "company_id": "nordnet",
-      "apply_url": "https://career.nordnetab.com/jobs/5923098-mobile-app-platform-engineer",
-      "source_url": "https://career.nordnetab.com/jobs/5923098-mobile-app-platform-engineer",
-      "location": "Stockholm",
-      "location_type": "hybrid",
-      "team": "Engineering",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Nordnet redefined the financial world as the first digital bank in Europe. Now we are about to do it again and the aim is to create the next generation bank,...",
-      "area_tags": [
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 48,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-07-02T16:40:17.603Z",
-      "id": "nordnet_b8fa8c40fc80d96f05aa2272",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 9,
-        "area_preference_bonus": 12,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-25T16:52:51.929Z",
-      "last_seen_at": "2026-07-02T16:40:17.603Z",
-      "notified_at": "2026-06-25T16:52:51.929Z"
-    },
-    {
-      "title": "Motion Designer",
-      "company": "Swedbank",
-      "company_id": "swedbank",
-      "apply_url": "https://jobs.swedbank.com/jobs/27265-motion-designer",
-      "source_url": "https://jobs.swedbank.com/jobs/27265-motion-designer",
-      "location": "Stockholm Region",
-      "location_type": "hybrid",
-      "team": "",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Kom och sätt ett av Sveriges starkaste varumärken i rörelse. Vi bygger en Content Studio för ett av Sveriges mest kända varumärken — högt tempo, hög kreativ ...",
-      "area_tags": [
-        "market_risk"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 46,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-07-02T16:40:17.603Z",
-      "id": "swedbank_71a21a28c7c6f68b8ec289ad",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 7,
-        "area_preference_bonus": 15,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-30T16:48:18.749Z",
-      "last_seen_at": "2026-07-02T16:40:17.603Z",
-      "notified_at": "2026-06-30T16:48:18.749Z"
-    },
-    {
-      "title": "Content Creator till Swedbank Content Studio",
-      "company": "Swedbank",
-      "company_id": "swedbank",
-      "apply_url": "https://jobs.swedbank.com/jobs/27249-content-creator-till-swedbank-content-studio",
-      "source_url": "https://jobs.swedbank.com/jobs/27249-content-creator-till-swedbank-content-studio",
-      "location": "Stockholm Region",
-      "location_type": "hybrid",
-      "team": "",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Kan du ta ett av Sveriges starkaste varumärken och göra det omöjligt att scrolla förbi? . Vi bygger en inhouse Content Studio för ett av Sveriges mest kända ...",
-      "area_tags": [
-        "market_risk"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 46,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-07-02T16:40:17.603Z",
-      "id": "swedbank_e5bcb42fbcfa48e31d0bc7f7",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 7,
-        "area_preference_bonus": 15,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": false,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-06-30T16:48:18.749Z",
-      "last_seen_at": "2026-07-02T16:40:17.603Z",
-      "notified_at": "2026-06-30T16:48:18.749Z"
+      "company": "External market scan",
+      "error": "The operation was aborted due to timeout"
     }
   ]
 }
