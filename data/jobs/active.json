@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T16:57:05.896Z",
+  "updated_at": "2026-08-08T16:38:09.210Z",
   "jobs": [
     {
       "title": "Student Analyst, Group Treasury Nordea",
@@ -36,7 +36,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-06-30T16:48:18.749Z",
       "last_seen_at": "2026-07-02T16:40:17.603Z",
       "notified_at": "2026-06-30T16:48:18.749Z"
@@ -75,7 +75,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-06-19T16:54:01.240Z",
       "last_seen_at": "2026-08-07T16:57:05.896Z",
       "notified_at": "2026-06-19T16:54:01.240Z"
@@ -114,10 +114,86 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-06-23T16:55:41.149Z",
       "last_seen_at": "2026-07-02T16:40:17.603Z",
       "notified_at": "2026-06-23T16:55:41.149Z"
+    },
+    {
+      "company": "Nasdaq Stockholm",
+      "company_id": "nasdaq_stockholm",
+      "title": "Student worker in Nasdaq Exchange Services Team",
+      "apply_url": "https://nasdaq.wd1.myworkdayjobs.com/global_external_site/job/Stockholm---Zenit/Student-worker-in-Exchange-Services_R0026012",
+      "source_url": "https://nasdaq.wd1.myworkdayjobs.com/global_external_site/job/Stockholm---Zenit/Student-worker-in-Exchange-Services_R0026012",
+      "location": "Stockholm - Zenit (city centre)",
+      "location_type": "onsite",
+      "team": "Exchange Services (trading & derivatives support)",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Part-time student role supporting Exchange Services: trading and technical support, broker desk support for equity derivatives, market data analysis for clearing/margin and settlement tasks. Requires Python/SQL and Excel/VBA familiarity.",
+      "area_tags": [
+        "trading",
+        "market_surveillance",
+        "analytics"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 91,
+      "why_relevant": "Hands-on trading/exchange analytics role working with derivatives, market data and settlement — explicitly Stockholm-based and junior/student-friendly.",
+      "confidence": 0.9,
+      "discovery_method": "openai:web_search",
+      "discovered_at": "2026-08-08T16:38:09.210Z",
+      "id": "nasdaq_stockholm_556ab78ae00796d144c0c179",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 7,
+        "area_preference_bonus": 33,
+        "profile_keyword_bonus": 18,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true,
+      "status": "active",
+      "missing_runs": 0,
+      "first_seen_at": "2026-08-08T16:38:09.210Z",
+      "last_seen_at": "2026-08-08T16:38:09.210Z",
+      "notified_at": "2026-08-08T16:38:09.210Z"
+    },
+    {
+      "company": "Nasdaq Stockholm",
+      "company_id": "nasdaq_stockholm",
+      "title": "Student Analyst - Market Statistics",
+      "apply_url": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/Student-Analyst---Market-Statistics_R0026010-1",
+      "source_url": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/Student-Analyst---Market-Statistics_R0026010-1",
+      "location": "Stockholm - Zenit (central Stockholm)",
+      "location_type": "onsite",
+      "team": "Economic & Statistical Research (ESR) — Market Statistics",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Part-time student role supporting market statistics: quantitative analysis, reporting, BI/dashboard work and ad-hoc analyses for Nordic & Baltic capital markets. Suitable for Masters students in Finance/Economics/Engineering/Data Science.",
+      "area_tags": [
+        "research",
+        "analytics",
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 77,
+      "why_relevant": "Direct analytics/statistics role inside Nasdaq’s market research team (data/quant focus) and explicitly based in Stockholm.",
+      "confidence": 0.9,
+      "discovery_method": "openai:web_search",
+      "discovered_at": "2026-08-08T16:38:09.210Z",
+      "id": "nasdaq_stockholm_694ab08f2ea48fd621d8182e",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 7,
+        "area_preference_bonus": 30,
+        "profile_keyword_bonus": 7,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true,
+      "status": "active",
+      "missing_runs": 0,
+      "first_seen_at": "2026-08-08T16:38:09.210Z",
+      "last_seen_at": "2026-08-08T16:38:09.210Z",
+      "notified_at": "2026-08-08T16:38:09.210Z"
     },
     {
       "title": "Strategic Partner in Personal Banking Office",
@@ -151,7 +227,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-08-07T16:57:05.896Z",
       "last_seen_at": "2026-08-07T16:57:05.896Z",
       "notified_at": "2026-08-07T16:57:05.896Z"
@@ -188,7 +264,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-08-07T16:57:05.896Z",
       "last_seen_at": "2026-08-07T16:57:05.896Z",
       "notified_at": "2026-08-07T16:57:05.896Z"
@@ -225,7 +301,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-08-07T16:57:05.896Z",
       "last_seen_at": "2026-08-07T16:57:05.896Z",
       "notified_at": "2026-08-07T16:57:05.896Z"
@@ -262,7 +338,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-06-19T16:54:01.240Z",
       "last_seen_at": "2026-07-02T16:40:17.603Z",
       "notified_at": "2026-06-19T16:54:01.240Z"
@@ -299,7 +375,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-06-30T16:48:18.749Z",
       "last_seen_at": "2026-07-02T16:40:17.603Z",
       "notified_at": "2026-06-30T16:48:18.749Z"
@@ -326,7 +402,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-08-07T16:57:05.896Z",
+      "discovered_at": "2026-08-08T16:38:09.210Z",
       "id": "swedbank_af5d1f4742982b36a7433c72",
       "profile_score_breakdown": {
         "company_preference_bonus": 7,
@@ -338,8 +414,45 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-08-07T16:57:05.896Z",
-      "last_seen_at": "2026-08-07T16:57:05.896Z",
+      "last_seen_at": "2026-08-08T16:38:09.210Z",
       "notified_at": "2026-08-07T16:57:05.896Z"
+    },
+    {
+      "company": "Nasdaq Stockholm",
+      "company_id": "nasdaq_stockholm",
+      "title": "Student Worker to Nasdaq Nordic Listings Team",
+      "apply_url": "https://nasdaq.wd1.myworkdayjobs.com/fr-CA/Global_External_Site/job/Student-Worker-to-Nasdaq-Nordic-Listings-Team_R0025852",
+      "source_url": "https://nasdaq.wd1.myworkdayjobs.com/fr-CA/Global_External_Site/job/Student-Worker-to-Nasdaq-Nordic-Listings-Team_R0025852",
+      "location": "Stockholm - Zenit (central Stockholm)",
+      "location_type": "onsite",
+      "team": "Listings — Nasdaq Nordic (Stockholm)",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Part-time student role supporting listings operations: data and client information upkeep, content and go-to-market support, CRM/process improvement tasks. Requires Excel/PowerPoint and interest in capital markets.",
+      "area_tags": [
+        "analytics",
+        "research"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 61,
+      "why_relevant": "Listing operations role at the heart of capital markets workflows (data/process work) and explicitly based in Stockholm — suitable for students.",
+      "confidence": 0.88,
+      "discovery_method": "openai:web_search",
+      "discovered_at": "2026-08-08T16:38:09.210Z",
+      "id": "nasdaq_stockholm_a25dd28ff37d2fff82b9cae1",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 7,
+        "area_preference_bonus": 18,
+        "profile_keyword_bonus": 7,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true,
+      "status": "active",
+      "missing_runs": 0,
+      "first_seen_at": "2026-08-08T16:38:09.210Z",
+      "last_seen_at": "2026-08-08T16:38:09.210Z",
+      "notified_at": "2026-08-08T16:38:09.210Z"
     },
     {
       "company": "Pareto Securities",
@@ -373,7 +486,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-08-07T16:57:05.896Z",
       "last_seen_at": "2026-08-07T16:57:05.896Z",
       "notified_at": "2026-08-07T16:57:05.896Z"
@@ -399,7 +512,7 @@
       "why_relevant": "",
       "confidence": 0.75,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-08-07T16:57:05.896Z",
+      "discovered_at": "2026-08-08T16:38:09.210Z",
       "id": "avanza_0471be90515bb440dd160d1d",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -411,7 +524,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-06-30T16:48:18.749Z",
-      "last_seen_at": "2026-08-07T16:57:05.896Z",
+      "last_seen_at": "2026-08-08T16:38:09.210Z",
       "notified_at": "2026-06-30T16:48:18.749Z"
     },
     {
@@ -445,7 +558,7 @@
       },
       "matches_minimum_score": false,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-07-02T16:40:17.603Z",
       "last_seen_at": "2026-07-02T16:40:17.603Z",
       "notified_at": "2026-07-02T16:40:17.603Z"
@@ -471,7 +584,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-08-07T16:57:05.896Z",
+      "discovered_at": "2026-08-08T16:38:09.210Z",
       "id": "nordnet_3f17ad21ac4f68438ab19640",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -483,7 +596,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-06-26T16:46:26.441Z",
-      "last_seen_at": "2026-08-07T16:57:05.896Z",
+      "last_seen_at": "2026-08-08T16:38:09.210Z",
       "notified_at": "2026-06-26T16:46:26.441Z"
     },
     {
@@ -507,7 +620,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-08-07T16:57:05.896Z",
+      "discovered_at": "2026-08-08T16:38:09.210Z",
       "id": "nordnet_52db042967f942a01b6dba66",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -519,7 +632,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-08-07T16:57:05.896Z",
+      "last_seen_at": "2026-08-08T16:38:09.210Z",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
     {
@@ -543,7 +656,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-08-07T16:57:05.896Z",
+      "discovered_at": "2026-08-08T16:38:09.210Z",
       "id": "nordnet_9724cc910af8f5b42d1b5421",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -555,7 +668,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-08-07T16:57:05.896Z",
+      "last_seen_at": "2026-08-08T16:38:09.210Z",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
     {
@@ -579,7 +692,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-08-07T16:57:05.896Z",
+      "discovered_at": "2026-08-08T16:38:09.210Z",
       "id": "nordnet_b8fa8c40fc80d96f05aa2272",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -591,7 +704,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-06-25T16:52:51.929Z",
-      "last_seen_at": "2026-08-07T16:57:05.896Z",
+      "last_seen_at": "2026-08-08T16:38:09.210Z",
       "notified_at": "2026-06-25T16:52:51.929Z"
     },
     {
@@ -615,7 +728,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-08-07T16:57:05.896Z",
+      "discovered_at": "2026-08-08T16:38:09.210Z",
       "id": "swedbank_59530701393b7a9bc8f1add1",
       "profile_score_breakdown": {
         "company_preference_bonus": 7,
@@ -627,7 +740,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-08-07T16:57:05.896Z",
-      "last_seen_at": "2026-08-07T16:57:05.896Z",
+      "last_seen_at": "2026-08-08T16:38:09.210Z",
       "notified_at": "2026-08-07T16:57:05.896Z"
     },
     {
@@ -661,7 +774,7 @@
       },
       "matches_minimum_score": false,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-06-30T16:48:18.749Z",
       "last_seen_at": "2026-07-02T16:40:17.603Z",
       "notified_at": "2026-06-30T16:48:18.749Z"
@@ -697,7 +810,7 @@
       },
       "matches_minimum_score": false,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-06-30T16:48:18.749Z",
       "last_seen_at": "2026-07-02T16:40:17.603Z",
       "notified_at": "2026-06-30T16:48:18.749Z"

@@ -1,0 +1,446 @@
+{
+  "timestamp": "2026-08-08T16:38:09.210Z",
+  "dry_run": false,
+  "min_relevance_score": 55,
+  "missing_runs_threshold": 3,
+  "company_count": 12,
+  "discovered_jobs": [
+    {
+      "company": "Nasdaq Stockholm",
+      "company_id": "nasdaq_stockholm",
+      "title": "Student worker in Nasdaq Exchange Services Team",
+      "apply_url": "https://nasdaq.wd1.myworkdayjobs.com/global_external_site/job/Stockholm---Zenit/Student-worker-in-Exchange-Services_R0026012",
+      "source_url": "https://nasdaq.wd1.myworkdayjobs.com/global_external_site/job/Stockholm---Zenit/Student-worker-in-Exchange-Services_R0026012",
+      "location": "Stockholm - Zenit (city centre)",
+      "location_type": "onsite",
+      "team": "Exchange Services (trading & derivatives support)",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Part-time student role supporting Exchange Services: trading and technical support, broker desk support for equity derivatives, market data analysis for clearing/margin and settlement tasks. Requires Python/SQL and Excel/VBA familiarity.",
+      "area_tags": [
+        "trading",
+        "market_surveillance",
+        "analytics"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 91,
+      "why_relevant": "Hands-on trading/exchange analytics role working with derivatives, market data and settlement — explicitly Stockholm-based and junior/student-friendly.",
+      "confidence": 0.9,
+      "discovery_method": "openai:web_search",
+      "discovered_at": "2026-08-08T16:38:09.210Z",
+      "id": "nasdaq_stockholm_556ab78ae00796d144c0c179",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 7,
+        "area_preference_bonus": 33,
+        "profile_keyword_bonus": 18,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true
+    },
+    {
+      "company": "Nasdaq Stockholm",
+      "company_id": "nasdaq_stockholm",
+      "title": "Student Analyst - Market Statistics",
+      "apply_url": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/Student-Analyst---Market-Statistics_R0026010-1",
+      "source_url": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/Student-Analyst---Market-Statistics_R0026010-1",
+      "location": "Stockholm - Zenit (central Stockholm)",
+      "location_type": "onsite",
+      "team": "Economic & Statistical Research (ESR) — Market Statistics",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Part-time student role supporting market statistics: quantitative analysis, reporting, BI/dashboard work and ad-hoc analyses for Nordic & Baltic capital markets. Suitable for Masters students in Finance/Economics/Engineering/Data Science.",
+      "area_tags": [
+        "research",
+        "analytics",
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 77,
+      "why_relevant": "Direct analytics/statistics role inside Nasdaq’s market research team (data/quant focus) and explicitly based in Stockholm.",
+      "confidence": 0.9,
+      "discovery_method": "openai:web_search",
+      "discovered_at": "2026-08-08T16:38:09.210Z",
+      "id": "nasdaq_stockholm_694ab08f2ea48fd621d8182e",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 7,
+        "area_preference_bonus": 30,
+        "profile_keyword_bonus": 7,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true
+    },
+    {
+      "title": "Internal Auditor – Financial risks and models",
+      "company": "Swedbank",
+      "company_id": "swedbank",
+      "apply_url": "https://jobs.swedbank.com/jobs/27399-internal-auditor-financial-risks-and-models",
+      "source_url": "https://jobs.swedbank.com/jobs/27399-internal-auditor-financial-risks-and-models",
+      "location": "Stockholm Region",
+      "location_type": "hybrid",
+      "team": "",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Do you have experience working with financial risks or financial models?. We are looking for an Internal Auditor who wants to combine deep quantitative exper...",
+      "area_tags": [
+        "quant",
+        "risk"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 64,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-08-08T16:38:09.210Z",
+      "id": "swedbank_af5d1f4742982b36a7433c72",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 7,
+        "area_preference_bonus": 31,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true
+    },
+    {
+      "company": "Nasdaq Stockholm",
+      "company_id": "nasdaq_stockholm",
+      "title": "Student Worker to Nasdaq Nordic Listings Team",
+      "apply_url": "https://nasdaq.wd1.myworkdayjobs.com/fr-CA/Global_External_Site/job/Student-Worker-to-Nasdaq-Nordic-Listings-Team_R0025852",
+      "source_url": "https://nasdaq.wd1.myworkdayjobs.com/fr-CA/Global_External_Site/job/Student-Worker-to-Nasdaq-Nordic-Listings-Team_R0025852",
+      "location": "Stockholm - Zenit (central Stockholm)",
+      "location_type": "onsite",
+      "team": "Listings — Nasdaq Nordic (Stockholm)",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Part-time student role supporting listings operations: data and client information upkeep, content and go-to-market support, CRM/process improvement tasks. Requires Excel/PowerPoint and interest in capital markets.",
+      "area_tags": [
+        "analytics",
+        "research"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 61,
+      "why_relevant": "Listing operations role at the heart of capital markets workflows (data/process work) and explicitly based in Stockholm — suitable for students.",
+      "confidence": 0.88,
+      "discovery_method": "openai:web_search",
+      "discovered_at": "2026-08-08T16:38:09.210Z",
+      "id": "nasdaq_stockholm_a25dd28ff37d2fff82b9cae1",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 7,
+        "area_preference_bonus": 18,
+        "profile_keyword_bonus": 7,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true
+    },
+    {
+      "title": "Regelefterlevnadsansvarig - Avanza Fonder",
+      "company": "Avanza",
+      "company_id": "avanza",
+      "apply_url": "https://career.avanza.se/jobs/7881005-regelefterlevnadsansvarig-avanza-fonder",
+      "source_url": "https://career.avanza.se/jobs/7881005-regelefterlevnadsansvarig-avanza-fonder",
+      "location": "Stockholm, SE",
+      "location_type": "hybrid",
+      "team": "",
+      "posted_at": "2026-06-09",
+      "expires_at": "2026-08-16",
+      "summary": "Vi arbetar varje dag för att göra sparande enklare, smartare och mer tillgängligt. Idag förvaltar vi över 170 miljarder kronor och är ett av Sveriges snabbast växande fondbolag – men vårt viktigaste uppdrag är fortfarande detsamma: att skapa bättre möjligheter för våra sparare. Nu söker vi en Regelefterlevnadsansvarig (Compliance Officer) som vill arbeta med fond- och förvaltningsrelaterade frågor...",
+      "area_tags": [
+        "market_risk"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 53,
+      "why_relevant": "",
+      "confidence": 0.75,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-08-08T16:38:09.210Z",
+      "id": "avanza_0471be90515bb440dd160d1d",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 9,
+        "area_preference_bonus": 15,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    },
+    {
+      "title": "Cloud Security Engineer",
+      "company": "Nordnet",
+      "company_id": "nordnet",
+      "apply_url": "https://career.nordnetab.com/jobs/7978516-cloud-security-engineer",
+      "source_url": "https://career.nordnetab.com/jobs/7978516-cloud-security-engineer",
+      "location": "Stockholm",
+      "location_type": "hybrid",
+      "team": "Security",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Nordnet redefined the financial world as the first digital bank in Europe. Now we are about to do it again and the aim is to create the next generation of ba...",
+      "area_tags": [
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 48,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-08-08T16:38:09.210Z",
+      "id": "nordnet_3f17ad21ac4f68438ab19640",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 9,
+        "area_preference_bonus": 12,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    },
+    {
+      "title": "Software Engineer - Engineering Productivity / AI",
+      "company": "Nordnet",
+      "company_id": "nordnet",
+      "apply_url": "https://career.nordnetab.com/jobs/5809031-software-engineer-engineering-productivity-ai",
+      "source_url": "https://career.nordnetab.com/jobs/5809031-software-engineer-engineering-productivity-ai",
+      "location": "Stockholm",
+      "location_type": "hybrid",
+      "team": "Engineering",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Are you ready to redefine the financial industry? Does a serious technical challenge make your heart beat faster? Then Nordnet is the place for you!",
+      "area_tags": [
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 48,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-08-08T16:38:09.210Z",
+      "id": "nordnet_52db042967f942a01b6dba66",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 9,
+        "area_preference_bonus": 12,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Nordnet",
+      "company_id": "nordnet",
+      "apply_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
+      "source_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
+      "location": "Stockholm",
+      "location_type": "hybrid",
+      "team": "Engineering",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Nordnet redefined the financial world as the first digital bank in Europe. Now we are about to do it again and the aim is to create the next generation of ba...",
+      "area_tags": [
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 48,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-08-08T16:38:09.210Z",
+      "id": "nordnet_9724cc910af8f5b42d1b5421",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 9,
+        "area_preference_bonus": 12,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    },
+    {
+      "title": "Mobile App Platform Engineer",
+      "company": "Nordnet",
+      "company_id": "nordnet",
+      "apply_url": "https://career.nordnetab.com/jobs/5923098-mobile-app-platform-engineer",
+      "source_url": "https://career.nordnetab.com/jobs/5923098-mobile-app-platform-engineer",
+      "location": "Stockholm",
+      "location_type": "hybrid",
+      "team": "Engineering",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Nordnet redefined the financial world as the first digital bank in Europe. Now we are about to do it again and the aim is to create the next generation bank,...",
+      "area_tags": [
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 48,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-08-08T16:38:09.210Z",
+      "id": "nordnet_b8fa8c40fc80d96f05aa2272",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 9,
+        "area_preference_bonus": 12,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    },
+    {
+      "title": "Kundrådgivare Sales & Advisory – Distrikt Sthlm Nordost Täby",
+      "company": "Swedbank",
+      "company_id": "swedbank",
+      "apply_url": "https://jobs.swedbank.com/jobs/27478-kundradgivare-sales-advisory-distrikt-sthlm-nordost-taby",
+      "source_url": "https://jobs.swedbank.com/jobs/27478-kundradgivare-sales-advisory-distrikt-sthlm-nordost-taby",
+      "location": "Stockholm Region",
+      "location_type": "unknown",
+      "team": "",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Har du en passion för att hjälpa våra kunder till en bättre finansiell hälsa nationellt, regionalt och lokalt? Är du nyfiken på människor samt brinner för af...",
+      "area_tags": [
+        "market_risk"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 46,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:teamtailor",
+      "discovered_at": "2026-08-08T16:38:09.210Z",
+      "id": "swedbank_59530701393b7a9bc8f1add1",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 7,
+        "area_preference_bonus": 15,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": false
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Nasdaq Stockholm",
+      "company_id": "nasdaq_stockholm",
+      "title": "Student worker in Nasdaq Exchange Services Team",
+      "apply_url": "https://nasdaq.wd1.myworkdayjobs.com/global_external_site/job/Stockholm---Zenit/Student-worker-in-Exchange-Services_R0026012",
+      "source_url": "https://nasdaq.wd1.myworkdayjobs.com/global_external_site/job/Stockholm---Zenit/Student-worker-in-Exchange-Services_R0026012",
+      "location": "Stockholm - Zenit (city centre)",
+      "location_type": "onsite",
+      "team": "Exchange Services (trading & derivatives support)",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Part-time student role supporting Exchange Services: trading and technical support, broker desk support for equity derivatives, market data analysis for clearing/margin and settlement tasks. Requires Python/SQL and Excel/VBA familiarity.",
+      "area_tags": [
+        "trading",
+        "market_surveillance",
+        "analytics"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 91,
+      "why_relevant": "Hands-on trading/exchange analytics role working with derivatives, market data and settlement — explicitly Stockholm-based and junior/student-friendly.",
+      "confidence": 0.9,
+      "discovery_method": "openai:web_search",
+      "discovered_at": "2026-08-08T16:38:09.210Z",
+      "id": "nasdaq_stockholm_556ab78ae00796d144c0c179",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 7,
+        "area_preference_bonus": 33,
+        "profile_keyword_bonus": 18,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true,
+      "status": "active",
+      "missing_runs": 0,
+      "first_seen_at": "2026-08-08T16:38:09.210Z",
+      "last_seen_at": "2026-08-08T16:38:09.210Z",
+      "notified_at": null
+    },
+    {
+      "company": "Nasdaq Stockholm",
+      "company_id": "nasdaq_stockholm",
+      "title": "Student Analyst - Market Statistics",
+      "apply_url": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/Student-Analyst---Market-Statistics_R0026010-1",
+      "source_url": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/Student-Analyst---Market-Statistics_R0026010-1",
+      "location": "Stockholm - Zenit (central Stockholm)",
+      "location_type": "onsite",
+      "team": "Economic & Statistical Research (ESR) — Market Statistics",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Part-time student role supporting market statistics: quantitative analysis, reporting, BI/dashboard work and ad-hoc analyses for Nordic & Baltic capital markets. Suitable for Masters students in Finance/Economics/Engineering/Data Science.",
+      "area_tags": [
+        "research",
+        "analytics",
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 77,
+      "why_relevant": "Direct analytics/statistics role inside Nasdaq’s market research team (data/quant focus) and explicitly based in Stockholm.",
+      "confidence": 0.9,
+      "discovery_method": "openai:web_search",
+      "discovered_at": "2026-08-08T16:38:09.210Z",
+      "id": "nasdaq_stockholm_694ab08f2ea48fd621d8182e",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 7,
+        "area_preference_bonus": 30,
+        "profile_keyword_bonus": 7,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true,
+      "status": "active",
+      "missing_runs": 0,
+      "first_seen_at": "2026-08-08T16:38:09.210Z",
+      "last_seen_at": "2026-08-08T16:38:09.210Z",
+      "notified_at": null
+    },
+    {
+      "company": "Nasdaq Stockholm",
+      "company_id": "nasdaq_stockholm",
+      "title": "Student Worker to Nasdaq Nordic Listings Team",
+      "apply_url": "https://nasdaq.wd1.myworkdayjobs.com/fr-CA/Global_External_Site/job/Student-Worker-to-Nasdaq-Nordic-Listings-Team_R0025852",
+      "source_url": "https://nasdaq.wd1.myworkdayjobs.com/fr-CA/Global_External_Site/job/Student-Worker-to-Nasdaq-Nordic-Listings-Team_R0025852",
+      "location": "Stockholm - Zenit (central Stockholm)",
+      "location_type": "onsite",
+      "team": "Listings — Nasdaq Nordic (Stockholm)",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Part-time student role supporting listings operations: data and client information upkeep, content and go-to-market support, CRM/process improvement tasks. Requires Excel/PowerPoint and interest in capital markets.",
+      "area_tags": [
+        "analytics",
+        "research"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 61,
+      "why_relevant": "Listing operations role at the heart of capital markets workflows (data/process work) and explicitly based in Stockholm — suitable for students.",
+      "confidence": 0.88,
+      "discovery_method": "openai:web_search",
+      "discovered_at": "2026-08-08T16:38:09.210Z",
+      "id": "nasdaq_stockholm_a25dd28ff37d2fff82b9cae1",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 7,
+        "area_preference_bonus": 18,
+        "profile_keyword_bonus": 7,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true,
+      "status": "active",
+      "missing_runs": 0,
+      "first_seen_at": "2026-08-08T16:38:09.210Z",
+      "last_seen_at": "2026-08-08T16:38:09.210Z",
+      "notified_at": null
+    }
+  ],
+  "errors": [
+    {
+      "company": "External market scan",
+      "error": "The operation was aborted due to timeout"
+    }
+  ]
+}
