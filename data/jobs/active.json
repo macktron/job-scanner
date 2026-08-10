@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T16:40:24.091Z",
+  "updated_at": "2026-08-10T16:57:20.084Z",
   "jobs": [
     {
       "title": "Analyst/Associate in Investment Banking",
@@ -35,7 +35,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-06-19T16:54:01.240Z",
       "last_seen_at": "2026-08-09T16:40:24.091Z",
       "notified_at": "2026-06-19T16:54:01.240Z"
@@ -73,7 +73,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-08-08T16:38:09.210Z",
       "last_seen_at": "2026-08-08T16:38:09.210Z",
       "notified_at": "2026-08-08T16:38:09.210Z"
@@ -111,10 +111,84 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-08-08T16:38:09.210Z",
       "last_seen_at": "2026-08-08T16:38:09.210Z",
       "notified_at": "2026-08-08T16:38:09.210Z"
+    },
+    {
+      "title": "Strategic Partner in Personal Banking Office",
+      "company": "Nordea",
+      "company_id": "nordea",
+      "apply_url": "https://careers.nordea.com/job/Oslo-Strategic-Partner-in-Personal-Banking-Office-0368/1421662533/",
+      "source_url": "https://careers.nordea.com/job/Oslo-Strategic-Partner-in-Personal-Banking-Office-0368/1421662533/",
+      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile // View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Strategic Partner in Personal Banking Office Oslo, NO, 0368 Stockholm, SE, 111 46 Helsinki, FI, 00500 #job-location.job-location-inline { display: inline; }",
+      "location_type": "unknown",
+      "team": "",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Oslo Strategic Partner in Personal Banking Office, 0368",
+      "area_tags": [
+        "market_risk",
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 68,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:nordea",
+      "discovered_at": "2026-08-10T16:57:20.084Z",
+      "id": "nordea_9e8dd164db11ac1390ec7b3c",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 10,
+        "area_preference_bonus": 27,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true,
+      "status": "active",
+      "missing_runs": 0,
+      "first_seen_at": "2026-08-09T16:40:24.091Z",
+      "last_seen_at": "2026-08-10T16:57:20.084Z",
+      "notified_at": "2026-08-09T16:40:24.091Z"
+    },
+    {
+      "title": "Growth Strategist, Business Banking Commercial & Digital - Value Proposition & Go-to-Market",
+      "company": "Nordea",
+      "company_id": "nordea",
+      "apply_url": "https://careers.nordea.com/job/K%C3%B8benhavn-S-Growth-Strategist%2C-Business-Banking-Commercial-&amp;-Digital-Value-Proposition-&amp;-Go-to-Market-2300/1410928933/",
+      "source_url": "https://careers.nordea.com/job/K%C3%B8benhavn-S-Growth-Strategist%2C-Business-Banking-Commercial-&amp;-Digital-Value-Proposition-&amp;-Go-to-Market-2300/1410928933/",
+      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile // View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Growth Strategist, Business Banking Commercial & Digital - Value Proposition & Go-to-Market København S, DK, 2300 Stockholm, SE, 111 44 Oslo, NO, 0368 Helsinki, FI, 00500 #job-location.job-location-inline { display: inline; }",
+      "location_type": "unknown",
+      "team": "",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "København S Growth Strategist, Business Banking Commercial & Digital - Value Proposition & Go-to-Market, 2300",
+      "area_tags": [
+        "market_risk",
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 68,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:nordea",
+      "discovered_at": "2026-08-10T16:57:20.084Z",
+      "id": "nordea_46d82470a14cbff90da4d9b8",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 10,
+        "area_preference_bonus": 27,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true,
+      "status": "active",
+      "missing_runs": 0,
+      "first_seen_at": "2026-08-10T16:57:20.084Z",
+      "last_seen_at": "2026-08-10T16:57:20.084Z",
+      "notified_at": "2026-08-10T16:57:20.084Z"
     },
     {
       "title": "Strategic Partner in Personal Banking Office",
@@ -148,44 +222,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-08-09T16:40:24.091Z",
-      "last_seen_at": "2026-08-09T16:40:24.091Z",
-      "notified_at": "2026-08-09T16:40:24.091Z"
-    },
-    {
-      "title": "Strategic Partner in Personal Banking Office",
-      "company": "Nordea",
-      "company_id": "nordea",
-      "apply_url": "https://careers.nordea.com/job/Oslo-Strategic-Partner-in-Personal-Banking-Office-0368/1421662533/",
-      "source_url": "https://careers.nordea.com/job/Oslo-Strategic-Partner-in-Personal-Banking-Office-0368/1421662533/",
-      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile // View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Strategic Partner in Personal Banking Office Oslo, NO, 0368 Stockholm, SE, 111 46 Helsinki, FI, 00500 #job-location.job-location-inline { display: inline; }",
-      "location_type": "unknown",
-      "team": "",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Oslo Strategic Partner in Personal Banking Office, 0368",
-      "area_tags": [
-        "market_risk",
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 68,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:nordea",
-      "discovered_at": "2026-08-09T16:40:24.091Z",
-      "id": "nordea_9e8dd164db11ac1390ec7b3c",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 10,
-        "area_preference_bonus": 27,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-08-09T16:40:24.091Z",
       "last_seen_at": "2026-08-09T16:40:24.091Z",
       "notified_at": "2026-08-09T16:40:24.091Z"
@@ -222,121 +259,10 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-08-09T16:40:24.091Z",
       "last_seen_at": "2026-08-09T16:40:24.091Z",
       "notified_at": "2026-08-09T16:40:24.091Z"
-    },
-    {
-      "title": "Strategic Partner in Personal Banking Office",
-      "company": "Nordea",
-      "company_id": "nordea",
-      "apply_url": "https://careers.nordea.com/job/Oslo-Strategic-Partner-in-Personal-Banking-Office-0368/1421662533/?feedId=451033&amp;utm_source=CareerSite",
-      "source_url": "https://careers.nordea.com/job/Oslo-Strategic-Partner-in-Personal-Banking-Office-0368/1421662533/?feedId=451033&amp;utm_source=CareerSite",
-      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile // View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Strategic Partner in Personal Banking Office Oslo, NO, 0368 Helsinki, FI, 00500 Stockholm, SE, 111 46 #job-location.job-location-inline { display: inline; }",
-      "location_type": "unknown",
-      "team": "",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Oslo Strategic Partner in Personal Banking Office, 0368",
-      "area_tags": [
-        "market_risk",
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 68,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:nordea",
-      "discovered_at": "2026-08-07T16:57:05.896Z",
-      "id": "nordea_9fe98114fdd4d45179bc2227",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 10,
-        "area_preference_bonus": 27,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-08-07T16:57:05.896Z",
-      "last_seen_at": "2026-08-07T16:57:05.896Z",
-      "notified_at": "2026-08-07T16:57:05.896Z"
-    },
-    {
-      "title": "Strategic Partner in Personal Banking Office",
-      "company": "Nordea",
-      "company_id": "nordea",
-      "apply_url": "https://careers.nordea.com/job/Oslo-Strategic-Partner-in-Personal-Banking-Office-0368/1421662533/",
-      "source_url": "https://careers.nordea.com/job/Oslo-Strategic-Partner-in-Personal-Banking-Office-0368/1421662533/",
-      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile // View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Strategic Partner in Personal Banking Office Oslo, NO, 0368 Helsinki, FI, 00500 Stockholm, SE, 111 46 #job-location.job-location-inline { display: inline; }",
-      "location_type": "unknown",
-      "team": "",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Oslo Strategic Partner in Personal Banking Office, 0368",
-      "area_tags": [
-        "market_risk",
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 68,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:nordea",
-      "discovered_at": "2026-08-07T16:57:05.896Z",
-      "id": "nordea_13d9551bc86aa08d6996bbff",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 10,
-        "area_preference_bonus": 27,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-08-07T16:57:05.896Z",
-      "last_seen_at": "2026-08-07T16:57:05.896Z",
-      "notified_at": "2026-08-07T16:57:05.896Z"
-    },
-    {
-      "title": "Growth Strategist, Business Banking Commercial & Digital - Value Proposition & Go-to-Market",
-      "company": "Nordea",
-      "company_id": "nordea",
-      "apply_url": "https://careers.nordea.com/job/K%C3%B8benhavn-S-Growth-Strategist%2C-Business-Banking-Commercial-&amp;-Digital-Value-Proposition-&amp;-Go-to-Market-2300/1410928933/",
-      "source_url": "https://careers.nordea.com/job/K%C3%B8benhavn-S-Growth-Strategist%2C-Business-Banking-Commercial-&amp;-Digital-Value-Proposition-&amp;-Go-to-Market-2300/1410928933/",
-      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile // View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Growth Strategist, Business Banking Commercial & Digital - Value Proposition & Go-to-Market København S, DK, 2300 Oslo, NO, 0368 Stockholm, SE, 111 44 Helsinki, FI, 00500 #job-location.job-location-inline { display: inline; }",
-      "location_type": "unknown",
-      "team": "",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "København S Growth Strategist, Business Banking Commercial & Digital - Value Proposition & Go-to-Market, 2300",
-      "area_tags": [
-        "market_risk",
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 68,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:nordea",
-      "discovered_at": "2026-08-07T16:57:05.896Z",
-      "id": "nordea_8ee2a7b8e8b87183730b560f",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 10,
-        "area_preference_bonus": 27,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-08-07T16:57:05.896Z",
-      "last_seen_at": "2026-08-07T16:57:05.896Z",
-      "notified_at": "2026-08-07T16:57:05.896Z"
     },
     {
       "title": "Internal Auditor – Financial risks and models",
@@ -360,7 +286,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-08-09T16:40:24.091Z",
+      "discovered_at": "2026-08-10T16:57:20.084Z",
       "id": "swedbank_af5d1f4742982b36a7433c72",
       "profile_score_breakdown": {
         "company_preference_bonus": 7,
@@ -372,7 +298,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-08-07T16:57:05.896Z",
-      "last_seen_at": "2026-08-09T16:40:24.091Z",
+      "last_seen_at": "2026-08-10T16:57:20.084Z",
       "notified_at": "2026-08-07T16:57:05.896Z"
     },
     {
@@ -407,47 +333,10 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-08-08T16:38:09.210Z",
       "last_seen_at": "2026-08-08T16:38:09.210Z",
       "notified_at": "2026-08-08T16:38:09.210Z"
-    },
-    {
-      "company": "Pareto Securities",
-      "company_id": "pareto_securities",
-      "title": "Open Application - Sweden",
-      "apply_url": "https://paretosecurities.teamtailor.com/jobs/3713025-open-application-sweden",
-      "source_url": "https://paretosecurities.teamtailor.com/jobs/3713025-open-application-sweden",
-      "location": "Stockholm",
-      "location_type": "onsite",
-      "team": "Investment Banking (open application) / Internship",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "General open application for early-career candidates in Stockholm. Pareto invites students and recent graduates with strong analytical skills and interest in finance for potential internships or junior roles across Investment Banking, Research and Sales.",
-      "area_tags": [
-        "research",
-        "analytics"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 56,
-      "why_relevant": "Official Stockholm open application for internships/junior placements in investment banking/research — junior-friendly and on the company ATS.",
-      "confidence": 0.78,
-      "discovery_method": "openai:web_search",
-      "discovered_at": "2026-08-07T16:57:05.896Z",
-      "id": "pareto_securities_70b3bf2c875283edee21da69",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 6,
-        "area_preference_bonus": 18,
-        "profile_keyword_bonus": 7,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-08-07T16:57:05.896Z",
-      "last_seen_at": "2026-08-07T16:57:05.896Z",
-      "notified_at": "2026-08-07T16:57:05.896Z"
     },
     {
       "title": "Regelefterlevnadsansvarig - Avanza Fonder",
@@ -470,7 +359,7 @@
       "why_relevant": "",
       "confidence": 0.75,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-08-09T16:40:24.091Z",
+      "discovered_at": "2026-08-10T16:57:20.084Z",
       "id": "avanza_0471be90515bb440dd160d1d",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -482,7 +371,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-06-30T16:48:18.749Z",
-      "last_seen_at": "2026-08-09T16:40:24.091Z",
+      "last_seen_at": "2026-08-10T16:57:20.084Z",
       "notified_at": "2026-06-30T16:48:18.749Z"
     },
     {
@@ -506,7 +395,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-08-09T16:40:24.091Z",
+      "discovered_at": "2026-08-10T16:57:20.084Z",
       "id": "nordnet_3f17ad21ac4f68438ab19640",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -518,7 +407,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-06-26T16:46:26.441Z",
-      "last_seen_at": "2026-08-09T16:40:24.091Z",
+      "last_seen_at": "2026-08-10T16:57:20.084Z",
       "notified_at": "2026-06-26T16:46:26.441Z"
     },
     {
@@ -542,7 +431,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-08-09T16:40:24.091Z",
+      "discovered_at": "2026-08-10T16:57:20.084Z",
       "id": "nordnet_52db042967f942a01b6dba66",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -554,7 +443,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-08-09T16:40:24.091Z",
+      "last_seen_at": "2026-08-10T16:57:20.084Z",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
     {
@@ -578,7 +467,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-08-09T16:40:24.091Z",
+      "discovered_at": "2026-08-10T16:57:20.084Z",
       "id": "nordnet_9724cc910af8f5b42d1b5421",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -590,7 +479,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-08-09T16:40:24.091Z",
+      "last_seen_at": "2026-08-10T16:57:20.084Z",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
     {
@@ -614,7 +503,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-08-09T16:40:24.091Z",
+      "discovered_at": "2026-08-10T16:57:20.084Z",
       "id": "nordnet_b8fa8c40fc80d96f05aa2272",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -626,7 +515,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-06-25T16:52:51.929Z",
-      "last_seen_at": "2026-08-09T16:40:24.091Z",
+      "last_seen_at": "2026-08-10T16:57:20.084Z",
       "notified_at": "2026-06-25T16:52:51.929Z"
     },
     {
@@ -650,7 +539,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-08-09T16:40:24.091Z",
+      "discovered_at": "2026-08-10T16:57:20.084Z",
       "id": "swedbank_59530701393b7a9bc8f1add1",
       "profile_score_breakdown": {
         "company_preference_bonus": 7,
@@ -662,7 +551,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-08-07T16:57:05.896Z",
-      "last_seen_at": "2026-08-09T16:40:24.091Z",
+      "last_seen_at": "2026-08-10T16:57:20.084Z",
       "notified_at": "2026-08-07T16:57:05.896Z"
     }
   ]
