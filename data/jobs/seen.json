@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T16:57:20.084Z",
+  "updated_at": "2026-08-12T16:59:52.385Z",
   "jobs": {
     "nordea_96329aec09a934eb64f8c6c7": {
       "id": "nordea_96329aec09a934eb64f8c6c7",
@@ -1127,7 +1127,7 @@
       "title": "Software Engineer - Engineering Productivity / AI",
       "apply_url": "https://career.nordnetab.com/jobs/5809031-software-engineer-engineering-productivity-ai",
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-08-10T16:57:20.084Z",
+      "last_seen_at": "2026-08-12T16:59:52.385Z",
       "last_status": "active",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
@@ -1137,7 +1137,7 @@
       "title": "Software Engineer",
       "apply_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-08-10T16:57:20.084Z",
+      "last_seen_at": "2026-08-12T16:59:52.385Z",
       "last_status": "active",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
@@ -1927,7 +1927,7 @@
       "title": "Mobile App Platform Engineer",
       "apply_url": "https://career.nordnetab.com/jobs/5923098-mobile-app-platform-engineer",
       "first_seen_at": "2026-06-25T16:52:51.929Z",
-      "last_seen_at": "2026-08-10T16:57:20.084Z",
+      "last_seen_at": "2026-08-12T16:59:52.385Z",
       "last_status": "active",
       "notified_at": "2026-06-25T16:52:51.929Z"
     },
@@ -1937,7 +1937,7 @@
       "title": "Cloud Security Engineer",
       "apply_url": "https://career.nordnetab.com/jobs/7978516-cloud-security-engineer",
       "first_seen_at": "2026-06-26T16:46:26.441Z",
-      "last_seen_at": "2026-08-10T16:57:20.084Z",
+      "last_seen_at": "2026-08-12T16:59:52.385Z",
       "last_status": "active",
       "notified_at": "2026-06-26T16:46:26.441Z"
     },
@@ -1967,7 +1967,7 @@
       "title": "Regelefterlevnadsansvarig - Avanza Fonder",
       "apply_url": "https://career.avanza.se/jobs/7881005-regelefterlevnadsansvarig-avanza-fonder",
       "first_seen_at": "2026-06-30T16:48:18.749Z",
-      "last_seen_at": "2026-08-10T16:57:20.084Z",
+      "last_seen_at": "2026-08-12T16:59:52.385Z",
       "last_status": "active",
       "notified_at": "2026-06-30T16:48:18.749Z"
     },
@@ -2068,7 +2068,7 @@
       "apply_url": "https://nasdaq.wd1.myworkdayjobs.com/global_external_site/job/Stockholm---Zenit/Student-worker-in-Exchange-Services_R0026012",
       "first_seen_at": "2026-08-08T16:38:09.210Z",
       "last_seen_at": "2026-08-08T16:38:09.210Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-08-08T16:38:09.210Z"
     },
     "nasdaq_stockholm_694ab08f2ea48fd621d8182e": {
@@ -2078,7 +2078,7 @@
       "apply_url": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/Student-Analyst---Market-Statistics_R0026010-1",
       "first_seen_at": "2026-08-08T16:38:09.210Z",
       "last_seen_at": "2026-08-08T16:38:09.210Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-08-08T16:38:09.210Z"
     },
     "nasdaq_stockholm_a25dd28ff37d2fff82b9cae1": {
@@ -2088,7 +2088,7 @@
       "apply_url": "https://nasdaq.wd1.myworkdayjobs.com/fr-CA/Global_External_Site/job/Student-Worker-to-Nasdaq-Nordic-Listings-Team_R0025852",
       "first_seen_at": "2026-08-08T16:38:09.210Z",
       "last_seen_at": "2026-08-08T16:38:09.210Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-08-08T16:38:09.210Z"
     },
     "nordea_e36678fe0598fc051fef798b": {
@@ -2107,7 +2107,7 @@
       "title": "Strategic Partner in Personal Banking Office",
       "apply_url": "https://careers.nordea.com/job/Oslo-Strategic-Partner-in-Personal-Banking-Office-0368/1421662533/",
       "first_seen_at": "2026-08-09T16:40:24.091Z",
-      "last_seen_at": "2026-08-10T16:57:20.084Z",
+      "last_seen_at": "2026-08-12T16:59:52.385Z",
       "last_status": "active",
       "notified_at": "2026-08-09T16:40:24.091Z"
     },
@@ -2130,6 +2130,36 @@
       "last_seen_at": "2026-08-10T16:57:20.084Z",
       "last_status": "active",
       "notified_at": "2026-08-10T16:57:20.084Z"
+    },
+    "nordea_42c3ff844ca4a36892e46ead": {
+      "id": "nordea_42c3ff844ca4a36892e46ead",
+      "company": "Nordea",
+      "title": "Financial Adviser under education",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-Financial-Adviser-under-education-111-46/1425250633/",
+      "first_seen_at": "2026-08-12T16:59:52.385Z",
+      "last_seen_at": "2026-08-12T16:59:52.385Z",
+      "last_status": "active",
+      "notified_at": "2026-08-12T16:59:52.385Z"
+    },
+    "nordea_2f333e3a075f67a3fb1b6888": {
+      "id": "nordea_2f333e3a075f67a3fb1b6888",
+      "company": "Nordea",
+      "title": "Growth Strategist, Business Banking Commercial & Digital - Value Proposition & Go-to-Market",
+      "apply_url": "https://careers.nordea.com/job/K%C3%B8benhavn-S-Growth-Strategist%2C-Business-Banking-Commercial-&amp;-Digital-Value-Proposition-&amp;-Go-to-Market-2300/1410928933/",
+      "first_seen_at": "2026-08-12T16:59:52.385Z",
+      "last_seen_at": "2026-08-12T16:59:52.385Z",
+      "last_status": "active",
+      "notified_at": "2026-08-12T16:59:52.385Z"
+    },
+    "avanza_e74271d7724ce6e3a1b877e1": {
+      "id": "avanza_e74271d7724ce6e3a1b877e1",
+      "company": "Avanza",
+      "title": "Backoffice Administrator - Mutual Funds",
+      "apply_url": "https://career.avanza.se/jobs/8198477-backoffice-administrator-mutual-funds",
+      "first_seen_at": "2026-08-12T16:59:52.385Z",
+      "last_seen_at": "2026-08-12T16:59:52.385Z",
+      "last_status": "active",
+      "notified_at": "2026-08-12T16:59:52.385Z"
     }
   }
 }
