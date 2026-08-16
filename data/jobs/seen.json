@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T16:29:17.472Z",
+  "updated_at": "2026-08-16T16:29:49.116Z",
   "jobs": {
     "nordea_96329aec09a934eb64f8c6c7": {
       "id": "nordea_96329aec09a934eb64f8c6c7",
@@ -1127,7 +1127,7 @@
       "title": "Software Engineer - Engineering Productivity / AI",
       "apply_url": "https://career.nordnetab.com/jobs/5809031-software-engineer-engineering-productivity-ai",
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-08-15T16:29:17.472Z",
+      "last_seen_at": "2026-08-16T16:29:49.116Z",
       "last_status": "active",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
@@ -1137,7 +1137,7 @@
       "title": "Software Engineer",
       "apply_url": "https://career.nordnetab.com/jobs/3463710-software-engineer",
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-08-15T16:29:17.472Z",
+      "last_seen_at": "2026-08-16T16:29:49.116Z",
       "last_status": "active",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
@@ -1168,7 +1168,7 @@
       "apply_url": "https://paretosecurities.teamtailor.com/jobs/3713025-open-application-sweden",
       "first_seen_at": "2026-05-03T16:21:45.173Z",
       "last_seen_at": "2026-08-13T16:59:43.199Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-05-03T16:21:45.173Z"
     },
     "nordea_4820c3db91b1a39f535ff06a": {
@@ -1927,7 +1927,7 @@
       "title": "Mobile App Platform Engineer",
       "apply_url": "https://career.nordnetab.com/jobs/5923098-mobile-app-platform-engineer",
       "first_seen_at": "2026-06-25T16:52:51.929Z",
-      "last_seen_at": "2026-08-15T16:29:17.472Z",
+      "last_seen_at": "2026-08-16T16:29:49.116Z",
       "last_status": "active",
       "notified_at": "2026-06-25T16:52:51.929Z"
     },
@@ -1937,7 +1937,7 @@
       "title": "Cloud Security Engineer",
       "apply_url": "https://career.nordnetab.com/jobs/7978516-cloud-security-engineer",
       "first_seen_at": "2026-06-26T16:46:26.441Z",
-      "last_seen_at": "2026-08-15T16:29:17.472Z",
+      "last_seen_at": "2026-08-16T16:29:49.116Z",
       "last_status": "active",
       "notified_at": "2026-06-26T16:46:26.441Z"
     },
@@ -2107,7 +2107,7 @@
       "title": "Strategic Partner in Personal Banking Office",
       "apply_url": "https://careers.nordea.com/job/Oslo-Strategic-Partner-in-Personal-Banking-Office-0368/1421662533/",
       "first_seen_at": "2026-08-09T16:40:24.091Z",
-      "last_seen_at": "2026-08-15T16:29:17.472Z",
+      "last_seen_at": "2026-08-16T16:29:49.116Z",
       "last_status": "active",
       "notified_at": "2026-08-09T16:40:24.091Z"
     },
@@ -2137,7 +2137,7 @@
       "title": "Financial Adviser under education",
       "apply_url": "https://careers.nordea.com/job/Stockholm-Financial-Adviser-under-education-111-46/1425250633/",
       "first_seen_at": "2026-08-12T16:59:52.385Z",
-      "last_seen_at": "2026-08-15T16:29:17.472Z",
+      "last_seen_at": "2026-08-16T16:29:49.116Z",
       "last_status": "active",
       "notified_at": "2026-08-12T16:59:52.385Z"
     },
@@ -2157,7 +2157,7 @@
       "title": "Backoffice Administrator - Mutual Funds",
       "apply_url": "https://career.avanza.se/jobs/8198477-backoffice-administrator-mutual-funds",
       "first_seen_at": "2026-08-12T16:59:52.385Z",
-      "last_seen_at": "2026-08-15T16:29:17.472Z",
+      "last_seen_at": "2026-08-16T16:29:49.116Z",
       "last_status": "active",
       "notified_at": "2026-08-12T16:59:52.385Z"
     },
@@ -2168,7 +2168,7 @@
       "apply_url": "https://careers.nordea.com/job/K%C3%B8benhavn-S-Growth-Strategist%2C-Business-Banking-Commercial-&amp;-Digital-Value-Proposition-&amp;-Go-to-Market-2300/1410928933/",
       "first_seen_at": "2026-08-13T16:59:43.199Z",
       "last_seen_at": "2026-08-13T16:59:43.199Z",
-      "last_status": "active",
+      "last_status": "stale",
       "notified_at": "2026-08-13T16:59:43.199Z"
     },
     "swedbank_9328539c3c45249b09c888d7": {
@@ -2177,7 +2177,7 @@
       "title": "Företagsrådgivare Kungsängenkontoret",
       "apply_url": "https://jobs.swedbank.com/jobs/27570-foretagsradgivare-kungsangenkontoret",
       "first_seen_at": "2026-08-13T16:59:43.199Z",
-      "last_seen_at": "2026-08-15T16:29:17.472Z",
+      "last_seen_at": "2026-08-16T16:29:49.116Z",
       "last_status": "active",
       "notified_at": "2026-08-13T16:59:43.199Z"
     },
@@ -2187,7 +2187,7 @@
       "title": "Client Advisor Generalist",
       "apply_url": "https://jobs.swedbank.com/jobs/27562-client-advisor-generalist",
       "first_seen_at": "2026-08-13T16:59:43.199Z",
-      "last_seen_at": "2026-08-15T16:29:17.472Z",
+      "last_seen_at": "2026-08-16T16:29:49.116Z",
       "last_status": "active",
       "notified_at": "2026-08-13T16:59:43.199Z"
     },
@@ -2197,7 +2197,7 @@
       "title": "Growth Strategist, Business Banking Commercial & Digital - Value Proposition & Go-to-Market",
       "apply_url": "https://careers.nordea.com/job/K%C3%B8benhavn-S-Growth-Strategist%2C-Business-Banking-Commercial-&amp;-Digital-Value-Proposition-&amp;-Go-to-Market-2300/1410928933/",
       "first_seen_at": "2026-08-15T16:29:17.472Z",
-      "last_seen_at": "2026-08-15T16:29:17.472Z",
+      "last_seen_at": "2026-08-16T16:29:49.116Z",
       "last_status": "active",
       "notified_at": "2026-08-15T16:29:17.472Z"
     }
