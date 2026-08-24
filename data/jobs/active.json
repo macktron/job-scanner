@@ -1,43 +1,6 @@
 {
-  "updated_at": "2026-08-23T16:30:49.779Z",
+  "updated_at": "2026-08-24T16:42:24.705Z",
   "jobs": [
-    {
-      "company": "DNB Carnegie",
-      "company_id": "dnb_carnegie",
-      "title": "Investment Banking Internship VT 2027",
-      "apply_url": "https://jobs.carnegie.se/talentcommunity/apply/1428540433/?locale=en_GB",
-      "source_url": "https://jobs.carnegie.se/job/Stockholm-Investment-Banking-Internship-VT-2027-103-38/1428540433/",
-      "location": "Stockholm (Regeringsgatan)",
-      "location_type": "onsite",
-      "team": "Investment Banking",
-      "posted_at": null,
-      "expires_at": "2026-09-13",
-      "summary": "10-week full-time internship in DNB Carnegie's Investment Banking team in central Stockholm (M&A, ECM, DCM). Designed for students (≥3 completed terms) with strong academics; mentorship and exposure to live transactions.",
-      "area_tags": [
-        "research",
-        "analytics"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 100,
-      "why_relevant": "Junior internship in Stockholm within Investment Banking providing hands-on exposure to transactions and financial analysis — fits junior finance/research/analytics profiles.",
-      "confidence": 0.9,
-      "discovery_method": "openai:web_search",
-      "discovered_at": "2026-08-21T16:38:50.522Z",
-      "id": "dnb_carnegie_615c26dc8bec6c53c54f43b5",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 7,
-        "area_preference_bonus": 18,
-        "profile_keyword_bonus": 7,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-08-21T16:38:50.522Z",
-      "last_seen_at": "2026-08-21T16:38:50.522Z",
-      "notified_at": "2026-08-21T16:38:50.522Z"
-    },
     {
       "company": "Lynx Asset Management",
       "company_id": "lynx_asset_management",
@@ -73,7 +36,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-08-22T16:29:06.851Z",
       "last_seen_at": "2026-08-22T16:29:06.851Z",
       "notified_at": "2026-08-22T16:29:06.851Z"
@@ -111,7 +74,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-08-22T16:29:06.851Z",
       "last_seen_at": "2026-08-22T16:29:06.851Z",
       "notified_at": "2026-08-22T16:29:06.851Z"
@@ -150,7 +113,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-08-22T16:29:06.851Z",
       "last_seen_at": "2026-08-22T16:29:06.851Z",
       "notified_at": "2026-08-22T16:29:06.851Z"
@@ -188,7 +151,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-08-22T16:29:06.851Z",
       "last_seen_at": "2026-08-22T16:29:06.851Z",
       "notified_at": "2026-08-22T16:29:06.851Z"
@@ -228,49 +191,10 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-08-07T16:57:05.896Z",
       "last_seen_at": "2026-08-23T16:30:49.779Z",
       "notified_at": "2026-08-07T16:57:05.896Z"
-    },
-    {
-      "company": "Pareto Securities",
-      "company_id": "pareto_securities",
-      "title": "Open Application Sweden",
-      "apply_url": "https://paretosecurities.teamtailor.com/jobs/3713025-open-application-sweden",
-      "source_url": "https://paretosecurities.teamtailor.com/jobs/3713025-open-application-sweden",
-      "location": "Stockholm",
-      "location_type": "onsite",
-      "team": "General / Investment Banking (open application for Sweden)",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "General open application for roles in Sweden (Stockholm). Seeks analytically strong candidates with interest in capital markets; suitable for students and early-career applicants. Qualifications list includes analytical mindset, good academics, Swedish & English proficiency.",
-      "area_tags": [
-        "research",
-        "sales_trading",
-        "trading",
-        "analytics"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 100,
-      "why_relevant": "Official Teamtailor open application for Pareto's Sweden office (Stockholm); junior-friendly and aimed at entry-level / internship applicants across investment banking, research and trading functions.",
-      "confidence": 0.75,
-      "discovery_method": "openai:web_search",
-      "discovered_at": "2026-08-21T16:38:50.522Z",
-      "id": "pareto_securities_ba48131c450cee9422282ece",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 6,
-        "area_preference_bonus": 50,
-        "profile_keyword_bonus": 17,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-04-13T16:34:12.614Z",
-      "last_seen_at": "2026-08-21T16:38:50.522Z",
-      "notified_at": "2026-04-13T16:34:12.614Z"
     },
     {
       "company": "DNB Carnegie",
@@ -304,47 +228,10 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-08-22T16:29:06.851Z",
       "last_seen_at": "2026-08-22T16:29:06.851Z",
       "notified_at": "2026-08-22T16:29:06.851Z"
-    },
-    {
-      "title": "Rates Sales - SEK Focus",
-      "company": "Nordea",
-      "company_id": "nordea",
-      "apply_url": "https://careers.nordea.com/job/Stockholm-Rates-Sales-SEK-Focus-111-46/1428187033/",
-      "source_url": "https://careers.nordea.com/job/Stockholm-Rates-Sales-SEK-Focus-111-46/1428187033/",
-      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile // View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Rates Sales - SEK Focus Stockholm, SE, 111 46 #job-location.job-location-inline { display: inline; }",
-      "location_type": "unknown",
-      "team": "SEK Rates",
-      "posted_at": null,
-      "expires_at": null,
-      "summary": "Stockholm Rates Sales - SEK Focus, 111 46",
-      "area_tags": [
-        "market_risk",
-        "data_science"
-      ],
-      "stockholm_match": true,
-      "finance_match": true,
-      "relevance_score": 68,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:nordea",
-      "discovered_at": "2026-08-23T16:30:49.779Z",
-      "id": "nordea_c73e9c126c6779d015f800a2",
-      "profile_score_breakdown": {
-        "company_preference_bonus": 10,
-        "area_preference_bonus": 27,
-        "profile_keyword_bonus": 0,
-        "negative_keyword_penalty": 0
-      },
-      "matches_minimum_score": true,
-      "status": "active",
-      "missing_runs": 0,
-      "first_seen_at": "2026-08-20T16:38:59.123Z",
-      "last_seen_at": "2026-08-23T16:30:49.779Z",
-      "notified_at": "2026-08-20T16:38:59.123Z"
     },
     {
       "title": "Fullstackutvecklare till Nordea Liv & Pension Sverige",
@@ -368,7 +255,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:nordea",
-      "discovered_at": "2026-08-23T16:30:49.779Z",
+      "discovered_at": "2026-08-24T16:42:24.705Z",
       "id": "nordea_20c0263b5923a3bdffc0eb4a",
       "profile_score_breakdown": {
         "company_preference_bonus": 10,
@@ -380,7 +267,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-08-17T16:31:59.037Z",
-      "last_seen_at": "2026-08-23T16:30:49.779Z",
+      "last_seen_at": "2026-08-24T16:42:24.705Z",
       "notified_at": "2026-08-17T16:31:59.037Z"
     },
     {
@@ -405,7 +292,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:nordea",
-      "discovered_at": "2026-08-23T16:30:49.779Z",
+      "discovered_at": "2026-08-24T16:42:24.705Z",
       "id": "nordea_42c3ff844ca4a36892e46ead",
       "profile_score_breakdown": {
         "company_preference_bonus": 10,
@@ -417,8 +304,45 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-08-12T16:59:52.385Z",
-      "last_seen_at": "2026-08-23T16:30:49.779Z",
+      "last_seen_at": "2026-08-24T16:42:24.705Z",
       "notified_at": "2026-08-12T16:59:52.385Z"
+    },
+    {
+      "title": "Rates Sales - SEK Focus",
+      "company": "Nordea",
+      "company_id": "nordea",
+      "apply_url": "https://careers.nordea.com/job/Stockholm-Rates-Sales-SEK-Focus-111-46/1428187033/",
+      "source_url": "https://careers.nordea.com/job/Stockholm-Rates-Sales-SEK-Focus-111-46/1428187033/",
+      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile // View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Rates Sales - SEK Focus Stockholm, SE, 111 46 #job-location.job-location-inline { display: inline; }",
+      "location_type": "unknown",
+      "team": "SEK Rates",
+      "posted_at": null,
+      "expires_at": null,
+      "summary": "Stockholm Rates Sales - SEK Focus, 111 46",
+      "area_tags": [
+        "market_risk",
+        "data_science"
+      ],
+      "stockholm_match": true,
+      "finance_match": true,
+      "relevance_score": 68,
+      "why_relevant": "",
+      "confidence": 0.55,
+      "discovery_method": "direct:nordea",
+      "discovered_at": "2026-08-24T16:42:24.705Z",
+      "id": "nordea_c73e9c126c6779d015f800a2",
+      "profile_score_breakdown": {
+        "company_preference_bonus": 10,
+        "area_preference_bonus": 27,
+        "profile_keyword_bonus": 0,
+        "negative_keyword_penalty": 0
+      },
+      "matches_minimum_score": true,
+      "status": "active",
+      "missing_runs": 0,
+      "first_seen_at": "2026-08-20T16:38:59.123Z",
+      "last_seen_at": "2026-08-24T16:42:24.705Z",
+      "notified_at": "2026-08-20T16:38:59.123Z"
     },
     {
       "title": "Growth Strategist, Business Banking Commercial & Digital - Value Proposition & Go-to-Market",
@@ -452,7 +376,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-08-12T16:59:52.385Z",
       "last_seen_at": "2026-08-23T16:30:49.779Z",
       "notified_at": "2026-08-12T16:59:52.385Z"
@@ -489,47 +413,47 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "first_seen_at": "2026-08-09T16:40:24.091Z",
       "last_seen_at": "2026-08-22T16:29:06.851Z",
       "notified_at": "2026-08-09T16:40:24.091Z"
     },
     {
-      "title": "Growth Strategist, Business Banking Commercial & Digital - Value Proposition & Go-to-Market",
-      "company": "Nordea",
-      "company_id": "nordea",
-      "apply_url": "https://careers.nordea.com/job/K%C3%B8benhavn-S-Growth-Strategist%2C-Business-Banking-Commercial-&amp;-Digital-Value-Proposition-&amp;-Go-to-Market-2300/1410928933/",
-      "source_url": "https://careers.nordea.com/job/K%C3%B8benhavn-S-Growth-Strategist%2C-Business-Banking-Commercial-&amp;-Digital-Value-Proposition-&amp;-Go-to-Market-2300/1410928933/",
-      "location": "Job Details | nordeabank body{display:none !important;} if (self === top) { var antiClickjack = document.getElementById(\"antiClickjack\"); antiClickjack.parentNode.removeChild(antiClickjack); } else { top.location = self.location; } By continuing to use and navigate this website, you are agreeing to the use of cookies. Accept Close // Skip to main content Language English (United Kingdom) English (United States) View Profile // View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Join talent community FIØ and FIB internship programs Language English (United Kingdom) English (United States) View Profile View all jobs Our locations Grow with us Our culture A diverse community Search by Keyword Show More Options Loading... Custom Field 2 All Clear Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Apply now » Growth Strategist, Business Banking Commercial & Digital - Value Proposition & Go-to-Market København S, DK, 2300 Oslo, NO, 0368 Helsinki, FI, 00500 Stockholm, SE, 111 44 #job-location.job-location-inline { display: inline; }",
-      "location_type": "unknown",
-      "team": "",
+      "company": "DNB Carnegie",
+      "company_id": "dnb_carnegie",
+      "title": "Investment Banking Internship VT 2027",
+      "apply_url": "https://jobs.carnegie.se/job/Stockholm-Investment-Banking-Internship-VT-2027-103-38/1428540433/",
+      "source_url": "https://jobs.carnegie.se/job/Stockholm-Investment-Banking-Internship-VT-2027-103-38/1428540433/",
+      "location": "Stockholm, SE (Regeringsgatan / SE-103 38)",
+      "location_type": "onsite",
+      "team": "Investment Banking",
       "posted_at": null,
-      "expires_at": null,
-      "summary": "København S Growth Strategist, Business Banking Commercial & Digital - Value Proposition & Go-to-Market, 2300",
+      "expires_at": "2026-09-13",
+      "summary": "Ten-week Investment Banking internship in central Stockholm (multiple periods available) offering hands-on work on M&A, ECM and DCM transactions. Targeted at motivated students with strong academics (at least three completed terms) and good English; prior internship experience is meritorious. Application deadline: 2026-09-13.",
       "area_tags": [
-        "market_risk",
-        "data_science"
+        "analytics",
+        "research"
       ],
       "stockholm_match": true,
       "finance_match": true,
-      "relevance_score": 68,
-      "why_relevant": "",
-      "confidence": 0.55,
-      "discovery_method": "direct:nordea",
-      "discovered_at": "2026-08-21T16:38:50.522Z",
-      "id": "nordea_43da1d37aa55965495f4e03e",
+      "relevance_score": 63,
+      "why_relevant": "Junior internship in a markets-facing investment banking team—provides modelling, deal execution and market exposure suitable for early-career finance candidates.",
+      "confidence": 0.9,
+      "discovery_method": "openai:web_search",
+      "discovered_at": "2026-08-24T16:42:24.705Z",
+      "id": "dnb_carnegie_0cd2f3c906ab428e642bcf21",
       "profile_score_breakdown": {
-        "company_preference_bonus": 10,
-        "area_preference_bonus": 27,
-        "profile_keyword_bonus": 0,
+        "company_preference_bonus": 7,
+        "area_preference_bonus": 18,
+        "profile_keyword_bonus": 7,
         "negative_keyword_penalty": 0
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 2,
-      "first_seen_at": "2026-08-13T16:59:43.199Z",
-      "last_seen_at": "2026-08-21T16:38:50.522Z",
-      "notified_at": "2026-08-13T16:59:43.199Z"
+      "missing_runs": 0,
+      "first_seen_at": "2026-08-24T16:42:24.705Z",
+      "last_seen_at": "2026-08-24T16:42:24.705Z",
+      "notified_at": "2026-08-24T16:42:24.705Z"
     },
     {
       "company": "DNB Carnegie",
@@ -563,7 +487,7 @@
       },
       "matches_minimum_score": true,
       "status": "active",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "first_seen_at": "2026-08-23T16:30:49.779Z",
       "last_seen_at": "2026-08-23T16:30:49.779Z",
       "notified_at": "2026-08-23T16:30:49.779Z"
@@ -589,7 +513,7 @@
       "why_relevant": "",
       "confidence": 0.75,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-08-23T16:30:49.779Z",
+      "discovered_at": "2026-08-24T16:42:24.705Z",
       "id": "avanza_e74271d7724ce6e3a1b877e1",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -601,7 +525,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-08-12T16:59:52.385Z",
-      "last_seen_at": "2026-08-23T16:30:49.779Z",
+      "last_seen_at": "2026-08-24T16:42:24.705Z",
       "notified_at": "2026-08-12T16:59:52.385Z"
     },
     {
@@ -625,7 +549,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-08-23T16:30:49.779Z",
+      "discovered_at": "2026-08-24T16:42:24.705Z",
       "id": "nordnet_3f17ad21ac4f68438ab19640",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -637,7 +561,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-06-26T16:46:26.441Z",
-      "last_seen_at": "2026-08-23T16:30:49.779Z",
+      "last_seen_at": "2026-08-24T16:42:24.705Z",
       "notified_at": "2026-06-26T16:46:26.441Z"
     },
     {
@@ -661,7 +585,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-08-23T16:30:49.779Z",
+      "discovered_at": "2026-08-24T16:42:24.705Z",
       "id": "nordnet_52db042967f942a01b6dba66",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -673,7 +597,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-08-23T16:30:49.779Z",
+      "last_seen_at": "2026-08-24T16:42:24.705Z",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
     {
@@ -697,7 +621,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-08-23T16:30:49.779Z",
+      "discovered_at": "2026-08-24T16:42:24.705Z",
       "id": "nordnet_9724cc910af8f5b42d1b5421",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -709,7 +633,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-04-28T16:42:27.094Z",
-      "last_seen_at": "2026-08-23T16:30:49.779Z",
+      "last_seen_at": "2026-08-24T16:42:24.705Z",
       "notified_at": "2026-04-28T16:42:27.094Z"
     },
     {
@@ -733,7 +657,7 @@
       "why_relevant": "",
       "confidence": 0.55,
       "discovery_method": "direct:teamtailor",
-      "discovered_at": "2026-08-23T16:30:49.779Z",
+      "discovered_at": "2026-08-24T16:42:24.705Z",
       "id": "nordnet_b8fa8c40fc80d96f05aa2272",
       "profile_score_breakdown": {
         "company_preference_bonus": 9,
@@ -745,7 +669,7 @@
       "status": "active",
       "missing_runs": 0,
       "first_seen_at": "2026-06-25T16:52:51.929Z",
-      "last_seen_at": "2026-08-23T16:30:49.779Z",
+      "last_seen_at": "2026-08-24T16:42:24.705Z",
       "notified_at": "2026-06-25T16:52:51.929Z"
     }
   ]
